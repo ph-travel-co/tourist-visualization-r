@@ -1,0 +1,5 @@
+install.packages("rvest")
+install.packages("httr")
+install.pakacges("sp")
+install.packages("styler")
+install.packages("gganimate")
