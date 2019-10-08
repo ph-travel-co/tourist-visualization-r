@@ -155,7 +155,7 @@ ph_map <- map_data("world") %>% filter(region == "Philippines")
 ph_cities_data <-
   world.cities %>% filter(country.etc == "Philippines")
 
-ph <- ggplot() +
+ph <- ggplot(data) +
   geom_polygon(
     data = ph_map,
     aes(x = long, y = lat, group = group),
@@ -163,25 +163,35 @@ ph <- ggplot() +
     alpha = 0.3
   ) +
   geom_point(
-    data %>%
-      # filter(year == 2010 & month == "total") %>%
-      group_by(year, month, region, airport) %>%
-      summarize(
-        passenger_count = mean(passenger_count, na.rm = TRUE),
-        longitude = mean(longitude, na.rm = TRUE),
-        latitude = mean(latitude, na.rm = TRUE)
-      ),
+    # %>%
+    #   # filter(year == 2010 & month == "total") %>%
+    #   group_by(year, month, region, airport) %>%
+    #   summarize(
+    #     passenger_count = mean(passenger_count, na.rm = TRUE),
+    #     longitude = mean(longitude, na.rm = TRUE),
+    #     latitude = mean(latitude, na.rm = TRUE),
+    #     airport = airport
+    #   ),
     mapping = aes(
       x = longitude,
       y = latitude,
       color = region,
       size = passenger_count
-    ), alpha = 0.35
+    ),
+    alpha = 0.35
   ) +
+  geom_text(data %>%
+              group_by(airport, longitude, latitude) %>%
+              summarize(),
+            mapping = aes(x = longitude,
+                          y = latitude,
+                          label = airport),
+            size = 3,
+            color = "grey") +
   scale_size(range = c(1, 50)) +
   theme_minimal()
 
 ph
 
-ph + transition_time(year) +
-  labs(title = "Year: {frame_time}")
+# ph + transition_time(year) +
+#   labs(title = "Year: {frame_time}")
