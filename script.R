@@ -97,8 +97,6 @@ apcode$latitude[which(apcode$airport == "Davao")] <-
   coord2dec("07°07′31\"N")
 apcode$longitude[which(apcode$airport == "Davao")] <-
   coord2dec("125°38′45\"E")
-
-
 write.csv(apcode, "data/output/airport_code.csv")
 
 # Join passenger data and airport location data
@@ -128,6 +126,70 @@ data <- left_join(data_passenger, apcode) %>%
     )
   ))
 
+# Data for Country origin tourists
+ctry_arrivals <- data.frame()
+for (i in 4:8) {
+  ctry_arrivals <- bind_rows(
+    ctry_arrivals,
+    paste(
+      "data/country_origin/Arrivals201",
+      i,
+      "_formatted.csv",
+      sep = ""
+    ) %>%
+      read.csv(stringsAsFactors = FALSE) %>%
+      rename(
+        january = JAN,
+        february = FEB,
+        march = MAR,
+        april = APR,
+        may = MAY,
+        june = JUN,
+        july = JUL,
+        august = AUG,
+        september = SEP,
+        october = OCT,
+        november = NOV,
+        december = DEC
+      ) %>%
+      mutate(year = 2010 + i) %>%
+      mutate(
+        region = recode(
+          region,
+          `A F R I C A` = "Africa",
+          `A M E R I C A` = "America",
+          `A S I A` = "Asia",
+          `AUSTRALASIA/PACIFIC` = "Australasia & The Pacific",
+          `E U R O P E` = "Europe",
+          `OTHERS & UNSPECIFIED` = "Others & Unspecified",
+          `T O T A L` = "Total"
+        ) %>%
+          str_replace_all("\\*", "") %>%,
+        subregion = str_to_title(as.character(subregion)) %>%
+          str_replace_all("\\*", "") %>%
+          recode(
+            `A F R I C A` = "Africa",
+            `Asean` = "ASEAN",
+            `Australasia/Pacific` = "Australasia & The Pacific",
+            `T O T A L` = "Total"
+                 ),
+        country = str_to_title(as.character(country))
+      ) %>%
+      mutate_at(
+        .vars = vars(january:december),
+        .funs = function(var) {
+          nocomma <- str_replace_all(var, "\\,", "") %>%
+            as.numeric()
+          return(nocomma)
+        }
+      ) %>%
+      mutate_if(
+        is.character, as.factor
+      )
+  )
+}
+
+
 # Quickly visualize the data
 ggplot(
   data_passenger %>%
@@ -146,9 +208,13 @@ ggplot(
 ) +
   geom_area(aes(fill = region), size = 1)
 
-ggplot(data %>%
-         filter(month != "total")) +
-  geom_point(aes(year, month, size = passenger_count))
+ggplot(
+  data %>%
+    group_by(year, region) %>%
+    summarize(passenger_count = sum(passenger_count, na.rm = TRUE)),
+  aes(year, passenger_count)
+) +
+  geom_area(aes(fill = region), size = 1)
 
 # Generate PH map
 ph_map <- map_data("world") %>% filter(region == "Philippines")
@@ -178,17 +244,18 @@ ph <- ggplot(data) +
       color = region,
       size = passenger_count
     ),
-    alpha = 0.35
+    alpha = 0.25
   ) +
-  geom_text(data %>%
-              group_by(airport, longitude, latitude) %>%
-              summarize(),
-            mapping = aes(x = longitude,
-                          y = latitude,
-                          label = airport),
-            size = 3,
-            color = "grey") +
-  scale_size(range = c(1, 50)) +
+  geom_text(
+    data %>%
+      group_by(airport, longitude, latitude) %>%
+      summarize(),
+    mapping = aes(x = longitude,
+                  y = latitude,
+                  label = airport),
+    size = 3
+  ) +
+  scale_size(range = c(1, 25)) +
   theme_minimal()
 
 ph
