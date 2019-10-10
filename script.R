@@ -6,7 +6,9 @@ library("tidyverse")
 library("ggplot2")
 library("magrittr")
 library("sp")
+# mapping
 library("maps")
+library("mapproj")
 # animation prerequisites
 library("gganimate")
 library("gifski")
@@ -14,6 +16,7 @@ library("png")
 library("transformr")
 
 source("utils.R")
+source("mapShift.R")
 
 passenger <- data.frame()
 for (i in 1:9) {
@@ -100,7 +103,7 @@ apcode$longitude[which(apcode$airport == "Davao")] <-
 write.csv(apcode, "data/output/airport_code.csv")
 
 # Join passenger data and airport location data
-data <- left_join(data_passenger, apcode) %>%
+data_local <- left_join(data_passenger, apcode) %>%
   gather(month, passenger_count, january:total) %>%
   select(year, month, region:longitude, passenger_count) %>%
   mutate(
@@ -108,23 +111,14 @@ data <- left_join(data_passenger, apcode) %>%
     month = as.factor(month),
     passenger_count = as.numeric(passenger_count)
   ) %>%
-  mutate(month = fct_relevel(
-    month,
-    c(
-      "january",
-      "february",
-      "march",
-      "april",
-      "may",
-      "june",
-      "july",
-      "august",
-      "september",
-      "october",
-      "november",
-      "december"
-    )
-  ))
+  mutate(month = fct_relevel_month(month))
+
+data_local_yearly <- data_local %>%
+  group_by(year, region, airport) %>%
+  summarize(passenger_count = sum(passenger_count, na.rm = TRUE))
+
+write.csv(data_local, "data/output/data_local.csv", row.names = FALSE)
+write.csv(data_local_yearly, "data/output/data_local_yearly.csv", row.names = FALSE)
 
 # Data for Country origin tourists
 ctry_arrivals <- data.frame()
@@ -152,7 +146,7 @@ for (i in 4:8) {
         november = NOV,
         december = DEC
       ) %>%
-      mutate(year = 2010 + i) %>%
+      mutate(year = 2010 + i %>% as.integer) %>%
       mutate(
         region = recode(
           region,
@@ -164,16 +158,26 @@ for (i in 4:8) {
           `OTHERS & UNSPECIFIED` = "Others & Unspecified",
           `T O T A L` = "Total"
         ) %>%
-          str_replace_all("\\*", "") %>%,
-        subregion = str_to_title(as.character(subregion)) %>%
-          str_replace_all("\\*", "") %>%
+          as.character %>%
+          str_replace_all("\\*", ""),
+        subregion = as.character(subregion) %>%
+          str_to_title() %>%
           recode(
             `A F R I C A` = "Africa",
             `Asean` = "ASEAN",
             `Australasia/Pacific` = "Australasia & The Pacific",
             `T O T A L` = "Total"
-                 ),
-        country = str_to_title(as.character(country))
+          ) %>%
+          str_replace_all("\\*", ""),
+        country = as.character(country) %>%
+          str_to_title() %>%
+          recode(
+            `Independent States` = "Commonwealth Of Independent States",
+            `T O T A L` = "Total",
+            `Usa` = "USA"
+          ) %>%
+          str_replace_all("\\*", "") %>%
+          as.factor
       ) %>%
       mutate_at(
         .vars = vars(january:december),
@@ -183,11 +187,13 @@ for (i in 4:8) {
           return(nocomma)
         }
       ) %>%
-      mutate_if(
-        is.character, as.factor
-      )
+      select(region:country, year, january:december) %>%
+      gather(month, passenger_count, january:december) %>%
+      mutate(month = fct_relevel_month(month)) %>%
+      mutate_if(is.character, as.factor)
   )
 }
+ctry_arrivals$country <- ctry_arrivals$country %>% as.factor
 
 
 # Quickly visualize the data
@@ -262,3 +268,77 @@ ph
 
 # ph + transition_time(year) +
 #   labs(title = "Year: {frame_time}")
+
+# Visualize Wourld Map Country of Origin of Tourists to the Philippines
+# world_map <- map_data("world2")
+world_map
+world_ctry_cntr <- world.cities %>%
+  rename(country = country.etc) %>%
+  group_by(country) %>%
+  summarize(ctry_cntr_lat = mean(lat),
+            ctry_cntr_long = mean(long) %>% remap_long()) %>%
+  ungroup() %>%
+  mutate(
+    country = recode(
+      country,
+      `UK` = "United Kingdom",
+      `Russia` = "Russian Federation",
+      `Korea South` = "Korea"
+    )
+  )
+
+ctry_arrivals$country[!(ctry_arrivals$country %in% world_ctry_cntr$country)] %>% unique
+ctry_arrivals$country %>% unique %>% sort
+world_ctry_cntr$country %>% unique %>% sort
+
+data_world <- left_join(ctry_arrivals, world_ctry_cntr) %>%
+  group_by(year, month, region, subregion, country) %>%
+  summarize(
+    passenger_count = sum(passenger_count, na.rm = TRUE),
+    ctry_cntr_long = mean(ctry_cntr_long, na.rm = TRUE),
+    ctry_cntr_lat = mean(ctry_cntr_lat, na.rm = TRUE)
+  ) %>%
+  ungroup() %>%
+  filter(country != "Total")
+  # filter(year == max(year))
+  
+data_world_yearly <- data_world %>%
+  spread(year, passenger_count) %>%
+  rename(y2014 = `2014`, y2015 = `2015`, y2016 = `2016`, y2017 = `2017`, y2018 = `2018`) %>%
+  filter(region != "Total")
+
+write.csv(data_world, "data/output/data_world.csv", row.names = FALSE)
+write.csv(data_yearly, "data/output/data_yearly.csv", row.names = FALSE)
+
+world <- ggplot() +
+  geom_polygon(
+    data = world_map,
+    aes(x = long.new, y = lat, group = gr.split),
+    fill = "grey",
+    alpha = 0.3
+  ) +
+  geom_point(
+    data = data_world, mapping = aes(
+      x = ctry_cntr_long,
+      y = ctry_cntr_lat,
+      color = region,
+      size = passenger_count
+    ),
+    alpha = 0.4,
+    show.legend = FALSE
+  ) +
+  geom_text(
+    data = data_world,
+    mapping = aes(x = ctry_cntr_long,
+                  y = ctry_cntr_lat,
+                  label = country),
+    size = 3
+  ) +
+  scale_size(range = c(1, 100)) +
+  # scale_x_continuous(limits = c(0, 350)) +
+  theme_minimal()
+
+world
+
+world + transition_time(year) +
+  labs(title = "Year: {frame_time}")

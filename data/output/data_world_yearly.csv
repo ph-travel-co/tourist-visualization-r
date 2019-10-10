@@ -1,0 +1,817 @@
+"month","region","subregion","country","ctry_cntr_long","ctry_cntr_lat","y2014","y2015","y2016","y2017","y2018"
+"january","Africa","Africa","Nigeria",-152.464510556622,9.04612284069098,0,0,0,0,0
+"january","Africa","Africa","South Africa",-132.876814159292,-28.5941592920354,0,0,0,0,0
+"january","America","North America","Canada",112.832333696838,48.1319847328244,16413,17922,21108,24352,28913
+"january","America","North America","Mexico",100.133599574015,20.7982747603834,236,307,285,366,318
+"january","America","North America","USA",104.870802407222,37.4450351053159,71042,76896,84506,99435,109154
+"january","America","South America","Argentina",137.710731707317,-33.5251219512195,143,202,392,533,586
+"january","America","South America","Brazil",153.832635897436,-17.5192102564103,317,309,412,719,776
+"january","America","South America","Colombia",125.168682877406,5.70347517730496,122,134,135,182,152
+"january","America","South America","Peru",123.582095588235,-9.93136029411765,37,46,67,80,82
+"january","America","South America","Venezuela",131.974711538462,9.79432692307692,29,17,26,35,37
+"january","Asia","ASEAN","Brunei",-45.374,4.73,709,645,526,706,702
+"january","Asia","ASEAN","Cambodia",-55.1844,12.2416,254,219,301,223,306
+"january","Asia","ASEAN","Indonesia",-49.7179831932773,-5.32147058823529,3789,3949,4590,4138,6464
+"january","Asia","ASEAN","Laos",-55.9455555555555,18.0761111111111,60,93,102,48,64
+"january","Asia","ASEAN","Malaysia",-56.2003067484662,3.87441717791411,8697,12256,11068,10215,12012
+"january","Asia","ASEAN","Myanmar",-63.8993939393939,18.9172727272727,504,593,597,659,650
+"january","Asia","ASEAN","Singapore",-56.15,1.3,13399,12995,13404,12000,13627
+"january","Asia","ASEAN","Thailand",-58.8763822525597,14.4172354948805,3593,3426,4035,3644,4359
+"january","Asia","ASEAN","Vietnam",-53.5057352941176,16.3188235294118,2321,2807,2564,3767,3147
+"january","Asia","East Asia","China",-44.1156278026906,34.0535201793722,49538,21164,48708,85948,111344
+"january","Asia","East Asia","Hongkong",NA,NA,11587,7858,8132,10006,9284
+"january","Asia","East Asia","Japan",-23.1284684684684,35.605975975976,35160,38190,41691,51516,57038
+"january","Asia","East Asia","Korea",-32.3073484848485,36.3019696969697,118308,147163,147165,154367,198145
+"january","Asia","East Asia","Macau",NA,NA,705,577,700,760,796
+"january","Asia","East Asia","Taiwan",-39.2136734693877,24.0868367346939,12448,11804,15523,21926,18948
+"january","Asia","Middle East","Bahrain",-109.447272727273,26.1736363636364,294,302,314,308,312
+"january","Asia","Middle East","Egypt",-128.630588235294,29.4472549019608,153,135,161,175,175
+"january","Asia","Middle East","Jordan",-124.15642384106,32.0415894039735,104,67,89,73,79
+"january","Asia","Middle East","Kuwait",-112.027714285714,29.2714285714286,488,495,460,756,695
+"january","Asia","Middle East","Oman",-102.48380952381,22.9366666666667,NA,NA,NA,NA,262
+"january","Asia","Middle East","Qatar",-108.735555555556,25.3366666666667,249,302,386,393,435
+"january","Asia","Middle East","Saudi Arabia",-115.712795698925,23.777311827957,3949,4154,4286,5020,4532
+"january","Asia","Middle East","United Arab Emirates",-104.391111111111,25.18,1082,1169,1223,1077,1282
+"january","Asia","South Asia","Bangladesh",-69.7788111888112,23.7406293706294,286,311,407,368,463
+"january","Asia","South Asia","India",-80.6390758047767,21.5019210799585,5472,6221,8954,11805,13779
+"january","Asia","South Asia","Iran",-108.556127819549,33.8924812030075,254,213,179,182,216
+"january","Asia","South Asia","Nepal",-75.3217307692308,27.6073076923077,235,360,282,296,864
+"january","Asia","South Asia","Pakistan",-89.0981339712919,29.9402631578947,424,391,388,433,396
+"january","Asia","South Asia","Sri Lanka",-79.6352112676057,7.26901408450704,288,384,474,469,456
+"january","Australasia & The Pacific","Australasia & The Pacific","Australia",-15.7823004694836,-30.319014084507,0,0,0,0,0
+"january","Australasia & The Pacific","Australasia & The Pacific","Guam",-15.2292592592593,13.4496296296296,0,0,0,0,0
+"january","Australasia & The Pacific","Australasia & The Pacific","Nauru",6.90999999999997,-0.55,0,0,0,0,0
+"january","Australasia & The Pacific","Australasia & The Pacific","New Zealand",13.6360507246377,-40.5059420289855,0,0,0,0,0
+"january","Australasia & The Pacific","Australasia & The Pacific","Papua New Guinea",-13.0243902439024,-6.12756097560976,0,0,0,0,0
+"january","Europe","Eastern Europe","Commonwealth Of Independent States",NA,NA,811,1151,1314,1216,1375
+"january","Europe","Eastern Europe","Poland",-141.010615034169,51.843735763098,769,948,1284,1458,2078
+"january","Europe","Eastern Europe","Russian Federation",-104.664588832487,53.6329137055838,5463,4804,4310,4990,4396
+"january","Europe","Eastern Mediterranean Europe","Israel",-124.919067357513,32.3195336787565,747,1299,1620,2000,2360
+"january","Europe","Eastern Mediterranean Europe","Turkey",-125.645423514539,39.2837547408344,406,546,954,974,1396
+"january","Europe","Northern Europe","Denmark",-149.482451612903,55.8588709677419,1822,1873,2477,2511,2141
+"january","Europe","Northern Europe","Finland",-135.20176744186,62.2486046511628,705,865,1049,1014,998
+"january","Europe","Northern Europe","Ireland",-167.659333333333,53.1170909090909,929,1112,1249,1545,1614
+"january","Europe","Northern Europe","Norway",-149.670952380952,62.0989355742297,1882,1954,2198,2109,2389
+"january","Europe","Northern Europe","Sweden",-144.479326923077,58.9549038461538,3011,2970,3569,4029,3985
+"january","Europe","Northern Europe","United Kingdom",-161.96267027027,52.9356972972973,11098,11967,15072,15747,18111
+"january","Europe","Southern Europe","Greece",-136.79204,38.98216,173,206,231,253,304
+"january","Europe","Southern Europe","Italy",-147.610994923858,42.7972182741117,2377,2649,2778,3454,4174
+"january","Europe","Southern Europe","Portugal",-168.546278538813,39.9041552511416,157,222,297,565,459
+"january","Europe","Southern Europe","Spain",-162.8159375,40.0899421296296,1612,2087,2833,3368,3999
+"january","Europe","Western Europe","Andorra",-158.461428571429,42.5342857142857,383,30,19,30,38
+"january","Europe","Western Europe","Austria",-145.891361702128,47.6804680851064,1546,1617,1716,1647,1742
+"january","Europe","Western Europe","Belgium",-155.426974637681,50.7387862318841,916,1000,1151,1328,1493
+"january","Europe","Western Europe","France",-157.2156,47.37819,4257,4418,5356,7459,8438
+"january","Europe","Western Europe","Germany",-150.696603206413,50.8155811623246,7616,7848,8337,8917,8822
+"january","Europe","Western Europe","Luxembourg",-153.907505285412,49.7718181818182,52,63,89,51,84
+"january","Europe","Western Europe","Netherlands",-154.601603773585,52.0650943396226,2161,2958,3240,3852,3434
+"january","Europe","Western Europe","Switzerland",-151.942360774818,47.0366101694915,2723,2995,3432,3329,3397
+"january","Others & Unspecified","Others & Unspecified","Residences",NA,NA,0,0,0,0,0
+"february","Africa","Africa","Nigeria",-152.464510556622,9.04612284069098,487,91,163,155,171
+"february","Africa","Africa","South Africa",-132.876814159292,-28.5941592920354,298,340,435,587,703
+"february","America","North America","Canada",112.832333696838,48.1319847328244,12093,13146,15665,19016,19278
+"february","America","North America","Mexico",100.133599574015,20.7982747603834,154,235,223,309,261
+"february","America","North America","USA",104.870802407222,37.4450351053159,60936,65330,71290,80463,84835
+"february","America","South America","Argentina",137.710731707317,-33.5251219512195,111,181,338,380,513
+"february","America","South America","Brazil",153.832635897436,-17.5192102564103,222,337,422,592,709
+"february","America","South America","Colombia",125.168682877406,5.70347517730496,66,94,81,104,154
+"february","America","South America","Peru",123.582095588235,-9.93136029411765,51,39,40,55,82
+"february","America","South America","Venezuela",131.974711538462,9.79432692307692,21,19,24,28,18
+"february","Asia","ASEAN","Brunei",-45.374,4.73,758,709,761,544,953
+"february","Asia","ASEAN","Cambodia",-55.1844,12.2416,216,233,261,374,278
+"february","Asia","ASEAN","Indonesia",-49.7179831932773,-5.32147058823529,4090,3615,4234,4517,5756
+"february","Asia","ASEAN","Laos",-55.9455555555555,18.0761111111111,57,97,114,107,70
+"february","Asia","ASEAN","Malaysia",-56.2003067484662,3.87441717791411,11044,11188,12922,11335,12322
+"february","Asia","ASEAN","Myanmar",-63.8993939393939,18.9172727272727,438,579,437,620,662
+"february","Asia","ASEAN","Singapore",-56.15,1.3,14139,14279,14972,13309,14490
+"february","Asia","ASEAN","Thailand",-58.8763822525597,14.4172354948805,4089,3759,3744,3638,4732
+"february","Asia","ASEAN","Vietnam",-53.5057352941176,16.3188235294118,2847,2811,3053,3536,4357
+"february","Asia","East Asia","China",-44.1156278026906,34.0535201793722,49479,41812,82208,78251,146536
+"february","Asia","East Asia","Hongkong",NA,NA,9573,13171,12643,8170,13642
+"february","Asia","East Asia","Japan",-23.1284684684684,35.605975975976,40223,45299,50840,53957,60262
+"february","Asia","East Asia","Korea",-32.3073484848485,36.3019696969697,102523,121218,137598,150685,156555
+"february","Asia","East Asia","Macau",NA,NA,650,793,942,705,882
+"february","Asia","East Asia","Taiwan",-39.2136734693877,24.0868367346939,12167,15198,19821,20472,21908
+"february","Asia","Middle East","Bahrain",-109.447272727273,26.1736363636364,316,225,292,298,253
+"february","Asia","Middle East","Egypt",-128.630588235294,29.4472549019608,175,142,130,135,141
+"february","Asia","Middle East","Jordan",-124.15642384106,32.0415894039735,57,58,51,54,57
+"february","Asia","Middle East","Kuwait",-112.027714285714,29.2714285714286,419,409,411,559,521
+"february","Asia","Middle East","Oman",-102.48380952381,22.9366666666667,NA,NA,NA,NA,231
+"february","Asia","Middle East","Qatar",-108.735555555556,25.3366666666667,275,313,346,346,396
+"february","Asia","Middle East","Saudi Arabia",-115.712795698925,23.777311827957,2988,3798,3587,4051,3609
+"february","Asia","Middle East","United Arab Emirates",-104.391111111111,25.18,1075,1170,1283,1130,1369
+"february","Asia","South Asia","Bangladesh",-69.7788111888112,23.7406293706294,214,268,345,332,434
+"february","Asia","South Asia","India",-80.6390758047767,21.5019210799585,3751,5244,6224,7621,9285
+"february","Asia","South Asia","Iran",-108.556127819549,33.8924812030075,108,140,151,131,169
+"february","Asia","South Asia","Nepal",-75.3217307692308,27.6073076923077,194,305,188,247,758
+"february","Asia","South Asia","Pakistan",-89.0981339712919,29.9402631578947,294,338,251,368,336
+"february","Asia","South Asia","Sri Lanka",-79.6352112676057,7.26901408450704,196,391,406,433,467
+"february","Australasia & The Pacific","Australasia & The Pacific","Australia",-15.7823004694836,-30.319014084507,20747,23281,25274,27826,30924
+"february","Australasia & The Pacific","Australasia & The Pacific","Guam",-15.2292592592593,13.4496296296296,3159,2490,2485,2608,2901
+"february","Australasia & The Pacific","Australasia & The Pacific","Nauru",6.90999999999997,-0.55,0,0,2,1,1
+"february","Australasia & The Pacific","Australasia & The Pacific","New Zealand",13.6360507246377,-40.5059420289855,1425,1582,2011,2705,3549
+"february","Australasia & The Pacific","Australasia & The Pacific","Papua New Guinea",-13.0243902439024,-6.12756097560976,571,574,568,890,814
+"february","Europe","Eastern Europe","Commonwealth Of Independent States",NA,NA,510,870,1120,935,1129
+"february","Europe","Eastern Europe","Poland",-141.010615034169,51.843735763098,931,967,1323,1682,1564
+"february","Europe","Eastern Europe","Russian Federation",-104.664588832487,53.6329137055838,3679,2478,3050,4522,3519
+"february","Europe","Eastern Mediterranean Europe","Israel",-124.919067357513,32.3195336787565,877,1256,1678,1919,2065
+"february","Europe","Eastern Mediterranean Europe","Turkey",-125.645423514539,39.2837547408344,366,509,994,798,911
+"february","Europe","Northern Europe","Denmark",-149.482451612903,55.8588709677419,1742,1830,2286,2764,2095
+"february","Europe","Northern Europe","Finland",-135.20176744186,62.2486046511628,670,733,729,922,771
+"february","Europe","Northern Europe","Ireland",-167.659333333333,53.1170909090909,735,849,944,1147,1209
+"february","Europe","Northern Europe","Norway",-149.670952380952,62.0989355742297,1759,1787,1912,1930,2055
+"february","Europe","Northern Europe","Sweden",-144.479326923077,58.9549038461538,2649,2871,3504,3786,3620
+"february","Europe","Northern Europe","United Kingdom",-161.96267027027,52.9356972972973,12223,11374,13166,15226,15443
+"february","Europe","Southern Europe","Greece",-136.79204,38.98216,189,231,252,275,336
+"february","Europe","Southern Europe","Italy",-147.610994923858,42.7972182741117,1827,2172,2480,3150,3101
+"february","Europe","Southern Europe","Portugal",-168.546278538813,39.9041552511416,166,210,424,325,411
+"february","Europe","Southern Europe","Spain",-162.8159375,40.0899421296296,1273,1764,2259,2876,3206
+"february","Europe","Western Europe","Andorra",-158.461428571429,42.5342857142857,328,41,23,16,25
+"february","Europe","Western Europe","Austria",-145.891361702128,47.6804680851064,1348,1310,1349,1631,1435
+"february","Europe","Western Europe","Belgium",-155.426974637681,50.7387862318841,868,1031,1266,1173,1353
+"february","Europe","Western Europe","France",-157.2156,47.37819,4223,5821,7146,8498,9737
+"february","Europe","Western Europe","Germany",-150.696603206413,50.8155811623246,7779,7396,9869,10003,9826
+"february","Europe","Western Europe","Luxembourg",-153.907505285412,49.7718181818182,57,57,79,64,81
+"february","Europe","Western Europe","Netherlands",-154.601603773585,52.0650943396226,2000,2356,2809,3038,2860
+"february","Europe","Western Europe","Switzerland",-151.942360774818,47.0366101694915,2425,2551,3062,3244,3298
+"february","Others & Unspecified","Others & Unspecified","Residences",NA,NA,4600,4870,6679,6523,7446
+"march","Africa","Africa","Nigeria",-152.464510556622,9.04612284069098,101,82,90,124,136
+"march","Africa","Africa","South Africa",-132.876814159292,-28.5941592920354,325,356,350,399,640
+"march","America","North America","Canada",112.832333696838,48.1319847328244,0,15688,16528,17470,22310
+"march","America","North America","Mexico",100.133599574015,20.7982747603834,264,267,217,268,403
+"march","America","North America","USA",104.870802407222,37.4450351053159,0,71831,75437,78199,90961
+"march","America","South America","Argentina",137.710731707317,-33.5251219512195,105,260,310,367,457
+"march","America","South America","Brazil",153.832635897436,-17.5192102564103,242,319,346,568,701
+"march","America","South America","Colombia",125.168682877406,5.70347517730496,67,119,113,153,167
+"march","America","South America","Peru",123.582095588235,-9.93136029411765,31,42,58,67,104
+"march","America","South America","Venezuela",131.974711538462,9.79432692307692,27,15,32,14,36
+"march","Asia","ASEAN","Brunei",-45.374,4.73,1013,840,907,978,1096
+"march","Asia","ASEAN","Cambodia",-55.1844,12.2416,311,245,272,294,314
+"march","Asia","ASEAN","Indonesia",-49.7179831932773,-5.32147058823529,4403,4235,4026,4624,7773
+"march","Asia","ASEAN","Laos",-55.9455555555555,18.0761111111111,114,119,78,77,103
+"march","Asia","ASEAN","Malaysia",-56.2003067484662,3.87441717791411,0,13892,12611,12861,12756
+"march","Asia","ASEAN","Myanmar",-63.8993939393939,18.9172727272727,556,682,614,836,920
+"march","Asia","ASEAN","Singapore",-56.15,1.3,0,16942,16065,15086,16281
+"march","Asia","ASEAN","Thailand",-58.8763822525597,14.4172354948805,4717,4059,4071,4173,4985
+"march","Asia","ASEAN","Vietnam",-53.5057352941176,16.3188235294118,2805,2858,2588,3014,4298
+"march","Asia","East Asia","China",-44.1156278026906,34.0535201793722,0,30067,53596,76155,0
+"march","Asia","East Asia","Hongkong",NA,NA,9262,10483,11974,7746,13857
+"march","Asia","East Asia","Japan",-23.1284684684684,35.605975975976,0,46885,51093,60778,63878
+"march","Asia","East Asia","Korea",-32.3073484848485,36.3019696969697,0,93099,98781,135813,0
+"march","Asia","East Asia","Macau",NA,NA,711,833,752,702,1000
+"march","Asia","East Asia","Taiwan",-39.2136734693877,24.0868367346939,0,14711,16758,22498,19021
+"march","Asia","Middle East","Bahrain",-109.447272727273,26.1736363636364,320,271,253,285,370
+"march","Asia","Middle East","Egypt",-128.630588235294,29.4472549019608,167,151,199,141,188
+"march","Asia","Middle East","Jordan",-124.15642384106,32.0415894039735,79,61,61,63,54
+"march","Asia","Middle East","Kuwait",-112.027714285714,29.2714285714286,344,381,400,617,526
+"march","Asia","Middle East","Oman",-102.48380952381,22.9366666666667,NA,NA,NA,NA,201
+"march","Asia","Middle East","Qatar",-108.735555555556,25.3366666666667,260,423,414,346,458
+"march","Asia","Middle East","Saudi Arabia",-115.712795698925,23.777311827957,3315,4446,4418,4341,3745
+"march","Asia","Middle East","United Arab Emirates",-104.391111111111,25.18,1297,1728,1790,1733,2200
+"march","Asia","South Asia","Bangladesh",-69.7788111888112,23.7406293706294,300,411,460,355,387
+"march","Asia","South Asia","India",-80.6390758047767,21.5019210799585,4972,6415,6943,7479,9935
+"march","Asia","South Asia","Iran",-108.556127819549,33.8924812030075,285,258,368,433,470
+"march","Asia","South Asia","Nepal",-75.3217307692308,27.6073076923077,184,203,298,608,1634
+"march","Asia","South Asia","Pakistan",-89.0981339712919,29.9402631578947,320,419,366,407,342
+"march","Asia","South Asia","Sri Lanka",-79.6352112676057,7.26901408450704,350,423,434,467,434
+"march","Australasia & The Pacific","Australasia & The Pacific","Australia",-15.7823004694836,-30.319014084507,17262,17625,18438,20157,19480
+"march","Australasia & The Pacific","Australasia & The Pacific","Guam",-15.2292592592593,13.4496296296296,3059,2227,2430,2536,2509
+"march","Australasia & The Pacific","Australasia & The Pacific","Nauru",6.90999999999997,-0.55,1,0,0,2,0
+"march","Australasia & The Pacific","Australasia & The Pacific","New Zealand",13.6360507246377,-40.5059420289855,1036,1319,1283,1843,1904
+"march","Australasia & The Pacific","Australasia & The Pacific","Papua New Guinea",-13.0243902439024,-6.12756097560976,448,381,537,448,427
+"march","Europe","Eastern Europe","Commonwealth Of Independent States",NA,NA,554,868,906,1157,1462
+"march","Europe","Eastern Europe","Poland",-141.010615034169,51.843735763098,620,767,960,1417,1274
+"march","Europe","Eastern Europe","Russian Federation",-104.664588832487,53.6329137055838,3557,1989,2150,3979,3426
+"march","Europe","Eastern Mediterranean Europe","Israel",-124.919067357513,32.3195336787565,878,1116,1643,1596,2412
+"march","Europe","Eastern Mediterranean Europe","Turkey",-125.645423514539,39.2837547408344,301,511,690,975,798
+"march","Europe","Northern Europe","Denmark",-149.482451612903,55.8588709677419,1295,1536,2013,1669,2021
+"march","Europe","Northern Europe","Finland",-135.20176744186,62.2486046511628,586,554,602,662,660
+"march","Europe","Northern Europe","Ireland",-167.659333333333,53.1170909090909,973,1379,1686,1421,1873
+"march","Europe","Northern Europe","Norway",-149.670952380952,62.0989355742297,1506,2175,2245,1635,2166
+"march","Europe","Northern Europe","Sweden",-144.479326923077,58.9549038461538,2002,2310,2797,2831,3111
+"march","Europe","Northern Europe","United Kingdom",-161.96267027027,52.9356972972973,0,16730,20859,16380,22967
+"march","Europe","Southern Europe","Greece",-136.79204,38.98216,196,220,225,303,324
+"march","Europe","Southern Europe","Italy",-147.610994923858,42.7972182741117,1884,1931,2159,2897,3098
+"march","Europe","Southern Europe","Portugal",-168.546278538813,39.9041552511416,192,187,316,360,456
+"march","Europe","Southern Europe","Spain",-162.8159375,40.0899421296296,1653,2109,2656,2719,4204
+"march","Europe","Western Europe","Andorra",-158.461428571429,42.5342857142857,331,24,28,23,35
+"march","Europe","Western Europe","Austria",-145.891361702128,47.6804680851064,1214,1112,1257,1309,1204
+"march","Europe","Western Europe","Belgium",-155.426974637681,50.7387862318841,996,1203,1635,1414,1575
+"march","Europe","Western Europe","France",-157.2156,47.37819,3753,4735,5915,7757,8489
+"march","Europe","Western Europe","Germany",-150.696603206413,50.8155811623246,8788,8576,10415,10381,10161
+"march","Europe","Western Europe","Luxembourg",-153.907505285412,49.7718181818182,46,74,101,70,98
+"march","Europe","Western Europe","Netherlands",-154.601603773585,52.0650943396226,2097,2365,2872,2854,3136
+"march","Europe","Western Europe","Switzerland",-151.942360774818,47.0366101694915,2405,2576,2896,2791,3404
+"march","Others & Unspecified","Others & Unspecified","Residences",NA,NA,4353,4599,6044,7056,7213
+"april","Africa","Africa","Nigeria",-152.464510556622,9.04612284069098,116,124,105,97,188
+"april","Africa","Africa","South Africa",-132.876814159292,-28.5941592920354,333,395,559,471,674
+"april","America","North America","Canada",112.832333696838,48.1319847328244,14333,0,14987,19755,19148
+"april","America","North America","Mexico",100.133599574015,20.7982747603834,218,0,249,362,359
+"april","America","North America","USA",104.870802407222,37.4450351053159,67487,0,72718,87614,85573
+"april","America","South America","Argentina",137.710731707317,-33.5251219512195,104,0,243,353,422
+"april","America","South America","Brazil",153.832635897436,-17.5192102564103,218,0,319,650,723
+"april","America","South America","Colombia",125.168682877406,5.70347517730496,66,0,84,145,185
+"april","America","South America","Peru",123.582095588235,-9.93136029411765,29,0,44,73,84
+"april","America","South America","Venezuela",131.974711538462,9.79432692307692,13,0,26,25,33
+"april","Asia","ASEAN","Brunei",-45.374,4.73,518,0,640,831,650
+"april","Asia","ASEAN","Cambodia",-55.1844,12.2416,277,0,354,501,384
+"april","Asia","ASEAN","Indonesia",-49.7179831932773,-5.32147058823529,3095,0,4075,5572,0
+"april","Asia","ASEAN","Laos",-55.9455555555555,18.0761111111111,72,0,127,168,118
+"april","Asia","ASEAN","Malaysia",-56.2003067484662,3.87441717791411,12059,0,12234,12839,11771
+"april","Asia","ASEAN","Myanmar",-63.8993939393939,18.9172727272727,706,0,694,848,890
+"april","Asia","ASEAN","Singapore",-56.15,1.3,17279,0,16592,13895,15493
+"april","Asia","ASEAN","Thailand",-58.8763822525597,14.4172354948805,4422,0,4805,4926,0
+"april","Asia","ASEAN","Vietnam",-53.5057352941176,16.3188235294118,2249,0,2921,4023,0
+"april","Asia","East Asia","China",-44.1156278026906,34.0535201793722,37714,0,54011,74893,114549
+"april","Asia","East Asia","Hongkong",NA,NA,10529,0,9125,12260,10324
+"april","Asia","East Asia","Japan",-23.1284684684684,35.605975975976,44568,0,39996,44872,49021
+"april","Asia","East Asia","Korea",-32.3073484848485,36.3019696969697,79408,0,98052,117074,122387
+"april","Asia","East Asia","Macau",NA,NA,752,0,771,911,768
+"april","Asia","East Asia","Taiwan",-39.2136734693877,24.0868367346939,10700,0,19554,21318,22950
+"april","Asia","Middle East","Bahrain",-109.447272727273,26.1736363636364,314,0,320,350,306
+"april","Asia","Middle East","Egypt",-128.630588235294,29.4472549019608,133,0,202,192,153
+"april","Asia","Middle East","Jordan",-124.15642384106,32.0415894039735,62,0,72,76,76
+"april","Asia","Middle East","Kuwait",-112.027714285714,29.2714285714286,454,0,503,753,561
+"april","Asia","Middle East","Oman",-102.48380952381,22.9366666666667,NA,NA,NA,NA,267
+"april","Asia","Middle East","Qatar",-108.735555555556,25.3366666666667,372,0,468,391,399
+"april","Asia","Middle East","Saudi Arabia",-115.712795698925,23.777311827957,2964,0,4301,4820,0
+"april","Asia","Middle East","United Arab Emirates",-104.391111111111,25.18,1500,0,1775,1503,0
+"april","Asia","South Asia","Bangladesh",-69.7788111888112,23.7406293706294,245,0,342,346,403
+"april","Asia","South Asia","India",-80.6390758047767,21.5019210799585,5025,0,7457,8842,10021
+"april","Asia","South Asia","Iran",-108.556127819549,33.8924812030075,247,0,258,210,146
+"april","Asia","South Asia","Nepal",-75.3217307692308,27.6073076923077,285,0,334,798,895
+"april","Asia","South Asia","Pakistan",-89.0981339712919,29.9402631578947,316,0,383,401,387
+"april","Asia","South Asia","Sri Lanka",-79.6352112676057,7.26901408450704,718,0,481,443,530
+"april","Australasia & The Pacific","Australasia & The Pacific","Australia",-15.7823004694836,-30.319014084507,21464,21993,23553,18824,23623
+"april","Australasia & The Pacific","Australasia & The Pacific","Guam",-15.2292592592593,13.4496296296296,3312,2874,3089,2390,3190
+"april","Australasia & The Pacific","Australasia & The Pacific","Nauru",6.90999999999997,-0.55,1,4,1,2,0
+"april","Australasia & The Pacific","Australasia & The Pacific","New Zealand",13.6360507246377,-40.5059420289855,1375,1703,1724,2057,2503
+"april","Australasia & The Pacific","Australasia & The Pacific","Papua New Guinea",-13.0243902439024,-6.12756097560976,469,488,553,535,594
+"april","Europe","Eastern Europe","Commonwealth Of Independent States",NA,NA,518,0,860,843,857
+"april","Europe","Eastern Europe","Poland",-141.010615034169,51.843735763098,414,0,653,1002,0
+"april","Europe","Eastern Europe","Russian Federation",-104.664588832487,53.6329137055838,2167,0,1988,2709,0
+"april","Europe","Eastern Mediterranean Europe","Israel",-124.919067357513,32.3195336787565,791,0,1713,2043,0
+"april","Europe","Eastern Mediterranean Europe","Turkey",-125.645423514539,39.2837547408344,300,0,568,573,720
+"april","Europe","Northern Europe","Denmark",-149.482451612903,55.8588709677419,1243,0,1276,1948,0
+"april","Europe","Northern Europe","Finland",-135.20176744186,62.2486046511628,422,0,382,637,532
+"april","Europe","Northern Europe","Ireland",-167.659333333333,53.1170909090909,1128,0,1122,1722,0
+"april","Europe","Northern Europe","Norway",-149.670952380952,62.0989355742297,1630,0,1274,1956,0
+"april","Europe","Northern Europe","Sweden",-144.479326923077,58.9549038461538,1393,0,1718,2285,0
+"april","Europe","Northern Europe","United Kingdom",-161.96267027027,52.9356972972973,13138,0,13942,20835,17913
+"april","Europe","Southern Europe","Greece",-136.79204,38.98216,114,0,187,268,234
+"april","Europe","Southern Europe","Italy",-147.610994923858,42.7972182741117,1528,0,1922,2887,0
+"april","Europe","Southern Europe","Portugal",-168.546278538813,39.9041552511416,243,0,238,516,541
+"april","Europe","Southern Europe","Spain",-162.8159375,40.0899421296296,1445,0,2186,3612,0
+"april","Europe","Western Europe","Andorra",-158.461428571429,42.5342857142857,78,0,28,17,30
+"april","Europe","Western Europe","Austria",-145.891361702128,47.6804680851064,1004,0,998,1222,0
+"april","Europe","Western Europe","Belgium",-155.426974637681,50.7387862318841,1159,0,1025,1594,0
+"april","Europe","Western Europe","France",-157.2156,47.37819,3723,0,5563,7563,0
+"april","Europe","Western Europe","Germany",-150.696603206413,50.8155811623246,6379,0,7018,8296,0
+"april","Europe","Western Europe","Luxembourg",-153.907505285412,49.7718181818182,74,0,63,86,95
+"april","Europe","Western Europe","Netherlands",-154.601603773585,52.0650943396226,2114,0,2848,3337,0
+"april","Europe","Western Europe","Switzerland",-151.942360774818,47.0366101694915,2784,0,2738,3547,0
+"april","Others & Unspecified","Others & Unspecified","Residences",NA,NA,4058,4501,5651,5914,7058
+"may","Africa","Africa","Nigeria",-152.464510556622,9.04612284069098,96,117,129,94,141
+"may","Africa","Africa","South Africa",-132.876814159292,-28.5941592920354,311,384,436,670,655
+"may","America","North America","Canada",112.832333696838,48.1319847328244,13732,13990,14052,16794,19484
+"may","America","North America","Mexico",100.133599574015,20.7982747603834,189,243,227,315,380
+"may","America","North America","USA",104.870802407222,37.4450351053159,67507,69520,73644,83056,92754
+"may","America","South America","Argentina",137.710731707317,-33.5251219512195,107,210,191,291,294
+"may","America","South America","Brazil",153.832635897436,-17.5192102564103,221,353,317,619,539
+"may","America","South America","Colombia",125.168682877406,5.70347517730496,81,109,100,119,187
+"may","America","South America","Peru",123.582095588235,-9.93136029411765,28,46,44,73,59
+"may","America","South America","Venezuela",131.974711538462,9.79432692307692,17,12,21,13,24
+"may","Asia","ASEAN","Brunei",-45.374,4.73,892,676,710,670,771
+"may","Asia","ASEAN","Cambodia",-55.1844,12.2416,266,366,294,347,461
+"may","Asia","ASEAN","Indonesia",-49.7179831932773,-5.32147058823529,3859,3705,4585,5045,6466
+"may","Asia","ASEAN","Laos",-55.9455555555555,18.0761111111111,93,104,104,106,109
+"may","Asia","ASEAN","Malaysia",-56.2003067484662,3.87441717791411,10142,13089,12076,13328,12179
+"may","Asia","ASEAN","Myanmar",-63.8993939393939,18.9172727272727,581,565,554,783,905
+"may","Asia","ASEAN","Singapore",-56.15,1.3,14424,15816,14723,15895,15971
+"may","Asia","ASEAN","Thailand",-58.8763822525597,14.4172354948805,4014,4429,4048,4334,7126
+"may","Asia","ASEAN","Vietnam",-53.5057352941176,16.3188235294118,2266,2761,3102,3966,4927
+"may","Asia","East Asia","China",-44.1156278026906,34.0535201793722,31424,33250,46825,73649,109789
+"may","Asia","East Asia","Hongkong",NA,NA,8430,12031,9355,9280,10308
+"may","Asia","East Asia","Japan",-23.1284684684684,35.605975975976,35496,37228,39422,44696,45744
+"may","Asia","East Asia","Korea",-32.3073484848485,36.3019696969697,73984,90465,94736,128691,114973
+"may","Asia","East Asia","Macau",NA,NA,541,1028,701,948,869
+"may","Asia","East Asia","Taiwan",-39.2136734693877,24.0868367346939,9810,13859,18136,22429,18545
+"may","Asia","Middle East","Bahrain",-109.447272727273,26.1736363636364,321,327,301,258,221
+"may","Asia","Middle East","Egypt",-128.630588235294,29.4472549019608,143,152,141,199,131
+"may","Asia","Middle East","Jordan",-124.15642384106,32.0415894039735,68,51,60,80,55
+"may","Asia","Middle East","Kuwait",-112.027714285714,29.2714285714286,419,444,574,661,372
+"may","Asia","Middle East","Oman",-102.48380952381,22.9366666666667,NA,NA,NA,NA,115
+"may","Asia","Middle East","Qatar",-108.735555555556,25.3366666666667,368,426,427,341,247
+"may","Asia","Middle East","Saudi Arabia",-115.712795698925,23.777311827957,3402,3447,4310,3096,3763
+"may","Asia","Middle East","United Arab Emirates",-104.391111111111,25.18,1429,1626,1495,1383,1440
+"may","Asia","South Asia","Bangladesh",-69.7788111888112,23.7406293706294,388,321,370,318,435
+"may","Asia","South Asia","India",-80.6390758047767,21.5019210799585,5305,6335,7245,9928,10569
+"may","Asia","South Asia","Iran",-108.556127819549,33.8924812030075,341,195,210,208,207
+"may","Asia","South Asia","Nepal",-75.3217307692308,27.6073076923077,180,186,320,778,938
+"may","Asia","South Asia","Pakistan",-89.0981339712919,29.9402631578947,333,337,372,360,344
+"may","Asia","South Asia","Sri Lanka",-79.6352112676057,7.26901408450704,296,450,426,477,528
+"may","Australasia & The Pacific","Australasia & The Pacific","Australia",-15.7823004694836,-30.319014084507,20629,20674,21231,26447,25292
+"may","Australasia & The Pacific","Australasia & The Pacific","Guam",-15.2292592592593,13.4496296296296,2850,2310,3095,2872,2691
+"may","Australasia & The Pacific","Australasia & The Pacific","Nauru",6.90999999999997,-0.55,5,1,0,0,13
+"may","Australasia & The Pacific","Australasia & The Pacific","New Zealand",13.6360507246377,-40.5059420289855,1684,1771,1991,2813,2828
+"may","Australasia & The Pacific","Australasia & The Pacific","Papua New Guinea",-13.0243902439024,-6.12756097560976,474,382,589,705,698
+"may","Europe","Eastern Europe","Commonwealth Of Independent States",NA,NA,478,731,832,692,938
+"may","Europe","Eastern Europe","Poland",-141.010615034169,51.843735763098,330,505,567,641,1100
+"may","Europe","Eastern Europe","Russian Federation",-104.664588832487,53.6329137055838,1654,1855,1426,1766,2614
+"may","Europe","Eastern Mediterranean Europe","Israel",-124.919067357513,32.3195336787565,585,1215,1120,1179,1829
+"may","Europe","Eastern Mediterranean Europe","Turkey",-125.645423514539,39.2837547408344,284,452,527,600,592
+"may","Europe","Northern Europe","Denmark",-149.482451612903,55.8588709677419,912,1016,986,1064,1429
+"may","Europe","Northern Europe","Finland",-135.20176744186,62.2486046511628,395,462,378,472,445
+"may","Europe","Northern Europe","Ireland",-167.659333333333,53.1170909090909,990,1116,1261,1422,1452
+"may","Europe","Northern Europe","Norway",-149.670952380952,62.0989355742297,1121,1387,1174,1210,1460
+"may","Europe","Northern Europe","Sweden",-144.479326923077,58.9549038461538,991,1493,1264,1407,1901
+"may","Europe","Northern Europe","United Kingdom",-161.96267027027,52.9356972972973,13746,14045,13236,14224,15348
+"may","Europe","Southern Europe","Greece",-136.79204,38.98216,179,168,192,247,296
+"may","Europe","Southern Europe","Italy",-147.610994923858,42.7972182741117,1280,1640,1546,1931,2910
+"may","Europe","Southern Europe","Portugal",-168.546278538813,39.9041552511416,119,226,181,281,462
+"may","Europe","Southern Europe","Spain",-162.8159375,40.0899421296296,1285,1785,1803,2285,3012
+"may","Europe","Western Europe","Andorra",-158.461428571429,42.5342857142857,42,38,25,33,44
+"may","Europe","Western Europe","Austria",-145.891361702128,47.6804680851064,758,961,705,803,1151
+"may","Europe","Western Europe","Belgium",-155.426974637681,50.7387862318841,868,1098,964,1047,1554
+"may","Europe","Western Europe","France",-157.2156,47.37819,2788,4362,4356,4676,8628
+"may","Europe","Western Europe","Germany",-150.696603206413,50.8155811623246,4478,5665,5901,5887,7551
+"may","Europe","Western Europe","Luxembourg",-153.907505285412,49.7718181818182,45,80,46,47,72
+"may","Europe","Western Europe","Netherlands",-154.601603773585,52.0650943396226,1940,2501,2319,2738,3405
+"may","Europe","Western Europe","Switzerland",-151.942360774818,47.0366101694915,1732,2834,2024,2098,3311
+"may","Others & Unspecified","Others & Unspecified","Residences",NA,NA,3565,4128,5098,5365,5925
+"june","Africa","Africa","Nigeria",-152.464510556622,9.04612284069098,119,133,187,111,348
+"june","Africa","Africa","South Africa",-132.876814159292,-28.5941592920354,253,339,361,462,477
+"june","America","North America","Canada",112.832333696838,48.1319847328244,11358,13152,9072,10856,11965
+"june","America","North America","Mexico",100.133599574015,20.7982747603834,225,222,233,298,309
+"june","America","North America","USA",104.870802407222,37.4450351053159,60730,67199,76575,84676,94567
+"june","America","South America","Argentina",137.710731707317,-33.5251219512195,81,135,116,178,177
+"june","America","South America","Brazil",153.832635897436,-17.5192102564103,199,266,313,341,420
+"june","America","South America","Colombia",125.168682877406,5.70347517730496,65,88,129,114,161
+"june","America","South America","Peru",123.582095588235,-9.93136029411765,25,46,52,38,0
+"june","America","South America","Venezuela",131.974711538462,9.79432692307692,18,20,25,11,0
+"june","Asia","ASEAN","Brunei",-45.374,4.73,1032,1003,557,636,946
+"june","Asia","ASEAN","Cambodia",-55.1844,12.2416,288,325,348,305,299
+"june","Asia","ASEAN","Indonesia",-49.7179831932773,-5.32147058823529,4053,4035,4206,0,6093
+"june","Asia","ASEAN","Laos",-55.9455555555555,18.0761111111111,135,139,114,119,101
+"june","Asia","ASEAN","Malaysia",-56.2003067484662,3.87441717791411,12478,14690,11386,11633,12623
+"june","Asia","ASEAN","Myanmar",-63.8993939393939,18.9172727272727,578,662,820,757,776
+"june","Asia","ASEAN","Singapore",-56.15,1.3,15469,17363,16324,15022,15874
+"june","Asia","ASEAN","Thailand",-58.8763822525597,14.4172354948805,3690,3541,4072,0,6339
+"june","Asia","ASEAN","Vietnam",-53.5057352941176,16.3188235294118,2833,2884,3653,0,5173
+"june","Asia","East Asia","China",-44.1156278026906,34.0535201793722,30796,31537,55610,66066,78071
+"june","Asia","East Asia","Hongkong",NA,NA,8089,10586,10289,0,12546
+"june","Asia","East Asia","Japan",-23.1284684684684,35.605975975976,33494,37102,37614,38261,40119
+"june","Asia","East Asia","Korea",-32.3073484848485,36.3019696969697,79054,94086,109786,108455,113488
+"june","Asia","East Asia","Macau",NA,NA,583,903,834,640,899
+"june","Asia","East Asia","Taiwan",-39.2136734693877,24.0868367346939,10418,13790,22333,18374,19168
+"june","Asia","Middle East","Bahrain",-109.447272727273,26.1736363636364,311,287,193,284,372
+"june","Asia","Middle East","Egypt",-128.630588235294,29.4472549019608,124,102,104,142,150
+"june","Asia","Middle East","Jordan",-124.15642384106,32.0415894039735,75,58,52,58,0
+"june","Asia","Middle East","Kuwait",-112.027714285714,29.2714285714286,483,458,479,640,670
+"june","Asia","Middle East","Oman",-102.48380952381,22.9366666666667,NA,NA,NA,NA,258
+"june","Asia","Middle East","Qatar",-108.735555555556,25.3366666666667,347,384,271,380,417
+"june","Asia","Middle East","Saudi Arabia",-115.712795698925,23.777311827957,3968,3995,1666,0,1832
+"june","Asia","Middle East","United Arab Emirates",-104.391111111111,25.18,1410,1455,1162,0,1288
+"june","Asia","South Asia","Bangladesh",-69.7788111888112,23.7406293706294,359,450,327,314,441
+"june","Asia","South Asia","India",-80.6390758047767,21.5019210799585,5456,7030,7471,0,9500
+"june","Asia","South Asia","Iran",-108.556127819549,33.8924812030075,570,315,405,246,189
+"june","Asia","South Asia","Nepal",-75.3217307692308,27.6073076923077,248,242,333,308,701
+"june","Asia","South Asia","Pakistan",-89.0981339712919,29.9402631578947,358,466,354,289,393
+"june","Asia","South Asia","Sri Lanka",-79.6352112676057,7.26901408450704,332,562,571,380,620
+"june","Australasia & The Pacific","Australasia & The Pacific","Australia",-15.7823004694836,-30.319014084507,16553,18750,19886,19560,21279
+"june","Australasia & The Pacific","Australasia & The Pacific","Guam",-15.2292592592593,13.4496296296296,2854,2882,3792,2865,3286
+"june","Australasia & The Pacific","Australasia & The Pacific","Nauru",6.90999999999997,-0.55,0,4,2,1,2
+"june","Australasia & The Pacific","Australasia & The Pacific","New Zealand",13.6360507246377,-40.5059420289855,1467,1733,1774,2240,2596
+"june","Australasia & The Pacific","Australasia & The Pacific","Papua New Guinea",-13.0243902439024,-6.12756097560976,716,659,755,652,665
+"june","Europe","Eastern Europe","Commonwealth Of Independent States",NA,NA,424,697,699,731,757
+"june","Europe","Eastern Europe","Poland",-141.010615034169,51.843735763098,293,474,353,410,683
+"june","Europe","Eastern Europe","Russian Federation",-104.664588832487,53.6329137055838,1199,1275,1005,0,1655
+"june","Europe","Eastern Mediterranean Europe","Israel",-124.919067357513,32.3195336787565,417,755,629,748,1328
+"june","Europe","Eastern Mediterranean Europe","Turkey",-125.645423514539,39.2837547408344,421,402,514,565,539
+"june","Europe","Northern Europe","Denmark",-149.482451612903,55.8588709677419,936,953,1040,0,1244
+"june","Europe","Northern Europe","Finland",-135.20176744186,62.2486046511628,375,386,409,531,444
+"june","Europe","Northern Europe","Ireland",-167.659333333333,53.1170909090909,1558,1240,1643,0,1574
+"june","Europe","Northern Europe","Norway",-149.670952380952,62.0989355742297,2675,1141,2642,0,1299
+"june","Europe","Northern Europe","Sweden",-144.479326923077,58.9549038461538,1412,1140,1638,0,1483
+"june","Europe","Northern Europe","United Kingdom",-161.96267027027,52.9356972972973,10100,12294,10598,11237,12661
+"june","Europe","Southern Europe","Greece",-136.79204,38.98216,142,202,149,202,239
+"june","Europe","Southern Europe","Italy",-147.610994923858,42.7972182741117,1258,1323,1461,0,2055
+"june","Europe","Southern Europe","Portugal",-168.546278538813,39.9041552511416,93,161,180,205,235
+"june","Europe","Southern Europe","Spain",-162.8159375,40.0899421296296,1387,1560,1763,0,2708
+"june","Europe","Western Europe","Andorra",-158.461428571429,42.5342857142857,56,41,24,21,0
+"june","Europe","Western Europe","Austria",-145.891361702128,47.6804680851064,868,749,623,755,924
+"june","Europe","Western Europe","Belgium",-155.426974637681,50.7387862318841,1266,881,1071,0,1223
+"june","Europe","Western Europe","France",-157.2156,47.37819,2404,3478,2809,0,5561
+"june","Europe","Western Europe","Germany",-150.696603206413,50.8155811623246,3602,5135,4082,0,6532
+"june","Europe","Western Europe","Luxembourg",-153.907505285412,49.7718181818182,32,39,48,24,0
+"june","Europe","Western Europe","Netherlands",-154.601603773585,52.0650943396226,1617,2308,1788,0,2945
+"june","Europe","Western Europe","Switzerland",-151.942360774818,47.0366101694915,1302,1923,1294,0,2220
+"june","Others & Unspecified","Others & Unspecified","Residences",NA,NA,3113,3496,4126,4605,4862
+"july","Africa","Africa","Nigeria",-152.464510556622,9.04612284069098,143,150,164,96,204
+"july","Africa","Africa","South Africa",-132.876814159292,-28.5941592920354,258,298,362,446,605
+"july","America","North America","Canada",112.832333696838,48.1319847328244,7748,8255,12558,15159,17369
+"july","America","North America","Mexico",100.133599574015,20.7982747603834,293,264,279,333,400
+"july","America","North America","USA",104.870802407222,37.4450351053159,61730,65173,74899,86017,91684
+"july","America","South America","Argentina",137.710731707317,-33.5251219512195,65,96,114,79,173
+"july","America","South America","Brazil",153.832635897436,-17.5192102564103,193,260,274,357,456
+"july","America","South America","Colombia",125.168682877406,5.70347517730496,82,111,97,131,221
+"july","America","South America","Peru",123.582095588235,-9.93136029411765,18,39,35,43,58
+"july","America","South America","Venezuela",131.974711538462,9.79432692307692,18,18,32,21,25
+"july","Asia","ASEAN","Brunei",-45.374,4.73,714,607,682,598,659
+"july","Asia","ASEAN","Cambodia",-55.1844,12.2416,231,267,286,358,329
+"july","Asia","ASEAN","Indonesia",-49.7179831932773,-5.32147058823529,3901,3772,3305,4317,8451
+"july","Asia","ASEAN","Laos",-55.9455555555555,18.0761111111111,61,87,80,131,98
+"july","Asia","ASEAN","Malaysia",-56.2003067484662,3.87441717791411,12376,12851,12022,10632,11036
+"july","Asia","ASEAN","Myanmar",-63.8993939393939,18.9172727272727,460,649,595,852,717
+"july","Asia","ASEAN","Singapore",-56.15,1.3,16982,15422,14153,12535,13145
+"july","Asia","ASEAN","Thailand",-58.8763822525597,14.4172354948805,3124,3422,3985,3279,4612
+"july","Asia","ASEAN","Vietnam",-53.5057352941176,16.3188235294118,2645,2607,3040,3597,5473
+"july","Asia","East Asia","China",-44.1156278026906,34.0535201793722,27212,32495,81843,90763,85800
+"july","Asia","East Asia","Hongkong",NA,NA,9564,8656,10672,8191,9533
+"july","Asia","East Asia","Japan",-23.1284684684684,35.605975975976,31425,32560,44434,47377,50591
+"july","Asia","East Asia","Korea",-32.3073484848485,36.3019696969697,94694,96954,142793,132135,111640
+"july","Asia","East Asia","Macau",NA,NA,759,722,838,813,816
+"july","Asia","East Asia","Taiwan",-39.2136734693877,24.0868367346939,11670,16038,23894,20451,23151
+"july","Asia","Middle East","Bahrain",-109.447272727273,26.1736363636364,408,275,528,503,486
+"july","Asia","Middle East","Egypt",-128.630588235294,29.4472549019608,87,138,253,241,233
+"july","Asia","Middle East","Jordan",-124.15642384106,32.0415894039735,64,81,62,89,68
+"july","Asia","Middle East","Kuwait",-112.027714285714,29.2714285714286,441,417,898,873,712
+"july","Asia","Middle East","Oman",-102.48380952381,22.9366666666667,NA,NA,NA,NA,340
+"july","Asia","Middle East","Qatar",-108.735555555556,25.3366666666667,423,299,646,346,308
+"july","Asia","Middle East","Saudi Arabia",-115.712795698925,23.777311827957,2631,2341,8880,3228,5830
+"july","Asia","Middle East","United Arab Emirates",-104.391111111111,25.18,1702,1181,2180,1367,1338
+"july","Asia","South Asia","Bangladesh",-69.7788111888112,23.7406293706294,338,332,423,393,432
+"july","Asia","South Asia","India",-80.6390758047767,21.5019210799585,4872,5848,9202,8988,10950
+"july","Asia","South Asia","Iran",-108.556127819549,33.8924812030075,175,359,167,178,151
+"july","Asia","South Asia","Nepal",-75.3217307692308,27.6073076923077,165,271,393,346,380
+"july","Asia","South Asia","Pakistan",-89.0981339712919,29.9402631578947,236,328,403,424,523
+"july","Asia","South Asia","Sri Lanka",-79.6352112676057,7.26901408450704,344,493,458,412,659
+"july","Australasia & The Pacific","Australasia & The Pacific","Australia",-15.7823004694836,-30.319014084507,15032,16797,17827,18178,19663
+"july","Australasia & The Pacific","Australasia & The Pacific","Guam",-15.2292592592593,13.4496296296296,4563,4219,4629,4096,4040
+"july","Australasia & The Pacific","Australasia & The Pacific","Nauru",6.90999999999997,-0.55,0,3,3,0,2
+"july","Australasia & The Pacific","Australasia & The Pacific","New Zealand",13.6360507246377,-40.5059420289855,1365,1465,1840,2105,2544
+"july","Australasia & The Pacific","Australasia & The Pacific","Papua New Guinea",-13.0243902439024,-6.12756097560976,598,631,756,695,857
+"july","Europe","Eastern Europe","Commonwealth Of Independent States",NA,NA,516,667,745,757,595
+"july","Europe","Eastern Europe","Poland",-141.010615034169,51.843735763098,301,331,365,493,464
+"july","Europe","Eastern Europe","Russian Federation",-104.664588832487,53.6329137055838,1273,1053,1082,1399,1171
+"july","Europe","Eastern Mediterranean Europe","Israel",-124.919067357513,32.3195336787565,485,525,891,1006,869
+"july","Europe","Eastern Mediterranean Europe","Turkey",-125.645423514539,39.2837547408344,370,518,721,646,522
+"july","Europe","Northern Europe","Denmark",-149.482451612903,55.8588709677419,1233,892,1821,1169,1023
+"july","Europe","Northern Europe","Finland",-135.20176744186,62.2486046511628,225,437,295,242,320
+"july","Europe","Northern Europe","Ireland",-167.659333333333,53.1170909090909,1142,1637,1922,2095,2324
+"july","Europe","Northern Europe","Norway",-149.670952380952,62.0989355742297,2450,2712,2769,2676,2834
+"july","Europe","Northern Europe","Sweden",-144.479326923077,58.9549038461538,1129,1438,1442,1898,1952
+"july","Europe","Northern Europe","United Kingdom",-161.96267027027,52.9356972972973,8288,9614,16980,17254,18847
+"july","Europe","Southern Europe","Greece",-136.79204,38.98216,150,167,176,185,198
+"july","Europe","Southern Europe","Italy",-147.610994923858,42.7972182741117,1458,1313,2074,1710,2065
+"july","Europe","Southern Europe","Portugal",-168.546278538813,39.9041552511416,107,124,193,204,309
+"july","Europe","Southern Europe","Spain",-162.8159375,40.0899421296296,1827,1489,3470,2205,2504
+"july","Europe","Western Europe","Andorra",-158.461428571429,42.5342857142857,50,26,36,17,50
+"july","Europe","Western Europe","Austria",-145.891361702128,47.6804680851064,1077,606,1277,1503,750
+"july","Europe","Western Europe","Belgium",-155.426974637681,50.7387862318841,1671,1041,1956,1167,1474
+"july","Europe","Western Europe","France",-157.2156,47.37819,3429,2421,4233,2937,3339
+"july","Europe","Western Europe","Germany",-150.696603206413,50.8155811623246,4917,3835,6112,4513,4828
+"july","Europe","Western Europe","Luxembourg",-153.907505285412,49.7718181818182,73,29,63,71,51
+"july","Europe","Western Europe","Netherlands",-154.601603773585,52.0650943396226,2695,1769,3282,2020,2195
+"july","Europe","Western Europe","Switzerland",-151.942360774818,47.0366101694915,2266,1353,2581,1392,1386
+"july","Others & Unspecified","Others & Unspecified","Residences",NA,NA,3074,3513,4151,3715,4740
+"august","Africa","Africa","Nigeria",-152.464510556622,9.04612284069098,101,149,144,170,165
+"august","Africa","Africa","South Africa",-132.876814159292,-28.5941592920354,266,374,426,546,542
+"august","America","North America","Canada",112.832333696838,48.1319847328244,10548,11250,10104,11057,12848
+"august","America","North America","Mexico",100.133599574015,20.7982747603834,222,338,218,270,360
+"august","America","North America","USA",104.870802407222,37.4450351053159,60361,65218,55080,61415,65567
+"august","America","South America","Argentina",137.710731707317,-33.5251219512195,75,94,105,118,145
+"august","America","South America","Brazil",153.832635897436,-17.5192102564103,212,234,249,389,469
+"august","America","South America","Colombia",125.168682877406,5.70347517730496,106,103,93,121,238
+"august","America","South America","Peru",123.582095588235,-9.93136029411765,28,41,35,45,69
+"august","America","South America","Venezuela",131.974711538462,9.79432692307692,22,16,20,15,35
+"august","Asia","ASEAN","Brunei",-45.374,4.73,555,742,554,718,533
+"august","Asia","ASEAN","Cambodia",-55.1844,12.2416,238,295,265,411,283
+"august","Asia","ASEAN","Indonesia",-49.7179831932773,-5.32147058823529,3735,4233,2400,4887,5505
+"august","Asia","ASEAN","Laos",-55.9455555555555,18.0761111111111,59,98,71,155,53
+"august","Asia","ASEAN","Malaysia",-56.2003067484662,3.87441717791411,11353,12981,10810,12336,11578
+"august","Asia","ASEAN","Myanmar",-63.8993939393939,18.9172727272727,480,622,584,906,714
+"august","Asia","ASEAN","Singapore",-56.15,1.3,13641,14585,14008,13726,12612
+"august","Asia","ASEAN","Thailand",-58.8763822525597,14.4172354948805,3218,3351,3788,3671,4975
+"august","Asia","ASEAN","Vietnam",-53.5057352941176,16.3188235294118,2470,2810,2743,3003,4642
+"august","Asia","East Asia","China",-44.1156278026906,34.0535201793722,41865,66689,61766,95687,119990
+"august","Asia","East Asia","Hongkong",NA,NA,8743,10661,9142,9810,7457
+"august","Asia","East Asia","Japan",-23.1284684684684,35.605975975976,38720,41620,62054,64114,65136
+"august","Asia","East Asia","Korea",-32.3073484848485,36.3019696969697,114257,119292,147588,141869,127190
+"august","Asia","East Asia","Macau",NA,NA,674,993,764,669,643
+"august","Asia","East Asia","Taiwan",-39.2136734693877,24.0868367346939,15574,18833,21498,19993,21004
+"august","Asia","Middle East","Bahrain",-109.447272727273,26.1736363636364,485,423,366,392,325
+"august","Asia","Middle East","Egypt",-128.630588235294,29.4472549019608,122,140,176,134,204
+"august","Asia","Middle East","Jordan",-124.15642384106,32.0415894039735,43,64,46,48,149
+"august","Asia","Middle East","Kuwait",-112.027714285714,29.2714285714286,563,622,748,837,639
+"august","Asia","Middle East","Oman",-102.48380952381,22.9366666666667,NA,NA,NA,NA,227
+"august","Asia","Middle East","Qatar",-108.735555555556,25.3366666666667,304,442,323,369,324
+"august","Asia","Middle East","Saudi Arabia",-115.712795698925,23.777311827957,6350,7098,7904,8227,6499
+"august","Asia","Middle East","United Arab Emirates",-104.391111111111,25.18,1711,1822,1467,1602,1726
+"august","Asia","South Asia","Bangladesh",-69.7788111888112,23.7406293706294,319,568,336,353,454
+"august","Asia","South Asia","India",-80.6390758047767,21.5019210799585,4737,5565,6595,9637,9576
+"august","Asia","South Asia","Iran",-108.556127819549,33.8924812030075,142,143,212,196,153
+"august","Asia","South Asia","Nepal",-75.3217307692308,27.6073076923077,162,176,280,410,342
+"august","Asia","South Asia","Pakistan",-89.0981339712919,29.9402631578947,288,324,403,343,437
+"august","Asia","South Asia","Sri Lanka",-79.6352112676057,7.26901408450704,284,349,343,528,581
+"august","Australasia & The Pacific","Australasia & The Pacific","Australia",-15.7823004694836,-30.319014084507,15058,18122,19232,19985,20817
+"august","Australasia & The Pacific","Australasia & The Pacific","Guam",-15.2292592592593,13.4496296296296,3855,4135,4688,4222,3528
+"august","Australasia & The Pacific","Australasia & The Pacific","Nauru",6.90999999999997,-0.55,1,0,0,1,1
+"august","Australasia & The Pacific","Australasia & The Pacific","New Zealand",13.6360507246377,-40.5059420289855,1280,1626,1975,2649,2720
+"august","Australasia & The Pacific","Australasia & The Pacific","Papua New Guinea",-13.0243902439024,-6.12756097560976,496,408,675,650,671
+"august","Europe","Eastern Europe","Commonwealth Of Independent States",NA,NA,508,746,741,756,644
+"august","Europe","Eastern Europe","Poland",-141.010615034169,51.843735763098,257,355,365,410,572
+"august","Europe","Eastern Europe","Russian Federation",-104.664588832487,53.6329137055838,1262,1007,1069,1380,1269
+"august","Europe","Eastern Mediterranean Europe","Israel",-124.919067357513,32.3195336787565,494,734,934,966,1405
+"august","Europe","Eastern Mediterranean Europe","Turkey",-125.645423514539,39.2837547408344,301,469,483,732,666
+"august","Europe","Northern Europe","Denmark",-149.482451612903,55.8588709677419,630,1399,811,1457,1517
+"august","Europe","Northern Europe","Finland",-135.20176744186,62.2486046511628,263,285,239,240,288
+"august","Europe","Northern Europe","Ireland",-167.659333333333,53.1170909090909,670,1492,1105,2150,2273
+"august","Europe","Northern Europe","Norway",-149.670952380952,62.0989355742297,968,2498,959,2800,3178
+"august","Europe","Northern Europe","Sweden",-144.479326923077,58.9549038461538,717,1062,828,1553,1494
+"august","Europe","Northern Europe","United Kingdom",-161.96267027027,52.9356972972973,12655,15215,13682,14105,15376
+"august","Europe","Southern Europe","Greece",-136.79204,38.98216,136,135,123,205,223
+"august","Europe","Southern Europe","Italy",-147.610994923858,42.7972182741117,1611,1599,2428,2363,2861
+"august","Europe","Southern Europe","Portugal",-168.546278538813,39.9041552511416,163,129,194,229,396
+"august","Europe","Southern Europe","Spain",-162.8159375,40.0899421296296,2137,2260,3951,3572,4527
+"august","Europe","Western Europe","Andorra",-158.461428571429,42.5342857142857,24,36,48,66,47
+"august","Europe","Western Europe","Austria",-145.891361702128,47.6804680851064,679,1310,914,834,1446
+"august","Europe","Western Europe","Belgium",-155.426974637681,50.7387862318841,707,1668,782,2101,2241
+"august","Europe","Western Europe","France",-157.2156,47.37819,2671,3772,3325,4555,5253
+"august","Europe","Western Europe","Germany",-150.696603206413,50.8155811623246,5317,4853,5814,6008,6413
+"august","Europe","Western Europe","Luxembourg",-153.907505285412,49.7718181818182,57,57,92,67,90
+"august","Europe","Western Europe","Netherlands",-154.601603773585,52.0650943396226,1540,2812,2080,3224,3922
+"august","Europe","Western Europe","Switzerland",-151.942360774818,47.0366101694915,1102,2340,1372,2375,2662
+"august","Others & Unspecified","Others & Unspecified","Residences",NA,NA,3137,3710,4269,4072,5375
+"september","Africa","Africa","Nigeria",-152.464510556622,9.04612284069098,111,99,141,198,125
+"september","Africa","Africa","South Africa",-132.876814159292,-28.5941592920354,249,302,359,417,432
+"september","America","North America","Canada",112.832333696838,48.1319847328244,7419,8890,9548,10686,11351
+"september","America","North America","Mexico",100.133599574015,20.7982747603834,228,290,235,354,363
+"september","America","North America","USA",104.870802407222,37.4450351053159,43545,50050,51866,56827,59600
+"september","America","South America","Argentina",137.710731707317,-33.5251219512195,90,78,100,115,150
+"september","America","South America","Brazil",153.832635897436,-17.5192102564103,193,271,317,339,476
+"september","America","South America","Colombia",125.168682877406,5.70347517730496,94,80,153,132,228
+"september","America","South America","Peru",123.582095588235,-9.93136029411765,38,65,39,50,107
+"september","America","South America","Venezuela",131.974711538462,9.79432692307692,14,23,22,21,26
+"september","Asia","ASEAN","Brunei",-45.374,4.73,780,627,770,783,781
+"september","Asia","ASEAN","Cambodia",-55.1844,12.2416,244,311,281,447,353
+"september","Asia","ASEAN","Indonesia",-49.7179831932773,-5.32147058823529,3744,4528,2584,4816,5317
+"september","Asia","ASEAN","Laos",-55.9455555555555,18.0761111111111,78,111,82,211,85
+"september","Asia","ASEAN","Malaysia",-56.2003067484662,3.87441717791411,10552,13048,10533,11541,13211
+"september","Asia","ASEAN","Myanmar",-63.8993939393939,18.9172727272727,456,435,589,818,698
+"september","Asia","ASEAN","Singapore",-56.15,1.3,13049,14515,13190,13974,13182
+"september","Asia","ASEAN","Thailand",-58.8763822525597,14.4172354948805,3088,3569,3831,4008,4199
+"september","Asia","ASEAN","Vietnam",-53.5057352941176,16.3188235294118,2038,2189,2486,2776,3871
+"september","Asia","East Asia","China",-44.1156278026906,34.0535201793722,40365,65403,53015,79463,106789
+"september","Asia","East Asia","Hongkong",NA,NA,9086,10202,8504,9026,7411
+"september","Asia","East Asia","Japan",-23.1284684684684,35.605975975976,51815,55997,43525,46553,53342
+"september","Asia","East Asia","Korea",-32.3073484848485,36.3019696969697,121624,139472,115147,123834,129734
+"september","Asia","East Asia","Macau",NA,NA,589,1012,717,680,544
+"september","Asia","East Asia","Taiwan",-39.2136734693877,24.0868367346939,14217,16397,20773,17112,22152
+"september","Asia","Middle East","Bahrain",-109.447272727273,26.1736363636364,299,361,265,283,237
+"september","Asia","Middle East","Egypt",-128.630588235294,29.4472549019608,120,165,136,146,188
+"september","Asia","Middle East","Jordan",-124.15642384106,32.0415894039735,59,49,48,44,122
+"september","Asia","Middle East","Kuwait",-112.027714285714,29.2714285714286,358,586,596,668,375
+"september","Asia","Middle East","Oman",-102.48380952381,22.9366666666667,NA,NA,NA,NA,239
+"september","Asia","Middle East","Qatar",-108.735555555556,25.3366666666667,279,380,481,319,188
+"september","Asia","Middle East","Saudi Arabia",-115.712795698925,23.777311827957,4779,5532,5226,7155,4851
+"september","Asia","Middle East","United Arab Emirates",-104.391111111111,25.18,1204,1451,1629,1457,1208
+"september","Asia","South Asia","Bangladesh",-69.7788111888112,23.7406293706294,309,407,399,425,578
+"september","Asia","South Asia","India",-80.6390758047767,21.5019210799585,4988,5837,6673,8081,8974
+"september","Asia","South Asia","Iran",-108.556127819549,33.8924812030075,139,124,161,209,157
+"september","Asia","South Asia","Nepal",-75.3217307692308,27.6073076923077,148,232,248,227,476
+"september","Asia","South Asia","Pakistan",-89.0981339712919,29.9402631578947,327,412,310,367,520
+"september","Asia","South Asia","Sri Lanka",-79.6352112676057,7.26901408450704,270,427,539,463,659
+"september","Australasia & The Pacific","Australasia & The Pacific","Australia",-15.7823004694836,-30.319014084507,13378,15855,15575,16016,17578
+"september","Australasia & The Pacific","Australasia & The Pacific","Guam",-15.2292592592593,13.4496296296296,2664,2422,3108,2670,1775
+"september","Australasia & The Pacific","Australasia & The Pacific","Nauru",6.90999999999997,-0.55,2,0,4,2,5
+"september","Australasia & The Pacific","Australasia & The Pacific","New Zealand",13.6360507246377,-40.5059420289855,1207,1558,1535,1880,2333
+"september","Australasia & The Pacific","Australasia & The Pacific","Papua New Guinea",-13.0243902439024,-6.12756097560976,499,450,567,650,613
+"september","Europe","Eastern Europe","Commonwealth Of Independent States",NA,NA,445,796,626,802,764
+"september","Europe","Eastern Europe","Poland",-141.010615034169,51.843735763098,324,419,394,500,471
+"september","Europe","Eastern Europe","Russian Federation",-104.664588832487,53.6329137055838,1352,1066,1253,1256,1251
+"september","Europe","Eastern Mediterranean Europe","Israel",-124.919067357513,32.3195336787565,838,710,1611,1491,1340
+"september","Europe","Eastern Mediterranean Europe","Turkey",-125.645423514539,39.2837547408344,293,516,615,559,488
+"september","Europe","Northern Europe","Denmark",-149.482451612903,55.8588709677419,676,735,819,850,845
+"september","Europe","Northern Europe","Finland",-135.20176744186,62.2486046511628,279,224,304,312,383
+"september","Europe","Northern Europe","Ireland",-167.659333333333,53.1170909090909,703,847,835,1231,1378
+"september","Europe","Northern Europe","Norway",-149.670952380952,62.0989355742297,1049,912,992,1094,1157
+"september","Europe","Northern Europe","Sweden",-144.479326923077,58.9549038461538,859,738,909,906,926
+"september","Europe","Northern Europe","United Kingdom",-161.96267027027,52.9356972972973,9358,12338,9261,10860,11637
+"september","Europe","Southern Europe","Greece",-136.79204,38.98216,134,176,136,249,238
+"september","Europe","Southern Europe","Italy",-147.610994923858,42.7972182741117,1150,1991,1324,2695,3316
+"september","Europe","Southern Europe","Portugal",-168.546278538813,39.9041552511416,111,192,152,223,354
+"september","Europe","Southern Europe","Spain",-162.8159375,40.0899421296296,1192,3095,1798,3967,5502
+"september","Europe","Western Europe","Andorra",-158.461428571429,42.5342857142857,11,25,39,28,2
+"september","Europe","Western Europe","Austria",-145.891361702128,47.6804680851064,515,753,608,595,899
+"september","Europe","Western Europe","Belgium",-155.426974637681,50.7387862318841,708,828,856,1010,1098
+"september","Europe","Western Europe","France",-157.2156,47.37819,2022,2954,2360,3775,4556
+"september","Europe","Western Europe","Germany",-150.696603206413,50.8155811623246,4102,5689,4779,5495,6127
+"september","Europe","Western Europe","Luxembourg",-153.907505285412,49.7718181818182,30,86,45,41,97
+"september","Europe","Western Europe","Netherlands",-154.601603773585,52.0650943396226,1641,1803,1555,2135,2426
+"september","Europe","Western Europe","Switzerland",-151.942360774818,47.0366101694915,1301,1242,1384,1448,1366
+"september","Others & Unspecified","Others & Unspecified","Residences",NA,NA,2896,3589,3424,3828,4448
+"october","Africa","Africa","Nigeria",-152.464510556622,9.04612284069098,74,102,108,160,138
+"october","Africa","Africa","South Africa",-132.876814159292,-28.5941592920354,236,274,345,450,498
+"october","America","North America","Canada",112.832333696838,48.1319847328244,7382,7559,13113,13080,15477
+"october","America","North America","Mexico",100.133599574015,20.7982747603834,270,241,233,414,362
+"october","America","North America","USA",104.870802407222,37.4450351053159,43047,46291,67994,67567,76090
+"october","America","South America","Argentina",137.710731707317,-33.5251219512195,137,101,141,211,161
+"october","America","South America","Brazil",153.832635897436,-17.5192102564103,210,253,415,371,477
+"october","America","South America","Colombia",125.168682877406,5.70347517730496,89,117,170,157,242
+"october","America","South America","Peru",123.582095588235,-9.93136029411765,42,45,60,53,87
+"october","America","South America","Venezuela",131.974711538462,9.79432692307692,14,25,15,19,34
+"october","Asia","ASEAN","Brunei",-45.374,4.73,697,739,523,583,636
+"october","Asia","ASEAN","Cambodia",-55.1844,12.2416,259,276,228,494,463
+"october","Asia","ASEAN","Indonesia",-49.7179831932773,-5.32147058823529,3478,3832,3057,8581,6186
+"october","Asia","ASEAN","Laos",-55.9455555555555,18.0761111111111,88,105,87,180,103
+"october","Asia","ASEAN","Malaysia",-56.2003067484662,3.87441717791411,10466,13189,10571,12435,11491
+"october","Asia","ASEAN","Myanmar",-63.8993939393939,18.9172727272727,638,515,600,819,860
+"october","Asia","ASEAN","Singapore",-56.15,1.3,13961,14122,12914,13597,13427
+"october","Asia","ASEAN","Thailand",-58.8763822525597,14.4172354948805,3811,3418,3819,4145,4304
+"october","Asia","ASEAN","Vietnam",-53.5057352941176,16.3188235294118,2227,2283,2528,2798,4145
+"october","Asia","East Asia","China",-44.1156278026906,34.0535201793722,26279,51378,44542,89932,102374
+"october","Asia","East Asia","Hongkong",NA,NA,9535,10160,8977,9187,8591
+"october","Asia","East Asia","Japan",-23.1284684684684,35.605975975976,38199,45934,38086,38733,45108
+"october","Asia","East Asia","Korea",-32.3073484848485,36.3019696969697,82098,95386,112508,139218,125236
+"october","Asia","East Asia","Macau",NA,NA,665,856,829,799,730
+"october","Asia","East Asia","Taiwan",-39.2136734693877,24.0868367346939,11709,14564,18327,21241,19498
+"october","Asia","Middle East","Bahrain",-109.447272727273,26.1736363636364,332,327,308,298,258
+"october","Asia","Middle East","Egypt",-128.630588235294,29.4472549019608,135,112,157,148,203
+"october","Asia","Middle East","Jordan",-124.15642384106,32.0415894039735,53,53,60,53,84
+"october","Asia","Middle East","Kuwait",-112.027714285714,29.2714285714286,504,482,448,575,502
+"october","Asia","Middle East","Oman",-102.48380952381,22.9366666666667,NA,NA,NA,NA,200
+"october","Asia","Middle East","Qatar",-108.735555555556,25.3366666666667,407,429,335,305,209
+"october","Asia","Middle East","Saudi Arabia",-115.712795698925,23.777311827957,3696,5642,3887,4658,3211
+"october","Asia","Middle East","United Arab Emirates",-104.391111111111,25.18,1592,1318,1048,1223,680
+"october","Asia","South Asia","Bangladesh",-69.7788111888112,23.7406293706294,375,328,397,461,531
+"october","Asia","South Asia","India",-80.6390758047767,21.5019210799585,4689,6070,7089,8389,9033
+"october","Asia","South Asia","Iran",-108.556127819549,33.8924812030075,216,129,175,176,195
+"october","Asia","South Asia","Nepal",-75.3217307692308,27.6073076923077,193,203,222,227,322
+"october","Asia","South Asia","Pakistan",-89.0981339712919,29.9402631578947,342,328,377,284,491
+"october","Asia","South Asia","Sri Lanka",-79.6352112676057,7.26901408450704,310,328,499,411,516
+"october","Australasia & The Pacific","Australasia & The Pacific","Australia",-15.7823004694836,-30.319014084507,16666,17609,17584,19858,20551
+"october","Australasia & The Pacific","Australasia & The Pacific","Guam",-15.2292592592593,13.4496296296296,2333,2466,2670,2850,1728
+"october","Australasia & The Pacific","Australasia & The Pacific","Nauru",6.90999999999997,-0.55,2,1,0,0,2
+"october","Australasia & The Pacific","Australasia & The Pacific","New Zealand",13.6360507246377,-40.5059420289855,1276,1449,1621,2106,2335
+"october","Australasia & The Pacific","Australasia & The Pacific","Papua New Guinea",-13.0243902439024,-6.12756097560976,484,447,822,711,730
+"october","Europe","Eastern Europe","Commonwealth Of Independent States",NA,NA,547,760,651,830,745
+"october","Europe","Eastern Europe","Poland",-141.010615034169,51.843735763098,373,482,607,627,655
+"october","Europe","Eastern Europe","Russian Federation",-104.664588832487,53.6329137055838,2511,1168,2814,1438,1420
+"october","Europe","Eastern Mediterranean Europe","Israel",-124.919067357513,32.3195336787565,795,1280,2072,1487,1899
+"october","Europe","Eastern Mediterranean Europe","Turkey",-125.645423514539,39.2837547408344,433,442,584,559,540
+"october","Europe","Northern Europe","Denmark",-149.482451612903,55.8588709677419,904,774,1108,918,965
+"october","Europe","Northern Europe","Finland",-135.20176744186,62.2486046511628,340,294,472,391,535
+"october","Europe","Northern Europe","Ireland",-167.659333333333,53.1170909090909,969,768,1153,1020,1144
+"october","Europe","Northern Europe","Norway",-149.670952380952,62.0989355742297,1326,1061,1286,1066,1134
+"october","Europe","Northern Europe","Sweden",-144.479326923077,58.9549038461538,1228,907,1642,1076,1051
+"october","Europe","Northern Europe","United Kingdom",-161.96267027027,52.9356972972973,7864,8783,13116,12695,14714
+"october","Europe","Southern Europe","Greece",-136.79204,38.98216,179,165,196,251,272
+"october","Europe","Southern Europe","Italy",-147.610994923858,42.7972182741117,1217,1086,1766,1520,2007
+"october","Europe","Southern Europe","Portugal",-168.546278538813,39.9041552511416,99,138,241,310,475
+"october","Europe","Southern Europe","Spain",-162.8159375,40.0899421296296,1566,1374,2650,2198,2650
+"october","Europe","Western Europe","Andorra",-158.461428571429,42.5342857142857,15,9,51,31,0
+"october","Europe","Western Europe","Austria",-145.891361702128,47.6804680851064,740,564,828,821,761
+"october","Europe","Western Europe","Belgium",-155.426974637681,50.7387862318841,732,717,1064,865,953
+"october","Europe","Western Europe","France",-157.2156,47.37819,2374,2212,3905,2918,3397
+"october","Europe","Western Europe","Germany",-150.696603206413,50.8155811623246,4869,4208,6598,4624,5484
+"october","Europe","Western Europe","Luxembourg",-153.907505285412,49.7718181818182,56,21,50,67,34
+"october","Europe","Western Europe","Netherlands",-154.601603773585,52.0650943396226,1847,1663,2409,1897,2018
+"october","Europe","Western Europe","Switzerland",-151.942360774818,47.0366101694915,1824,1444,2362,1497,1609
+"october","Others & Unspecified","Others & Unspecified","Residences",NA,NA,2816,3350,3379,3862,4288
+"november","Africa","Africa","Nigeria",-152.464510556622,9.04612284069098,112,129,109,134,187
+"november","Africa","Africa","South Africa",-132.876814159292,-28.5941592920354,259,351,353,496,527
+"november","America","North America","Canada",112.832333696838,48.1319847328244,10365,11051,15035,17344,18637
+"november","America","North America","Mexico",100.133599574015,20.7982747603834,242,230,304,820,431
+"november","America","North America","USA",104.870802407222,37.4450351053159,55819,59150,67840,74704,79089
+"november","America","South America","Argentina",137.710731707317,-33.5251219512195,145,125,161,242,182
+"november","America","South America","Brazil",153.832635897436,-17.5192102564103,318,249,541,482,601
+"november","America","South America","Colombia",125.168682877406,5.70347517730496,91,99,139,146,224
+"november","America","South America","Peru",123.582095588235,-9.93136029411765,33,39,65,72,112
+"november","America","South America","Venezuela",131.974711538462,9.79432692307692,13,12,19,33,61
+"november","Asia","ASEAN","Brunei",-45.374,4.73,919,653,748,725,793
+"november","Asia","ASEAN","Cambodia",-55.1844,12.2416,405,319,388,574,443
+"november","Asia","ASEAN","Indonesia",-49.7179831932773,-5.32147058823529,4621,4238,3589,5073,6642
+"november","Asia","ASEAN","Laos",-55.9455555555555,18.0761111111111,148,91,153,199,167
+"november","Asia","ASEAN","Malaysia",-56.2003067484662,3.87441717791411,11240,11936,11844,12852,12649
+"november","Asia","ASEAN","Myanmar",-63.8993939393939,18.9172727272727,765,586,748,990,883
+"november","Asia","ASEAN","Singapore",-56.15,1.3,14653,14366,14849,14752,13910
+"november","Asia","ASEAN","Thailand",-58.8763822525597,14.4172354948805,4634,3961,4174,4530,4816
+"november","Asia","ASEAN","Vietnam",-53.5057352941176,16.3188235294118,3005,2618,2877,2801,4113
+"november","Asia","East Asia","China",-44.1156278026906,34.0535201793722,19530,42073,48203,79307,87243
+"november","Asia","East Asia","Hongkong",NA,NA,9690,10267,8482,9226,7093
+"november","Asia","East Asia","Japan",-23.1284684684684,35.605975975976,33533,36332,42506,44952,47776
+"november","Asia","East Asia","Korea",-32.3073484848485,36.3019696969697,92339,102057,127547,0,122390
+"november","Asia","East Asia","Macau",NA,NA,655,1000,631,728,625
+"november","Asia","East Asia","Taiwan",-39.2136734693877,24.0868367346939,12364,15337,16905,16052,16589
+"november","Asia","Middle East","Bahrain",-109.447272727273,26.1736363636364,310,268,247,281,283
+"november","Asia","Middle East","Egypt",-128.630588235294,29.4472549019608,164,123,133,178,202
+"november","Asia","Middle East","Jordan",-124.15642384106,32.0415894039735,40,39,46,64,114
+"november","Asia","Middle East","Kuwait",-112.027714285714,29.2714285714286,402,384,602,650,507
+"november","Asia","Middle East","Oman",-102.48380952381,22.9366666666667,NA,NA,NA,NA,253
+"november","Asia","Middle East","Qatar",-108.735555555556,25.3366666666667,294,318,330,316,180
+"november","Asia","Middle East","Saudi Arabia",-115.712795698925,23.777311827957,3331,3886,5195,3933,3452
+"november","Asia","Middle East","United Arab Emirates",-104.391111111111,25.18,1394,1313,1230,1224,790
+"november","Asia","South Asia","Bangladesh",-69.7788111888112,23.7406293706294,372,415,372,519,573
+"november","Asia","South Asia","India",-80.6390758047767,21.5019210799585,6885,6590,9516,8062,11297
+"november","Asia","South Asia","Iran",-108.556127819549,33.8924812030075,280,208,250,249,194
+"november","Asia","South Asia","Nepal",-75.3217307692308,27.6073076923077,453,249,305,498,328
+"november","Asia","South Asia","Pakistan",-89.0981339712919,29.9402631578947,306,337,387,393,524
+"november","Asia","South Asia","Sri Lanka",-79.6352112676057,7.26901408450704,386,516,402,440,553
+"november","Australasia & The Pacific","Australasia & The Pacific","Australia",-15.7823004694836,-30.319014084507,17165,18265,20220,19592,21167
+"november","Australasia & The Pacific","Australasia & The Pacific","Guam",-15.2292592592593,13.4496296296296,2688,2711,2675,2912,2088
+"november","Australasia & The Pacific","Australasia & The Pacific","Nauru",6.90999999999997,-0.55,8,7,5,0,7
+"november","Australasia & The Pacific","Australasia & The Pacific","New Zealand",13.6360507246377,-40.5059420289855,1277,1518,1829,2196,2487
+"november","Australasia & The Pacific","Australasia & The Pacific","Papua New Guinea",-13.0243902439024,-6.12756097560976,621,445,603,687,802
+"november","Europe","Eastern Europe","Commonwealth Of Independent States",NA,NA,680,841,908,1030,990
+"november","Europe","Eastern Europe","Poland",-141.010615034169,51.843735763098,721,705,1247,1168,835
+"november","Europe","Eastern Europe","Russian Federation",-104.664588832487,53.6329137055838,3519,2001,4065,2554,2011
+"november","Europe","Eastern Mediterranean Europe","Israel",-124.919067357513,32.3195336787565,913,742,1307,1333,1137
+"november","Europe","Eastern Mediterranean Europe","Turkey",-125.645423514539,39.2837547408344,523,529,653,759,784
+"november","Europe","Northern Europe","Denmark",-149.482451612903,55.8588709677419,1035,1046,1335,1069,1146
+"november","Europe","Northern Europe","Finland",-135.20176744186,62.2486046511628,438,388,584,616,693
+"november","Europe","Northern Europe","Ireland",-167.659333333333,53.1170909090909,800,896,1301,1150,1332
+"november","Europe","Northern Europe","Norway",-149.670952380952,62.0989355742297,1380,1258,1486,1342,1328
+"november","Europe","Northern Europe","Sweden",-144.479326923077,58.9549038461538,1764,1331,2210,1416,1528
+"november","Europe","Northern Europe","United Kingdom",-161.96267027027,52.9356972972973,9029,11054,13797,14818,16247
+"november","Europe","Southern Europe","Greece",-136.79204,38.98216,253,228,346,352,424
+"november","Europe","Southern Europe","Italy",-147.610994923858,42.7972182741117,1615,1435,2308,1744,2220
+"november","Europe","Southern Europe","Portugal",-168.546278538813,39.9041552511416,174,175,357,561,777
+"november","Europe","Southern Europe","Spain",-162.8159375,40.0899421296296,1786,1685,3254,2760,3415
+"november","Europe","Western Europe","Andorra",-158.461428571429,42.5342857142857,32,18,21,40,2
+"november","Europe","Western Europe","Austria",-145.891361702128,47.6804680851064,877,794,1007,950,891
+"november","Europe","Western Europe","Belgium",-155.426974637681,50.7387862318841,1010,871,1091,1020,1181
+"november","Europe","Western Europe","France",-157.2156,47.37819,2983,2962,4348,3913,4580
+"november","Europe","Western Europe","Germany",-150.696603206413,50.8155811623246,6198,5549,7357,5982,6733
+"november","Europe","Western Europe","Luxembourg",-153.907505285412,49.7718181818182,43,51,50,63,47
+"november","Europe","Western Europe","Netherlands",-154.601603773585,52.0650943396226,2276,2085,2882,2105,2730
+"november","Europe","Western Europe","Switzerland",-151.942360774818,47.0366101694915,2153,2036,2475,2141,2048
+"november","Others & Unspecified","Others & Unspecified","Residences",NA,NA,3411,3726,3999,4666,5301
+"december","Africa","Africa","Nigeria",-152.464510556622,9.04612284069098,130,138,83,128,168
+"december","Africa","Africa","South Africa",-132.876814159292,-28.5941592920354,261,390,409,497,560
+"december","America","North America","Canada",112.832333696838,48.1319847328244,12359,12196,23861,0,29666
+"december","America","North America","Mexico",100.133599574015,20.7982747603834,175,293,221,1635,302
+"december","America","North America","USA",104.870802407222,37.4450351053159,54955,55451,97614,0,104597
+"december","America","South America","Argentina",137.710731707317,-33.5251219512195,89,111,158,290,208
+"december","America","South America","Brazil",153.832635897436,-17.5192102564103,381,341,595,687,0
+"december","America","South America","Colombia",125.168682877406,5.70347517730496,94,89,137,243,230
+"december","America","South America","Peru",123.582095588235,-9.93136029411765,46,52,42,359,87
+"december","America","South America","Venezuela",131.974711538462,9.79432692307692,22,25,9,22,50
+"december","Asia","ASEAN","Brunei",-45.374,4.73,1090,678,833,907,0
+"december","Asia","ASEAN","Cambodia",-55.1844,12.2416,287,414,248,384,241
+"december","Asia","ASEAN","Indonesia",-49.7179831932773,-5.32147058823529,3989,4086,3697,5939,6553
+"december","Asia","ASEAN","Laos",-55.9455555555555,18.0761111111111,91,91,61,79,112
+"december","Asia","ASEAN","Malaysia",-56.2003067484662,3.87441717791411,14958,13544,11056,0,11618
+"december","Asia","ASEAN","Myanmar",-63.8993939393939,18.9172727272727,471,621,610,683,955
+"december","Asia","ASEAN","Singapore",-56.15,1.3,16921,14928,14863,0,13784
+"december","Asia","ASEAN","Thailand",-58.8763822525597,14.4172354948805,3543,3637,3541,4768,5032
+"december","Asia","ASEAN","Vietnam",-53.5057352941176,16.3188235294118,2094,2508,2340,3652,4405
+"december","Asia","East Asia","China",-44.1156278026906,34.0535201793722,20762,37329,45336,0,97513
+"december","Asia","East Asia","Hongkong",NA,NA,10012,8574,9033,9186,0
+"december","Asia","East Asia","Japan",-23.1284684684684,35.605975975976,36847,35612,43977,0,53806
+"december","Asia","East Asia","Korea",-32.3073484848485,36.3019696969697,100243,105330,143380,125583,127935
+"december","Asia","East Asia","Macau",NA,NA,826,627,768,756,764
+"december","Asia","East Asia","Taiwan",-39.2136734693877,24.0868367346939,11071,13399,15781,0,19477
+"december","Asia","Middle East","Bahrain",-109.447272727273,26.1736363636364,293,197,302,255,215
+"december","Asia","Middle East","Egypt",-128.630588235294,29.4472549019608,117,96,193,169,187
+"december","Asia","Middle East","Jordan",-124.15642384106,32.0415894039735,53,47,71,43,149
+"december","Asia","Middle East","Kuwait",-112.027714285714,29.2714285714286,415,356,530,493,368
+"december","Asia","Middle East","Oman",-102.48380952381,22.9366666666667,NA,NA,NA,NA,142
+"december","Asia","Middle East","Qatar",-108.735555555556,25.3366666666667,412,303,318,343,220
+"december","Asia","Middle East","Saudi Arabia",-115.712795698925,23.777311827957,2110,3680,2421,4120,3548
+"december","Asia","Middle East","United Arab Emirates",-104.391111111111,25.18,1604,1147,1352,1274,995
+"december","Asia","South Asia","Bangladesh",-69.7788111888112,23.7406293706294,300,489,338,407,364
+"december","Asia","South Asia","India",-80.6390758047767,21.5019210799585,5000,7108,7447,10256,0
+"december","Asia","South Asia","Iran",-108.556127819549,33.8924812030075,142,233,184,180,209
+"december","Asia","South Asia","Nepal",-75.3217307692308,27.6073076923077,428,202,246,585,0
+"december","Asia","South Asia","Pakistan",-89.0981339712919,29.9402631578947,275,364,262,300,306
+"december","Asia","South Asia","Sri Lanka",-79.6352112676057,7.26901408450704,294,544,377,420,443
+"december","Australasia & The Pacific","Australasia & The Pacific","Australia",-15.7823004694836,-30.319014084507,18773,19448,19618,21269,22460
+"december","Australasia & The Pacific","Australasia & The Pacific","Guam",-15.2292592592593,13.4496296296296,3372,2711,2880,3316,2164
+"december","Australasia & The Pacific","Australasia & The Pacific","Nauru",6.90999999999997,-0.55,4,0,0,7,2
+"december","Australasia & The Pacific","Australasia & The Pacific","New Zealand",13.6360507246377,-40.5059420289855,1495,1554,2143,2482,2779
+"december","Australasia & The Pacific","Australasia & The Pacific","Papua New Guinea",-13.0243902439024,-6.12756097560976,513,457,564,700,802
+"december","Europe","Eastern Europe","Commonwealth Of Independent States",NA,NA,898,1018,940,1059,0
+"december","Europe","Eastern Europe","Poland",-141.010615034169,51.843735763098,578,1330,775,978,1585
+"december","Europe","Eastern Europe","Russian Federation",-104.664588832487,53.6329137055838,4451,3086,3998,3198,3328
+"december","Europe","Eastern Mediterranean Europe","Israel",-124.919067357513,32.3195336787565,956,839,1507,1678,1703
+"december","Europe","Eastern Mediterranean Europe","Turkey",-125.645423514539,39.2837547408344,303,556,581,668,659
+"december","Europe","Northern Europe","Denmark",-149.482451612903,55.8588709677419,1870,1129,2077,1284,1281
+"december","Europe","Northern Europe","Finland",-135.20176744186,62.2486046511628,969,604,875,919,0
+"december","Europe","Northern Europe","Ireland",-167.659333333333,53.1170909090909,1757,816,2336,1185,1393
+"december","Europe","Northern Europe","Norway",-149.670952380952,62.0989355742297,3100,1302,2669,1503,1552
+"december","Europe","Northern Europe","Sweden",-144.479326923077,58.9549038461538,4706,1806,4541,2202,1892
+"december","Europe","Northern Europe","United Kingdom",-161.96267027027,52.9356972972973,9798,11869,19590,0,21780
+"december","Europe","Southern Europe","Greece",-136.79204,38.98216,218,211,270,375,365
+"december","Europe","Southern Europe","Italy",-147.610994923858,42.7972182741117,2660,1681,3699,2357,3043
+"december","Europe","Southern Europe","Portugal",-168.546278538813,39.9041552511416,175,221,226,410,674
+"december","Europe","Southern Europe","Spain",-162.8159375,40.0899421296296,2190,2264,3474,3534,4180
+"december","Europe","Western Europe","Andorra",-158.461428571429,42.5342857142857,21,24,22,35,0
+"december","Europe","Western Europe","Austria",-145.891361702128,47.6804680851064,1784,814,1805,1454,1069
+"december","Europe","Western Europe","Belgium",-155.426974637681,50.7387862318841,1335,974,1616,1248,1393
+"december","Europe","Western Europe","France",-157.2156,47.37819,4319,3271,6068,4655,5641
+"december","Europe","Western Europe","Germany",-150.696603206413,50.8155811623246,8756,6936,10081,6492,7888
+"december","Europe","Western Europe","Luxembourg",-153.907505285412,49.7718181818182,75,47,107,71,63
+"december","Europe","Western Europe","Netherlands",-154.601603773585,52.0650943396226,3308,2590,3792,3066,3536
+"december","Europe","Western Europe","Switzerland",-151.942360774818,47.0366101694915,3531,2164,3800,2382,2395
+"december","Others & Unspecified","Others & Unspecified","Residences",NA,NA,4254,4523,5409,6188,7423

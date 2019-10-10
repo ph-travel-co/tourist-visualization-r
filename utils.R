@@ -1,3 +1,5 @@
+source("mapShift.R")
+
 ap_name_recode <- function(ap_col) {
   recode(
     ap_col,
@@ -170,11 +172,60 @@ ap_name_recode <- function(ap_col) {
   )
 }
 
-coord2dec <- function(coord){
+coord2dec <- function(coord) {
   dec <- coord %>%
     str_replace_all(" ", "") %>%
     str_replace("°", "d") %>%
     char2dms() %>%
     as.numeric()
   return(dec)
+}
+
+fct_relevel_month <- function(vec) {
+  return(fct_relevel(
+    vec,
+    c(
+      "january",
+      "february",
+      "march",
+      "april",
+      "may",
+      "june",
+      "july",
+      "august",
+      "september",
+      "october",
+      "november",
+      "december"
+    )
+  ))
+}
+
+mnth2num <- function(mnth) {
+  return(
+    recode(mnth, 
+           `january` = "01",
+           `february` = "02",
+           `march` = "03",
+           `april` = "04",
+           `may` = "05",
+           `june` = "06",
+           `july` = "07",
+           `august` = "08",
+           `september` = "09",
+           `october` = "10",
+           `november` = "11",
+           `december` = "12")
+  )
+}
+
+shift
+remap_long <- function(long) {
+  long_shift <- long + shift
+  if(long_shift > 180){
+    return(long_shift - 360)
+  }
+  else{
+    return(long_shift)
+  }
 }
