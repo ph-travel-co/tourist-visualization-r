@@ -1,0 +1,668 @@
+province,foreign,ofw,domestic,total
+NCR (National Capital Region),286858,789,338521,626168
+Caloocan City,-,-,-,-
+Las Piñas City,-,-,-,-
+Makati City,-,-,-,-
+Malabon City,-,-,-,-
+Mandaluyong City,-,-,-,-
+Manila,-,-,-,-
+Marikina City,-,-,-,-
+Muntinlupa City,-,-,-,-
+Navotas City,-,-,-,-
+Parañaque City,-,-,-,-
+Pasay City,-,-,-,-
+Pasig City,-,-,-,-
+Quezon City,-,-,-,-
+San Juan City,-,-,-,-
+Taguig City,-,-,-,-
+Valenzuela City,-,-,-,-
+Pateros,-,-,-,-
+CAR (Cordillera Administrative Region),89351,1227,2095299,2185877
+Abra,-,-,-,-
+Apayao,7,172,5814,5993
+Benguet,1500,-,75583,77083
+Baguio City,35234,1026,1724469,1760729
+Ifugao,35664,29,35603,71296
+Kalinga,8378,-,119909,128287
+Mountain Province,8568,-,133921,142489
+Barlig,73,-,560,633
+Bauko,225,-,1223,1448
+Sagada,7348,-,97127,104475
+Sadanga,-,-,55,55
+Tadian,18,-,412,430
+Bontoc,904,-,34544,35448
+Region I  (ILOCOS REGION),82517,1625,2363259,2447401
+Ilocos Norte,51879,1585,605778,659242
+Bangui,-,-,5325,5325
+Batac,-,-,535,535
+Burgos,-,-,2629,2629
+Currimao,75,-,20588,20663
+Laoag City,4805,1585,138668,145058
+Pagudpud,45659,-,400008,445667
+Paoay,14,-,1434,1448
+Pasuquin,-,-,2396,2396
+San Nicolas,1326,-,27904,29230
+Sarat,-,-,6291,6291
+Ilocos Sur,3939,-,333063,337002
+Bantay,900,-,76762,77662
+Candon City,234,-,30076,30310
+Sinait,-,-,-,-
+Vigan City,2805,-,226225,229030
+La Union,18698,33,638536,657267
+Agoo,2,-,16086,16088
+Aringay,-,-,35371,35371
+Bacnotan,-,-,6356,6356
+Baloaon,-,-,1117,1117
+Bangar,-,-,51578,51578
+Bauang,4891,-,100179,105070
+Burgos,-,-,2511,2511
+Caba,75,-,6598,6673
+Luna,-,-,20970,20970
+Naguilian,-,-,3528,3528
+Pugo,-,-,-,-
+Rosario,22,-,5500,5522
+San Fernando City,8629,33,100552,109214
+San Juan,4958,-,280641,285599
+Santol,-,-,2139,2139
+Sto. Tomas,49,-,1101,1150
+Sudipen,52,-,2931,2983
+Tubao,20,-,1378,1398
+Pangasinan,8001,7,785882,793890
+Alaminos,3791,-,125193,128984
+Anda,125,-,42238,42363
+Balungao,8,-,3216,3224
+Bolinao,1106,-,160532,161638
+Bugallion,139,-,13761,13900
+Dagupan City,393,-,121177,121570
+Dasol,-,-,-,-
+Labrador,498,-,10033,10531
+Lingayen,661,-,160383,161044
+San Fabian,-,-,56362,56362
+Urdaneta City,1185,7,91051,92243
+Villasis,95,-,1936,2031
+Region II  (CAGAYAN VALLEY),270431,92,904198,1174721
+Batanes,1867,-,48594,50461
+Cagayan,259915,92,333815,593822
+Tuguegarao City,2451,-,169883,172334
+Others,257464,92,163932,421488
+Isabela,4814,-,363637,368451
+Cauayan City,2009,-,112555,114564
+Ilagan City,375,-,28841,29216
+Santiago City,1596,-,149146,150742
+Others,834,-,73095,73929
+Nueva Vizcaya,3304,-,147533,150837
+Quirino,531,-,10619,11150
+Region III  (CENTRAL LUZON),339910,6977,4139477,4486364
+Aurora,64,-,265410,265474
+Bataan,6954,-,299963,306917
+Bulacan,682,-,450744,451426
+Nueva Ecija,13209,-,292394,305603
+Pampanga,178397,-,452502,630899
+Clark,170867,-,302295,473162
+San Fernando City,7530,-,150207,157737
+Others,-,-,-,-
+Tarlac City,4690,-,8686,13376
+Zambales,35708,-,638651,674359
+Subic,42250,6498,1680687,1729435
+Angeles City,57956,479,50440,108875
+Olongapo City,-,-,-,-
+Region IV-A  CALABARZON,564121,3532,7051421,7619074
+Batangas,472546,-,2079603,2552149
+Alitagtag,-,-,-,-
+Balayan,298,-,33150,33448
+Batangas City,8746,-,175648,184394
+Balete,-,-,10662,10662
+Bauan,55,-,10085,10140
+Calatagan,308,-,119407,119715
+Cuenca,-,-,36944,36944
+Ibaan,-,-,3106,3106
+Laurel,-,-,-,-
+Lemery,-,-,14880,14880
+Lian,-,-,-,-
+Lipa City,7244,-,34813,42057
+Lobo,-,-,69786,69786
+Mabini,-,-,71830,71830
+Malvar,9061,-,25949,35010
+Mataas na Kahoy,-,-,-,-
+Nasugbu,26238,-,792773,819011
+Rosario,-,-,-,-
+San Juan,814,-,349782,350596
+Santo Tomas,22851,-,58233,81084
+Taal,-,-,-,-
+Talisay,396931,-,198109,595040
+Tanauan,-,-,2209,2209
+Tingloy,-,-,72237,72237
+Cavite,59998,-,1045888,1105886
+Amadeo,-,-,5281,5281
+Cavite City,-,-,-,-
+Gen. Trias,14605,-,21616,36221
+Tagaytay City,21342,-,984702,1006044
+Trece Martirez,24051,-,34289,58340
+Laguna,18472,44,1098480,1116996
+Calamba City,1178,-,887643,888821
+Calauan,396,-,14071,14467
+Cavinti,-,-,-,-
+Los Bañ0s,62,-,66658,66720
+Lumban,1954,-,83647,85601
+Majayjay,-,-,8270,8270
+Nagcarlan,95,44,6158,6297
+Rizal,13100,-,20309,33409
+San Pablo,-,-,-,-
+Sta. Rosa City,1687,-,11724,13411
+Victoria,-,-,-,-
+Quezon,10139,3488,1094608,1108235
+Agdangan,-,-,12163,12163
+Alamat,18,-,1339,1357
+Atimonan,-,-,107274,107274
+Buenavista,3,-,18,21
+Burdeos,-,-,49,49
+Calauag,5,-,149,154
+Catanauan,337,-,8705,9042
+Candelaria,368,-,1979,2347
+Dolores,-,-,3765,3765
+Gen Luna,-,-,-,-
+Gen. Nakar,-,-,8486,8486
+Guinayangan,-,-,1916,1916
+Gumaca,161,-,31820,31981
+Infanta,-,-,25296,25296
+Jomalig,-,-,18215,18215
+Lopez,490,-,8152,8642
+Lucban,-,-,-,-
+Lucena City,-,-,-,-
+Macelolon,-,-,-,-
+Mauban,1840,-,161051,162891
+Padre Burgos,88,-,18490,18578
+Pagbilao,207,-,3146,3353
+Panukulan,-,-,-,-
+Patnanungan,-,-,606,606
+Plaridel,-,-,-,-
+Perez,24,-,478,502
+Polillo,188,-,2110,2298
+Quezon,23,-,4997,5020
+Real,-,-,99176,99176
+Sampaloc,232,-,-,232
+San Andres,-,-,9786,9786
+San Antonio,-,-,5095,5095
+San Francisco,-,-,-,-
+Sariaya,5674,-,424647,430321
+Tagkawayan,70,-,8897,8967
+Tayabas,-,-,106585,106585
+Tiaong,411,3488,20218,24117
+Unisan,-,-,-,-
+Rizal,2966,0,1732842,1735808
+Antipolo City,666,-,234333,234999
+Angono,-,-,-,-
+Baras,-,-,-,-
+Binangonan,-,-,14987,14987
+Cainta,-,-,2011,2011
+Cordona,-,-,-,-
+Jalajala,-,-,-,-
+Morong,-,-,-,-
+Pililia,-,-,-,-
+Rodriguez,-,-,357165,357165
+San Mateo,-,-,-,-
+Tanay,2300,-,997153,999453
+Taytay,-,-,127193,127193
+Teresa,-,-,-,-
+Region IV-B MIMAROPA,753629,7953,1729015,2490597
+Marinduque,269,-,43427,43696
+Boac,72,-,15471,15543
+Buenavista,-,-,149,149
+Gasan,137,-,3222,3359
+Mogpog,-,-,525,525
+Sta. Cruz,60,-,17685,17745
+Torrijos,-,-,6375,6375
+Occidental Mindoro,6061,152,155889,162102
+Abra de Ilog,-,-,500,500
+Calintaan,516,-,2595,3111
+Looc,30,-,79,109
+Lubang,335,152,12417,12904
+Magsaysay,34,-,8528,8562
+Mamburao,114,-,33014,33128
+Paluan,-,-,155,155
+Rizal,-,-,311,311
+Sablayan,3196,-,28781,31977
+San Jose,1730,-,64430,66160
+Santa Cruz,106,-,5079,5185
+Others,-,-,-,-
+Oriental Mindoro,47012,211,329671,376894
+Baco,59,-,728,787
+Bansud,35,205,8609,8849
+Bongabong,52,-,2639,2691
+Bulalacao,301,-,29219,29520
+Calapan City,7096,-,96278,103374
+Gloria,59,-,46234,46293
+Mansalay,117,-,1302,1419
+Naujan,-,-,7169,7169
+Pinamalayan,169,-,7419,7588
+Pola,10,-,2386,2396
+Puerto Galera,38714,6,80240,118960
+Roxas,76,-,32210,32286
+San Teodoro,125,-,8453,8578
+Socorro,-,-,3214,3214
+Victoria,199,-,3571,3770
+Palawan,217299,1262,365883,584444
+Aborlan,560,-,1678,2238
+Araceli,62,-,456,518
+Balabac,1533,31,1823,3387
+Bataraza,-,-,12749,12749
+Busuanga,1770,-,1468,3238
+Brookes Point,863,-,19746,20609
+Cagayancillo,-,-,-,-
+Coron,44618,140,163342,208100
+Cuyo,181,-,4871,5052
+Culion,375,-,2856,3231
+El Nido,-,-,1112,1112
+Dumaran,122460,1083,78769,202312
+Espanola,4,-,1902,1906
+Linapacan,7491,7,1203,8701
+Magsaysay,58,-,13,71
+Narra,290,-,20838,21128
+Quezon,299,-,15596,15895
+Rizal,1260,-,7281,8541
+Roxas,590,-,16668,17258
+San Vicente,27556,1,7493,35050
+Taytay,7329,-,6019,13348
+Romblon,1158,2,43983,45143
+Alcantara,96,2,1990,2088
+Calatrava,-,-,349,349
+Ferrol,-,-,262,262
+Looc,4,-,149,153
+Magdiwang,-,-,-,-
+Odiongan,162,-,22031,22193
+Romblon,639,-,15126,15765
+San Agustin,14,-,387,401
+San Andres,-,-,-,-
+San Fernando,33,-,272,305
+San Jose,210,-,2227,2437
+Santa Maria,-,-,1190,1190
+Puerto Princesa City,481830,6326,790162,1278318
+Region V  (BICOL REGION),1003485,22674,5091441,6117600
+Albay,395225,205,1434338,1829768
+Legazpi City,383605,-,870778,1254383
+Others,11620,205,563560,575385
+Camarines Norte,41466,21066,499113,561645
+Daet,-,-,-,-
+Others,41466,21066,499113,561645
+Camarines Sur,514913,-,2568371,3083284
+Iriga City,14600,-,43713,58313
+Naga City,198361,-,1285853,1484214
+Others,301952,-,1238805,1540757
+Catanduanes,7759,-,221463,229222
+Masbate Province,625,6,48748,49379
+Masbate City,7800,-,102324,110124
+Sorsogon Province,7211,1397,70883,79491
+Sorsogon City,28486,-,146201,174687
+Region VI  (WESTERN VISAYAS),783731,43095,4129072,4955898
+Aklan,572588,22039,508707,1103334
+Boracay,565351,21959,354558,941868
+Buruanga,546,72,22004,22622
+Kalibo,6462,-,124211,130673
+Nabas,2,-,59,61
+New Washington,227,8,7875,8110
+Numancia,-,-,-,-
+Tangalan,-,-,-,-
+Antique,6668,-,101552,108220
+Anini-y,233,-,41194,41427
+Belison,97,-,856,953
+Bugasong,-,-,-,-
+Caluya,-,-,10053,10053
+Culasi,2334,-,25606,27940
+Hamtic,-,-,-,-
+Laua-an,-,-,37,37
+Libertad,-,-,255,255
+Pandan,2766,-,7590,10356
+Patnogon,-,-,217,217
+San Remegio,-,-,-,-
+Sebaste,1234,-,6224,7458
+San Jose,-,-,3006,3006
+Sibalom,-,-,6114,6114
+Tibiao,-,-,-,-
+Tobias Fornier,-,-,175,175
+Valderrama,4,-,225,229
+Capiz,4437,4175,257050,265662
+Cuartero,-,-,2591,2591
+Dao,50,10,3328,3388
+Dumalag,5,-,2938,2943
+Dumarao,30,97,763,890
+Ivisan,10,-,5877,5887
+Jamindan,9,2,2752,2763
+Maayon,-,-,1373,1373
+Mambusao,2,3,2667,2672
+Panay,-,-,2235,2235
+Panitan,35,-,2013,2048
+Pilar,166,-,4360,4526
+Pontevedra,27,4,15762,15793
+Pres. Roxas,10,-,4833,4843
+Roxas City,4001,3993,195241,203235
+Sapian,66,66,2676,2808
+Sigma,26,-,3873,3899
+Tapaz,-,-,3768,3768
+Guimaras,7494,-,126031,133525
+Buenavista,15,-,6016,6031
+Jordan,128,-,11549,11677
+Nueva Valencia,6112,-,97553,103665
+San Lorenzo,563,-,8728,9291
+Sibunag,676,-,2185,2861
+Others,-,-,-,-
+Iloilo Province,6558,13,340804,347375
+Ajuy,126,13,1997,2136
+Alimodian,1,-,513,514
+Badiangan,208,-,6498,6706
+Balasan,5,-,771,776
+Banate,-,-,11428,11428
+Barotac Nuevo,2,-,518,520
+Barotac Viejo,-,-,2674,2674
+Batad,-,-,-,-
+Bingawan,-,-,5751,5751
+Cabatuan,148,-,5358,5506
+Calinog,-,-,7824,7824
+Carles,1618,-,73444,75062
+Concepcion,140,-,16480,16620
+Dingle,-,-,84,84
+Duenas,5,-,1752,1757
+Dumangas,1,-,2253,2254
+Estancia,1653,-,38860,40513
+Guimbal,60,-,17166,17226
+Igbaras,12,-,1856,1868
+Januiay,-,-,6133,6133
+Lambunao,-,-,3843,3843
+Leganes,456,-,30436,30892
+Lemery,35,-,679,714
+Leon,38,-,10856,10894
+Maasin,12,-,5350,5362
+Miagao,7,-,1217,1224
+New Lucena,16,-,9621,9637
+Oton,960,-,11611,12571
+Passi,77,-,7711,7788
+Pavia,36,-,1434,1470
+Pototan,44,-,7796,7840
+San Dionisio,6,-,2314,2320
+San Enrique,-,-,1238,1238
+San Joaquin,188,-,16000,16188
+San Miguel,-,-,5430,5430
+Sara,2,-,7726,7728
+Sta. Barbara,265,-,5632,5897
+Tigbauan,435,-,9006,9441
+Tubungan,2,-,72,74
+Zarraga,-,-,1472,1472
+Negros Occidental,34690,118,885434,920242
+Bago,109,-,29968,30077
+Binalbagan,65,-,9117,9182
+Cadiz,3711,-,51466,55177
+Calatrava,21,-,3227,3248
+Candoni,-,-,-,-
+Cauayan,-,-,-,-
+DS Benedicto,-,-,-,-
+Escalante,89,-,27921,28010
+Hinigaran,32,-,12212,12244
+Hinobaan,732,79,13946,14757
+Kabankalan,1326,-,62194,63520
+La Carlota,23,-,14892,14915
+Las Castellana,-,-,-,-
+Mambukal,-,-,-,-
+Manapla,607,-,5982,6589
+Moises,-,-,-,-
+Murcia,3923,-,414345,418268
+Pulupandan,-,-,-,-
+Sagay,204,-,20585,20789
+San Carlos,349,39,55258,55646
+San Enrique,-,-,-,-
+Silay,13,-,22039,22052
+Sipalay,22924,-,88314,111238
+Talisay,562,-,49402,49964
+Victorias,-,-,4566,4566
+Bacolod City,80509,-,754944,835453
+Iloilo City,70787,16750,1154550,1242087
+Region VII (CENTRAL VISAYAS),3602646,31649,4465051,8099346
+Bohol,641527,4555,850047,1496129
+Anda,8841,398,25448,34687
+Antequera,-,-,-,-
+Baclayon,2384,-,10853,13237
+Batuan,97,-,260,357
+Bien Unido,-,-,-,-
+Bilar,2494,-,15695,18189
+Buenavista,8,-,143,151
+Calape,1173,-,978,2151
+Candijay,20,-,600,620
+Carmen,2389,-,4392,6781
+Catigbian,-,-,116,116
+Danao,142,-,858,1000
+Dauis,36186,17,33813,70016
+Dimiao,-,-,-,-
+Garcia Hernandez,-,-,-,-
+Getafe,-,-,-,-
+Guindulman,1281,-,6094,7375
+Inabanga,-,-,890,890
+Jagna,585,-,11300,11885
+Lila,105,-,236,341
+Loay,-,-,-,-
+Loon,1522,-,532,2054
+Loboc,2385,-,450,2835
+Maribojoc,217,-,651,868
+Panglao,526388,,336057,863372
+Sagbayan,-,-,-,-
+San Isidro,-,-,-,-
+Sikatuna,-,-,508,508
+Tagbilaran,53830,3205,334622,391657
+Talibon,707,-,24264,24971
+Tubigon,279,8,9626,9913
+Ubay,-,-,25317,25317
+Valencia,494,-,6344,6838
+Cebu,456313,6485,630623,1093421
+Alcoy,2502,-,12989,15491
+Alcantara,-,-,-,-
+Alegria,396,-,9382,9778
+Aloquinsan,8,-,1770,1778
+Argao,1048,223,16897,18168
+Asturias,346,-,3932,4278
+Badian,26,-,768,794
+Balamban,487,-,4555,5042
+Bantayan,232,-,20249,20481
+Barili,450,-,1600,2050
+Bogo City,1224,-,32792,34016
+Borbon,34,-,318,352
+Boljoon,4454,-,9403,13857
+Carcar,1834,-,4083,5917
+Carmen,-,-,-,-
+Catmon,-,-,-,-
+Cordova,164022,65,19706,183793
+Daanbantayan,86369,3279,28343,117991
+Dalaguete,868,-,21769,22637
+Danao City,3753,-,42011,45764
+Ginatilan,-,-,-,-
+Madridejos,-,-,-,-
+Medellin,32153,-,20137,52290
+Minglanilla,-,-,-,-
+Moalboal,30355,5,6008,36368
+Oslob,37830,1602,45582,85014
+Pilar,561,-,836,1397
+Pinamungahan,650,48,25155,25853
+Poro,436,-,2589,3025
+Ronda,292,-,784,1076
+Samboan,1071,-,2178,3249
+San Fernando,11222,-,373,11595
+San Francisco,13970,-,54824,68794
+San Remegio,24960,-,74502,99462
+Santander,3701,-,3365,7066
+Santa Fe,27947,1263,149822,179032
+Sibonga,-,-,494,494
+Sogod,260,-,2078,2338
+Tabogon,46,-,407,453
+Talisay,-,-,-,-
+Toledo City,2560,-,5124,7684
+Tuburan,88,-,4298,4386
+Tudela,158,-,1500,1658
+Negros Oriental,115924,386,766985,883295
+Amlan,334,-,2888,3222
+Bacong,1980,-,1423,3403
+Bais,3412,-,5521,8933
+Basay,1218,-,4583,5801
+Bayawan,755,-,14377,15132
+Canlaon,235,1,12944,13180
+Dauin,27704,-,7147,34851
+Dumaguete,50153,385,656151,706689
+Guijulngan,143,-,3855,3998
+La Libertad,3509,-,3051,6560
+Jimalaud,230,-,127,357
+Mabinay,5222,-,18275,23497
+Manjuyod,285,-,15421,15706
+San Jose,339,-,198,537
+Siaton,2890,-,3269,6159
+Sibulan,3395,-,1300,4695
+Tanjay,65,-,1513,1578
+Valencia,10177,-,14314,24491
+Zamboanguita,3878,-,628,4506
+Siquijor,66788,-,77238,144026
+E. Villanueva,631,-,854,1485
+Larena,3421,-,6694,10115
+Lazi,2440,-,3616,6056
+Maria,781,-,7852,8633
+San Juan,44932,-,27231,72163
+Siquijor,14583,-,30991,45574
+Cebu City,896107,12873,1650762,2559742
+Lapu-lapu City,1337958,2401,376579,1716938
+Mandaue City,88029,4949,112817,205795
+Region VIII (EASTERN VISAYAS),50674,2536,1724446,1777656
+Biliran,1159,-,17311,18470
+Almeria,284,-,2664,2948
+Caibiran,-,-,304,304
+Cabucgayan,54,-,421,475
+Culaba,-,-,-,-
+Kawayan,-,-,-,-
+Maripipi,-,-,-,-
+Naval,821,-,13922,14743
+Eastern Samar,1016,-,78064,79080
+Borongan City,638,-,59981,60619
+Can-Avid,7,-,1020,1027
+Gen. McArthur,-,-,-,-
+Guiuan,371,-,17063,17434
+Llorente,-,-,-,-
+Quinapondan,-,-,-,-
+Taft,-,-,-,-
+Leyte,10804,-,576855,587659
+Abuyog,-,-,-,-
+Alburera,-,-,106012,106012
+Bago,-,-,-,-
+Bato,-,-,8328,8328
+Baybay City,809,-,203408,204217
+Hilongos,-,-,12526,12526
+Inopacan,-,-,3152,3152
+Isabel,126,-,5360,5486
+Kanangga,-,-,-,-
+Matalom,352,-,86893,87245
+McArthur,9,-,246,255
+Ormoc City,5747,-,104277,110024
+Palo,-,-,-,-
+Palompon,3735,-,41681,45416
+San Isidro,-,-,-,-
+Tolosa,26,-,4972,4998
+Northern Samar,643,-,103212,103855
+Allen,158,-,12686,12844
+Biri,121,-,6053,6174
+Bobon,4,-,2383,2387
+Capul,75,-,1487,1562
+Catarman,131,-,60202,60333
+Gamay,-,-,544,544
+Las Navas,-,-,323,323
+Mondragon,21,-,481,502
+Navar,-,-,-,-
+Palapag,-,-,-,-
+San Antonio,131,-,14802,14933
+San Roque,2,-,837,839
+Victoria,-,-,1368,1368
+Samar,8723,-,250253,258976
+Calbayog City,7928,-,140459,148387
+Catbalogan,795,-,109794,110589
+Basey,-,-,-,-
+Marabut,-,-,-,-
+Paranas,-,-,-,-
+Southern Leyte,5248,9,164555,169812
+Hinunangan,137,-,10449,10586
+Hinundayan,45,-,1392,1437
+Liloan,65,-,6857,6922
+Limasawa,-,-,10339,10339
+Maasin City,2287,-,77024,79311
+Macrohon,2253,-,22610,24863
+Padre Burgos,-,-,-,-
+Pintuyan,-,-,-,-
+San Juan,25,-,1511,1536
+Saint Bernard,1,-,2743,2744
+Silago,-,-,601,601
+Sogod,433,-,27309,27742
+Tomas Oppus,2,9,3720,3731
+Others (Southern Leyte),-,-,-,-
+Tacloban City,23081,2527,534196,559804
+Region IX (ZAMBOANGA PENINS,16830,15400,1096952,1129182
+Zamboanga del Norte,5389,-,356514,361903
+Dapitan City,867,-,126091,126958
+Dipolog City,4458,-,217182,221640
+Others,64,-,13241,13305
+Zamboanga del Sur,704,-,145449,146153
+Pagadian City,704,-,145449,146153
+Others,1765,30,19490,21285
+Zamboanga Sibugay,86,-,85760,85846
+Isabela City,-,-,-,-
+Zamboanga City,8886,15370,489739,513995
+Region X (NORTHERN MINDANAO,63444,218,3039362,3103024
+Bukidnon,1988,-,310600,312588
+Malaybalay City,1204,-,83681,84885
+Valencia City,646,-,198467,199113
+Others,138,-,28452,28590
+Camiguin,16231,-,750874,767105
+Lanao del Norte,615,-,39311,39926
+Iligan City,3200,27,353496,356723
+Misamis Occidental,2700,-,573121,575821
+Ozamis City,2528,-,315990,318518
+Tangub City,26,-,24248,24274
+Oroquieta City,122,-,216146,216268
+Others,24,-,16737,16761
+Misamis Oriental,1233,-,173092,174325
+Gingoog City,308,-,122132,122440
+Others,925,-,50960,51885
+Cagayan de Oro City,37477,191,838868,876536
+Region XI  (DAVAO REGION),198005,60968,3716546,3975519
+Compostela Valley,193,-,563241,563434
+Davao del Norte,6779,18,808895,815692
+Asuncion,-,-,-,-
+Island Garden City of Samal,-,-,-,-
+Kapalong,-,-,-,-
+New Corella,-,-,-,-
+Panabo City,-,-,-,-
+Tagum City,-,-,-,-
+Others,6779,18,808895,815692
+Davao del Sur,4004,2235,34321,40560
+Davao City,184495,58715,2150185,2393395
+Davao Occcidental,-,-,13100,13100
+Davao Oriental,2534,-,146804,149338
+Region XII  (SOCCSSARGEN),18810,9,1681914,1700733
+North Cotabato,79,-,330683,330762
+Kidapawan City,79,-,254027,254106
+Others (Cotabato Province),-,-,76656,76656
+Sarangani,435,-,192364,192799
+South Cotabato,4989,9,321590,326588
+Koronadal City,4330,9,263523,267862
+Others,659,-,58067,58726
+Sultan Kudarat,77,-,29342,29419
+Tacurong City,77,-,29342,29419
+Others,-,-,-,-
+Cotabato City,1813,-,172195,174008
+General Santos City,11417,-,635740,647157
+Region XIII (CARAGA),87093,1804,1395520,1484417
+Agusan del Norte,366,14,62564,62944
+Butuan City,11849,1474,362812,376135
+Cabadbaran City,251,-,43848,44099
+Others,115,14,18716,18845
+Agusan del Sur,592,-,188240,188832
+Bayugan,57,-,18815,18872
+Others,535,-,169425,169960
+Dinagat Islands,843,-,86509,87352
+Surigao del Norte,72133,316,422181,494630
+Siargao Islands,57037,308,123843,181188
+Surigao City,14600,8,273611,288219
+Others,496,-,24727,25223
+Surigao del Sur,1310,-,273214,274524
+Bislig City,107,-,48812,48919
+Tandag City,299,-,90300,90599
+Others,904,-,134102,135006
+GRAND TOTAL,8211535,200548,44961494,53373577

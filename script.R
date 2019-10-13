@@ -1,3 +1,4 @@
+Sys.setlocale()
 # source("init.R")
 
 library("rvest")
@@ -6,6 +7,8 @@ library("tidyverse")
 library("ggplot2")
 library("magrittr")
 library("sp")
+library("lubridate")
+library("tabulizer")
 # mapping
 library("maps")
 library("mapproj")
@@ -118,7 +121,9 @@ data_local_yearly <- data_local %>%
   summarize(passenger_count = sum(passenger_count, na.rm = TRUE))
 
 write.csv(data_local, "data/output/data_local.csv", row.names = FALSE)
-write.csv(data_local_yearly, "data/output/data_local_yearly.csv", row.names = FALSE)
+write.csv(data_local_yearly,
+          "data/output/data_local_yearly.csv",
+          row.names = FALSE)
 
 # Data for Country origin tourists
 ctry_arrivals <- data.frame()
@@ -300,15 +305,159 @@ data_world <- left_join(ctry_arrivals, world_ctry_cntr) %>%
   ) %>%
   ungroup() %>%
   filter(country != "Total")
-  # filter(year == max(year))
-  
+# filter(year == max(year))
+
 data_world_yearly <- data_world %>%
   spread(year, passenger_count) %>%
-  rename(y2014 = `2014`, y2015 = `2015`, y2016 = `2016`, y2017 = `2017`, y2018 = `2018`) %>%
+  rename(
+    y2014 = `2014`,
+    y2015 = `2015`,
+    y2016 = `2016`,
+    y2017 = `2017`,
+    y2018 = `2018`
+  ) %>%
   filter(region != "Total")
 
+data_world_yearmonth <- data_world %>%
+  mutate(month = mnth2num(month) %>% as.character()) %>%
+  mutate(year = year %>% as.character()) %>%
+  unite(col = date, year, month, sep = "") %>%
+  mutate(date = date %>% paste("01", sep = "") %>% ymd) %>%
+  # Not enough data for below dates
+  filter(date != "2014-03-01" %>% ymd) %>%
+  filter(date != "2015-01-01" %>% ymd) %>%
+  filter(date != "2015-04-01" %>% ymd) %>%
+  filter(date != "2017-11-01" %>% ymd) %>%
+  filter(date != "2017-12-01" %>% ymd) %>%
+  filter(date != "2018-03-01" %>% ymd)
+
+# Test
+# data_world_yearmonth %>% filter(date == "2018-03-01" %>% ymd)
+
 write.csv(data_world, "data/output/data_world.csv", row.names = FALSE)
-write.csv(data_yearly, "data/output/data_yearly.csv", row.names = FALSE)
+write.csv(data_world_yearly,
+          "data/output/data_world_yearly.csv",
+          row.names = FALSE)
+write.csv(data_world_yearmonth,
+          "data/output/data_world_yearmonth.csv",
+          row.names = FALSE)
+
+# Municities Coordinates
+
+municities_coord <-
+  read.csv("data/raw_csv/municities_coordinates.csv",
+           stringsAsFactors = FALSE) %>%
+  mutate(region = region_recode(region)) %>%
+  # mutate(province = province_recode(province))
+  mutate(municity = municity_recode(municity)) %>%
+  arrange(province, municity)
+municities_province <- municities_coord$province %>% unique %>% sort
+
+# Regional tourist Philippine data from Department of Tourism
+rt2017_1 <- as_tibble() %>% mutate_all(as.character)
+rt2017_2 <- as_tibble() %>% mutate_all(as.character)
+
+for (i in 1:9) {
+  rt2017_1 <- bind_rows(
+    rt2017_1,
+    paste("data/raw_csv/RegionalTravelers2017-0", i, ".csv", sep = "") %>%
+      read.csv(stringsAsFactors = FALSE) %>%
+      mutate_all(as.character)
+  )
+}
+
+for (i in 10:12) {
+  rt2017_2 <- bind_rows(
+    rt2017_2,
+    paste("data/raw_csv/RegionalTravelers2017-", i, ".csv", sep = "") %>%
+      read.csv(stringsAsFactors = FALSE) %>%
+      mutate_all(as.character)
+  )
+}
+
+reg_tourist_2017 <- bind_rows(rt2017_1, rt2017_2) %>%
+  mutate(year = "2017") %>%
+  select(year, province:total)
+
+
+reg_tourist_2014 <-
+  read.csv("data/raw_csv/RegionalTravelers2014-converted.csv",
+           stringsAsFactors = FALSE) %>%
+  mutate(year = "2014") %>%
+  mutate_all(as.character) %>%
+  as_tibble
+
+reg_tourist_2015 <-
+  read.csv("data/raw_csv/RegionalTravelers2015-converted.csv",
+           stringsAsFactors = FALSE) %>%
+  mutate(year = "2015") %>%
+  mutate_all(as.character) %>%
+  as_tibble
+
+reg_tourist_2016 <-
+  read.csv("data/raw_csv/RegionalTravelers2016-converted.csv",
+           stringsAsFactors = FALSE) %>%
+  mutate(year = "2016") %>%
+  mutate_all(as.character) %>%
+  as_tibble
+
+reg_tourist_2018 <-
+  read.csv("data/raw_csv/RegionalTravelers2018-converted.csv",
+           stringsAsFactors = FALSE) %>%
+  mutate(year = "2018") %>%
+  mutate_all(as.character) %>%
+  as_tibble
+
+reg_tourist <- bind_rows(
+  reg_tourist_2014,
+  reg_tourist_2015,
+  reg_tourist_2016,
+  reg_tourist_2017,
+  reg_tourist_2018
+) %>%
+  mutate_at(.vars = c("foreign", "ofw", "domestic", "total"),
+            .funs = as.numeric) %>%
+  mutate(region = ifelse(str_detect(province, "NCR|CAR|Region|GRAND"), province, NA)) %>%
+  rename(municity = province) %>%
+  fill(region) %>%
+  mutate(region = region_recode(region)) %>% sample_n(10)
+  filter(!str_detect(municity, "NCR|CAR|Region|GRAND")) %>%
+  mutate(municity = municity_recode(municity)) %>%
+  mutate(province = ifelse(municity %in% municities_province, municity, NA)) %>%
+  fill(province) %>%
+  mutate(province = replace(
+    province,
+    region == "NCR (National Capital Region)",
+    "Metropolitan Manila"
+  )) %>%
+  filter(!(municity %in% municities_province)) %>%
+  select(year, region, province, municity, foreign:total)
+  
+# Exporting coordinates of PH municipalities and cities using QGIS
+reg_tourist %>% sample_n(100)
+# municities_coord %>% filter(region == "NCR (National Capital Region)")
+reg_tourist_ref <- reg_tourist$province %>% unique %>% sort
+municities_coord_ref <- municities_coord %>% 
+  select(province, municity) %>% 
+  filter(province %in% reg_tourist_ref) %>% 
+  group_by(province, municity) %>% 
+  summarize(count = n())
+
+municity_mismatch <- left_join(reg_tourist, municities_coord) %>%
+  arrange(province) %>%
+  filter(is.na(x)) %>%
+  group_by(province, municity) %>%
+  summarize()
+municity_mismatch %>%
+  select(municity, province)
+municity_mismatch %>% ungroup %>% mutate_if(is.character, as.factor) %>% summary
+
+setdiff(municities_coord$municity %>% unique,
+  reg_tourist$municity %>% unique
+) %>% unique %>% sort
+
+reg_tourist$region %>% unique %>% sort
+municities_coord$ region %>% unique %>% sort
 
 world <- ggplot() +
   geom_polygon(
@@ -318,7 +467,8 @@ world <- ggplot() +
     alpha = 0.3
   ) +
   geom_point(
-    data = data_world, mapping = aes(
+    data = data_world,
+    mapping = aes(
       x = ctry_cntr_long,
       y = ctry_cntr_lat,
       color = region,
@@ -340,5 +490,5 @@ world <- ggplot() +
 
 world
 
-world + transition_time(year) +
-  labs(title = "Year: {frame_time}")
+# world + transition_time(year) +
+#   labs(title = "Year: {frame_time}")
