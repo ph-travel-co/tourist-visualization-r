@@ -98,13 +98,14 @@ Bataan,6954,-,299963,306917
 Bulacan,682,-,450744,451426
 Nueva Ecija,13209,-,292394,305603
 Pampanga,178397,-,452502,630899
+Angeles City,57956,479,50440,108875
 Clark,170867,-,302295,473162
 San Fernando City,7530,-,150207,157737
 Others,-,-,-,-
+Tarlac,,,,
 Tarlac City,4690,-,8686,13376
 Zambales,35708,-,638651,674359
 Subic,42250,6498,1680687,1729435
-Angeles City,57956,479,50440,108875
 Olongapo City,-,-,-,-
 Region IV-A  CALABARZON,564121,3532,7051421,7619074
 Batangas,472546,-,2079603,2552149
@@ -146,7 +147,7 @@ Los Bañ0s,62,-,66658,66720
 Lumban,1954,-,83647,85601
 Majayjay,-,-,8270,8270
 Nagcarlan,95,44,6158,6297
-Rizal,13100,-,20309,33409
+Rizal (Laguna),13100,-,20309,33409
 San Pablo,-,-,-,-
 Sta. Rosa City,1687,-,11724,13411
 Victoria,-,-,-,-
@@ -178,7 +179,7 @@ Patnanungan,-,-,606,606
 Plaridel,-,-,-,-
 Perez,24,-,478,502
 Polillo,188,-,2110,2298
-Quezon,23,-,4997,5020
+Quezon (Quezon),23,-,4997,5020
 Real,-,-,99176,99176
 Sampaloc,232,-,-,232
 San Andres,-,-,9786,9786
@@ -220,7 +221,7 @@ Lubang,335,152,12417,12904
 Magsaysay,34,-,8528,8562
 Mamburao,114,-,33014,33128
 Paluan,-,-,155,155
-Rizal,-,-,311,311
+Rizal (Occidental Mindoro),-,-,311,311
 Sablayan,3196,-,28781,31977
 San Jose,1730,-,64430,66160
 Santa Cruz,106,-,5079,5185
@@ -258,8 +259,9 @@ Espanola,4,-,1902,1906
 Linapacan,7491,7,1203,8701
 Magsaysay,58,-,13,71
 Narra,290,-,20838,21128
-Quezon,299,-,15596,15895
-Rizal,1260,-,7281,8541
+Puerto Princesa City,481830,6326,790162,1278318
+Quezon (Palawan),299,-,15596,15895
+Rizal (Palawan),1260,-,7281,8541
 Roxas,590,-,16668,17258
 San Vicente,27556,1,7493,35050
 Taytay,7329,-,6019,13348
@@ -276,7 +278,6 @@ San Andres,-,-,-,-
 San Fernando,33,-,272,305
 San Jose,210,-,2227,2437
 Santa Maria,-,-,1190,1190
-Puerto Princesa City,481830,6326,790162,1278318
 Region V  (BICOL REGION),1003485,22674,5091441,6117600
 Albay,395225,205,1434338,1829768
 Legazpi City,383605,-,870778,1254383
@@ -364,6 +365,7 @@ Duenas,5,-,1752,1757
 Dumangas,1,-,2253,2254
 Estancia,1653,-,38860,40513
 Guimbal,60,-,17166,17226
+Iloilo City,70787,16750,1154550,1242087
 Igbaras,12,-,1856,1868
 Januiay,-,-,6133,6133
 Lambunao,-,-,3843,3843
@@ -413,7 +415,6 @@ Sipalay,22924,-,88314,111238
 Talisay,562,-,49402,49964
 Victorias,-,-,4566,4566
 Bacolod City,80509,-,754944,835453
-Iloilo City,70787,16750,1154550,1242087
 Region VII (CENTRAL VISAYAS),3602646,31649,4465051,8099346
 Bohol,641527,4555,850047,1496129
 Anda,8841,398,25448,34687
@@ -466,6 +467,9 @@ Boljoon,4454,-,9403,13857
 Carcar,1834,-,4083,5917
 Carmen,-,-,-,-
 Catmon,-,-,-,-
+Cebu City,896107,12873,1650762,2559742
+Lapu-lapu City,1337958,2401,376579,1716938
+Mandaue City,88029,4949,112817,205795
 Cordova,164022,65,19706,183793
 Daanbantayan,86369,3279,28343,117991
 Dalaguete,868,-,21769,22637
@@ -519,10 +523,7 @@ Larena,3421,-,6694,10115
 Lazi,2440,-,3616,6056
 Maria,781,-,7852,8633
 San Juan,44932,-,27231,72163
-Siquijor,14583,-,30991,45574
-Cebu City,896107,12873,1650762,2559742
-Lapu-lapu City,1337958,2401,376579,1716938
-Mandaue City,88029,4949,112817,205795
+Siquijor (Siquijor),14583,-,30991,45574
 Region VIII (EASTERN VISAYAS),50674,2536,1724446,1777656
 Biliran,1159,-,17311,18470
 Almeria,284,-,2664,2948
@@ -543,7 +544,7 @@ Taft,-,-,-,-
 Leyte,10804,-,576855,587659
 Abuyog,-,-,-,-
 Alburera,-,-,106012,106012
-Bago,-,-,-,-
+Bato,-,-,-,-
 Bato,-,-,8328,8328
 Baybay City,809,-,203408,204217
 Hilongos,-,-,12526,12526
@@ -556,6 +557,7 @@ Ormoc City,5747,-,104277,110024
 Palo,-,-,-,-
 Palompon,3735,-,41681,45416
 San Isidro,-,-,-,-
+Tacloban City,23081,2527,534196,559804
 Tolosa,26,-,4972,4998
 Northern Samar,643,-,103212,103855
 Allen,158,-,12686,12844
@@ -592,18 +594,17 @@ Silago,-,-,601,601
 Sogod,433,-,27309,27742
 Tomas Oppus,2,9,3720,3731
 Others (Southern Leyte),-,-,-,-
-Tacloban City,23081,2527,534196,559804
 Region IX (ZAMBOANGA PENINS,16830,15400,1096952,1129182
 Zamboanga del Norte,5389,-,356514,361903
 Dapitan City,867,-,126091,126958
 Dipolog City,4458,-,217182,221640
 Others,64,-,13241,13305
 Zamboanga del Sur,704,-,145449,146153
+Zamboanga City,8886,15370,489739,513995
 Pagadian City,704,-,145449,146153
 Others,1765,30,19490,21285
 Zamboanga Sibugay,86,-,85760,85846
 Isabela City,-,-,-,-
-Zamboanga City,8886,15370,489739,513995
 Region X (NORTHERN MINDANAO,63444,218,3039362,3103024
 Bukidnon,1988,-,310600,312588
 Malaybalay City,1204,-,83681,84885
@@ -641,13 +642,14 @@ Kidapawan City,79,-,254027,254106
 Others (Cotabato Province),-,-,76656,76656
 Sarangani,435,-,192364,192799
 South Cotabato,4989,9,321590,326588
+General Santos City,11417,-,635740,647157
 Koronadal City,4330,9,263523,267862
 Others,659,-,58067,58726
 Sultan Kudarat,77,-,29342,29419
 Tacurong City,77,-,29342,29419
 Others,-,-,-,-
+Maguindanao,,,,
 Cotabato City,1813,-,172195,174008
-General Santos City,11417,-,635740,647157
 Region XIII (CARAGA),87093,1804,1395520,1484417
 Agusan del Norte,366,14,62564,62944
 Butuan City,11849,1474,362812,376135

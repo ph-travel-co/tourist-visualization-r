@@ -1,10 +1,7 @@
 province,foreign,ofw,domestic,total
 Maria,990,,6896,7886
 San Juan,29780,,16424,46204
-Siquijor,9286,,20032,29318
-Cebu City,949698,13961,1778942,2742601
-Lapu-lapu City,1023031,2560,319240,1344831
-Mandaue City,20850,82,47454,68386
+Siquijor (Siquijor),9286,,20032,29318
 Region VIII (EASTERN VISAYAS),56343,1704,1409849,1467896
 Biliran,1479,,21818,23297
 Almeria,227,,2834,3061
@@ -25,7 +22,6 @@ Taft,47,,924,971
 Leyte,14004,,382661,396665
 Abuyog,,,,
 Alburera,,,,
-Bago,,,,
 Bato,,,8322,8322
 Baybay City,1173,,156191,157364
 Hilongos,,,9129,9129
@@ -37,6 +33,7 @@ McArthur,,,,
 Ormoc City,12314,,66312,78626
 Palo,,,84355,84355
 San Isidro,10,,1986,1996
+Tacloban City,24308,1704,506792,532804
 Northern Samar,822,,82611,83433
 Allen,187,,14043,14230
 Biri,233,,4746,4979
