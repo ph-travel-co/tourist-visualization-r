@@ -4,3 +4,6 @@
 .Ruserdata
 /screenshots
 /data/raw_pdf
+/raw_jpg_png
+*.zip
+*.pdf
