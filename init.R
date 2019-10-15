@@ -8,3 +8,27 @@ install.packages("png")
 install.packages("transformr")
 install.packages("mapproj")
 install.packages("data.table")
+install.packages("tabulizer")
+
+Sys.setlocale()
+# source("init.R")
+
+library("rvest")
+library("httr")
+library("tidyverse")
+library("ggplot2")
+library("magrittr")
+library("sp")
+library("lubridate")
+library("tabulizer")
+# mapping
+library("maps")
+library("mapproj")
+# animation prerequisites
+library("gganimate")
+library("gifski")
+library("png")
+library("transformr")
+
+source("utils.R")
+source("mapShift.R")

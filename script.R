@@ -1,22 +1,4 @@
-# source("init.R")
 
-library("rvest")
-library("httr")
-library("tidyverse")
-library("ggplot2")
-library("magrittr")
-library("sp")
-# mapping
-library("maps")
-library("mapproj")
-# animation prerequisites
-library("gganimate")
-library("gifski")
-library("png")
-library("transformr")
-
-source("utils.R")
-source("mapShift.R")
 
 passenger <- data.frame()
 for (i in 1:9) {
@@ -118,7 +100,9 @@ data_local_yearly <- data_local %>%
   summarize(passenger_count = sum(passenger_count, na.rm = TRUE))
 
 write.csv(data_local, "data/output/data_local.csv", row.names = FALSE)
-write.csv(data_local_yearly, "data/output/data_local_yearly.csv", row.names = FALSE)
+write.csv(data_local_yearly,
+          "data/output/data_local_yearly.csv",
+          row.names = FALSE)
 
 # Data for Country origin tourists
 ctry_arrivals <- data.frame()
@@ -300,15 +284,44 @@ data_world <- left_join(ctry_arrivals, world_ctry_cntr) %>%
   ) %>%
   ungroup() %>%
   filter(country != "Total")
-  # filter(year == max(year))
-  
+# filter(year == max(year))
+
 data_world_yearly <- data_world %>%
   spread(year, passenger_count) %>%
-  rename(y2014 = `2014`, y2015 = `2015`, y2016 = `2016`, y2017 = `2017`, y2018 = `2018`) %>%
+  rename(
+    y2014 = `2014`,
+    y2015 = `2015`,
+    y2016 = `2016`,
+    y2017 = `2017`,
+    y2018 = `2018`
+  ) %>%
   filter(region != "Total")
 
+data_world_yearmonth <- data_world %>%
+  mutate(month = mnth2num(month) %>% as.character()) %>%
+  mutate(year = year %>% as.character()) %>%
+  unite(col = date, year, month, sep = "") %>%
+  mutate(date = date %>% paste("01", sep = "") %>% ymd) %>%
+  # Not enough data for below dates
+  filter(date != "2014-03-01" %>% ymd) %>%
+  filter(date != "2015-01-01" %>% ymd) %>%
+  filter(date != "2015-04-01" %>% ymd) %>%
+  filter(date != "2017-11-01" %>% ymd) %>%
+  filter(date != "2017-12-01" %>% ymd) %>%
+  filter(date != "2018-03-01" %>% ymd)
+
+# Test
+# data_world_yearmonth %>% filter(date == "2018-03-01" %>% ymd)
+
 write.csv(data_world, "data/output/data_world.csv", row.names = FALSE)
-write.csv(data_yearly, "data/output/data_yearly.csv", row.names = FALSE)
+write.csv(data_world_yearly,
+          "data/output/data_world_yearly.csv",
+          row.names = FALSE)
+write.csv(data_world_yearmonth,
+          "data/output/data_world_yearmonth.csv",
+          row.names = FALSE)
+
+# Visualize
 
 world <- ggplot() +
   geom_polygon(
@@ -318,7 +331,8 @@ world <- ggplot() +
     alpha = 0.3
   ) +
   geom_point(
-    data = data_world, mapping = aes(
+    data = data_world,
+    mapping = aes(
       x = ctry_cntr_long,
       y = ctry_cntr_lat,
       color = region,
@@ -340,5 +354,5 @@ world <- ggplot() +
 
 world
 
-world + transition_time(year) +
-  labs(title = "Year: {frame_time}")
+# world + transition_time(year) +
+#   labs(title = "Year: {frame_time}")
