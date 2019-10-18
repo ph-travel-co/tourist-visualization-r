@@ -76,6 +76,8 @@ reg_tourist <- bind_rows(
             .funs = as.numeric) %>%
   mutate(region = ifelse(str_detect(province, "NCR|CAR|Region|GRAND"), province, NA)) %>%
   rename(municity = province) %>%
+  filter(municity != "Manila") %>%
+  mutate(municity = recode(municity, `NCR (National Capital Region)` = "Metro Manila")) %>%
   fill(region) %>%
   mutate(region = region_recode(region)) %>%
   filter(!str_detect(municity, "CAR|Region|GRAND")) %>%
@@ -117,7 +119,8 @@ reg_tourist_coord <- left_join(reg_tourist, municities_coord) %>%
   mutate(year = as.integer(year)) %>%
   mutate_if(is.character, as.factor) %>%
   group_by(region, province, municity, tourist_origin) %>%
-  ungroup()
+  ungroup() %>%
+  mutate(islandgroup = islandgroup_recode(region))
   
 # Most popular locations for tourists
 rgt_dom <- reg_tourist_coord %>%
@@ -144,40 +147,47 @@ rgt_tot <-reg_tourist_coord %>%
     top_n(10, tourist_count_accum) %>%
     select(-tourist_count_accum)
 
-reg_tourist_pop <- bind_rows(rgt_dom, rgt_for, rgt_tot) %>% left_join(reg_tourist_coord)
+reg_tourist_pop <- bind_rows(rgt_dom, rgt_for, rgt_tot) %>% 
+  left_join(reg_tourist_coord)
 
-# Most locations getting lots of attention or trending recently
-rgt_dom_trend <- reg_tourist_coord %>%
-  filter(tourist_origin == "domestic") %>%
-  group_by(region, province, municity) %>%
-  summarize(delta_perc = (max(tourist_count) - min(tourist_count)) / sum(tourist_count) * 100) %>%
-  ungroup() %>%
-  top_n(10, delta_perc) %>%
-  select(-delta_perc)
+reg_tourist_pop_coord <- reg_tourist_pop %>%
+  group_by(islandgroup, municity, x, y) %>%
+  summarize
 
-rgt_for_trend <- reg_tourist_coord %>%
-  filter(tourist_origin == "foreign") %>%
-  group_by(region, province, municity) %>%
-  summarize(delta_perc = (max(tourist_count) - min(tourist_count)) / sum(tourist_count) * 100) %>%
-  ungroup() %>%
-  top_n(10, delta_perc) %>%
-  select(-delta_perc)
-
-rgt_tot_trend <- reg_tourist_coord %>%
-  filter(tourist_origin == "total") %>%
-  group_by(region, province, municity) %>%
-  summarize(delta_perc = (max(tourist_count) - min(tourist_count)) / sum(tourist_count) * 100) %>%
-  ungroup() %>%
-  top_n(10, delta_perc) %>%
-  select(-delta_perc)
-
-reg_tourist_trend <- bind_rows(rgt_dom_trend, rgt_for_trend, rgt_tot_trend) %>% left_join(reg_tourist_coord)
+# # Most locations getting lots of attention or trending recently
+# rgt_dom_trend <- reg_tourist_coord %>%
+#   filter(tourist_origin == "domestic") %>%
+#   group_by(region, province, municity) %>%
+#   summarize(delta_perc = (max(tourist_count) - min(tourist_count)) / sum(tourist_count) * 100) %>%
+#   ungroup() %>%
+#   top_n(10, delta_perc) %>%
+#   select(-delta_perc)
+# 
+# rgt_for_trend <- reg_tourist_coord %>%
+#   filter(tourist_origin == "foreign") %>%
+#   group_by(region, province, municity) %>%
+#   summarize(delta_perc = (max(tourist_count) - min(tourist_count)) / sum(tourist_count) * 100) %>%
+#   ungroup() %>%
+#   top_n(10, delta_perc) %>%
+#   select(-delta_perc)
+# 
+# rgt_tot_trend <- reg_tourist_coord %>%
+#   filter(tourist_origin == "total") %>%
+#   group_by(region, province, municity) %>%
+#   summarize(delta_perc = (max(tourist_count) - min(tourist_count)) / sum(tourist_count) * 100) %>%
+#   ungroup() %>%
+#   top_n(10, delta_perc) %>%
+#   select(-delta_perc)
+# 
+# reg_tourist_trend <- bind_rows(rgt_dom_trend, rgt_for_trend, rgt_tot_trend) %>% left_join(reg_tourist_coord)
 
 # Visualize
 ph_map <- map_data("world") %>% filter(region == "Philippines")
 ph_cities_data <- world.cities %>% filter(country.etc == "Philippines")
 
-ph <- ggplot(reg_tourist_coord %>% filter(year == 2018)) +
+ph_tourist <- ggplot(reg_tourist_coord %>% 
+                       filter(year == 2018) %>%
+                       filter(tourist_origin == "total")) +
   geom_polygon(
     data = ph_map,
     aes(x = long, y = lat, group = group),
@@ -197,10 +207,25 @@ ph <- ggplot(reg_tourist_coord %>% filter(year == 2018)) +
     mapping = aes(
       x = x,
       y = y,
-      color = region,
+      color = islandgroup,
       size = tourist_count
     ),
-    alpha = 0.5
+    alpha = 0.35
+  ) +
+  geom_text(
+    data = reg_tourist_pop_coord,
+    mapping = aes(
+      x = x,
+      y = y,
+      label = municity
+    )
+  ) +
+  geom_point(
+    data = reg_tourist_pop_coord,
+    mapping = aes(
+      x = x,
+      y = y
+    ), size = 1, alpha = 0.5
   ) +
   # geom_text(
   #   data %>%
@@ -212,21 +237,41 @@ ph <- ggplot(reg_tourist_coord %>% filter(year == 2018)) +
   #   size = 3
   # ) +
   facet_wrap(.~tourist_origin) +
-  scale_size(range = c(1, 10)) +
+  scale_size(range = c(1, 15)) +
   theme_minimal()
-ph
+ph_tourist
 
-ph_pop <- ggplot(reg_tourist_pop, aes(color = region, group = municity)) +
+# Visualizing popular tourist destinations in Philippines
+ph_pop_wide <- ggplot(reg_tourist_pop, aes(color = islandgroup, fill = islandgroup, group = municity)) +
+  # geom_line(aes(year, tourist_count)) +
+  geom_area(stat = "bin", position = "stack", binwidth = 1, aes(year, weight = tourist_count), alpha = 0.35) +
+  # geom_point(aes(year, tourist_count)) +
+  facet_grid(reorder(municity, -tourist_count) ~ tourist_origin) +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
+  theme_minimal()
+ph_pop_wide
+
+ph_pop_wide <- ggplot(reg_tourist_pop, aes(color = tourist_origin, group = tourist_origin)) +
   geom_line(aes(year, tourist_count)) +
   geom_point(aes(year, tourist_count)) +
-  facet_grid(tourist_origin~municity) +
-  theme(axis.text.x = element_text(angle = 90, hjust = 1))
-ph_pop
+  facet_wrap(~reorder(municity, -tourist_count), ncol = 5) +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
+  theme_minimal()
+ph_pop_wide
 
-ph_trend <- ggplot(reg_tourist_trend, aes(color = region, group = municity)) +
+ph_pop_mobile <- ggplot(reg_tourist_pop, aes(color = tourist_origin, group = tourist_origin)) +
   geom_line(aes(year, tourist_count)) +
   geom_point(aes(year, tourist_count)) +
-  facet_grid(tourist_origin~municity) +
-  theme(axis.text.x = element_text(angle = 90, hjust = 1))
-ph_trend
+  facet_wrap(~reorder(municity, -tourist_count), ncol = 3) +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
+  theme_minimal()
+ph_pop_mobile
+
+# # PH tourist destinations gaining attention
+# ph_trend <- ggplot(reg_tourist_trend, aes(color = region, group = municity)) +
+#   geom_line(aes(year, tourist_count)) +
+#   geom_point(aes(year, tourist_count)) +
+#   facet_grid(tourist_origin~municity) +
+#   theme(axis.text.x = element_text(angle = 90, hjust = 1))
+# ph_trend
   

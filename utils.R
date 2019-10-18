@@ -303,9 +303,32 @@ region_recode <- function(reg) {
   )
 }
 
+islandgroup_recode <- function(reg) {
+  recode(
+    reg,
+    `CAR (Cordillera Administrative Region)` = "Luzon",
+    `NCR (National Capital Region)` = "Luzon",
+    `Region I (ILOCOS REGION)` = "Luzon",
+    `Region II (CAGAYAN VALLEY)` = "Luzon",
+    `Region III (CENTRAL LUZON)` = "Luzon",
+    `Region IV-A (CALABARZON)` = "Luzon",
+    `Region IV-B (MIMAROPA)` = "Luzon",
+    `Region IX (ZAMBOANGA PENINSULA)` = "Mindanao",
+    `Region V (BICOL REGION)` = "Luzon",
+    `Region VI (WESTERN VISAYAS)`  = "Visayas",
+    `Region VII (CENTRAL VISAYAS)`  = "Visayas",
+    `Region VIII (EASTERN VISAYAS)` = "Visayas",
+    `Region X (NORTHERN MINDANAO)` = "Mindanao",
+    `Region XI (DAVAO REGION)` = "Mindanao",
+    `Region XII (SOCCSSARGEN)` = "Mindanao",
+    `Region XIII (CARAGA)` = "Mindanao"
+  )
+}
+
 municity_recode <- function(mc) {
   recode(
     mc,
+    `Manila` = "Metro Manila",
     `lfugao` = "Ifugao",
     `Iloilo Province` = "Iloilo",
     `Sorsogon Province` = "Sorsogon",
@@ -324,7 +347,7 @@ municity_recode <- function(mc) {
     `Valenzuela` = "Valenzuela City",
     `Batac City` = "Batac",
     `Bayugan City` = "Bayugan",
-    `Boracay` = "Malay",
+    `Malay` = "Boracay",
     `Anini-Y` = "Anini-y",
     `Laua-An` = "Laua-an",
     `Patnogon` = "Patnongon",
@@ -495,4 +518,23 @@ municity_recode <- function(mc) {
 municity_dup_recode <- function() {
   
   return ()
+}
+
+# Reverse longitude and latitude
+rev_long <- function(long_src, long_dest) {
+  if(long_src < (shift - 360)) {
+    return(long_dest)
+  }
+  # else{
+  #   return(long_src)
+  # }
+}
+
+rev_lat <- function(lat_src, lat_dest, long_src) {
+  if(long_src < (shift - 360)) {
+    return(lat_dest)
+  }
+  # else{
+  #   return(lat_src)
+  # }
 }

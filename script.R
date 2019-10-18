@@ -66,6 +66,10 @@ data_passenger <- passenger %>%
   select(year, region:total) %>%
   mutate(airport = ap_name_recode(airport))
 
+data %>% summary
+data_passenger %>% summary
+data_local_yearly %>% summary
+data_local %>% summary
 
 data_passenger$airport %>%
   unique() %>%
@@ -97,7 +101,9 @@ data_local <- left_join(data_passenger, apcode) %>%
 
 data_local_yearly <- data_local %>%
   group_by(year, region, airport) %>%
-  summarize(passenger_count = sum(passenger_count, na.rm = TRUE))
+  summarize(passenger_count = sum(passenger_count, na.rm = TRUE),
+            longitude = mean(longitude, na.rm = TRUE),
+            latitude = mean(latitude, na.rm = TRUE))
 
 write.csv(data_local, "data/output/data_local.csv", row.names = FALSE)
 write.csv(data_local_yearly,
@@ -211,7 +217,7 @@ ph_map <- map_data("world") %>% filter(region == "Philippines")
 ph_cities_data <-
   world.cities %>% filter(country.etc == "Philippines")
 
-ph <- ggplot(data) +
+ph_passenger <- ggplot(data_local_yearly %>% filter(year == 2016)) +
   geom_polygon(
     data = ph_map,
     aes(x = long, y = lat, group = group),
@@ -234,7 +240,7 @@ ph <- ggplot(data) +
       color = region,
       size = passenger_count
     ),
-    alpha = 0.25
+    alpha = 0.45
   ) +
   geom_text(
     data %>%
@@ -245,10 +251,10 @@ ph <- ggplot(data) +
                   label = airport),
     size = 3
   ) +
-  scale_size(range = c(1, 25)) +
+  scale_size(range = c(1, 50)) +
   theme_minimal()
 
-ph
+ph_passenger
 
 # ph + transition_time(year) +
 #   labs(title = "Year: {frame_time}")
@@ -310,6 +316,30 @@ data_world_yearmonth <- data_world %>%
   filter(date != "2017-12-01" %>% ymd) %>%
   filter(date != "2018-03-01" %>% ymd)
 
+data_world_top20 <- data_world_yearmonth %>%
+  filter(country != "Residences") %>%
+  group_by(region, subregion, country) %>%
+  summarize(passenger_count = sum(passenger_count, na.rm = TRUE)) %>%
+  ungroup() %>%
+  top_n(20, passenger_count) %>%
+  arrange(passenger_count %>% desc) %>%
+  select(country) %>%
+  left_join(data_world_yearmonth, by="country") %>%
+  filter(date == ymd("2018-12-01")) %>%
+  arrange(passenger_count %>% desc) %>%
+  select(country)
+
+data_world_top10_restworld <- data_world_yearmonth %>%
+  anti_join(data_world_top10, by="country") %>%
+  group_by(date, region, subregion) %>%
+  summarize(passenger_count = sum(passenger_count, na.rm = TRUE)) %>%
+  bind_rows(
+    left_join(data_world_top10, data_world_yearmonth, by="country") %>%
+      select(-subregion) %>%
+      rename(subregion = country)
+  ) %>%
+  arrange(desc(passenger_count))
+
 # Test
 # data_world_yearmonth %>% filter(date == "2018-03-01" %>% ymd)
 
@@ -320,10 +350,20 @@ write.csv(data_world_yearly,
 write.csv(data_world_yearmonth,
           "data/output/data_world_yearmonth.csv",
           row.names = FALSE)
+write.csv(data_world_top20,
+          "data/output/data_world_top20.csv",
+          row.names = FALSE)
+write.csv(data_world_top10_restworld,
+          "data/output/data_world_top10_restworld.csv",
+          row.names = FALSE)
 
 # Visualize
-
-world <- ggplot() +
+world <- ggplot(data_world %>%
+                  filter(year == 2018) %>%
+                  group_by(region, subregion, country) %>%
+                  summarize(passenger_count = sum(passenger_count, na.rm = TRUE),
+                            ctry_cntr_long = mean(ctry_cntr_long, na.rm = TRUE),
+                            ctry_cntr_lat = mean(ctry_cntr_lat, na.rm = TRUE))) +
   geom_polygon(
     data = world_map,
     aes(x = long.new, y = lat, group = gr.split),
@@ -331,28 +371,43 @@ world <- ggplot() +
     alpha = 0.3
   ) +
   geom_point(
-    data = data_world,
     mapping = aes(
       x = ctry_cntr_long,
       y = ctry_cntr_lat,
       color = region,
       size = passenger_count
     ),
-    alpha = 0.4,
+    alpha = 0.35,
     show.legend = FALSE
   ) +
+  geom_curve(
+    mapping = aes(
+      x = ctry_cntr_long,
+      y = ctry_cntr_lat,
+      # PH coordinates based on Manila
+      xend = 120.984222 + shift - 360,
+      yend = 14.599512
+      ), 
+    alpha = 0.15
+  ) +
   geom_text(
-    data = data_world,
     mapping = aes(x = ctry_cntr_long,
                   y = ctry_cntr_lat,
                   label = country),
     size = 3
   ) +
-  scale_size(range = c(1, 100)) +
-  # scale_x_continuous(limits = c(0, 350)) +
+  scale_size(range = c(1, 50)) +
   theme_minimal()
 
 world
 
 # world + transition_time(year) +
 #   labs(title = "Year: {frame_time}")
+
+ggplot(data_world_yearmonth) +
+  geom_area(position = "stack", stat = "bin", binwidth = 35, aes(date, weight = passenger_count, fill = subregion, group = subregion)) +
+  facet_grid(region ~ .)
+
+ggplot(data_world_yearmonth) +
+  geom_line(aes(date, passenger_count, color = subregion, group = subregion)) +
+  facet_grid(region ~ .)
