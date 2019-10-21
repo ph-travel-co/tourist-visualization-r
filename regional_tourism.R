@@ -128,7 +128,9 @@ rgt_dom <- reg_tourist_coord %>%
     group_by(region, province, municity) %>%
     summarize(tourist_count_accum = sum(tourist_count, na.rm = TRUE)) %>%
     ungroup() %>%
-    top_n(10, tourist_count_accum) %>%
+    top_n(100, tourist_count_accum) %>%
+    arrange(tourist_count_accum %>% desc) %>%
+    as.data.frame %>%
     select(-tourist_count_accum)
 
 rgt_for <- reg_tourist_coord %>%
@@ -136,15 +138,19 @@ rgt_for <- reg_tourist_coord %>%
     group_by(region, province, municity) %>%
     summarize(tourist_count_accum = sum(tourist_count, na.rm = TRUE)) %>%
     ungroup() %>%
-    top_n(10, tourist_count_accum) %>%
+    top_n(100, tourist_count_accum) %>%
+    arrange(tourist_count_accum %>% desc) %>%
+    as.data.frame
     select(-tourist_count_accum)
 
-rgt_tot <-reg_tourist_coord %>%
+rgt_tot <- reg_tourist_coord %>%
     filter(tourist_origin == "total") %>%
     group_by(region, province, municity) %>%
     summarize(tourist_count_accum = sum(tourist_count, na.rm = TRUE)) %>%
     ungroup() %>%
-    top_n(10, tourist_count_accum) %>%
+    top_n(100, tourist_count_accum) %>%
+    arrange(tourist_count_accum %>% desc) %>%
+    as.data.frame
     select(-tourist_count_accum)
 
 reg_tourist_pop <- bind_rows(rgt_dom, rgt_for, rgt_tot) %>% 
