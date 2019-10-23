@@ -1,11 +1,12 @@
 import React from "react";
 
 import Box from "@material-ui/core/Box";
-import "./Dataviz.css";
+import styles from "./Dataviz.module.css";
 
 const Dataviz = props => {
   return (
-    <Box component="div" class="responsive">
+    <Box component="div" class={styles.responsive}>
+      <img source={props.source} alt={props.alt}></img>
       {props.children}
     </Box>
   );

@@ -8,6 +8,9 @@ import Content from "./container/Content";
 import Dataviz from "./container/Dataviz";
 
 import MapWorldWide from "./media/png/tourist_arrival_ph_map_worldwide_wide.png";
+import BumpWorldWide from "./media/png/tourist_arrival_ph_bumpchart_worldwide_wide.png";
+import MapRegional from "./media/png/tourist_arrival_ph_map_regional_wide.png";
+import TrendRegional from "./media/png/tourist_arrival_ph_trend_regional_wide.png";
 
 function App() {
   return (
@@ -51,13 +54,39 @@ function App() {
       </Content>
       {/* Dataviz */}
       <Dataviz>
-        <img src={MapWorldWide} alt="MapWorldWide" class="responsive"></img>
+        <img src={MapWorldWide} alt="MapWorldWide" class="App-responsive"></img>
       </Dataviz>
-      {/* Content */}
-      <Content></Content>
       {/* Dataviz */}
-      <Dataviz></Dataviz>
-      {/* Content */}
+      <Dataviz source={BumpWorldWide} alt="BumpWorldWide">
+        <img
+          src={BumpWorldWide}
+          alt="BumpWorldWide"
+          class="App-responsive"
+          style={{
+            display: "block",
+            maxWidth: "1366px",
+            marginLeft: "auto",
+            marginRight: "auto"
+          }}
+        ></img>
+      </Dataviz>
+      <Dataviz>
+        <img src={MapRegional} alt="MapRegional" class="App-responsive"></img>
+      </Dataviz>
+      <Dataviz>
+        <img
+          src={TrendRegional}
+          alt="TrendRegional"
+          class="App-responsive"
+          style={{
+            display: "block",
+            maxWidth: "960px",
+            marginLeft: "auto",
+            marginRight: "auto"
+          }}
+        ></img>
+      </Dataviz>
+
       {/* Data Sources */}
       <Content></Content>
     </Box>
