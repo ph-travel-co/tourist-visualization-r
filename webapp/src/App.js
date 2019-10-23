@@ -47,16 +47,19 @@ function App() {
           identify and visualize origin of tourist. We also learned which
           countries where most tourists were coming from.
         </p>
-        <h2>
-          Map: Country of Origin of Tourists to the Philippines from January
-          2014 to December 2016 [Map]
-        </h2>
       </Content>
-      {/* Dataviz */}
+      <Content>
+        <h2>Country of Origin of Tourists to the Philippines 2016</h2>
+      </Content>
       <Dataviz>
         <img src={MapWorldWide} alt="MapWorldWide" class="Dataviz-wide"></img>
       </Dataviz>
-      {/* Dataviz */}
+      <Content>
+        <h2>
+          Timeline of Country of Origin of Tourists to the Philippines from
+          January 2014 to December 2016
+        </h2>
+      </Content>
       <Dataviz>
         <img
           src={BumpWorldWide}
@@ -64,9 +67,20 @@ function App() {
           class="Dataviz-medium"
         ></img>
       </Dataviz>
+      <Content>
+        <h2>
+          Comparison of the Volume between Domestic and Foreign Tourists in 2018
+        </h2>
+      </Content>
       <Dataviz>
         <img src={MapRegional} alt="MapRegional" class="Dataviz-medium"></img>
       </Dataviz>
+      <Content>
+        <h2>
+          Top 15 Most Popular Tourist Destinations to the Philippines (Foreign
+          and Domestic Tourists)
+        </h2>
+      </Content>
       <Dataviz>
         <img
           src={TrendRegional}
@@ -77,9 +91,6 @@ function App() {
           }}
         ></img>
       </Dataviz>
-
-      {/* Data Sources */}
-      <Content></Content>
     </Box>
   );
 }
