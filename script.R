@@ -303,6 +303,13 @@ data_world_yearly <- data_world %>%
   ) %>%
   filter(region != "Total")
 
+data_world_yearly_sum <- data_world_yearly %>%
+  gather(year, tourist_count, y2014:y2018) %>%
+  group_by(year, region, subregion, country) %>%
+  summarize(tourist_count = sum(tourist_count, na.rm = T)) %>%
+  ungroup %>%
+  mutate(year = str_replace_all(year, "y", "") %>% as.integer)
+
 data_world_yearmonth <- data_world %>%
   mutate(month = mnth2num(month) %>% as.character()) %>%
   mutate(year = year %>% as.character()) %>%
@@ -408,6 +415,12 @@ ggplot(data_world_yearmonth) +
   geom_area(position = "stack", stat = "bin", binwidth = 35, aes(date, weight = passenger_count, fill = subregion, group = subregion)) +
   facet_grid(region ~ .)
 
-ggplot(data_world_yearmonth) +
-  geom_line(aes(date, passenger_count, color = subregion, group = subregion)) +
-  facet_grid(region ~ .)
+ggplot(data_world_yearly_sum %>%
+         group_by(country) %>%
+         top_n(10, tourist_count) %>%
+         ungroup %>%
+         arrange(country, year)) +
+  geom_line(aes(year, tourist_count, color = region, group = country))
+
+ggplot(data_world_yearly_sum) +
+  geom_area(position = "stack", stat = "bin", binwidth = 1, aes(year, weight = tourist_count, fill = region, group = region))

@@ -1,1349 +1,1349 @@
-"year","region","airport","passenger_count"
-2001,"ARMM","Cagayan de Sulu",0
-2001,"ARMM","Cotabato",235484
-2001,"ARMM","Jolo",7060
-2001,"ARMM","Malabang",0
-2001,"ARMM","Sanga-Sanga",462
-2001,"CAR","Baguio",17846
-2001,"I (Ilocos Norte)","Laoag",216546
-2001,"I (Ilocos Norte)","Lingayen",1298
-2001,"I (Ilocos Norte)","Rosales",8
-2001,"I (Ilocos Norte)","San Fernando",0
-2001,"I (Ilocos Norte)","Vigan",1784
-2001,"II (Cagayan Valley)","Bagabag",6896
-2001,"II (Cagayan Valley)","Basco",44684
-2001,"II (Cagayan Valley)","Cauayan",18508
-2001,"II (Cagayan Valley)","Itbayat",4222
-2001,"II (Cagayan Valley)","Palanan",15738
-2001,"II (Cagayan Valley)","Tuguegarao",66970
-2001,"III (Central Luzon)","Baler",0
-2001,"III (Central Luzon)","Iba",9872
-2001,"III (Central Luzon)","Plaridel",13778
-2001,"IV-A (CALABARZON))","Alabat",0
-2001,"IV-A (CALABARZON))","Jomalig",28
-2001,"IV-B (MIMAROPA)","Busuanga",46970
-2001,"IV-B (MIMAROPA)","Calapan",946
-2001,"IV-B (MIMAROPA)","Cuyo",1414
-2001,"IV-B (MIMAROPA)","Lubang",7038
-2001,"IV-B (MIMAROPA)","Lucena",66
-2001,"IV-B (MIMAROPA)","Mamburao",908
-2001,"IV-B (MIMAROPA)","Marinduque",6684
-2001,"IV-B (MIMAROPA)","Puerto Princesa",757648
-2001,"IV-B (MIMAROPA)","Romblon",692
-2001,"IV-B (MIMAROPA)","San Jose",65654.048
-2001,"IV-B (MIMAROPA)","Wasig",56
-2001,"IX (Zamboanga Peninsula)","Dipolog",100516
-2001,"IX (Zamboanga Peninsula)","Ipil",1838
-2001,"IX (Zamboanga Peninsula)","Liloy",18
-2001,"IX (Zamboanga Peninsula)","Pagadian",5762
-2001,"IX (Zamboanga Peninsula)","Siocon",30
-2001,"IX (Zamboanga Peninsula)","Zamboanga",540276
-2001,"NCR","Ninoy Aquino International Airport",25613256
-2001,"V (Bicol Region)","Bulan",0
-2001,"V (Bicol Region)","Daet",0
-2001,"V (Bicol Region)","Legaspi",153030
-2001,"V (Bicol Region)","Masbate",60694
-2001,"V (Bicol Region)","Naga",128168
-2001,"V (Bicol Region)","Sorsogon",104
-2001,"V (Bicol Region)","Virac",53972
-2001,"VI (Western Visayas)","Antique",0
-2001,"VI (Western Visayas)","Bacolod",1075618
-2001,"VI (Western Visayas)","Caticlan",330888
-2001,"VI (Western Visayas)","Iloilo",1279024
-2001,"VI (Western Visayas)","Kalibo",476246
-2001,"VI (Western Visayas)","Roxas",160694
-2001,"VII (Central Visayas)","Dumaguete",276734
-2001,"VII (Central Visayas)","Mactan-Cebu",4439530
-2001,"VII (Central Visayas)","Siquijor",304
-2001,"VII (Central Visayas)","Tagbilaran",66864
-2001,"VII (Central Visayas)","Ubay",0
-2001,"VIII (Eastern Visayas)","Biliran",10
-2001,"VIII (Eastern Visayas)","Borongan",0
-2001,"VIII (Eastern Visayas)","Calbayog",21196
-2001,"VIII (Eastern Visayas)","Catarman",23260
-2001,"VIII (Eastern Visayas)","Catbalogan",2
-2001,"VIII (Eastern Visayas)","Guiuan",60
-2001,"VIII (Eastern Visayas)","Hilongos",248
-2001,"VIII (Eastern Visayas)","Maasin",0
-2001,"VIII (Eastern Visayas)","Ormoc",1616
-2001,"VIII (Eastern Visayas)","Tacloban",598590
-2001,"X (Northern Mindanao)","Cagayan de Oro",809812
-2001,"X (Northern Mindanao)","Camiguin",1960
-2001,"X (Northern Mindanao)","Iligan",4
-2001,"X (Northern Mindanao)","Malaybalay",0
-2001,"X (Northern Mindanao)","Ozamis",368
-2001,"XI (Davao Region)","Davao",1902114
-2001,"XI (Davao Region)","Mati",0
-2001,"XII (SOCCSKSARGEN)","Allah Valley",142
-2001,"XII (SOCCSKSARGEN)","General Santos",592816
-2001,"XIII (Caraga)","Barobo",0
-2001,"XIII (Caraga)","Bislig",0
-2001,"XIII (Caraga)","Butuan",189514
-2001,"XIII (Caraga)","Siargao",1216
-2001,"XIII (Caraga)","Surigao",8824
-2001,"XIII (Caraga)","Tandag",1604
-2002,"ARMM","Cagayan de Sulu",0
-2002,"ARMM","Cotabato",126584
-2002,"ARMM","Jolo",18036
-2002,"ARMM","Malabang",0
-2002,"ARMM","Sanga-Sanga",10062
-2002,"CAR","Baguio",28488
-2002,"I (Ilocos Norte)","Laoag",371522
-2002,"I (Ilocos Norte)","Lingayen",1678
-2002,"I (Ilocos Norte)","Rosales",30
-2002,"I (Ilocos Norte)","Vigan",1094
-2002,"II (Cagayan Valley)","Bagabag",6238
-2002,"II (Cagayan Valley)","Basco",45968
-2002,"II (Cagayan Valley)","Cauayan",37496
-2002,"II (Cagayan Valley)","Itbayat",0
-2002,"II (Cagayan Valley)","Palanan",17752
-2002,"II (Cagayan Valley)","Tuguegarao",54000
-2002,"III (Central Luzon)","Baler",0
-2002,"III (Central Luzon)","Busuanga",2436
-2002,"III (Central Luzon)","Iba",7308
-2002,"III (Central Luzon)","Plaridel",24796
-2002,"III (Central Luzon)","Subic",36928
-2002,"IV-A (CALABARZON))","Alabat",8
-2002,"IV-A (CALABARZON))","Jomalig",792
-2002,"IV-B (MIMAROPA)","Busuanga",34778
-2002,"IV-B (MIMAROPA)","Calapan",1226
-2002,"IV-B (MIMAROPA)","Cuyo",4240
-2002,"IV-B (MIMAROPA)","Lubang",10172
-2002,"IV-B (MIMAROPA)","Lucena",1194
-2002,"IV-B (MIMAROPA)","Mamburao",1088
-2002,"IV-B (MIMAROPA)","Marinduque",5296
-2002,"IV-B (MIMAROPA)","Pinamalayan",1698
-2002,"IV-B (MIMAROPA)","Puerto Princesa",591984
-2002,"IV-B (MIMAROPA)","Romblon",1146
-2002,"IV-B (MIMAROPA)","San Jose",78010
-2002,"IV-B (MIMAROPA)","Wasig",0
-2002,"IX (Zamboanga Peninsula)","Dipolog",107996
-2002,"IX (Zamboanga Peninsula)","Ipil",2096
-2002,"IX (Zamboanga Peninsula)","Liloy",36
-2002,"IX (Zamboanga Peninsula)","Pagadian",5390
-2002,"IX (Zamboanga Peninsula)","Siocon",288
-2002,"IX (Zamboanga Peninsula)","Zamboanga",592382
-2002,"NCR","Ninoy Aquino International Airport",25975960
-2002,"V (Bicol Region)","Bulan",12
-2002,"V (Bicol Region)","Daet",0
-2002,"V (Bicol Region)","Legaspi",179166
-2002,"V (Bicol Region)","Masbate",58076
-2002,"V (Bicol Region)","Naga",90230
-2002,"V (Bicol Region)","Sorsogon",12
-2002,"V (Bicol Region)","Virac",49448
-2002,"VI (Western Visayas)","Antique",148
-2002,"VI (Western Visayas)","Bacolod",1028026
-2002,"VI (Western Visayas)","Caticlan",362280
-2002,"VI (Western Visayas)","Iloilo",1354150
-2002,"VI (Western Visayas)","Kalibo",507126
-2002,"VI (Western Visayas)","Roxas",136762
-2002,"VII (Central Visayas)","Dumaguete",272466
-2002,"VII (Central Visayas)","Mactan-Cebu",3986254
-2002,"VII (Central Visayas)","Siquijor",844
-2002,"VII (Central Visayas)","Tagbilaran",154502
-2002,"VII (Central Visayas)","Ubay",0
-2002,"VIII (Eastern Visayas)","Biliran",2
-2002,"VIII (Eastern Visayas)","Borongan",0
-2002,"VIII (Eastern Visayas)","Calbayog",24030
-2002,"VIII (Eastern Visayas)","Catarman",26936
-2002,"VIII (Eastern Visayas)","Catbalogan",16
-2002,"VIII (Eastern Visayas)","Guiuan",90
-2002,"VIII (Eastern Visayas)","Hilongos",196
-2002,"VIII (Eastern Visayas)","Maasin",0
-2002,"VIII (Eastern Visayas)","Ormoc",928
-2002,"VIII (Eastern Visayas)","Tacloban",607460
-2002,"X (Northern Mindanao)","Cagayan de Oro",935754
-2002,"X (Northern Mindanao)","Camiguin",2600
-2002,"X (Northern Mindanao)","Iligan",0
-2002,"X (Northern Mindanao)","Malaybalay",0
-2002,"X (Northern Mindanao)","Ozamis",636
-2002,"XI (Davao Region)","Davao",1952862
-2002,"XI (Davao Region)","Mati",0
-2002,"XII (SOCCSKSARGEN)","Barobo",0
-2002,"XII (SOCCSKSARGEN)","General Santos",519780
-2002,"XIII (Caraga)","Allah Valley",8
-2002,"XIII (Caraga)","Bislig",0
-2002,"XIII (Caraga)","Butuan",201128
-2002,"XIII (Caraga)","Siargao",710
-2002,"XIII (Caraga)","Surigao",6686
-2002,"XIII (Caraga)","Tandag",4768
-2003,"ARMM","Cagayan de Sulu",52
-2003,"ARMM","Jolo",19776
-2003,"ARMM","Malabang",0
-2003,"ARMM","Sanga-Sanga",11390
-2003,"CAR","Baguio",28980
-2003,"I (Ilocos Norte)","Laoag",199374
-2003,"I (Ilocos Norte)","Lingayen",1330
-2003,"I (Ilocos Norte)","Rosales",0
-2003,"I (Ilocos Norte)","Vigan",1904
-2003,"II (Cagayan Valley)","Bagabag",5412
-2003,"II (Cagayan Valley)","Basco",52130
-2003,"II (Cagayan Valley)","Cauayan",20846
-2003,"II (Cagayan Valley)","Itbayat",0
-2003,"II (Cagayan Valley)","Palanan",18926
-2003,"II (Cagayan Valley)","Tuguegarao",35406
-2003,"III (Central Luzon)","Baler",44
-2003,"III (Central Luzon)","Clark",0
-2003,"III (Central Luzon)","Iba",2630
-2003,"III (Central Luzon)","Plaridel",22830
-2003,"III (Central Luzon)","Subic",43490
-2003,"IV-A (CALABARZON))","Alabat",10
-2003,"IV-A (CALABARZON))","Jomalig",76
-2003,"IV-A (CALABARZON))","Lucena",6
-2003,"IV-B (MIMAROPA)","Busuanga",18704
-2003,"IV-B (MIMAROPA)","Calapan",138
-2003,"IV-B (MIMAROPA)","Cuyo",2668
-2003,"IV-B (MIMAROPA)","Lubang",14250
-2003,"IV-B (MIMAROPA)","Mamburao",810
-2003,"IV-B (MIMAROPA)","Marinduque",6554
-2003,"IV-B (MIMAROPA)","Pinamalayan",0
-2003,"IV-B (MIMAROPA)","Puerto Princesa",783900
-2003,"IV-B (MIMAROPA)","Romblon",260
-2003,"IV-B (MIMAROPA)","San Jose",81896
-2003,"IV-B (MIMAROPA)","Wasig",0
-2003,"IX (Zamboanga Peninsula)","Dipolog",118794
-2003,"IX (Zamboanga Peninsula)","Ipil",328
-2003,"IX (Zamboanga Peninsula)","Liloy",1678
-2003,"IX (Zamboanga Peninsula)","Pagadian",268
-2003,"IX (Zamboanga Peninsula)","Siocon",1146
-2003,"IX (Zamboanga Peninsula)","Zamboanga",618662
-2003,"NCR","Ninoy Aquino International Airport",26277070
-2003,"V (Bicol Region)","Bulan",0
-2003,"V (Bicol Region)","Daet",0
-2003,"V (Bicol Region)","Legaspi",184246
-2003,"V (Bicol Region)","Masbate",52452
-2003,"V (Bicol Region)","Naga",90448
-2003,"V (Bicol Region)","Sorsogon",154
-2003,"V (Bicol Region)","Virac",39986
-2003,"VI (Western Visayas)","Antique",88
-2003,"VI (Western Visayas)","Bacolod",1044790
-2003,"VI (Western Visayas)","Caticlan",430670
-2003,"VI (Western Visayas)","Iloilo",1365936
-2003,"VI (Western Visayas)","Kalibo",459700
-2003,"VI (Western Visayas)","Roxas",71108
-2003,"VII (Central Visayas)","Dumaguete",297298
-2003,"VII (Central Visayas)","Mactan-Cebu",3021534
-2003,"VII (Central Visayas)","Mactan/G. Aviation",16756
-2003,"VII (Central Visayas)","Siquijor",668
-2003,"VII (Central Visayas)","Tagbilaran",211112
-2003,"VII (Central Visayas)","Ubay",0
-2003,"VIII (Eastern Visayas)","Biliran",0
-2003,"VIII (Eastern Visayas)","Borongan",0
-2003,"VIII (Eastern Visayas)","Calbayog",29078
-2003,"VIII (Eastern Visayas)","Catarman",19574
-2003,"VIII (Eastern Visayas)","Catbalogan",16
-2003,"VIII (Eastern Visayas)","Guiuan",144
-2003,"VIII (Eastern Visayas)","Hilongos",162
-2003,"VIII (Eastern Visayas)","Maasin",0
-2003,"VIII (Eastern Visayas)","Ormoc",0
-2003,"VIII (Eastern Visayas)","Tacloban",567146
-2003,"X (Northern Mindanao)","Cagayan de Oro",772268
-2003,"X (Northern Mindanao)","Camiguin",3238
-2003,"X (Northern Mindanao)","Iligan",0
-2003,"X (Northern Mindanao)","Malaybalay",0
-2003,"X (Northern Mindanao)","Ozamis",188
-2003,"XI (Davao Region)","Davao",1511242
-2003,"XI (Davao Region)","Mati",1382
-2003,"XII (SOCCSKSARGEN)","Allah Valley",84
-2003,"XII (SOCCSKSARGEN)","Cotabato",92818
-2003,"XII (SOCCSKSARGEN)","General Santos",747480
-2003,"XIII (Caraga)","Barobo",0
-2003,"XIII (Caraga)","Bislig",0
-2003,"XIII (Caraga)","Butuan",242234
-2003,"XIII (Caraga)","Siargao",1014
-2003,"XIII (Caraga)","Surigao",4298
-2003,"XIII (Caraga)","Tandag",7202
-2004,"ARMM","Cagayan de Sulu",92
-2004,"ARMM","Cotabato",127696
-2004,"ARMM","Jolo",30478
-2004,"ARMM","Malabang",0
-2004,"ARMM","Sanga-Sanga",12684
-2004,"CAR","Baguio",38736
-2004,"I (Ilocos Norte)","Laoag",269738
-2004,"I (Ilocos Norte)","Lingayen",1660
-2004,"I (Ilocos Norte)","Rosales",56
-2004,"I (Ilocos Norte)","Vigan",1924
-2004,"II (Cagayan Valley)","Bagabag",2316
-2004,"II (Cagayan Valley)","Basco",75476
-2004,"II (Cagayan Valley)","Itbayat",0
-2004,"II (Cagayan Valley)","Palanan",14286
-2004,"II (Cagayan Valley)","Tuguegarao",63946
-2004,"III (Central Luzon)","Baler",486
-2004,"III (Central Luzon)","Clark",0
-2004,"III (Central Luzon)","Iba",1948
-2004,"III (Central Luzon)","Plaridel",19054
-2004,"III (Central Luzon)","Subic",0
-2004,"IV-A (CALABARZON))","Alabat",0
-2004,"IV-A (CALABARZON))","Jomalig",756
-2004,"IV-B (MIMAROPA)","Busuanga",34844
-2004,"IV-B (MIMAROPA)","Calapan",0
-2004,"IV-B (MIMAROPA)","Cuyo",2558
-2004,"IV-B (MIMAROPA)","Lubang",11008
-2004,"IV-B (MIMAROPA)","Mamburao",2098
-2004,"IV-B (MIMAROPA)","Marinduque",2414
-2004,"IV-B (MIMAROPA)","Pinamalayan",0
-2004,"IV-B (MIMAROPA)","Puerto Princesa",1087720
-2004,"IV-B (MIMAROPA)","Romblon",1866
-2004,"IV-B (MIMAROPA)","San Jose",79492
-2004,"IV-B (MIMAROPA)","Wasig",0
-2004,"IX (Zamboanga Peninsula)","Dipolog",149280
-2004,"IX (Zamboanga Peninsula)","Ipil",664
-2004,"IX (Zamboanga Peninsula)","Liloy",112
-2004,"IX (Zamboanga Peninsula)","Pagadian",720
-2004,"IX (Zamboanga Peninsula)","Siocon",954
-2004,"IX (Zamboanga Peninsula)","Zamboanga",706102
-2004,"NCR","Ninoy Aquino International Airport",30857042
-2004,"V (Bicol Region)","Bulan",124
-2004,"V (Bicol Region)","Daet",102
-2004,"V (Bicol Region)","Legaspi",200180
-2004,"V (Bicol Region)","Masbate",53472
-2004,"V (Bicol Region)","Naga",87812
-2004,"V (Bicol Region)","Sorsogon",56
-2004,"V (Bicol Region)","Virac",43232
-2004,"VI (Western Visayas)","Antique",5668
-2004,"VI (Western Visayas)","Bacolod",1148250
-2004,"VI (Western Visayas)","Caticlan",789386
-2004,"VI (Western Visayas)","Iloilo",1479168
-2004,"VI (Western Visayas)","Kalibo",492710
-2004,"VI (Western Visayas)","Roxas",151190
-2004,"VII (Central Visayas)","Dumaguete",262106
-2004,"VII (Central Visayas)","Mactan-Cebu",4665408
-2004,"VII (Central Visayas)","Siquijor",242
-2004,"VII (Central Visayas)","Tagbilaran",325724
-2004,"VII (Central Visayas)","Ubay",0
-2004,"VIII (Eastern Visayas)","Biliran",0
-2004,"VIII (Eastern Visayas)","Borongan",0
-2004,"VIII (Eastern Visayas)","Calbayog",10528
-2004,"VIII (Eastern Visayas)","Catarman",22848
-2004,"VIII (Eastern Visayas)","Catbalogan",0
-2004,"VIII (Eastern Visayas)","Guiuan",96
-2004,"VIII (Eastern Visayas)","Hilongos",78
-2004,"VIII (Eastern Visayas)","Maasin",0
-2004,"VIII (Eastern Visayas)","Ormoc",0
-2004,"VIII (Eastern Visayas)","Tacloban",579338
-2004,"X (Northern Mindanao)","Cagayan de Oro",814734
-2004,"X (Northern Mindanao)","Camiguin",3132
-2004,"X (Northern Mindanao)","Iligan",0
-2004,"X (Northern Mindanao)","Ozamis",476
-2004,"XI (Davao Region)","Davao",1744434
-2004,"XI (Davao Region)","Mati",0
-2004,"XII (SOCCSKSARGEN)","Allah Valley",496
-2004,"XII (SOCCSKSARGEN)","General Santos",604192
-2004,"XIII (Caraga)","Bislig",0
-2004,"XIII (Caraga)","Butuan",272132
-2004,"XIII (Caraga)","Siargao",920
-2004,"XIII (Caraga)","Surigao",17946
-2004,"XIII (Caraga)","Tandag",10122
-2005,"ARMM","Cagayan de Sulu",30
-2005,"ARMM","Cotabato",173840
-2005,"ARMM","Jolo",40942
-2005,"ARMM","Malabang",0
-2005,"ARMM","Sanga-Sanga",17540
-2005,"CAR","Baguio",39422
-2005,"I (Ilocos Norte)","Laoag",238924
-2005,"I (Ilocos Norte)","Lingayen",1500
-2005,"I (Ilocos Norte)","Rosales",0
-2005,"I (Ilocos Norte)","Vigan",5808
-2005,"II (Cagayan Valley)","Bagabag",2108
-2005,"II (Cagayan Valley)","Basco",50752
-2005,"II (Cagayan Valley)","Cauayan",14328
-2005,"II (Cagayan Valley)","Itbayat",0
-2005,"II (Cagayan Valley)","Palanan",10102
-2005,"II (Cagayan Valley)","Tuguegarao",63984
-2005,"III (Central Luzon)","Baler",52
-2005,"III (Central Luzon)","Clark",0
-2005,"III (Central Luzon)","Iba",1694
-2005,"III (Central Luzon)","Plaridel",16024
-2005,"III (Central Luzon)","Subic",0
-2005,"IV-A (CALABARZON))","Alabat",0
-2005,"IV-A (CALABARZON))","Busuanga",72
-2005,"IV-A (CALABARZON))","Calapan",68
-2005,"IV-A (CALABARZON))","Jomalig",746
-2005,"IV-B (MIMAROPA)","Baler",284
-2005,"IV-B (MIMAROPA)","Bulan",40
-2005,"IV-B (MIMAROPA)","Busuanga",66354
-2005,"IV-B (MIMAROPA)","Calapan",446
-2005,"IV-B (MIMAROPA)","Cuyo",1802
-2005,"IV-B (MIMAROPA)","Daet",0
-2005,"IV-B (MIMAROPA)","Legaspi",199132
-2005,"IV-B (MIMAROPA)","Lubang",9840
-2005,"IV-B (MIMAROPA)","Mamburao",528
-2005,"IV-B (MIMAROPA)","Marinduque",1178
-2005,"IV-B (MIMAROPA)","Masbate",53070
-2005,"IV-B (MIMAROPA)","Naga",74006
-2005,"IV-B (MIMAROPA)","Pinamalayan",0
-2005,"IV-B (MIMAROPA)","Puerto Princesa",1071112
-2005,"IV-B (MIMAROPA)","Romblon",2690
-2005,"IV-B (MIMAROPA)","San Jose",83980
-2005,"IV-B (MIMAROPA)","Sorsogon",24
-2005,"IV-B (MIMAROPA)","Virac",41998
-2005,"IV-B (MIMAROPA)","Wasig",0
-2005,"IX (Zamboanga Peninsula)","Dipolog",152370
-2005,"IX (Zamboanga Peninsula)","Ipil",152
-2005,"IX (Zamboanga Peninsula)","Liloy",4
-2005,"IX (Zamboanga Peninsula)","Pagadian",3584
-2005,"IX (Zamboanga Peninsula)","Siocon",0
-2005,"IX (Zamboanga Peninsula)","Zamboanga",721850
-2005,"NCR","Ninoy Aquino International Airport",32970356
-2005,"VI (Western Visayas)","Antique",0
-2005,"VI (Western Visayas)","Bacolod",1127142
-2005,"VI (Western Visayas)","Caticlan",1043036
-2005,"VI (Western Visayas)","Iloilo",1416938
-2005,"VI (Western Visayas)","Kalibo",484366
-2005,"VI (Western Visayas)","Roxas",188498
-2005,"VII (Central Visayas)","Dumaguete",328316
-2005,"VII (Central Visayas)","Mactan-Cebu",3795350
-2005,"VII (Central Visayas)","Siquijor",72
-2005,"VII (Central Visayas)","Tagbilaran",397210
-2005,"VII (Central Visayas)","Ubay",0
-2005,"VIII (Eastern Visayas)","Biliran",0
-2005,"VIII (Eastern Visayas)","Borongan",0
-2005,"VIII (Eastern Visayas)","Calbayog",6538
-2005,"VIII (Eastern Visayas)","Catarman",25510
-2005,"VIII (Eastern Visayas)","Catbalogan",0
-2005,"VIII (Eastern Visayas)","Guiuan",344
-2005,"VIII (Eastern Visayas)","Hilongos",162
-2005,"VIII (Eastern Visayas)","Maasin",0
-2005,"VIII (Eastern Visayas)","Ormoc",0
-2005,"VIII (Eastern Visayas)","Tacloban",656716
-2005,"X (Northern Mindanao)","Cagayan de Oro",928108
-2005,"X (Northern Mindanao)","Camiguin",6774
-2005,"X (Northern Mindanao)","Iligan",340
-2005,"X (Northern Mindanao)","Ozamis",78
-2005,"XI (Davao Region)","Davao",2694068
-2005,"XI (Davao Region)","Mati",0
-2005,"XII (SOCCSKSARGEN)","Allah Valley",544
-2005,"XII (SOCCSKSARGEN)","General Santos",225224
-2005,"XIII (Caraga)","Bislig",0
-2005,"XIII (Caraga)","Butuan",235888
-2005,"XIII (Caraga)","General Santos",5e+05
-2005,"XIII (Caraga)","Siargao",1510
-2005,"XIII (Caraga)","Surigao",29690
-2005,"XIII (Caraga)","Tandag",14200
-2006,"ARMM","Cagayan de Sulu",0
-2006,"ARMM","Cotabato",121060
-2006,"ARMM","Jolo",14662
-2006,"ARMM","Malabang",0
-2006,"ARMM","Sanga-Sanga",4820
-2006,"CAR","Baguio",36704
-2006,"I (Ilocos Norte)","Laoag",257714
-2006,"I (Ilocos Norte)","Lingayen",2604
-2006,"I (Ilocos Norte)","Rosales",0
-2006,"I (Ilocos Norte)","Vigan",5484
-2006,"II (Cagayan Valley)","Bagabag",2848
-2006,"II (Cagayan Valley)","Basco",45496
-2006,"II (Cagayan Valley)","Cauayan",15240
-2006,"II (Cagayan Valley)","Itbayat",0
-2006,"II (Cagayan Valley)","Palanan",10060
-2006,"II (Cagayan Valley)","Tuguegarao",59628
-2006,"III (Central Luzon)","Baler",672
-2006,"III (Central Luzon)","Clark",1956280
-2006,"III (Central Luzon)","Iba",2934
-2006,"III (Central Luzon)","Plaridel",44964
-2006,"III (Central Luzon)","Subic",34270
-2006,"IV-A (CALABARZON))","Alabat",0
-2006,"IV-A (CALABARZON))","Jomalig",480
-2006,"IV-B (MIMAROPA)","Busuanga",57734
-2006,"IV-B (MIMAROPA)","Calapan",0
-2006,"IV-B (MIMAROPA)","Cuyo",346
-2006,"IV-B (MIMAROPA)","Lubang",8554
-2006,"IV-B (MIMAROPA)","Mamburao",954
-2006,"IV-B (MIMAROPA)","Marinduque",0
-2006,"IV-B (MIMAROPA)","Pinamalayan",0
-2006,"IV-B (MIMAROPA)","Puerto Princesa",1136440
-2006,"IV-B (MIMAROPA)","Romblon",20
-2006,"IV-B (MIMAROPA)","San Jose",89794
-2006,"IV-B (MIMAROPA)","Wasig",0
-2006,"IX (Zamboanga Peninsula)","Dipolog",139360
-2006,"IX (Zamboanga Peninsula)","Ipil",64
-2006,"IX (Zamboanga Peninsula)","Liloy",0
-2006,"IX (Zamboanga Peninsula)","Pagadian",8862
-2006,"IX (Zamboanga Peninsula)","Siocon",0
-2006,"IX (Zamboanga Peninsula)","Zamboanga",795820
-2006,"NCR","Ninoy Aquino International Airport",36458442
-2006,"Region XII","Cotabato",130018
-2006,"V (Bicol Region)","Bulan",16
-2006,"V (Bicol Region)","Daet",68
-2006,"V (Bicol Region)","Legaspi",292934
-2006,"V (Bicol Region)","Masbate",44374
-2006,"V (Bicol Region)","Naga",101514
-2006,"V (Bicol Region)","Sorsogon",4
-2006,"V (Bicol Region)","Virac",35832
-2006,"VI (Western Visayas)","Antique",0
-2006,"VI (Western Visayas)","Bacolod",1330288
-2006,"VI (Western Visayas)","Caticlan",1038088
-2006,"VI (Western Visayas)","Iloilo",1728806
-2006,"VI (Western Visayas)","Kalibo",686692
-2006,"VI (Western Visayas)","Roxas",240444
-2006,"VII (Central Visayas)","Dumaguete",328488
-2006,"VII (Central Visayas)","Mactan-Cebu",1641808
-2006,"VII (Central Visayas)","Siquijor",234
-2006,"VII (Central Visayas)","Tagbilaran",482968
-2006,"VII (Central Visayas)","Ubay",0
-2006,"VIII (Eastern Visayas)","Biliran",0
-2006,"VIII (Eastern Visayas)","Borongan",0
-2006,"VIII (Eastern Visayas)","Calbayog",16534
-2006,"VIII (Eastern Visayas)","Catarman",27818
-2006,"VIII (Eastern Visayas)","Catbalogan",0
-2006,"VIII (Eastern Visayas)","Guiuan",1168
-2006,"VIII (Eastern Visayas)","Hilongos",238
-2006,"VIII (Eastern Visayas)","Maasin",0
-2006,"VIII (Eastern Visayas)","Ormoc",0
-2006,"VIII (Eastern Visayas)","Tacloban",799770
-2006,"X (Northern Mindanao)","Cagayan de Oro",1212186
-2006,"X (Northern Mindanao)","Camiguin",6296
-2006,"X (Northern Mindanao)","Iligan",352
-2006,"X (Northern Mindanao)","Ozamis",0
-2006,"X (Northern Mindanao)","Siargao",1044
-2006,"X (Northern Mindanao)","Surigao",22102
-2006,"XI (Davao Region)","Davao",2683628
-2006,"XI (Davao Region)","Mati",0
-2006,"XII (SOCCSKSARGEN)","Allah Valley",236
-2006,"XII (SOCCSKSARGEN)","General Santos",313072
-2006,"XIII (Caraga)","Bislig",0
-2006,"XIII (Caraga)","Butuan",318096
-2006,"XIII (Caraga)","General Santos",520396
-2006,"XIII (Caraga)","Tandag",9668
-2007,"ARMM","Cagayan de Sulu",0
-2007,"ARMM","Cotabato",254396
-2007,"ARMM","Jolo",28490
-2007,"ARMM","Malabang",0
-2007,"ARMM","Sanga-Sanga",28978
-2007,"CAR","Baguio",31502
-2007,"I (Ilocos Norte)","Laoag",285633
-2007,"I (Ilocos Norte)","Lingayen",12948
-2007,"I (Ilocos Norte)","Rosales",0
-2007,"I (Ilocos Norte)","Vigan",18730
-2007,"II (Cagayan Valley)","Bagabag",1576
-2007,"II (Cagayan Valley)","Basco",39100
-2007,"II (Cagayan Valley)","Cauayan",12794
-2007,"II (Cagayan Valley)","Itbayat",142
-2007,"II (Cagayan Valley)","Palanan",8996
-2007,"II (Cagayan Valley)","Tuguegarao",76246
-2007,"III (Central Luzon)","Baler",2242
-2007,"III (Central Luzon)","Clark",2150458
-2007,"III (Central Luzon)","Iba",12948
-2007,"III (Central Luzon)","Plaridel",361424
-2007,"III (Central Luzon)","Subic",35296
-2007,"IV-A (CALABARZON))","Alabat",0
-2007,"IV-A (CALABARZON))","Jomalig",430
-2007,"IV-B (MIMAROPA)","Busuanga",67346
-2007,"IV-B (MIMAROPA)","Calapan",0
-2007,"IV-B (MIMAROPA)","Cuyo",1094
-2007,"IV-B (MIMAROPA)","Lubang",22272
-2007,"IV-B (MIMAROPA)","Mamburao",686
-2007,"IV-B (MIMAROPA)","Marinduque",266
-2007,"IV-B (MIMAROPA)","Pinamalayan",0
-2007,"IV-B (MIMAROPA)","Puerto Princesa",1568156
-2007,"IV-B (MIMAROPA)","Romblon",1494
-2007,"IV-B (MIMAROPA)","San Jose",70778
-2007,"IV-B (MIMAROPA)","Wasig",0
-2007,"IX (Zamboanga Peninsula)","Dipolog",242456
-2007,"IX (Zamboanga Peninsula)","Ipil",74
-2007,"IX (Zamboanga Peninsula)","Liloy",0
-2007,"IX (Zamboanga Peninsula)","Pagadian",12500
-2007,"IX (Zamboanga Peninsula)","Siocon",0
-2007,"IX (Zamboanga Peninsula)","Zamboanga",970436
-2007,"NCR","Ninoy Aquino International Airport",41387492
-2007,"V (Bicol Region)","Bulan",4
-2007,"V (Bicol Region)","Daet",40
-2007,"V (Bicol Region)","Legaspi",450124
-2007,"V (Bicol Region)","Masbate",45718
-2007,"V (Bicol Region)","Naga",105994
-2007,"V (Bicol Region)","Sorsogon",0
-2007,"V (Bicol Region)","Virac",37310
-2007,"VI (Western Visayas)","Antique",180
-2007,"VI (Western Visayas)","Bacolod",1571862
-2007,"VI (Western Visayas)","Caticlan",1092935
-2007,"VI (Western Visayas)","Iloilo",2005236
-2007,"VI (Western Visayas)","Kalibo",940338
-2007,"VI (Western Visayas)","Roxas",269424
-2007,"VII (Central Visayas)","Dumaguete",552456
-2007,"VII (Central Visayas)","Mactan-Cebu",8138896
-2007,"VII (Central Visayas)","Siquijor",72
-2007,"VII (Central Visayas)","Tagbilaran",691226
-2007,"VII (Central Visayas)","Ubay",0
-2007,"VIII (Eastern Visayas)","Biliran",0
-2007,"VIII (Eastern Visayas)","Borongan",0
-2007,"VIII (Eastern Visayas)","Calbayog",22276
-2007,"VIII (Eastern Visayas)","Catarman",34470
-2007,"VIII (Eastern Visayas)","Catbalogan",0
-2007,"VIII (Eastern Visayas)","Guiuan",1728
-2007,"VIII (Eastern Visayas)","Hilongos",326
-2007,"VIII (Eastern Visayas)","Maasin",0
-2007,"VIII (Eastern Visayas)","Ormoc",2638
-2007,"VIII (Eastern Visayas)","Tacloban",1022644
-2007,"X (Northern Mindanao)","Cagayan de Oro",1404810
-2007,"X (Northern Mindanao)","Camiguin",4346
-2007,"X (Northern Mindanao)","Iligan",76
-2007,"X (Northern Mindanao)","Ozamis",30196
-2007,"XI (Davao Region)","Davao",3110444
-2007,"XI (Davao Region)","Mati",0
-2007,"XII (SOCCSKSARGEN)","Allah Valley",318
-2007,"XII (SOCCSKSARGEN)","General Santos",1240932
-2007,"XIII (Caraga)","Bislig",0
-2007,"XIII (Caraga)","Butuan",400692
-2007,"XIII (Caraga)","Siargao",450
-2007,"XIII (Caraga)","Surigao",54804
-2007,"XIII (Caraga)","Tandag",24
-2008,"ARMM","Cagayan de Sulu",0
-2008,"ARMM","Cotabato",209070
-2008,"ARMM","Dipolog",562
-2008,"ARMM","Jolo",37498
-2008,"ARMM","Malabang",0
-2008,"ARMM","Sanga-Sanga",0
-2008,"CAR","Baguio",19610
-2008,"I (Ilocos Norte)","Laoag",308638
-2008,"I (Ilocos Norte)","Lingayen",26434
-2008,"I (Ilocos Norte)","Rosales",0
-2008,"I (Ilocos Norte)","Vigan",95096
-2008,"II (Cagayan Valley)","Bagabag",2270
-2008,"II (Cagayan Valley)","Basco",48576
-2008,"II (Cagayan Valley)","Cauayan",21946
-2008,"II (Cagayan Valley)","Itbayat",1120
-2008,"II (Cagayan Valley)","Palanan",6766
-2008,"II (Cagayan Valley)","Tuguegarao",137642
-2008,"III (Central Luzon)","Baler",5230
-2008,"III (Central Luzon)","Busuanga",31238
-2008,"III (Central Luzon)","Clark",0
-2008,"III (Central Luzon)","Iba",20388
-2008,"III (Central Luzon)","Plaridel",468196
-2008,"III (Central Luzon)","Subic",0
-2008,"IV-A (CALABARZON))","Alabat",0
-2008,"IV-A (CALABARZON))","Jomalig",318
-2008,"IV-B (MIMAROPA)","Busuanga",71624
-2008,"IV-B (MIMAROPA)","Calapan",2376
-2008,"IV-B (MIMAROPA)","Cuyo",2412
-2008,"IV-B (MIMAROPA)","Lubang",25904
-2008,"IV-B (MIMAROPA)","Mamburao",5258
-2008,"IV-B (MIMAROPA)","Marinduque",2198
-2008,"IV-B (MIMAROPA)","Pinamalayan",0
-2008,"IV-B (MIMAROPA)","Puerto Princesa",1927024
-2008,"IV-B (MIMAROPA)","Romblon",15960
-2008,"IV-B (MIMAROPA)","San Jose",126846
-2008,"IV-B (MIMAROPA)","Wasig",0
-2008,"IX (Zamboanga Peninsula)","Dipolog",287076
-2008,"IX (Zamboanga Peninsula)","Ipil",0
-2008,"IX (Zamboanga Peninsula)","Liloy",0
-2008,"IX (Zamboanga Peninsula)","Pagadian",0
-2008,"IX (Zamboanga Peninsula)","Siocon",0
-2008,"IX (Zamboanga Peninsula)","Zamboanga",939080
-2008,"NCR","Ninoy Aquino International Airport",44506316
-2008,"V (Bicol Region)","Bulan",8
-2008,"V (Bicol Region)","Daet",600
-2008,"V (Bicol Region)","Legaspi",564818
-2008,"V (Bicol Region)","Masbate",47170
-2008,"V (Bicol Region)","Naga",174336
-2008,"V (Bicol Region)","Sorsogon",8
-2008,"V (Bicol Region)","Virac",57892
-2008,"VI (Western Visayas)","Antique",4762
-2008,"VI (Western Visayas)","Bacolod",1686976
-2008,"VI (Western Visayas)","Caticlan",1523922
-2008,"VI (Western Visayas)","Iloilo",2147814
-2008,"VI (Western Visayas)","Kalibo",800084
-2008,"VI (Western Visayas)","Roxas",230750
-2008,"VII (Central Visayas)","Dumaguete",612364
-2008,"VII (Central Visayas)","Mactan-Cebu",7285724
-2008,"VII (Central Visayas)","Siquijor",152
-2008,"VII (Central Visayas)","Tagbilaran",801628
-2008,"VII (Central Visayas)","Ubay",0
-2008,"VIII (Eastern Visayas)","Biliran",0
-2008,"VIII (Eastern Visayas)","Borongan",0
-2008,"VIII (Eastern Visayas)","Calbayog",41232
-2008,"VIII (Eastern Visayas)","Catarman",45248
-2008,"VIII (Eastern Visayas)","Catbalogan",0
-2008,"VIII (Eastern Visayas)","Guiuan",716
-2008,"VIII (Eastern Visayas)","Hilongos",362
-2008,"VIII (Eastern Visayas)","Maasin",0
-2008,"VIII (Eastern Visayas)","Ormoc",31660
-2008,"VIII (Eastern Visayas)","Tacloban",1254402
-2008,"X (Northern Mindanao)","Cagayan de Oro",1804368
-2008,"X (Northern Mindanao)","Camiguin",2342
-2008,"X (Northern Mindanao)","Iligan",16
-2008,"X (Northern Mindanao)","Ozamis",160580
-2008,"XI (Davao Region)","Davao",3385754
-2008,"XI (Davao Region)","Mati",0
-2008,"XII (SOCCSKSARGEN)","Allah Valley",476
-2008,"XII (SOCCSKSARGEN)","General Santos",1211548
-2008,"XIII (Caraga)","Bislig",0
-2008,"XIII (Caraga)","Butuan",616810
-2008,"XIII (Caraga)","Siargao",1562
-2008,"XIII (Caraga)","Surigao",46340
-2008,"XIII (Caraga)","Tandag",50
-2009,"ARMM","Cagayan de Tawi-Tawi",0
-2009,"ARMM","Cotabato",398266
-2009,"ARMM","Dipolog",0
-2009,"ARMM","Jolo",18058
-2009,"ARMM","Malabang",0
-2009,"ARMM","Sanga-Sanga",11078
-2009,"CAR","Baguio",4558
-2009,"I (Ilocos Norte)","Laoag",270946
-2009,"I (Ilocos Norte)","Lingayen",41106
-2009,"I (Ilocos Norte)","Rosales",0
-2009,"I (Ilocos Norte)","Vigan",44260
-2009,"II (Cagayan Valley)","Bagabag",1906
-2009,"II (Cagayan Valley)","Basco",38616
-2009,"II (Cagayan Valley)","Cauayan",38743
-2009,"II (Cagayan Valley)","Itbayat",0
-2009,"II (Cagayan Valley)","Palanan",9922
-2009,"II (Cagayan Valley)","Tuguegarao",188700
-2009,"III (Central Luzon)","Baler",1988
-2009,"III (Central Luzon)","Clark",0
-2009,"III (Central Luzon)","Iba",13286
-2009,"III (Central Luzon)","Plaridel",445050
-2009,"III (Central Luzon)","Subic",0
-2009,"IV-A (CALABARZON))","Alabat",0
-2009,"IV-A (CALABARZON))","Jomalig",68
-2009,"IV-B (MIMAROPA)","Busuanga",282186
-2009,"IV-B (MIMAROPA)","Calapan",604
-2009,"IV-B (MIMAROPA)","Cuyo",1112
-2009,"IV-B (MIMAROPA)","Lubang",22078
-2009,"IV-B (MIMAROPA)","Mamburao",2402
-2009,"IV-B (MIMAROPA)","Marinduque",30774
-2009,"IV-B (MIMAROPA)","Pinamalayan",74
-2009,"IV-B (MIMAROPA)","Puerto Princesa",2351104
-2009,"IV-B (MIMAROPA)","Romblon",19463
-2009,"IV-B (MIMAROPA)","San Jose",213912
-2009,"IV-B (MIMAROPA)","Wasig",0
-2009,"IX (Zamboanga Peninsula)","Dipolog",377328
-2009,"IX (Zamboanga Peninsula)","Ipil",0
-2009,"IX (Zamboanga Peninsula)","Liloy",0
-2009,"IX (Zamboanga Peninsula)","Pagadian",0
-2009,"IX (Zamboanga Peninsula)","Siocon",0
-2009,"IX (Zamboanga Peninsula)","Zamboanga",1165834
-2009,"NCR","Ninoy Aquino International Airport",48217108
-2009,"V (Bicol Region)","Bulan",0
-2009,"V (Bicol Region)","Daet",0
-2009,"V (Bicol Region)","Legaspi",840816
-2009,"V (Bicol Region)","Masbate",2768
-2009,"V (Bicol Region)","Naga",281167
-2009,"V (Bicol Region)","Sorsogon",8
-2009,"V (Bicol Region)","Virac",100281
-2009,"VI (Western Visayas)","Antique",0
-2009,"VI (Western Visayas)","Bacolod",2100858
-2009,"VI (Western Visayas)","Caticlan",1045838
-2009,"VI (Western Visayas)","Iloilo",2648296
-2009,"VI (Western Visayas)","Kalibo",1264821
-2009,"VI (Western Visayas)","Roxas",346264
-2009,"VII (Central Visayas)","Dumaguete",721030
-2009,"VII (Central Visayas)","Mactan-Cebu",8789646
-2009,"VII (Central Visayas)","Siquijor",0
-2009,"VII (Central Visayas)","Tagbilaran",1125574
-2009,"VII (Central Visayas)","Ubay",0
-2009,"VIII (Eastern Visayas)","Biliran",2
-2009,"VIII (Eastern Visayas)","Borongan",0
-2009,"VIII (Eastern Visayas)","Calbayog",125554
-2009,"VIII (Eastern Visayas)","Catarman",254177
-2009,"VIII (Eastern Visayas)","Catbalogan",0
-2009,"VIII (Eastern Visayas)","Guiuan",2
-2009,"VIII (Eastern Visayas)","Hilongos",0
-2009,"VIII (Eastern Visayas)","Maasin",0
-2009,"VIII (Eastern Visayas)","Ormoc",35600
-2009,"VIII (Eastern Visayas)","Tacloban",1725577
-2009,"X (Northern Mindanao)","Cagayan de Oro",2220936
-2009,"X (Northern Mindanao)","Camiguin",0
-2009,"X (Northern Mindanao)","Iligan",0
-2009,"X (Northern Mindanao)","Ozamis",322096
-2009,"XI (Davao Region)","Davao",3935900
-2009,"XI (Davao Region)","Mati",0
-2009,"XII (SOCCSKSARGEN)","Allah Valley",176
-2009,"XII (SOCCSKSARGEN)","General Santos",942600
-2009,"XIII (Caraga)","Barobo",0
-2009,"XIII (Caraga)","Bislig",338418
-2009,"XIII (Caraga)","Butuan",770662
-2009,"XIII (Caraga)","Siargao",20340
-2009,"XIII (Caraga)","Surigao",129856
-2009,"XIII (Caraga)","Tandag",0
-2010,"ARMM","Cagayan de Tawi-Tawi",0
-2010,"ARMM","Cotabato",438208
-2010,"ARMM","Dipolog",432
-2010,"ARMM","Jolo",19862
-2010,"ARMM","Malabang",0
-2010,"ARMM","Sanga-Sanga",28460
-2010,"CAR","Baguio",3568
-2010,"I (Ilocos Norte)","Laoag",354678
-2010,"I (Ilocos Norte)","Lingayen",23310
-2010,"I (Ilocos Norte)","Rosales",0
-2010,"I (Ilocos Norte)","Vigan",12314
-2010,"II (Cagayan Valley)","Bagabag",2194
-2010,"II (Cagayan Valley)","Basco",52178
-2010,"II (Cagayan Valley)","Cauayan",77812
-2010,"II (Cagayan Valley)","Itbayat",0
-2010,"II (Cagayan Valley)","Palanan",21500
-2010,"II (Cagayan Valley)","Tuguegarao",233050
-2010,"III (Central Luzon)","Baler",752
-2010,"III (Central Luzon)","Clark",0
-2010,"III (Central Luzon)","Iba",13652
-2010,"III (Central Luzon)","Plaridel",10652
-2010,"III (Central Luzon)","Subic",0
-2010,"IV-A (CALABARZON))","Alabat",0
-2010,"IV-A (CALABARZON))","Jomalig",0
-2010,"IV-B (MIMAROPA)","Busuanga",281320
-2010,"IV-B (MIMAROPA)","Calapan",0
-2010,"IV-B (MIMAROPA)","Cuyo",0
-2010,"IV-B (MIMAROPA)","Lubang",27922
-2010,"IV-B (MIMAROPA)","Mamburao",3104
-2010,"IV-B (MIMAROPA)","Marinduque",20552
-2010,"IV-B (MIMAROPA)","Pinamalayan",0
-2010,"IV-B (MIMAROPA)","Puerto Princesa",3254064
-2010,"IV-B (MIMAROPA)","Romblon",34100
-2010,"IV-B (MIMAROPA)","San Jose",206350
-2010,"IV-B (MIMAROPA)","Wasig",0
-2010,"IX (Zamboanga Peninsula)","Dipolog",362340
-2010,"IX (Zamboanga Peninsula)","Ipil",0
-2010,"IX (Zamboanga Peninsula)","Liloy",0
-2010,"IX (Zamboanga Peninsula)","Pagadian",52164
-2010,"IX (Zamboanga Peninsula)","Siocon",0
-2010,"IX (Zamboanga Peninsula)","Zamboanga",1247278
-2010,"NCR","Ninoy Aquino International Airport",54642240
-2010,"V (Bicol Region)","Bulan",0
-2010,"V (Bicol Region)","Daet",0
-2010,"V (Bicol Region)","Legaspi",870302
-2010,"V (Bicol Region)","Masbate",88136
-2010,"V (Bicol Region)","Naga",324888
-2010,"V (Bicol Region)","Sorsogon",0
-2010,"V (Bicol Region)","Virac",85146
-2010,"VI (Western Visayas)","Antique",0
-2010,"VI (Western Visayas)","Bacolod",2446982
-2010,"VI (Western Visayas)","Caticlan",1247090
-2010,"VI (Western Visayas)","Iloilo",3162608
-2010,"VI (Western Visayas)","Kalibo",2096576
-2010,"VI (Western Visayas)","Roxas",407680
-2010,"VII (Central Visayas)","Dumaguete",726042
-2010,"VII (Central Visayas)","Mactan-Cebu",11582774
-2010,"VII (Central Visayas)","Siquijor",172
-2010,"VII (Central Visayas)","Tagbilaran",1146598
-2010,"VII (Central Visayas)","Ubay",0
-2010,"VIII (Eastern Visayas)","Biliran",0
-2010,"VIII (Eastern Visayas)","Borongan",0
-2010,"VIII (Eastern Visayas)","Calbayog",105020
-2010,"VIII (Eastern Visayas)","Catarman",176102
-2010,"VIII (Eastern Visayas)","Catbalogan",0
-2010,"VIII (Eastern Visayas)","Guiuan",6
-2010,"VIII (Eastern Visayas)","Hilongos",0
-2010,"VIII (Eastern Visayas)","Maasin",0
-2010,"VIII (Eastern Visayas)","Ormoc",64516
-2010,"VIII (Eastern Visayas)","Tacloban",2297952
-2010,"X (Northern Mindanao)","Cagayan de Oro",2603004
-2010,"X (Northern Mindanao)","Camiguin",0
-2010,"X (Northern Mindanao)","Iligan",0
-2010,"X (Northern Mindanao)","Ozamis",412856
-2010,"XI (Davao Region)","Davao",4458354
-2010,"XI (Davao Region)","Mati",0
-2010,"XII (SOCCSKSARGEN)","Allah Valley",0
-2010,"XII (SOCCSKSARGEN)","General Santos",1826104
-2010,"XIII (Caraga)","Bislig",0
-2010,"XIII (Caraga)","Butuan",765686
-2010,"XIII (Caraga)","Siargao",17700
-2010,"XIII (Caraga)","Surigao",181864
-2010,"XIII (Caraga)","Tandag",0
-2011,"ARMM","Cagayan de Tawi-Tawi",0
-2011,"ARMM","Cotabato",243458
-2011,"ARMM","Jolo",145592
-2011,"ARMM","Malabang",0
-2011,"ARMM","Sanga-Sanga",43054
-2011,"CAR","Baguio",2974
-2011,"I (Ilocos Norte)","Laoag",339310
-2011,"I (Ilocos Norte)","Lingayen",32540
-2011,"I (Ilocos Norte)","Rosales",0
-2011,"I (Ilocos Norte)","Vigan",11574
-2011,"II (Cagayan Valley)","Bagabag",1328
-2011,"II (Cagayan Valley)","Basco",56856
-2011,"II (Cagayan Valley)","Cauayan",65856
-2011,"II (Cagayan Valley)","Itbayat",2800
-2011,"II (Cagayan Valley)","Palanan",7206
-2011,"II (Cagayan Valley)","Tuguegarao",210938
-2011,"III (Central Luzon)","Baler",1020
-2011,"III (Central Luzon)","Clark",3068436
-2011,"III (Central Luzon)","Iba",12006
-2011,"III (Central Luzon)","Plaridel",0
-2011,"III (Central Luzon)","Subic",0
-2011,"IV-A (CALABARZON))","Alabat",0
-2011,"IV-A (CALABARZON))","Jomalig",0
-2011,"IV-B (MIMAROPA)","Busuanga",200360
-2011,"IV-B (MIMAROPA)","Calapan",0
-2011,"IV-B (MIMAROPA)","Cuyo",40
-2011,"IV-B (MIMAROPA)","Lubang",36844
-2011,"IV-B (MIMAROPA)","Mamburao",3540
-2011,"IV-B (MIMAROPA)","Marinduque",45204
-2011,"IV-B (MIMAROPA)","Pinamalayan",0
-2011,"IV-B (MIMAROPA)","Puerto Princesa",3955888
-2011,"IV-B (MIMAROPA)","Romblon",37014
-2011,"IV-B (MIMAROPA)","San Jose",212930
-2011,"IV-B (MIMAROPA)","Wasig",0
-2011,"IX (Zamboanga Peninsula)","Dipolog",331226
-2011,"IX (Zamboanga Peninsula)","Ipil",0
-2011,"IX (Zamboanga Peninsula)","Liloy",0
-2011,"IX (Zamboanga Peninsula)","Pagadian",202738
-2011,"IX (Zamboanga Peninsula)","Siocon",0
-2011,"IX (Zamboanga Peninsula)","Zamboanga",1608104
-2011,"NCR","Ninoy Aquino International Airport",59558252
-2011,"V (Bicol Region)","Bulan",0
-2011,"V (Bicol Region)","Daet",0
-2011,"V (Bicol Region)","Legaspi",1029260
-2011,"V (Bicol Region)","Masbate",89610
-2011,"V (Bicol Region)","Naga",337280
-2011,"V (Bicol Region)","Sorsogon",0
-2011,"V (Bicol Region)","Virac",86558
-2011,"VI (Western Visayas)","Antique",0
-2011,"VI (Western Visayas)","Bacolod",2698884
-2011,"VI (Western Visayas)","Caticlan",1464344
-2011,"VI (Western Visayas)","Iloilo",3415938
-2011,"VI (Western Visayas)","Kalibo",2497380
-2011,"VI (Western Visayas)","Roxas",242146
-2011,"VII (Central Visayas)","Bantayan",1486
-2011,"VII (Central Visayas)","Dumaguete",4455708
-2011,"VII (Central Visayas)","Mactan-Cebu",39153327
-2011,"VII (Central Visayas)","Siquijor",344
-2011,"VII (Central Visayas)","Tagbilaran",5238385
-2011,"VII (Central Visayas)","Ubay",0
-2011,"VIII (Eastern Visayas)","Biliran",0
-2011,"VIII (Eastern Visayas)","Borongan",0
-2011,"VIII (Eastern Visayas)","Calbayog",77436
-2011,"VIII (Eastern Visayas)","Catarman",134320
-2011,"VIII (Eastern Visayas)","Catbalogan",0
-2011,"VIII (Eastern Visayas)","Guiuan",26
-2011,"VIII (Eastern Visayas)","Hilongos",0
-2011,"VIII (Eastern Visayas)","Maasin",0
-2011,"VIII (Eastern Visayas)","Ormoc",104
-2011,"VIII (Eastern Visayas)","Tacloban",2019150
-2011,"X (Northern Mindanao)","Cagayan de Oro",2885918
-2011,"X (Northern Mindanao)","Camiguin",0
-2011,"X (Northern Mindanao)","Iligan",0
-2011,"X (Northern Mindanao)","Ozamis",457912
-2011,"XI (Davao Region)","Davao",5218930
-2011,"XI (Davao Region)","Mati",0
-2011,"XII (SOCCSKSARGEN)","Allah Valley",0
-2011,"XII (SOCCSKSARGEN)","General Santos",1470768
-2011,"XIII (Caraga)","Barobo",0
-2011,"XIII (Caraga)","Bislig",304554
-2011,"XIII (Caraga)","Butuan",770840
-2011,"XIII (Caraga)","Cotabato",1592
-2011,"XIII (Caraga)","Siargao",14502
-2011,"XIII (Caraga)","Surigao",180052
-2011,"XIII (Caraga)","Tandag",0
-2012,"ARMM","Cagayan de Tawi-Tawi",0
-2012,"ARMM","Cotabato",492418
-2012,"ARMM","Jolo",33958
-2012,"ARMM","Malabang",0
-2012,"ARMM","Sanga-Sanga",0
-2012,"CAR","Baguio",4542
-2012,"I (Ilocos Norte)","Laoag",376096
-2012,"I (Ilocos Norte)","Lingayen",49636
-2012,"I (Ilocos Norte)","Rosales",0
-2012,"I (Ilocos Norte)","Vigan",13342
-2012,"II (Cagayan Valley)","Bagabag",246
-2012,"II (Cagayan Valley)","Basco",51176
-2012,"II (Cagayan Valley)","Cauayan",89816
-2012,"II (Cagayan Valley)","Itbayat",7968
-2012,"II (Cagayan Valley)","Palanan",0
-2012,"II (Cagayan Valley)","Tuguegarao",447814
-2012,"III (Central Luzon)","Baler",1996
-2012,"III (Central Luzon)","Clark",5263028
-2012,"III (Central Luzon)","Iba",15370
-2012,"III (Central Luzon)","Plaridel",0
-2012,"III (Central Luzon)","Subic",0
-2012,"IV-A (CALABARZON))","Alabat",0
-2012,"IV-A (CALABARZON))","Jomalig",0
-2012,"IV-B (MIMAROPA)","Busuanga",214524
-2012,"IV-B (MIMAROPA)","Calapan",0
-2012,"IV-B (MIMAROPA)","Cuyo",140
-2012,"IV-B (MIMAROPA)","Lubang",16760
-2012,"IV-B (MIMAROPA)","Mamburao",4410
-2012,"IV-B (MIMAROPA)","Marinduque",32744
-2012,"IV-B (MIMAROPA)","Pinamalayan",0
-2012,"IV-B (MIMAROPA)","Puerto Princesa",5291700
-2012,"IV-B (MIMAROPA)","Romblon",25640
-2012,"IV-B (MIMAROPA)","San Jose",217314
-2012,"IV-B (MIMAROPA)","Wasig",0
-2012,"IX (Zamboanga Peninsula)","Dipolog",378400
-2012,"IX (Zamboanga Peninsula)","Ipil",0
-2012,"IX (Zamboanga Peninsula)","Liloy",0
-2012,"IX (Zamboanga Peninsula)","Pagadian",304940
-2012,"IX (Zamboanga Peninsula)","Siocon",0
-2012,"IX (Zamboanga Peninsula)","Zamboanga",1809336
-2012,"NCR","Ninoy Aquino International Airport",59558252
-2012,"V (Bicol Region)","Bulan",0
-2012,"V (Bicol Region)","Daet",0
-2012,"V (Bicol Region)","Legaspi",1157534
-2012,"V (Bicol Region)","Masbate",125196
-2012,"V (Bicol Region)","Naga",408916
-2012,"V (Bicol Region)","Sorsogon",0
-2012,"V (Bicol Region)","Virac",75802
-2012,"VI (Western Visayas)","Antique",0
-2012,"VI (Western Visayas)","Bacolod",2036834
-2012,"VI (Western Visayas)","Caticlan",1191128
-2012,"VI (Western Visayas)","Iloilo",3708854
-2012,"VI (Western Visayas)","Kalibo",3664336
-2012,"VI (Western Visayas)","Roxas",435104
-2012,"VII (Central Visayas)","Bantayan",3024
-2012,"VII (Central Visayas)","Dumaguete",902224
-2012,"VII (Central Visayas)","Mactan-Cebu",13424586
-2012,"VII (Central Visayas)","Siquijor",758
-2012,"VII (Central Visayas)","Tagbilaran",1468414
-2012,"VII (Central Visayas)","Ubay",0
-2012,"VIII (Eastern Visayas)","Biliran",0
-2012,"VIII (Eastern Visayas)","Borongan",0
-2012,"VIII (Eastern Visayas)","Calbayog",90372
-2012,"VIII (Eastern Visayas)","Catarman",142176
-2012,"VIII (Eastern Visayas)","Catbalogan",0
-2012,"VIII (Eastern Visayas)","Guiuan",0
-2012,"VIII (Eastern Visayas)","Hilongos",0
-2012,"VIII (Eastern Visayas)","Maasin",0
-2012,"VIII (Eastern Visayas)","Ormoc",730
-2012,"VIII (Eastern Visayas)","Tacloban",2299184
-2012,"X (Northern Mindanao)","Butuan",20
-2012,"X (Northern Mindanao)","Cagayan de Oro",3734314
-2012,"X (Northern Mindanao)","Camiguin",0
-2012,"X (Northern Mindanao)","Iligan",0
-2012,"X (Northern Mindanao)","Ozamis",545700
-2012,"XI (Davao Region)","Davao",5926486
-2012,"XI (Davao Region)","Mati",0
-2012,"XII (SOCCSKSARGEN)","Allah Valley",16
-2012,"XII (SOCCSKSARGEN)","General Santos",2651704
-2012,"XIII (Caraga)","Bislig",0
-2012,"XIII (Caraga)","Butuan",1048368
-2012,"XIII (Caraga)","Siargao",29098
-2012,"XIII (Caraga)","Surigao",239758
-2012,"XIII (Caraga)","Tandag",0
-2013,"-","Bacolod",471642
-2013,"-","Total",56550952
-2013,"ARMM","Cagayan de Tawi-Tawi",0
-2013,"ARMM","Cotabato",217316
-2013,"ARMM","Dipolog",150886
-2013,"ARMM","Jolo",21960
-2013,"ARMM","Malabang",0
-2013,"ARMM","Sanga-Sanga",0
-2013,"CAR","Baguio",3056
-2013,"I (Ilocos Norte)","Laoag",252870
-2013,"I (Ilocos Norte)","Lingayen",24840
-2013,"I (Ilocos Norte)","Rosales",0
-2013,"I (Ilocos Norte)","Vigan",11402
-2013,"II (Cagayan Valley)","Bagabag",0
-2013,"II (Cagayan Valley)","Basco",46514
-2013,"II (Cagayan Valley)","Cauayan",63970
-2013,"II (Cagayan Valley)","Itbayat",1242
-2013,"II (Cagayan Valley)","Palanan",0
-2013,"II (Cagayan Valley)","Tuguegarao",168412
-2013,"III (Central Luzon)","Baler",4738
-2013,"III (Central Luzon)","Clark",0
-2013,"III (Central Luzon)","Iba",2316
-2013,"III (Central Luzon)","Plaridel",0
-2013,"III (Central Luzon)","Subic",0
-2013,"IV-A (CALABARZON))","Alabat",0
-2013,"IV-A (CALABARZON))","Jomalig",0
-2013,"IV-B (MIMAROPA)","Busuanga",269772
-2013,"IV-B (MIMAROPA)","Calapan",0
-2013,"IV-B (MIMAROPA)","Cuyo",0
-2013,"IV-B (MIMAROPA)","Lubang",26856
-2013,"IV-B (MIMAROPA)","Mamburao",1452
-2013,"IV-B (MIMAROPA)","Marinduque",10750
-2013,"IV-B (MIMAROPA)","Pinamalayan",0
-2013,"IV-B (MIMAROPA)","Puerto Princesa",3426664
-2013,"IV-B (MIMAROPA)","Romblon",9106
-2013,"IV-B (MIMAROPA)","San Jose",71528
-2013,"IV-B (MIMAROPA)","Wasig",0
-2013,"IX (Zamboanga Peninsula)","Dipolog",118048
-2013,"IX (Zamboanga Peninsula)","Ipil",0
-2013,"IX (Zamboanga Peninsula)","Liloy",0
-2013,"IX (Zamboanga Peninsula)","Pagadian",143110
-2013,"IX (Zamboanga Peninsula)","Siocon",0
-2013,"IX (Zamboanga Peninsula)","Zamboanga",983448
-2013,"NCR","Ninoy Aquino International Airport",28793740
-2013,"Region VI","Antique",0
-2013,"V (Bicol Region)","Bulan",0
-2013,"V (Bicol Region)","Daet",0
-2013,"V (Bicol Region)","Legaspi",601682
-2013,"V (Bicol Region)","Masbate",52681
-2013,"V (Bicol Region)","Naga",154664
-2013,"V (Bicol Region)","Sorsogon",0
-2013,"V (Bicol Region)","Virac",50326
-2013,"VI (Western Visayas)","Bacolod",1907050
-2013,"VI (Western Visayas)","Caticlan",421696
-2013,"VI (Western Visayas)","Iloilo",1803688
-2013,"VI (Western Visayas)","Kalibo",2829078
-2013,"VI (Western Visayas)","Roxas",253272
-2013,"VII (Central Visayas)","Bantayan",0
-2013,"VII (Central Visayas)","Dumaguete",637628
-2013,"VII (Central Visayas)","Mactan-Cebu",4863664
-2013,"VII (Central Visayas)","Siquijor",244
-2013,"VII (Central Visayas)","Tagbilaran",829638
-2013,"VII (Central Visayas)","Ubay",0
-2013,"VIII (Eastern Visayas)","Biliran",0
-2013,"VIII (Eastern Visayas)","Borongan",0
-2013,"VIII (Eastern Visayas)","Calbayog",33952
-2013,"VIII (Eastern Visayas)","Catarman",43214
-2013,"VIII (Eastern Visayas)","Catbalogan",0
-2013,"VIII (Eastern Visayas)","Guiuan",0
-2013,"VIII (Eastern Visayas)","Hilongos",0
-2013,"VIII (Eastern Visayas)","Maasin",0
-2013,"VIII (Eastern Visayas)","Ormoc",760
-2013,"VIII (Eastern Visayas)","Tacloban",1077454
-2013,"X (Northern Mindanao)","Cagayan de Oro",1432110
-2013,"X (Northern Mindanao)","Camiguin",0
-2013,"X (Northern Mindanao)","Iligan",0
-2013,"X (Northern Mindanao)","Laguindingan",710616
-2013,"X (Northern Mindanao)","Ozamis",605732
-2013,"XI (Davao Region)","Davao",3352428
-2013,"XI (Davao Region)","Mati",0
-2013,"XII (SOCCSKSARGEN)","Allah Valley",0
-2013,"XII (SOCCSKSARGEN)","Bislig",0
-2013,"XII (SOCCSKSARGEN)","General Santos",806848
-2013,"XII (SOCCSKSARGEN)","Surigao",31324
-2013,"XIII (Caraga)","Butuan",563212
-2013,"XIII (Caraga)","General Santos",366380
-2013,"XIII (Caraga)","Siargao",25490
-2013,"XIII (Caraga)","Surigao",98806
-2013,"XIII (Caraga)","Tandag",0
-2014,"ARMM","Cagayan de Tawi-Tawi",0
-2014,"ARMM","Cotabato",465484
-2014,"ARMM","Jolo",30258
-2014,"ARMM","Malabang",0
-2014,"ARMM","Sanga-Sanga",53844
-2014,"CAR","Baguio",4070
-2014,"I (Ilocos Norte)","Laoag  (Domestic)",386474
-2014,"I (Ilocos Norte)","Laoag  (International)",6400
-2014,"I (Ilocos Norte)","Lingayen",41718
-2014,"I (Ilocos Norte)","Rosales",0
-2014,"I (Ilocos Norte)","Vigan",15178
-2014,"II (Cagayan Valley)","Bagabag",364
-2014,"II (Cagayan Valley)","Basco",121366
-2014,"II (Cagayan Valley)","Cauayan",113818
-2014,"II (Cagayan Valley)","Itbayat",1764
-2014,"II (Cagayan Valley)","Palanan",0
-2014,"II (Cagayan Valley)","Tuguegarao",303216
-2014,"III (Central Luzon)","Clark",0
-2014,"III (Central Luzon)","Iba",20802
-2014,"III (Central Luzon)","Plaridel",0
-2014,"III (Central Luzon)","Subic",0
-2014,"IV-A (CALABARZON))","Alabat",0
-2014,"IV-A (CALABARZON))","Baler",0
-2014,"IV-A (CALABARZON))","Jomalig",0
-2014,"IV-B (MIMAROPA)","Busuanga",410502
-2014,"IV-B (MIMAROPA)","Calapan",1538
-2014,"IV-B (MIMAROPA)","Cuyo",3206
-2014,"IV-B (MIMAROPA)","Lubang",58310
-2014,"IV-B (MIMAROPA)","Mamburao",0
-2014,"IV-B (MIMAROPA)","Marinduque",0
-2014,"IV-B (MIMAROPA)","Pinamalayan",0
-2014,"IV-B (MIMAROPA)","Puerto Princesa",5514320
-2014,"IV-B (MIMAROPA)","Romblon",224
-2014,"IV-B (MIMAROPA)","San Jose",124216
-2014,"IV-B (MIMAROPA)","Wasig",0
-2014,"IX (Zamboanga Peninsula)","Dipolog",452060
-2014,"IX (Zamboanga Peninsula)","Ipil",0
-2014,"IX (Zamboanga Peninsula)","Liloy",0
-2014,"IX (Zamboanga Peninsula)","Pagadian",301204
-2014,"IX (Zamboanga Peninsula)","Siocon",0
-2014,"IX (Zamboanga Peninsula)","Zamboanga",1802082
-2014,"NCR","Ninoy Aquino International Airport",68397964
-2014,"V (Bicol Region)","Bulan",0
-2014,"V (Bicol Region)","Daet",0
-2014,"V (Bicol Region)","Legaspi",967486
-2014,"V (Bicol Region)","Masbate",62896
-2014,"V (Bicol Region)","Naga",296570
-2014,"V (Bicol Region)","Sorsogon",0
-2014,"V (Bicol Region)","Virac",96608
-2014,"VI (Western Visayas)","Antique",0
-2014,"VI (Western Visayas)","Bacolod",2635682
-2014,"VI (Western Visayas)","Caticlan",1015242
-2014,"VI (Western Visayas)","Iloilo",3565064
-2014,"VI (Western Visayas)","Kalibo",4642324
-2014,"VI (Western Visayas)","Roxas",455126
-2014,"VII (Central Visayas)","Bantayan",0
-2014,"VII (Central Visayas)","Dumaguete",903590
-2014,"VII (Central Visayas)","Mactan-Cebu",0
-2014,"VII (Central Visayas)","Siquijor",0
-2014,"VII (Central Visayas)","Tagbilaran",1303674
-2014,"VII (Central Visayas)","Ubay",0
-2014,"VIII (Eastern Visayas)","Biliran",0
-2014,"VIII (Eastern Visayas)","Borongan",0
-2014,"VIII (Eastern Visayas)","Calbayog",81556
-2014,"VIII (Eastern Visayas)","Catarman",66830
-2014,"VIII (Eastern Visayas)","Catbalogan",0
-2014,"VIII (Eastern Visayas)","Guiuan",0
-2014,"VIII (Eastern Visayas)","Hilongos",0
-2014,"VIII (Eastern Visayas)","Maasin",0
-2014,"VIII (Eastern Visayas)","Ormoc",880
-2014,"VIII (Eastern Visayas)","Tacloban",1727268
-2014,"X (Northern Mindanao)","Camiguin",17308
-2014,"X (Northern Mindanao)","Iligan",0
-2014,"X (Northern Mindanao)","Laguindingan",3106692
-2014,"X (Northern Mindanao)","Ozamis",448506
-2014,"XI (Davao Region)","Bislig",0
-2014,"XI (Davao Region)","Davao",6904958
-2014,"XI (Davao Region)","General Santos",2858092
-2014,"XI (Davao Region)","Mati",0
-2014,"XII (SOCCSKSARGEN)","Allah Valley",0
-2014,"XIII (Caraga)","Butuan",1028426
-2014,"XIII (Caraga)","Siargao",65054
-2014,"XIII (Caraga)","Surigao",220778
-2014,"XIII (Caraga)","Tandag",10296
-2015,"ARMM","Cagayan de Tawi-Tawi",0
-2015,"ARMM","Cotabato",483284
-2015,"ARMM","Jolo",9908
-2015,"ARMM","Malabang",0
-2015,"ARMM","Sanga-Sanga",144288
-2015,"CAR","Baguio",4448
-2015,"I (Ilocos Norte)","Laoag  (Domestic)",351058
-2015,"I (Ilocos Norte)","Laoag  (International)",58042
-2015,"I (Ilocos Norte)","Lingayen",42236
-2015,"I (Ilocos Norte)","Rosales",0
-2015,"I (Ilocos Norte)","Vigan",27322
-2015,"II (Cagayan Valley)","Bagabag",532
-2015,"II (Cagayan Valley)","Basco",146766
-2015,"II (Cagayan Valley)","Cauayan",121934
-2015,"II (Cagayan Valley)","Itbayat",34
-2015,"II (Cagayan Valley)","Palanan",19398
-2015,"II (Cagayan Valley)","Tuguegarao",348644
-2015,"III (Central Luzon)","Clark",0
-2015,"III (Central Luzon)","Iba",23684
-2015,"III (Central Luzon)","Plaridel",5046
-2015,"III (Central Luzon)","Subic",0
-2015,"IV-A (CALABARZON))","Alabat",0
-2015,"IV-A (CALABARZON))","Baler",4682
-2015,"IV-A (CALABARZON))","Jomalig",0
-2015,"IV-B (MIMAROPA)","Busuanga",571836
-2015,"IV-B (MIMAROPA)","Calapan",7146
-2015,"IV-B (MIMAROPA)","Cuyo",2992
-2015,"IV-B (MIMAROPA)","Lubang",63126
-2015,"IV-B (MIMAROPA)","Mamburao",4016
-2015,"IV-B (MIMAROPA)","Marinduque",0
-2015,"IV-B (MIMAROPA)","Pinamalayan",200
-2015,"IV-B (MIMAROPA)","Puerto Princesa",6366872
-2015,"IV-B (MIMAROPA)","Romblon",14608
-2015,"IV-B (MIMAROPA)","San Jose",81208
-2015,"IV-B (MIMAROPA)","Wasig",0
-2015,"IX (Zamboanga Peninsula)","Dipolog",454918
-2015,"IX (Zamboanga Peninsula)","Ipil",0
-2015,"IX (Zamboanga Peninsula)","Liloy",0
-2015,"IX (Zamboanga Peninsula)","Pagadian",359200
-2015,"IX (Zamboanga Peninsula)","Siocon",0
-2015,"IX (Zamboanga Peninsula)","Zamboanga",1822658
-2015,"NCR","Ninoy Aquino International Airport",72164734
-2015,"V (Bicol Region)","Bulan",0
-2015,"V (Bicol Region)","Daet",0
-2015,"V (Bicol Region)","Legaspi",1101562
-2015,"V (Bicol Region)","Masbate",62084
-2015,"V (Bicol Region)","Naga",280500
-2015,"V (Bicol Region)","Sorsogon",0
-2015,"V (Bicol Region)","Virac",104058
-2015,"VI (Western Visayas)","Antique",0
-2015,"VI (Western Visayas)","Bacolod",2931492
-2015,"VI (Western Visayas)","Caticlan",1089644
-2015,"VI (Western Visayas)","Iloilo",3831644
-2015,"VI (Western Visayas)","Kalibo",4756294
-2015,"VI (Western Visayas)","Roxas",455224
-2015,"VII (Central Visayas)","Bantayan",0
-2015,"VII (Central Visayas)","Dumaguete",1020632
-2015,"VII (Central Visayas)","Mactan-Cebu",0
-2015,"VII (Central Visayas)","Siquijor",0
-2015,"VII (Central Visayas)","Tagbilaran",1552868
-2015,"VII (Central Visayas)","Ubay",0
-2015,"VIII (Eastern Visayas)","Biliran",24
-2015,"VIII (Eastern Visayas)","Borongan",0
-2015,"VIII (Eastern Visayas)","Calbayog",71484
-2015,"VIII (Eastern Visayas)","Catarman",88326
-2015,"VIII (Eastern Visayas)","Catbalogan",14
-2015,"VIII (Eastern Visayas)","Guiuan",218
-2015,"VIII (Eastern Visayas)","Hilongos",0
-2015,"VIII (Eastern Visayas)","Maasin",0
-2015,"VIII (Eastern Visayas)","Ormoc",0
-2015,"VIII (Eastern Visayas)","Tacloban",2221578
-2015,"X (Northern Mindanao)","Camiguin",0
-2015,"X (Northern Mindanao)","Iligan",0
-2015,"X (Northern Mindanao)","Laguindingan",3512890
-2015,"X (Northern Mindanao)","Ozamis",437970
-2015,"XI (Davao Region)","Bislig",0
-2015,"XI (Davao Region)","Davao",6473822
-2015,"XI (Davao Region)","General Santos",3179384
-2015,"XI (Davao Region)","Mati",0
-2015,"XII (SOCCSKSARGEN)","Allah Valley",0
-2015,"XIII (Caraga)","Butuan",1237168
-2015,"XIII (Caraga)","Siargao",84358
-2015,"XIII (Caraga)","Surigao",201994
-2015,"XIII (Caraga)","Tandag",0
-2016,"ARMM","Cagayan de Sulu",0
-2016,"ARMM","Cotabato",517058
-2016,"ARMM","Jolo",32926
-2016,"ARMM","Malabang",0
-2016,"ARMM","Sanga-Sanga",216060
-2016,"CAR","Baguio",3718
-2016,"I (Ilocos Norte)","Laoag  (Domestic)",377328
-2016,"I (Ilocos Norte)","Laoag  (International)",30984
-2016,"I (Ilocos Norte)","Lingayen",44908
-2016,"I (Ilocos Norte)","Rosales",0
-2016,"I (Ilocos Norte)","Vigan",31748
-2016,"II (Cagayan Valley)","Bagabag",1018
-2016,"II (Cagayan Valley)","Basco",165706
-2016,"II (Cagayan Valley)","Cauayan",171382
-2016,"II (Cagayan Valley)","Itbayat",1338
-2016,"II (Cagayan Valley)","Palanan",22924
-2016,"II (Cagayan Valley)","Tuguegarao",372386
-2016,"III (Central Luzon)","Clark",0
-2016,"III (Central Luzon)","Iba",26280
-2016,"III (Central Luzon)","Plaridel",0
-2016,"III (Central Luzon)","Subic",0
-2016,"IV-A (CALABARZON))","Alabat",0
-2016,"IV-A (CALABARZON))","Baler",4726
-2016,"IV-A (CALABARZON))","Jomalig",0
-2016,"IV-B (MIMAROPA)","Busuanga",643190
-2016,"IV-B (MIMAROPA)","Calapan",7864
-2016,"IV-B (MIMAROPA)","Cuyo",5012
-2016,"IV-B (MIMAROPA)","Lubang",61026
-2016,"IV-B (MIMAROPA)","Mamburao",2122
-2016,"IV-B (MIMAROPA)","Marinduque",0
-2016,"IV-B (MIMAROPA)","Pinamalayan",0
-2016,"IV-B (MIMAROPA)","Puerto Princesa",6576012
-2016,"IV-B (MIMAROPA)","Romblon",16530
-2016,"IV-B (MIMAROPA)","San Jose",98020
-2016,"IV-B (MIMAROPA)","Wasig",20
-2016,"IX (Zamboanga Peninsula)","Dipolog",486836
-2016,"IX (Zamboanga Peninsula)","Ipil",0
-2016,"IX (Zamboanga Peninsula)","Liloy",0
-2016,"IX (Zamboanga Peninsula)","Pagadian",377840
-2016,"IX (Zamboanga Peninsula)","Siocon",0
-2016,"IX (Zamboanga Peninsula)","Zamboanga",1960952
-2016,"NCR","Ninoy Aquino International Airport",79389390
-2016,"V (Bicol Region)","Bulan",0
-2016,"V (Bicol Region)","Daet",0
-2016,"V (Bicol Region)","Legaspi",1128744
-2016,"V (Bicol Region)","Masbate",60156
-2016,"V (Bicol Region)","Naga",274658
-2016,"V (Bicol Region)","Sorsogon",0
-2016,"V (Bicol Region)","Virac",108082
-2016,"VI (Western Visayas)","Antique",0
-2016,"VI (Western Visayas)","Bacolod",2997482
-2016,"VI (Western Visayas)","Caticlan",1473118
-2016,"VI (Western Visayas)","Iloilo",3887438
-2016,"VI (Western Visayas)","Kalibo",5422072
-2016,"VI (Western Visayas)","Roxas",534776
-2016,"VII (Central Visayas)","Bantayan",0
-2016,"VII (Central Visayas)","Dumaguete",1092552
-2016,"VII (Central Visayas)","Mactan-Cebu",0
-2016,"VII (Central Visayas)","Siquijor",0
-2016,"VII (Central Visayas)","Tagbilaran",1742766
-2016,"VII (Central Visayas)","Ubay",0
-2016,"VIII (Eastern Visayas)","Biliran",36
-2016,"VIII (Eastern Visayas)","Borongan",0
-2016,"VIII (Eastern Visayas)","Calbayog",67922
-2016,"VIII (Eastern Visayas)","Catarman",80474
-2016,"VIII (Eastern Visayas)","Catbalogan",110
-2016,"VIII (Eastern Visayas)","Guiuan",10
-2016,"VIII (Eastern Visayas)","Hilongos",0
-2016,"VIII (Eastern Visayas)","Maasin",0
-2016,"VIII (Eastern Visayas)","Ormoc",4588
-2016,"VIII (Eastern Visayas)","Tacloban",2365902
-2016,"X (Northern Mindanao)","Camiguin",0
-2016,"X (Northern Mindanao)","Iligan",0
-2016,"X (Northern Mindanao)","Laguindingan",3552706
-2016,"X (Northern Mindanao)","Ozamis",581932
-2016,"XI (Davao Region)","Bislig",0
-2016,"XI (Davao Region)","Davao",7106402
-2016,"XI (Davao Region)","General Santos",3355764
-2016,"XI (Davao Region)","Mati",0
-2016,"XII (SOCCSKSARGEN)","Allah Valley",0
-2016,"XIII (Caraga)","Butuan",1362526
-2016,"XIII (Caraga)","Siargao",106300
-2016,"XIII (Caraga)","Surigao",208626
-2016,"XIII (Caraga)","Tandag",35550
+"year","region","airport","passenger_count","longitude","latitude"
+2001,"ARMM","Cagayan de Sulu",0,118.5,7.01666666666667
+2001,"ARMM","Cotabato",235484,NA,NA
+2001,"ARMM","Jolo",7060,121.011044444444,6.05367222222222
+2001,"ARMM","Malabang",0,124.066666666667,7.63333333333333
+2001,"ARMM","Sanga-Sanga",462,119.743033333333,5.04699444444444
+2001,"CAR","Baguio",17846,NA,NA
+2001,"I (Ilocos Norte)","Laoag",216546,120.533333333333,18.1833333333333
+2001,"I (Ilocos Norte)","Lingayen",1298,120.241105555556,16.0347861111111
+2001,"I (Ilocos Norte)","Rosales",8,NA,NA
+2001,"I (Ilocos Norte)","San Fernando",0,120.303219444444,16.5955888888889
+2001,"I (Ilocos Norte)","Vigan",1784,120.355797222222,17.5553305555556
+2001,"II (Cagayan Valley)","Bagabag",6896,NA,NA
+2001,"II (Cagayan Valley)","Basco",44684,121.979883333333,20.4513222222222
+2001,"II (Cagayan Valley)","Cauayan",18508,121.753036111111,16.9298611111111
+2001,"II (Cagayan Valley)","Itbayat",4222,NA,NA
+2001,"II (Cagayan Valley)","Palanan",15738,NA,NA
+2001,"II (Cagayan Valley)","Tuguegarao",66970,121.730613888889,17.6383111111111
+2001,"III (Central Luzon)","Baler",0,121.500133333333,15.7298361111111
+2001,"III (Central Luzon)","Iba",9872,NA,NA
+2001,"III (Central Luzon)","Plaridel",13778,NA,NA
+2001,"IV-A (CALABARZON))","Alabat",0,NA,NA
+2001,"IV-A (CALABARZON))","Jomalig",28,NA,NA
+2001,"IV-B (MIMAROPA)","Busuanga",46970,NA,NA
+2001,"IV-B (MIMAROPA)","Calapan",946,NA,NA
+2001,"IV-B (MIMAROPA)","Cuyo",1414,121,10.85
+2001,"IV-B (MIMAROPA)","Lubang",7038,120.105341666667,13.8554277777778
+2001,"IV-B (MIMAROPA)","Lucena",66,NA,NA
+2001,"IV-B (MIMAROPA)","Mamburao",908,120.60535,13.2080916666667
+2001,"IV-B (MIMAROPA)","Marinduque",6684,121.825583333333,13.3609666666667
+2001,"IV-B (MIMAROPA)","Puerto Princesa",757648,119.429365277778,10.9317541666667
+2001,"IV-B (MIMAROPA)","Romblon",692,NA,NA
+2001,"IV-B (MIMAROPA)","San Jose",65654.048,NA,NA
+2001,"IV-B (MIMAROPA)","Wasig",56,NA,NA
+2001,"IX (Zamboanga Peninsula)","Dipolog",100516,123.334480555556,8.60126111111111
+2001,"IX (Zamboanga Peninsula)","Ipil",1838,122.583333333333,7.78333333333333
+2001,"IX (Zamboanga Peninsula)","Liloy",18,NA,NA
+2001,"IX (Zamboanga Peninsula)","Pagadian",5762,123.458294444444,7.82719722222222
+2001,"IX (Zamboanga Peninsula)","Siocon",30,122.133333333333,7.7
+2001,"IX (Zamboanga Peninsula)","Zamboanga",540276,122.066666666667,6.93333333333333
+2001,"NCR","Ninoy Aquino International Airport",25613256,121.019580555556,14.5086472222222
+2001,"V (Bicol Region)","Bulan",0,NA,NA
+2001,"V (Bicol Region)","Daet",0,122.980180555556,14.1291666666667
+2001,"V (Bicol Region)","Legaspi",153030,123.746247222222,13.1570638888889
+2001,"V (Bicol Region)","Masbate",60694,123.629236111111,12.3693666666667
+2001,"V (Bicol Region)","Naga",128168,123.133333333333,13.6833333333333
+2001,"V (Bicol Region)","Sorsogon",104,NA,NA
+2001,"V (Bicol Region)","Virac",53972,124.205672222222,13.5764388888889
+2001,"VI (Western Visayas)","Antique",0,121.933438888889,10.7660444444444
+2001,"VI (Western Visayas)","Bacolod",1075618,122.929616666667,10.6425111111111
+2001,"VI (Western Visayas)","Caticlan",330888,121.95405,11.9245027777778
+2001,"VI (Western Visayas)","Iloilo",1279024,122.545277777778,10.7130555555556
+2001,"VI (Western Visayas)","Kalibo",476246,122.376294444444,11.6794305555556
+2001,"VI (Western Visayas)","Roxas",160694,122.751669444444,11.5976694444444
+2001,"VII (Central Visayas)","Dumaguete",276734,123.300472222222,9.33371388888889
+2001,"VII (Central Visayas)","Mactan-Cebu",4439530,123.978888888889,10.3072222222222
+2001,"VII (Central Visayas)","Siquijor",304,NA,NA
+2001,"VII (Central Visayas)","Tagbilaran",66864,123.853247222222,9.66408055555556
+2001,"VII (Central Visayas)","Ubay",0,NA,NA
+2001,"VIII (Eastern Visayas)","Biliran",10,NA,NA
+2001,"VIII (Eastern Visayas)","Borongan",0,125.478794444444,11.6743277777778
+2001,"VIII (Eastern Visayas)","Calbayog",21196,124.545091666667,12.0727055555556
+2001,"VIII (Eastern Visayas)","Catarman",23260,NA,NA
+2001,"VIII (Eastern Visayas)","Catbalogan",2,NA,NA
+2001,"VIII (Eastern Visayas)","Guiuan",60,125.741594444444,11.0355444444444
+2001,"VIII (Eastern Visayas)","Hilongos",248,NA,NA
+2001,"VIII (Eastern Visayas)","Maasin",0,124.782341666667,10.1873333333333
+2001,"VIII (Eastern Visayas)","Ormoc",1616,124.565322222222,11.0579972222222
+2001,"VIII (Eastern Visayas)","Tacloban",598590,NA,NA
+2001,"X (Northern Mindanao)","Cagayan de Oro",809812,124.611111111111,8.41555555555556
+2001,"X (Northern Mindanao)","Camiguin",1960,NA,NA
+2001,"X (Northern Mindanao)","Iligan",4,NA,NA
+2001,"X (Northern Mindanao)","Malaybalay",0,NA,NA
+2001,"X (Northern Mindanao)","Ozamis",368,NA,NA
+2001,"XI (Davao Region)","Davao",1902114,125.645833333333,7.12527777777778
+2001,"XI (Davao Region)","Mati",0,NA,NA
+2001,"XII (SOCCSKSARGEN)","Allah Valley",142,124.751294444444,6.36681666666667
+2001,"XII (SOCCSKSARGEN)","General Santos",592816,125.165655555556,6.08219583333333
+2001,"XIII (Caraga)","Barobo",0,NA,NA
+2001,"XIII (Caraga)","Bislig",0,126.321597222222,8.19595
+2001,"XIII (Caraga)","Butuan",189514,125.477972222222,8.95132222222222
+2001,"XIII (Caraga)","Siargao",1216,126.014016666667,9.85909722222222
+2001,"XIII (Caraga)","Surigao",8824,125.479327777778,9.75756666666667
+2001,"XIII (Caraga)","Tandag",1604,126.171444444444,9.07211111111111
+2002,"ARMM","Cagayan de Sulu",0,118.5,7.01666666666667
+2002,"ARMM","Cotabato",126584,NA,NA
+2002,"ARMM","Jolo",18036,121.011044444444,6.05367222222222
+2002,"ARMM","Malabang",0,124.066666666667,7.63333333333333
+2002,"ARMM","Sanga-Sanga",10062,119.743033333333,5.04699444444444
+2002,"CAR","Baguio",28488,NA,NA
+2002,"I (Ilocos Norte)","Laoag",371522,120.533333333333,18.1833333333333
+2002,"I (Ilocos Norte)","Lingayen",1678,120.241105555556,16.0347861111111
+2002,"I (Ilocos Norte)","Rosales",30,NA,NA
+2002,"I (Ilocos Norte)","Vigan",1094,120.355797222222,17.5553305555556
+2002,"II (Cagayan Valley)","Bagabag",6238,NA,NA
+2002,"II (Cagayan Valley)","Basco",45968,121.979883333333,20.4513222222222
+2002,"II (Cagayan Valley)","Cauayan",37496,121.753036111111,16.9298611111111
+2002,"II (Cagayan Valley)","Itbayat",0,NA,NA
+2002,"II (Cagayan Valley)","Palanan",17752,NA,NA
+2002,"II (Cagayan Valley)","Tuguegarao",54000,121.730613888889,17.6383111111111
+2002,"III (Central Luzon)","Baler",0,121.500133333333,15.7298361111111
+2002,"III (Central Luzon)","Busuanga",2436,NA,NA
+2002,"III (Central Luzon)","Iba",7308,NA,NA
+2002,"III (Central Luzon)","Plaridel",24796,NA,NA
+2002,"III (Central Luzon)","Subic",36928,120.271363888889,14.79445
+2002,"IV-A (CALABARZON))","Alabat",8,NA,NA
+2002,"IV-A (CALABARZON))","Jomalig",792,NA,NA
+2002,"IV-B (MIMAROPA)","Busuanga",34778,NA,NA
+2002,"IV-B (MIMAROPA)","Calapan",1226,NA,NA
+2002,"IV-B (MIMAROPA)","Cuyo",4240,121,10.85
+2002,"IV-B (MIMAROPA)","Lubang",10172,120.105341666667,13.8554277777778
+2002,"IV-B (MIMAROPA)","Lucena",1194,NA,NA
+2002,"IV-B (MIMAROPA)","Mamburao",1088,120.60535,13.2080916666667
+2002,"IV-B (MIMAROPA)","Marinduque",5296,121.825583333333,13.3609666666667
+2002,"IV-B (MIMAROPA)","Pinamalayan",1698,121.426011111111,12.9858277777778
+2002,"IV-B (MIMAROPA)","Puerto Princesa",591984,119.429365277778,10.9317541666667
+2002,"IV-B (MIMAROPA)","Romblon",1146,NA,NA
+2002,"IV-B (MIMAROPA)","San Jose",78010,NA,NA
+2002,"IV-B (MIMAROPA)","Wasig",0,NA,NA
+2002,"IX (Zamboanga Peninsula)","Dipolog",107996,123.334480555556,8.60126111111111
+2002,"IX (Zamboanga Peninsula)","Ipil",2096,122.583333333333,7.78333333333333
+2002,"IX (Zamboanga Peninsula)","Liloy",36,NA,NA
+2002,"IX (Zamboanga Peninsula)","Pagadian",5390,123.458294444444,7.82719722222222
+2002,"IX (Zamboanga Peninsula)","Siocon",288,122.133333333333,7.7
+2002,"IX (Zamboanga Peninsula)","Zamboanga",592382,122.066666666667,6.93333333333333
+2002,"NCR","Ninoy Aquino International Airport",25975960,121.019580555556,14.5086472222222
+2002,"V (Bicol Region)","Bulan",12,NA,NA
+2002,"V (Bicol Region)","Daet",0,122.980180555556,14.1291666666667
+2002,"V (Bicol Region)","Legaspi",179166,123.746247222222,13.1570638888889
+2002,"V (Bicol Region)","Masbate",58076,123.629236111111,12.3693666666667
+2002,"V (Bicol Region)","Naga",90230,123.133333333333,13.6833333333333
+2002,"V (Bicol Region)","Sorsogon",12,NA,NA
+2002,"V (Bicol Region)","Virac",49448,124.205672222222,13.5764388888889
+2002,"VI (Western Visayas)","Antique",148,121.933438888889,10.7660444444444
+2002,"VI (Western Visayas)","Bacolod",1028026,122.929616666667,10.6425111111111
+2002,"VI (Western Visayas)","Caticlan",362280,121.95405,11.9245027777778
+2002,"VI (Western Visayas)","Iloilo",1354150,122.545277777778,10.7130555555556
+2002,"VI (Western Visayas)","Kalibo",507126,122.376294444444,11.6794305555556
+2002,"VI (Western Visayas)","Roxas",136762,122.751669444444,11.5976694444444
+2002,"VII (Central Visayas)","Dumaguete",272466,123.300472222222,9.33371388888889
+2002,"VII (Central Visayas)","Mactan-Cebu",3986254,123.978888888889,10.3072222222222
+2002,"VII (Central Visayas)","Siquijor",844,NA,NA
+2002,"VII (Central Visayas)","Tagbilaran",154502,123.853247222222,9.66408055555556
+2002,"VII (Central Visayas)","Ubay",0,NA,NA
+2002,"VIII (Eastern Visayas)","Biliran",2,NA,NA
+2002,"VIII (Eastern Visayas)","Borongan",0,125.478794444444,11.6743277777778
+2002,"VIII (Eastern Visayas)","Calbayog",24030,124.545091666667,12.0727055555556
+2002,"VIII (Eastern Visayas)","Catarman",26936,NA,NA
+2002,"VIII (Eastern Visayas)","Catbalogan",16,NA,NA
+2002,"VIII (Eastern Visayas)","Guiuan",90,125.741594444444,11.0355444444444
+2002,"VIII (Eastern Visayas)","Hilongos",196,NA,NA
+2002,"VIII (Eastern Visayas)","Maasin",0,124.782341666667,10.1873333333333
+2002,"VIII (Eastern Visayas)","Ormoc",928,124.565322222222,11.0579972222222
+2002,"VIII (Eastern Visayas)","Tacloban",607460,NA,NA
+2002,"X (Northern Mindanao)","Cagayan de Oro",935754,124.611111111111,8.41555555555556
+2002,"X (Northern Mindanao)","Camiguin",2600,NA,NA
+2002,"X (Northern Mindanao)","Iligan",0,NA,NA
+2002,"X (Northern Mindanao)","Malaybalay",0,NA,NA
+2002,"X (Northern Mindanao)","Ozamis",636,NA,NA
+2002,"XI (Davao Region)","Davao",1952862,125.645833333333,7.12527777777778
+2002,"XI (Davao Region)","Mati",0,NA,NA
+2002,"XII (SOCCSKSARGEN)","Barobo",0,NA,NA
+2002,"XII (SOCCSKSARGEN)","General Santos",519780,125.165655555556,6.08219583333333
+2002,"XIII (Caraga)","Allah Valley",8,124.751294444444,6.36681666666667
+2002,"XIII (Caraga)","Bislig",0,126.321597222222,8.19595
+2002,"XIII (Caraga)","Butuan",201128,125.477972222222,8.95132222222222
+2002,"XIII (Caraga)","Siargao",710,126.014016666667,9.85909722222222
+2002,"XIII (Caraga)","Surigao",6686,125.479327777778,9.75756666666667
+2002,"XIII (Caraga)","Tandag",4768,126.171444444444,9.07211111111111
+2003,"ARMM","Cagayan de Sulu",52,118.5,7.01666666666667
+2003,"ARMM","Jolo",19776,121.011044444444,6.05367222222222
+2003,"ARMM","Malabang",0,124.066666666667,7.63333333333333
+2003,"ARMM","Sanga-Sanga",11390,119.743033333333,5.04699444444444
+2003,"CAR","Baguio",28980,NA,NA
+2003,"I (Ilocos Norte)","Laoag",199374,120.533333333333,18.1833333333333
+2003,"I (Ilocos Norte)","Lingayen",1330,120.241105555556,16.0347861111111
+2003,"I (Ilocos Norte)","Rosales",0,NA,NA
+2003,"I (Ilocos Norte)","Vigan",1904,120.355797222222,17.5553305555556
+2003,"II (Cagayan Valley)","Bagabag",5412,NA,NA
+2003,"II (Cagayan Valley)","Basco",52130,121.979883333333,20.4513222222222
+2003,"II (Cagayan Valley)","Cauayan",20846,121.753036111111,16.9298611111111
+2003,"II (Cagayan Valley)","Itbayat",0,NA,NA
+2003,"II (Cagayan Valley)","Palanan",18926,NA,NA
+2003,"II (Cagayan Valley)","Tuguegarao",35406,121.730613888889,17.6383111111111
+2003,"III (Central Luzon)","Baler",44,121.500133333333,15.7298361111111
+2003,"III (Central Luzon)","Clark",0,120.025833333333,13.1175
+2003,"III (Central Luzon)","Iba",2630,NA,NA
+2003,"III (Central Luzon)","Plaridel",22830,NA,NA
+2003,"III (Central Luzon)","Subic",43490,120.271363888889,14.79445
+2003,"IV-A (CALABARZON))","Alabat",10,NA,NA
+2003,"IV-A (CALABARZON))","Jomalig",76,NA,NA
+2003,"IV-A (CALABARZON))","Lucena",6,NA,NA
+2003,"IV-B (MIMAROPA)","Busuanga",18704,NA,NA
+2003,"IV-B (MIMAROPA)","Calapan",138,NA,NA
+2003,"IV-B (MIMAROPA)","Cuyo",2668,121,10.85
+2003,"IV-B (MIMAROPA)","Lubang",14250,120.105341666667,13.8554277777778
+2003,"IV-B (MIMAROPA)","Mamburao",810,120.60535,13.2080916666667
+2003,"IV-B (MIMAROPA)","Marinduque",6554,121.825583333333,13.3609666666667
+2003,"IV-B (MIMAROPA)","Pinamalayan",0,121.426011111111,12.9858277777778
+2003,"IV-B (MIMAROPA)","Puerto Princesa",783900,119.429365277778,10.9317541666667
+2003,"IV-B (MIMAROPA)","Romblon",260,NA,NA
+2003,"IV-B (MIMAROPA)","San Jose",81896,NA,NA
+2003,"IV-B (MIMAROPA)","Wasig",0,NA,NA
+2003,"IX (Zamboanga Peninsula)","Dipolog",118794,123.334480555556,8.60126111111111
+2003,"IX (Zamboanga Peninsula)","Ipil",328,122.583333333333,7.78333333333333
+2003,"IX (Zamboanga Peninsula)","Liloy",1678,NA,NA
+2003,"IX (Zamboanga Peninsula)","Pagadian",268,123.458294444444,7.82719722222222
+2003,"IX (Zamboanga Peninsula)","Siocon",1146,122.133333333333,7.7
+2003,"IX (Zamboanga Peninsula)","Zamboanga",618662,122.066666666667,6.93333333333333
+2003,"NCR","Ninoy Aquino International Airport",26277070,121.019580555556,14.5086472222222
+2003,"V (Bicol Region)","Bulan",0,NA,NA
+2003,"V (Bicol Region)","Daet",0,122.980180555556,14.1291666666667
+2003,"V (Bicol Region)","Legaspi",184246,123.746247222222,13.1570638888889
+2003,"V (Bicol Region)","Masbate",52452,123.629236111111,12.3693666666667
+2003,"V (Bicol Region)","Naga",90448,123.133333333333,13.6833333333333
+2003,"V (Bicol Region)","Sorsogon",154,NA,NA
+2003,"V (Bicol Region)","Virac",39986,124.205672222222,13.5764388888889
+2003,"VI (Western Visayas)","Antique",88,121.933438888889,10.7660444444444
+2003,"VI (Western Visayas)","Bacolod",1044790,122.929616666667,10.6425111111111
+2003,"VI (Western Visayas)","Caticlan",430670,121.95405,11.9245027777778
+2003,"VI (Western Visayas)","Iloilo",1365936,122.545277777778,10.7130555555556
+2003,"VI (Western Visayas)","Kalibo",459700,122.376294444444,11.6794305555556
+2003,"VI (Western Visayas)","Roxas",71108,122.751669444444,11.5976694444444
+2003,"VII (Central Visayas)","Dumaguete",297298,123.300472222222,9.33371388888889
+2003,"VII (Central Visayas)","Mactan-Cebu",3021534,123.978888888889,10.3072222222222
+2003,"VII (Central Visayas)","Mactan/G. Aviation",16756,NA,NA
+2003,"VII (Central Visayas)","Siquijor",668,NA,NA
+2003,"VII (Central Visayas)","Tagbilaran",211112,123.853247222222,9.66408055555556
+2003,"VII (Central Visayas)","Ubay",0,NA,NA
+2003,"VIII (Eastern Visayas)","Biliran",0,NA,NA
+2003,"VIII (Eastern Visayas)","Borongan",0,125.478794444444,11.6743277777778
+2003,"VIII (Eastern Visayas)","Calbayog",29078,124.545091666667,12.0727055555556
+2003,"VIII (Eastern Visayas)","Catarman",19574,NA,NA
+2003,"VIII (Eastern Visayas)","Catbalogan",16,NA,NA
+2003,"VIII (Eastern Visayas)","Guiuan",144,125.741594444444,11.0355444444444
+2003,"VIII (Eastern Visayas)","Hilongos",162,NA,NA
+2003,"VIII (Eastern Visayas)","Maasin",0,124.782341666667,10.1873333333333
+2003,"VIII (Eastern Visayas)","Ormoc",0,124.565322222222,11.0579972222222
+2003,"VIII (Eastern Visayas)","Tacloban",567146,NA,NA
+2003,"X (Northern Mindanao)","Cagayan de Oro",772268,124.611111111111,8.41555555555556
+2003,"X (Northern Mindanao)","Camiguin",3238,NA,NA
+2003,"X (Northern Mindanao)","Iligan",0,NA,NA
+2003,"X (Northern Mindanao)","Malaybalay",0,NA,NA
+2003,"X (Northern Mindanao)","Ozamis",188,NA,NA
+2003,"XI (Davao Region)","Davao",1511242,125.645833333333,7.12527777777778
+2003,"XI (Davao Region)","Mati",1382,NA,NA
+2003,"XII (SOCCSKSARGEN)","Allah Valley",84,124.751294444444,6.36681666666667
+2003,"XII (SOCCSKSARGEN)","Cotabato",92818,NA,NA
+2003,"XII (SOCCSKSARGEN)","General Santos",747480,125.165655555556,6.08219583333333
+2003,"XIII (Caraga)","Barobo",0,NA,NA
+2003,"XIII (Caraga)","Bislig",0,126.321597222222,8.19595
+2003,"XIII (Caraga)","Butuan",242234,125.477972222222,8.95132222222222
+2003,"XIII (Caraga)","Siargao",1014,126.014016666667,9.85909722222222
+2003,"XIII (Caraga)","Surigao",4298,125.479327777778,9.75756666666667
+2003,"XIII (Caraga)","Tandag",7202,126.171444444444,9.07211111111111
+2004,"ARMM","Cagayan de Sulu",92,118.5,7.01666666666667
+2004,"ARMM","Cotabato",127696,NA,NA
+2004,"ARMM","Jolo",30478,121.011044444444,6.05367222222222
+2004,"ARMM","Malabang",0,124.066666666667,7.63333333333333
+2004,"ARMM","Sanga-Sanga",12684,119.743033333333,5.04699444444444
+2004,"CAR","Baguio",38736,NA,NA
+2004,"I (Ilocos Norte)","Laoag",269738,120.533333333333,18.1833333333333
+2004,"I (Ilocos Norte)","Lingayen",1660,120.241105555556,16.0347861111111
+2004,"I (Ilocos Norte)","Rosales",56,NA,NA
+2004,"I (Ilocos Norte)","Vigan",1924,120.355797222222,17.5553305555556
+2004,"II (Cagayan Valley)","Bagabag",2316,NA,NA
+2004,"II (Cagayan Valley)","Basco",75476,121.979883333333,20.4513222222222
+2004,"II (Cagayan Valley)","Itbayat",0,NA,NA
+2004,"II (Cagayan Valley)","Palanan",14286,NA,NA
+2004,"II (Cagayan Valley)","Tuguegarao",63946,121.730613888889,17.6383111111111
+2004,"III (Central Luzon)","Baler",486,121.500133333333,15.7298361111111
+2004,"III (Central Luzon)","Clark",0,120.025833333333,13.1175
+2004,"III (Central Luzon)","Iba",1948,NA,NA
+2004,"III (Central Luzon)","Plaridel",19054,NA,NA
+2004,"III (Central Luzon)","Subic",0,120.271363888889,14.79445
+2004,"IV-A (CALABARZON))","Alabat",0,NA,NA
+2004,"IV-A (CALABARZON))","Jomalig",756,NA,NA
+2004,"IV-B (MIMAROPA)","Busuanga",34844,NA,NA
+2004,"IV-B (MIMAROPA)","Calapan",0,NA,NA
+2004,"IV-B (MIMAROPA)","Cuyo",2558,121,10.85
+2004,"IV-B (MIMAROPA)","Lubang",11008,120.105341666667,13.8554277777778
+2004,"IV-B (MIMAROPA)","Mamburao",2098,120.60535,13.2080916666667
+2004,"IV-B (MIMAROPA)","Marinduque",2414,121.825583333333,13.3609666666667
+2004,"IV-B (MIMAROPA)","Pinamalayan",0,121.426011111111,12.9858277777778
+2004,"IV-B (MIMAROPA)","Puerto Princesa",1087720,119.429365277778,10.9317541666667
+2004,"IV-B (MIMAROPA)","Romblon",1866,NA,NA
+2004,"IV-B (MIMAROPA)","San Jose",79492,NA,NA
+2004,"IV-B (MIMAROPA)","Wasig",0,NA,NA
+2004,"IX (Zamboanga Peninsula)","Dipolog",149280,123.334480555556,8.60126111111111
+2004,"IX (Zamboanga Peninsula)","Ipil",664,122.583333333333,7.78333333333333
+2004,"IX (Zamboanga Peninsula)","Liloy",112,NA,NA
+2004,"IX (Zamboanga Peninsula)","Pagadian",720,123.458294444444,7.82719722222222
+2004,"IX (Zamboanga Peninsula)","Siocon",954,122.133333333333,7.7
+2004,"IX (Zamboanga Peninsula)","Zamboanga",706102,122.066666666667,6.93333333333333
+2004,"NCR","Ninoy Aquino International Airport",30857042,121.019580555556,14.5086472222222
+2004,"V (Bicol Region)","Bulan",124,NA,NA
+2004,"V (Bicol Region)","Daet",102,122.980180555556,14.1291666666667
+2004,"V (Bicol Region)","Legaspi",200180,123.746247222222,13.1570638888889
+2004,"V (Bicol Region)","Masbate",53472,123.629236111111,12.3693666666667
+2004,"V (Bicol Region)","Naga",87812,123.133333333333,13.6833333333333
+2004,"V (Bicol Region)","Sorsogon",56,NA,NA
+2004,"V (Bicol Region)","Virac",43232,124.205672222222,13.5764388888889
+2004,"VI (Western Visayas)","Antique",5668,121.933438888889,10.7660444444444
+2004,"VI (Western Visayas)","Bacolod",1148250,122.929616666667,10.6425111111111
+2004,"VI (Western Visayas)","Caticlan",789386,121.95405,11.9245027777778
+2004,"VI (Western Visayas)","Iloilo",1479168,122.545277777778,10.7130555555556
+2004,"VI (Western Visayas)","Kalibo",492710,122.376294444444,11.6794305555556
+2004,"VI (Western Visayas)","Roxas",151190,122.751669444444,11.5976694444444
+2004,"VII (Central Visayas)","Dumaguete",262106,123.300472222222,9.33371388888889
+2004,"VII (Central Visayas)","Mactan-Cebu",4665408,123.978888888889,10.3072222222222
+2004,"VII (Central Visayas)","Siquijor",242,NA,NA
+2004,"VII (Central Visayas)","Tagbilaran",325724,123.853247222222,9.66408055555556
+2004,"VII (Central Visayas)","Ubay",0,NA,NA
+2004,"VIII (Eastern Visayas)","Biliran",0,NA,NA
+2004,"VIII (Eastern Visayas)","Borongan",0,125.478794444444,11.6743277777778
+2004,"VIII (Eastern Visayas)","Calbayog",10528,124.545091666667,12.0727055555556
+2004,"VIII (Eastern Visayas)","Catarman",22848,NA,NA
+2004,"VIII (Eastern Visayas)","Catbalogan",0,NA,NA
+2004,"VIII (Eastern Visayas)","Guiuan",96,125.741594444444,11.0355444444444
+2004,"VIII (Eastern Visayas)","Hilongos",78,NA,NA
+2004,"VIII (Eastern Visayas)","Maasin",0,124.782341666667,10.1873333333333
+2004,"VIII (Eastern Visayas)","Ormoc",0,124.565322222222,11.0579972222222
+2004,"VIII (Eastern Visayas)","Tacloban",579338,NA,NA
+2004,"X (Northern Mindanao)","Cagayan de Oro",814734,124.611111111111,8.41555555555556
+2004,"X (Northern Mindanao)","Camiguin",3132,NA,NA
+2004,"X (Northern Mindanao)","Iligan",0,NA,NA
+2004,"X (Northern Mindanao)","Ozamis",476,NA,NA
+2004,"XI (Davao Region)","Davao",1744434,125.645833333333,7.12527777777778
+2004,"XI (Davao Region)","Mati",0,NA,NA
+2004,"XII (SOCCSKSARGEN)","Allah Valley",496,124.751294444444,6.36681666666667
+2004,"XII (SOCCSKSARGEN)","General Santos",604192,125.165655555556,6.08219583333333
+2004,"XIII (Caraga)","Bislig",0,126.321597222222,8.19595
+2004,"XIII (Caraga)","Butuan",272132,125.477972222222,8.95132222222222
+2004,"XIII (Caraga)","Siargao",920,126.014016666667,9.85909722222222
+2004,"XIII (Caraga)","Surigao",17946,125.479327777778,9.75756666666667
+2004,"XIII (Caraga)","Tandag",10122,126.171444444444,9.07211111111111
+2005,"ARMM","Cagayan de Sulu",30,118.5,7.01666666666667
+2005,"ARMM","Cotabato",173840,NA,NA
+2005,"ARMM","Jolo",40942,121.011044444444,6.05367222222222
+2005,"ARMM","Malabang",0,124.066666666667,7.63333333333333
+2005,"ARMM","Sanga-Sanga",17540,119.743033333333,5.04699444444444
+2005,"CAR","Baguio",39422,NA,NA
+2005,"I (Ilocos Norte)","Laoag",238924,120.533333333333,18.1833333333333
+2005,"I (Ilocos Norte)","Lingayen",1500,120.241105555556,16.0347861111111
+2005,"I (Ilocos Norte)","Rosales",0,NA,NA
+2005,"I (Ilocos Norte)","Vigan",5808,120.355797222222,17.5553305555556
+2005,"II (Cagayan Valley)","Bagabag",2108,NA,NA
+2005,"II (Cagayan Valley)","Basco",50752,121.979883333333,20.4513222222222
+2005,"II (Cagayan Valley)","Cauayan",14328,121.753036111111,16.9298611111111
+2005,"II (Cagayan Valley)","Itbayat",0,NA,NA
+2005,"II (Cagayan Valley)","Palanan",10102,NA,NA
+2005,"II (Cagayan Valley)","Tuguegarao",63984,121.730613888889,17.6383111111111
+2005,"III (Central Luzon)","Baler",52,121.500133333333,15.7298361111111
+2005,"III (Central Luzon)","Clark",0,120.025833333333,13.1175
+2005,"III (Central Luzon)","Iba",1694,NA,NA
+2005,"III (Central Luzon)","Plaridel",16024,NA,NA
+2005,"III (Central Luzon)","Subic",0,120.271363888889,14.79445
+2005,"IV-A (CALABARZON))","Alabat",0,NA,NA
+2005,"IV-A (CALABARZON))","Busuanga",72,NA,NA
+2005,"IV-A (CALABARZON))","Calapan",68,NA,NA
+2005,"IV-A (CALABARZON))","Jomalig",746,NA,NA
+2005,"IV-B (MIMAROPA)","Baler",284,121.500133333333,15.7298361111111
+2005,"IV-B (MIMAROPA)","Bulan",40,NA,NA
+2005,"IV-B (MIMAROPA)","Busuanga",66354,NA,NA
+2005,"IV-B (MIMAROPA)","Calapan",446,NA,NA
+2005,"IV-B (MIMAROPA)","Cuyo",1802,121,10.85
+2005,"IV-B (MIMAROPA)","Daet",0,122.980180555556,14.1291666666667
+2005,"IV-B (MIMAROPA)","Legaspi",199132,123.746247222222,13.1570638888889
+2005,"IV-B (MIMAROPA)","Lubang",9840,120.105341666667,13.8554277777778
+2005,"IV-B (MIMAROPA)","Mamburao",528,120.60535,13.2080916666667
+2005,"IV-B (MIMAROPA)","Marinduque",1178,121.825583333333,13.3609666666667
+2005,"IV-B (MIMAROPA)","Masbate",53070,123.629236111111,12.3693666666667
+2005,"IV-B (MIMAROPA)","Naga",74006,123.133333333333,13.6833333333333
+2005,"IV-B (MIMAROPA)","Pinamalayan",0,121.426011111111,12.9858277777778
+2005,"IV-B (MIMAROPA)","Puerto Princesa",1071112,119.429365277778,10.9317541666667
+2005,"IV-B (MIMAROPA)","Romblon",2690,NA,NA
+2005,"IV-B (MIMAROPA)","San Jose",83980,NA,NA
+2005,"IV-B (MIMAROPA)","Sorsogon",24,NA,NA
+2005,"IV-B (MIMAROPA)","Virac",41998,124.205672222222,13.5764388888889
+2005,"IV-B (MIMAROPA)","Wasig",0,NA,NA
+2005,"IX (Zamboanga Peninsula)","Dipolog",152370,123.334480555556,8.60126111111111
+2005,"IX (Zamboanga Peninsula)","Ipil",152,122.583333333333,7.78333333333333
+2005,"IX (Zamboanga Peninsula)","Liloy",4,NA,NA
+2005,"IX (Zamboanga Peninsula)","Pagadian",3584,123.458294444444,7.82719722222222
+2005,"IX (Zamboanga Peninsula)","Siocon",0,122.133333333333,7.7
+2005,"IX (Zamboanga Peninsula)","Zamboanga",721850,122.066666666667,6.93333333333333
+2005,"NCR","Ninoy Aquino International Airport",32970356,121.019580555556,14.5086472222222
+2005,"VI (Western Visayas)","Antique",0,121.933438888889,10.7660444444444
+2005,"VI (Western Visayas)","Bacolod",1127142,122.929616666667,10.6425111111111
+2005,"VI (Western Visayas)","Caticlan",1043036,121.95405,11.9245027777778
+2005,"VI (Western Visayas)","Iloilo",1416938,122.545277777778,10.7130555555556
+2005,"VI (Western Visayas)","Kalibo",484366,122.376294444444,11.6794305555556
+2005,"VI (Western Visayas)","Roxas",188498,122.751669444444,11.5976694444444
+2005,"VII (Central Visayas)","Dumaguete",328316,123.300472222222,9.33371388888889
+2005,"VII (Central Visayas)","Mactan-Cebu",3795350,123.978888888889,10.3072222222222
+2005,"VII (Central Visayas)","Siquijor",72,NA,NA
+2005,"VII (Central Visayas)","Tagbilaran",397210,123.853247222222,9.66408055555556
+2005,"VII (Central Visayas)","Ubay",0,NA,NA
+2005,"VIII (Eastern Visayas)","Biliran",0,NA,NA
+2005,"VIII (Eastern Visayas)","Borongan",0,125.478794444444,11.6743277777778
+2005,"VIII (Eastern Visayas)","Calbayog",6538,124.545091666667,12.0727055555556
+2005,"VIII (Eastern Visayas)","Catarman",25510,NA,NA
+2005,"VIII (Eastern Visayas)","Catbalogan",0,NA,NA
+2005,"VIII (Eastern Visayas)","Guiuan",344,125.741594444444,11.0355444444444
+2005,"VIII (Eastern Visayas)","Hilongos",162,NA,NA
+2005,"VIII (Eastern Visayas)","Maasin",0,124.782341666667,10.1873333333333
+2005,"VIII (Eastern Visayas)","Ormoc",0,124.565322222222,11.0579972222222
+2005,"VIII (Eastern Visayas)","Tacloban",656716,NA,NA
+2005,"X (Northern Mindanao)","Cagayan de Oro",928108,124.611111111111,8.41555555555556
+2005,"X (Northern Mindanao)","Camiguin",6774,NA,NA
+2005,"X (Northern Mindanao)","Iligan",340,NA,NA
+2005,"X (Northern Mindanao)","Ozamis",78,NA,NA
+2005,"XI (Davao Region)","Davao",2694068,125.645833333333,7.12527777777778
+2005,"XI (Davao Region)","Mati",0,NA,NA
+2005,"XII (SOCCSKSARGEN)","Allah Valley",544,124.751294444444,6.36681666666667
+2005,"XII (SOCCSKSARGEN)","General Santos",225224,125.165655555556,6.08219583333333
+2005,"XIII (Caraga)","Bislig",0,126.321597222222,8.19595
+2005,"XIII (Caraga)","Butuan",235888,125.477972222222,8.95132222222222
+2005,"XIII (Caraga)","General Santos",5e+05,125.165655555556,6.08219583333333
+2005,"XIII (Caraga)","Siargao",1510,126.014016666667,9.85909722222222
+2005,"XIII (Caraga)","Surigao",29690,125.479327777778,9.75756666666667
+2005,"XIII (Caraga)","Tandag",14200,126.171444444444,9.07211111111111
+2006,"ARMM","Cagayan de Sulu",0,118.5,7.01666666666667
+2006,"ARMM","Cotabato",121060,NA,NA
+2006,"ARMM","Jolo",14662,121.011044444444,6.05367222222222
+2006,"ARMM","Malabang",0,124.066666666667,7.63333333333333
+2006,"ARMM","Sanga-Sanga",4820,119.743033333333,5.04699444444444
+2006,"CAR","Baguio",36704,NA,NA
+2006,"I (Ilocos Norte)","Laoag",257714,120.533333333333,18.1833333333333
+2006,"I (Ilocos Norte)","Lingayen",2604,120.241105555556,16.0347861111111
+2006,"I (Ilocos Norte)","Rosales",0,NA,NA
+2006,"I (Ilocos Norte)","Vigan",5484,120.355797222222,17.5553305555556
+2006,"II (Cagayan Valley)","Bagabag",2848,NA,NA
+2006,"II (Cagayan Valley)","Basco",45496,121.979883333333,20.4513222222222
+2006,"II (Cagayan Valley)","Cauayan",15240,121.753036111111,16.9298611111111
+2006,"II (Cagayan Valley)","Itbayat",0,NA,NA
+2006,"II (Cagayan Valley)","Palanan",10060,NA,NA
+2006,"II (Cagayan Valley)","Tuguegarao",59628,121.730613888889,17.6383111111111
+2006,"III (Central Luzon)","Baler",672,121.500133333333,15.7298361111111
+2006,"III (Central Luzon)","Clark",1956280,120.025833333333,13.1175
+2006,"III (Central Luzon)","Iba",2934,NA,NA
+2006,"III (Central Luzon)","Plaridel",44964,NA,NA
+2006,"III (Central Luzon)","Subic",34270,120.271363888889,14.79445
+2006,"IV-A (CALABARZON))","Alabat",0,NA,NA
+2006,"IV-A (CALABARZON))","Jomalig",480,NA,NA
+2006,"IV-B (MIMAROPA)","Busuanga",57734,NA,NA
+2006,"IV-B (MIMAROPA)","Calapan",0,NA,NA
+2006,"IV-B (MIMAROPA)","Cuyo",346,121,10.85
+2006,"IV-B (MIMAROPA)","Lubang",8554,120.105341666667,13.8554277777778
+2006,"IV-B (MIMAROPA)","Mamburao",954,120.60535,13.2080916666667
+2006,"IV-B (MIMAROPA)","Marinduque",0,121.825583333333,13.3609666666667
+2006,"IV-B (MIMAROPA)","Pinamalayan",0,121.426011111111,12.9858277777778
+2006,"IV-B (MIMAROPA)","Puerto Princesa",1136440,119.429365277778,10.9317541666667
+2006,"IV-B (MIMAROPA)","Romblon",20,NA,NA
+2006,"IV-B (MIMAROPA)","San Jose",89794,NA,NA
+2006,"IV-B (MIMAROPA)","Wasig",0,NA,NA
+2006,"IX (Zamboanga Peninsula)","Dipolog",139360,123.334480555556,8.60126111111111
+2006,"IX (Zamboanga Peninsula)","Ipil",64,122.583333333333,7.78333333333333
+2006,"IX (Zamboanga Peninsula)","Liloy",0,NA,NA
+2006,"IX (Zamboanga Peninsula)","Pagadian",8862,123.458294444444,7.82719722222222
+2006,"IX (Zamboanga Peninsula)","Siocon",0,122.133333333333,7.7
+2006,"IX (Zamboanga Peninsula)","Zamboanga",795820,122.066666666667,6.93333333333333
+2006,"NCR","Ninoy Aquino International Airport",36458442,121.019580555556,14.5086472222222
+2006,"Region XII","Cotabato",130018,NA,NA
+2006,"V (Bicol Region)","Bulan",16,NA,NA
+2006,"V (Bicol Region)","Daet",68,122.980180555556,14.1291666666667
+2006,"V (Bicol Region)","Legaspi",292934,123.746247222222,13.1570638888889
+2006,"V (Bicol Region)","Masbate",44374,123.629236111111,12.3693666666667
+2006,"V (Bicol Region)","Naga",101514,123.133333333333,13.6833333333333
+2006,"V (Bicol Region)","Sorsogon",4,NA,NA
+2006,"V (Bicol Region)","Virac",35832,124.205672222222,13.5764388888889
+2006,"VI (Western Visayas)","Antique",0,121.933438888889,10.7660444444444
+2006,"VI (Western Visayas)","Bacolod",1330288,122.929616666667,10.6425111111111
+2006,"VI (Western Visayas)","Caticlan",1038088,121.95405,11.9245027777778
+2006,"VI (Western Visayas)","Iloilo",1728806,122.545277777778,10.7130555555556
+2006,"VI (Western Visayas)","Kalibo",686692,122.376294444444,11.6794305555556
+2006,"VI (Western Visayas)","Roxas",240444,122.751669444444,11.5976694444444
+2006,"VII (Central Visayas)","Dumaguete",328488,123.300472222222,9.33371388888889
+2006,"VII (Central Visayas)","Mactan-Cebu",1641808,123.978888888889,10.3072222222222
+2006,"VII (Central Visayas)","Siquijor",234,NA,NA
+2006,"VII (Central Visayas)","Tagbilaran",482968,123.853247222222,9.66408055555556
+2006,"VII (Central Visayas)","Ubay",0,NA,NA
+2006,"VIII (Eastern Visayas)","Biliran",0,NA,NA
+2006,"VIII (Eastern Visayas)","Borongan",0,125.478794444444,11.6743277777778
+2006,"VIII (Eastern Visayas)","Calbayog",16534,124.545091666667,12.0727055555556
+2006,"VIII (Eastern Visayas)","Catarman",27818,NA,NA
+2006,"VIII (Eastern Visayas)","Catbalogan",0,NA,NA
+2006,"VIII (Eastern Visayas)","Guiuan",1168,125.741594444444,11.0355444444444
+2006,"VIII (Eastern Visayas)","Hilongos",238,NA,NA
+2006,"VIII (Eastern Visayas)","Maasin",0,124.782341666667,10.1873333333333
+2006,"VIII (Eastern Visayas)","Ormoc",0,124.565322222222,11.0579972222222
+2006,"VIII (Eastern Visayas)","Tacloban",799770,NA,NA
+2006,"X (Northern Mindanao)","Cagayan de Oro",1212186,124.611111111111,8.41555555555556
+2006,"X (Northern Mindanao)","Camiguin",6296,NA,NA
+2006,"X (Northern Mindanao)","Iligan",352,NA,NA
+2006,"X (Northern Mindanao)","Ozamis",0,NA,NA
+2006,"X (Northern Mindanao)","Siargao",1044,126.014016666667,9.85909722222222
+2006,"X (Northern Mindanao)","Surigao",22102,125.479327777778,9.75756666666667
+2006,"XI (Davao Region)","Davao",2683628,125.645833333333,7.12527777777778
+2006,"XI (Davao Region)","Mati",0,NA,NA
+2006,"XII (SOCCSKSARGEN)","Allah Valley",236,124.751294444444,6.36681666666667
+2006,"XII (SOCCSKSARGEN)","General Santos",313072,125.165655555556,6.08219583333333
+2006,"XIII (Caraga)","Bislig",0,126.321597222222,8.19595
+2006,"XIII (Caraga)","Butuan",318096,125.477972222222,8.95132222222222
+2006,"XIII (Caraga)","General Santos",520396,125.165655555556,6.08219583333333
+2006,"XIII (Caraga)","Tandag",9668,126.171444444444,9.07211111111111
+2007,"ARMM","Cagayan de Sulu",0,118.5,7.01666666666667
+2007,"ARMM","Cotabato",254396,NA,NA
+2007,"ARMM","Jolo",28490,121.011044444444,6.05367222222222
+2007,"ARMM","Malabang",0,124.066666666667,7.63333333333333
+2007,"ARMM","Sanga-Sanga",28978,119.743033333333,5.04699444444444
+2007,"CAR","Baguio",31502,NA,NA
+2007,"I (Ilocos Norte)","Laoag",285633,120.533333333333,18.1833333333333
+2007,"I (Ilocos Norte)","Lingayen",12948,120.241105555556,16.0347861111111
+2007,"I (Ilocos Norte)","Rosales",0,NA,NA
+2007,"I (Ilocos Norte)","Vigan",18730,120.355797222222,17.5553305555556
+2007,"II (Cagayan Valley)","Bagabag",1576,NA,NA
+2007,"II (Cagayan Valley)","Basco",39100,121.979883333333,20.4513222222222
+2007,"II (Cagayan Valley)","Cauayan",12794,121.753036111111,16.9298611111111
+2007,"II (Cagayan Valley)","Itbayat",142,NA,NA
+2007,"II (Cagayan Valley)","Palanan",8996,NA,NA
+2007,"II (Cagayan Valley)","Tuguegarao",76246,121.730613888889,17.6383111111111
+2007,"III (Central Luzon)","Baler",2242,121.500133333333,15.7298361111111
+2007,"III (Central Luzon)","Clark",2150458,120.025833333333,13.1175
+2007,"III (Central Luzon)","Iba",12948,NA,NA
+2007,"III (Central Luzon)","Plaridel",361424,NA,NA
+2007,"III (Central Luzon)","Subic",35296,120.271363888889,14.79445
+2007,"IV-A (CALABARZON))","Alabat",0,NA,NA
+2007,"IV-A (CALABARZON))","Jomalig",430,NA,NA
+2007,"IV-B (MIMAROPA)","Busuanga",67346,NA,NA
+2007,"IV-B (MIMAROPA)","Calapan",0,NA,NA
+2007,"IV-B (MIMAROPA)","Cuyo",1094,121,10.85
+2007,"IV-B (MIMAROPA)","Lubang",22272,120.105341666667,13.8554277777778
+2007,"IV-B (MIMAROPA)","Mamburao",686,120.60535,13.2080916666667
+2007,"IV-B (MIMAROPA)","Marinduque",266,121.825583333333,13.3609666666667
+2007,"IV-B (MIMAROPA)","Pinamalayan",0,121.426011111111,12.9858277777778
+2007,"IV-B (MIMAROPA)","Puerto Princesa",1568156,119.429365277778,10.9317541666667
+2007,"IV-B (MIMAROPA)","Romblon",1494,NA,NA
+2007,"IV-B (MIMAROPA)","San Jose",70778,NA,NA
+2007,"IV-B (MIMAROPA)","Wasig",0,NA,NA
+2007,"IX (Zamboanga Peninsula)","Dipolog",242456,123.334480555556,8.60126111111111
+2007,"IX (Zamboanga Peninsula)","Ipil",74,122.583333333333,7.78333333333333
+2007,"IX (Zamboanga Peninsula)","Liloy",0,NA,NA
+2007,"IX (Zamboanga Peninsula)","Pagadian",12500,123.458294444444,7.82719722222222
+2007,"IX (Zamboanga Peninsula)","Siocon",0,122.133333333333,7.7
+2007,"IX (Zamboanga Peninsula)","Zamboanga",970436,122.066666666667,6.93333333333333
+2007,"NCR","Ninoy Aquino International Airport",41387492,121.019580555556,14.5086472222222
+2007,"V (Bicol Region)","Bulan",4,NA,NA
+2007,"V (Bicol Region)","Daet",40,122.980180555556,14.1291666666667
+2007,"V (Bicol Region)","Legaspi",450124,123.746247222222,13.1570638888889
+2007,"V (Bicol Region)","Masbate",45718,123.629236111111,12.3693666666667
+2007,"V (Bicol Region)","Naga",105994,123.133333333333,13.6833333333333
+2007,"V (Bicol Region)","Sorsogon",0,NA,NA
+2007,"V (Bicol Region)","Virac",37310,124.205672222222,13.5764388888889
+2007,"VI (Western Visayas)","Antique",180,121.933438888889,10.7660444444444
+2007,"VI (Western Visayas)","Bacolod",1571862,122.929616666667,10.6425111111111
+2007,"VI (Western Visayas)","Caticlan",1092935,121.95405,11.9245027777778
+2007,"VI (Western Visayas)","Iloilo",2005236,122.545277777778,10.7130555555556
+2007,"VI (Western Visayas)","Kalibo",940338,122.376294444444,11.6794305555556
+2007,"VI (Western Visayas)","Roxas",269424,122.751669444444,11.5976694444444
+2007,"VII (Central Visayas)","Dumaguete",552456,123.300472222222,9.33371388888889
+2007,"VII (Central Visayas)","Mactan-Cebu",8138896,123.978888888889,10.3072222222222
+2007,"VII (Central Visayas)","Siquijor",72,NA,NA
+2007,"VII (Central Visayas)","Tagbilaran",691226,123.853247222222,9.66408055555556
+2007,"VII (Central Visayas)","Ubay",0,NA,NA
+2007,"VIII (Eastern Visayas)","Biliran",0,NA,NA
+2007,"VIII (Eastern Visayas)","Borongan",0,125.478794444444,11.6743277777778
+2007,"VIII (Eastern Visayas)","Calbayog",22276,124.545091666667,12.0727055555556
+2007,"VIII (Eastern Visayas)","Catarman",34470,NA,NA
+2007,"VIII (Eastern Visayas)","Catbalogan",0,NA,NA
+2007,"VIII (Eastern Visayas)","Guiuan",1728,125.741594444444,11.0355444444444
+2007,"VIII (Eastern Visayas)","Hilongos",326,NA,NA
+2007,"VIII (Eastern Visayas)","Maasin",0,124.782341666667,10.1873333333333
+2007,"VIII (Eastern Visayas)","Ormoc",2638,124.565322222222,11.0579972222222
+2007,"VIII (Eastern Visayas)","Tacloban",1022644,NA,NA
+2007,"X (Northern Mindanao)","Cagayan de Oro",1404810,124.611111111111,8.41555555555556
+2007,"X (Northern Mindanao)","Camiguin",4346,NA,NA
+2007,"X (Northern Mindanao)","Iligan",76,NA,NA
+2007,"X (Northern Mindanao)","Ozamis",30196,NA,NA
+2007,"XI (Davao Region)","Davao",3110444,125.645833333333,7.12527777777778
+2007,"XI (Davao Region)","Mati",0,NA,NA
+2007,"XII (SOCCSKSARGEN)","Allah Valley",318,124.751294444444,6.36681666666667
+2007,"XII (SOCCSKSARGEN)","General Santos",1240932,125.165655555556,6.08219583333333
+2007,"XIII (Caraga)","Bislig",0,126.321597222222,8.19595
+2007,"XIII (Caraga)","Butuan",400692,125.477972222222,8.95132222222222
+2007,"XIII (Caraga)","Siargao",450,126.014016666667,9.85909722222222
+2007,"XIII (Caraga)","Surigao",54804,125.479327777778,9.75756666666667
+2007,"XIII (Caraga)","Tandag",24,126.171444444444,9.07211111111111
+2008,"ARMM","Cagayan de Sulu",0,118.5,7.01666666666667
+2008,"ARMM","Cotabato",209070,NA,NA
+2008,"ARMM","Dipolog",562,123.334480555556,8.60126111111111
+2008,"ARMM","Jolo",37498,121.011044444444,6.05367222222222
+2008,"ARMM","Malabang",0,124.066666666667,7.63333333333333
+2008,"ARMM","Sanga-Sanga",0,119.743033333333,5.04699444444444
+2008,"CAR","Baguio",19610,NA,NA
+2008,"I (Ilocos Norte)","Laoag",308638,120.533333333333,18.1833333333333
+2008,"I (Ilocos Norte)","Lingayen",26434,120.241105555556,16.0347861111111
+2008,"I (Ilocos Norte)","Rosales",0,NA,NA
+2008,"I (Ilocos Norte)","Vigan",95096,120.355797222222,17.5553305555556
+2008,"II (Cagayan Valley)","Bagabag",2270,NA,NA
+2008,"II (Cagayan Valley)","Basco",48576,121.979883333333,20.4513222222222
+2008,"II (Cagayan Valley)","Cauayan",21946,121.753036111111,16.9298611111111
+2008,"II (Cagayan Valley)","Itbayat",1120,NA,NA
+2008,"II (Cagayan Valley)","Palanan",6766,NA,NA
+2008,"II (Cagayan Valley)","Tuguegarao",137642,121.730613888889,17.6383111111111
+2008,"III (Central Luzon)","Baler",5230,121.500133333333,15.7298361111111
+2008,"III (Central Luzon)","Busuanga",31238,NA,NA
+2008,"III (Central Luzon)","Clark",0,120.025833333333,13.1175
+2008,"III (Central Luzon)","Iba",20388,NA,NA
+2008,"III (Central Luzon)","Plaridel",468196,NA,NA
+2008,"III (Central Luzon)","Subic",0,120.271363888889,14.79445
+2008,"IV-A (CALABARZON))","Alabat",0,NA,NA
+2008,"IV-A (CALABARZON))","Jomalig",318,NA,NA
+2008,"IV-B (MIMAROPA)","Busuanga",71624,NA,NA
+2008,"IV-B (MIMAROPA)","Calapan",2376,NA,NA
+2008,"IV-B (MIMAROPA)","Cuyo",2412,121,10.85
+2008,"IV-B (MIMAROPA)","Lubang",25904,120.105341666667,13.8554277777778
+2008,"IV-B (MIMAROPA)","Mamburao",5258,120.60535,13.2080916666667
+2008,"IV-B (MIMAROPA)","Marinduque",2198,121.825583333333,13.3609666666667
+2008,"IV-B (MIMAROPA)","Pinamalayan",0,121.426011111111,12.9858277777778
+2008,"IV-B (MIMAROPA)","Puerto Princesa",1927024,119.429365277778,10.9317541666667
+2008,"IV-B (MIMAROPA)","Romblon",15960,NA,NA
+2008,"IV-B (MIMAROPA)","San Jose",126846,NA,NA
+2008,"IV-B (MIMAROPA)","Wasig",0,NA,NA
+2008,"IX (Zamboanga Peninsula)","Dipolog",287076,123.334480555556,8.60126111111111
+2008,"IX (Zamboanga Peninsula)","Ipil",0,122.583333333333,7.78333333333333
+2008,"IX (Zamboanga Peninsula)","Liloy",0,NA,NA
+2008,"IX (Zamboanga Peninsula)","Pagadian",0,123.458294444444,7.82719722222222
+2008,"IX (Zamboanga Peninsula)","Siocon",0,122.133333333333,7.7
+2008,"IX (Zamboanga Peninsula)","Zamboanga",939080,122.066666666667,6.93333333333333
+2008,"NCR","Ninoy Aquino International Airport",44506316,121.019580555556,14.5086472222222
+2008,"V (Bicol Region)","Bulan",8,NA,NA
+2008,"V (Bicol Region)","Daet",600,122.980180555556,14.1291666666667
+2008,"V (Bicol Region)","Legaspi",564818,123.746247222222,13.1570638888889
+2008,"V (Bicol Region)","Masbate",47170,123.629236111111,12.3693666666667
+2008,"V (Bicol Region)","Naga",174336,123.133333333333,13.6833333333333
+2008,"V (Bicol Region)","Sorsogon",8,NA,NA
+2008,"V (Bicol Region)","Virac",57892,124.205672222222,13.5764388888889
+2008,"VI (Western Visayas)","Antique",4762,121.933438888889,10.7660444444444
+2008,"VI (Western Visayas)","Bacolod",1686976,122.929616666667,10.6425111111111
+2008,"VI (Western Visayas)","Caticlan",1523922,121.95405,11.9245027777778
+2008,"VI (Western Visayas)","Iloilo",2147814,122.545277777778,10.7130555555556
+2008,"VI (Western Visayas)","Kalibo",800084,122.376294444444,11.6794305555556
+2008,"VI (Western Visayas)","Roxas",230750,122.751669444444,11.5976694444444
+2008,"VII (Central Visayas)","Dumaguete",612364,123.300472222222,9.33371388888889
+2008,"VII (Central Visayas)","Mactan-Cebu",7285724,123.978888888889,10.3072222222222
+2008,"VII (Central Visayas)","Siquijor",152,NA,NA
+2008,"VII (Central Visayas)","Tagbilaran",801628,123.853247222222,9.66408055555556
+2008,"VII (Central Visayas)","Ubay",0,NA,NA
+2008,"VIII (Eastern Visayas)","Biliran",0,NA,NA
+2008,"VIII (Eastern Visayas)","Borongan",0,125.478794444444,11.6743277777778
+2008,"VIII (Eastern Visayas)","Calbayog",41232,124.545091666667,12.0727055555556
+2008,"VIII (Eastern Visayas)","Catarman",45248,NA,NA
+2008,"VIII (Eastern Visayas)","Catbalogan",0,NA,NA
+2008,"VIII (Eastern Visayas)","Guiuan",716,125.741594444444,11.0355444444444
+2008,"VIII (Eastern Visayas)","Hilongos",362,NA,NA
+2008,"VIII (Eastern Visayas)","Maasin",0,124.782341666667,10.1873333333333
+2008,"VIII (Eastern Visayas)","Ormoc",31660,124.565322222222,11.0579972222222
+2008,"VIII (Eastern Visayas)","Tacloban",1254402,NA,NA
+2008,"X (Northern Mindanao)","Cagayan de Oro",1804368,124.611111111111,8.41555555555556
+2008,"X (Northern Mindanao)","Camiguin",2342,NA,NA
+2008,"X (Northern Mindanao)","Iligan",16,NA,NA
+2008,"X (Northern Mindanao)","Ozamis",160580,NA,NA
+2008,"XI (Davao Region)","Davao",3385754,125.645833333333,7.12527777777778
+2008,"XI (Davao Region)","Mati",0,NA,NA
+2008,"XII (SOCCSKSARGEN)","Allah Valley",476,124.751294444444,6.36681666666667
+2008,"XII (SOCCSKSARGEN)","General Santos",1211548,125.165655555556,6.08219583333333
+2008,"XIII (Caraga)","Bislig",0,126.321597222222,8.19595
+2008,"XIII (Caraga)","Butuan",616810,125.477972222222,8.95132222222222
+2008,"XIII (Caraga)","Siargao",1562,126.014016666667,9.85909722222222
+2008,"XIII (Caraga)","Surigao",46340,125.479327777778,9.75756666666667
+2008,"XIII (Caraga)","Tandag",50,126.171444444444,9.07211111111111
+2009,"ARMM","Cagayan de Tawi-Tawi",0,NA,NA
+2009,"ARMM","Cotabato",398266,NA,NA
+2009,"ARMM","Dipolog",0,123.334480555556,8.60126111111111
+2009,"ARMM","Jolo",18058,121.011044444444,6.05367222222222
+2009,"ARMM","Malabang",0,124.066666666667,7.63333333333333
+2009,"ARMM","Sanga-Sanga",11078,119.743033333333,5.04699444444444
+2009,"CAR","Baguio",4558,NA,NA
+2009,"I (Ilocos Norte)","Laoag",270946,120.533333333333,18.1833333333333
+2009,"I (Ilocos Norte)","Lingayen",41106,120.241105555556,16.0347861111111
+2009,"I (Ilocos Norte)","Rosales",0,NA,NA
+2009,"I (Ilocos Norte)","Vigan",44260,120.355797222222,17.5553305555556
+2009,"II (Cagayan Valley)","Bagabag",1906,NA,NA
+2009,"II (Cagayan Valley)","Basco",38616,121.979883333333,20.4513222222222
+2009,"II (Cagayan Valley)","Cauayan",38743,121.753036111111,16.9298611111111
+2009,"II (Cagayan Valley)","Itbayat",0,NA,NA
+2009,"II (Cagayan Valley)","Palanan",9922,NA,NA
+2009,"II (Cagayan Valley)","Tuguegarao",188700,121.730613888889,17.6383111111111
+2009,"III (Central Luzon)","Baler",1988,121.500133333333,15.7298361111111
+2009,"III (Central Luzon)","Clark",0,120.025833333333,13.1175
+2009,"III (Central Luzon)","Iba",13286,NA,NA
+2009,"III (Central Luzon)","Plaridel",445050,NA,NA
+2009,"III (Central Luzon)","Subic",0,120.271363888889,14.79445
+2009,"IV-A (CALABARZON))","Alabat",0,NA,NA
+2009,"IV-A (CALABARZON))","Jomalig",68,NA,NA
+2009,"IV-B (MIMAROPA)","Busuanga",282186,NA,NA
+2009,"IV-B (MIMAROPA)","Calapan",604,NA,NA
+2009,"IV-B (MIMAROPA)","Cuyo",1112,121,10.85
+2009,"IV-B (MIMAROPA)","Lubang",22078,120.105341666667,13.8554277777778
+2009,"IV-B (MIMAROPA)","Mamburao",2402,120.60535,13.2080916666667
+2009,"IV-B (MIMAROPA)","Marinduque",30774,121.825583333333,13.3609666666667
+2009,"IV-B (MIMAROPA)","Pinamalayan",74,121.426011111111,12.9858277777778
+2009,"IV-B (MIMAROPA)","Puerto Princesa",2351104,119.429365277778,10.9317541666667
+2009,"IV-B (MIMAROPA)","Romblon",19463,NA,NA
+2009,"IV-B (MIMAROPA)","San Jose",213912,NA,NA
+2009,"IV-B (MIMAROPA)","Wasig",0,NA,NA
+2009,"IX (Zamboanga Peninsula)","Dipolog",377328,123.334480555556,8.60126111111111
+2009,"IX (Zamboanga Peninsula)","Ipil",0,122.583333333333,7.78333333333333
+2009,"IX (Zamboanga Peninsula)","Liloy",0,NA,NA
+2009,"IX (Zamboanga Peninsula)","Pagadian",0,123.458294444444,7.82719722222222
+2009,"IX (Zamboanga Peninsula)","Siocon",0,122.133333333333,7.7
+2009,"IX (Zamboanga Peninsula)","Zamboanga",1165834,122.066666666667,6.93333333333333
+2009,"NCR","Ninoy Aquino International Airport",48217108,121.019580555556,14.5086472222222
+2009,"V (Bicol Region)","Bulan",0,NA,NA
+2009,"V (Bicol Region)","Daet",0,122.980180555556,14.1291666666667
+2009,"V (Bicol Region)","Legaspi",840816,123.746247222222,13.1570638888889
+2009,"V (Bicol Region)","Masbate",2768,123.629236111111,12.3693666666667
+2009,"V (Bicol Region)","Naga",281167,123.133333333333,13.6833333333333
+2009,"V (Bicol Region)","Sorsogon",8,NA,NA
+2009,"V (Bicol Region)","Virac",100281,124.205672222222,13.5764388888889
+2009,"VI (Western Visayas)","Antique",0,121.933438888889,10.7660444444444
+2009,"VI (Western Visayas)","Bacolod",2100858,122.929616666667,10.6425111111111
+2009,"VI (Western Visayas)","Caticlan",1045838,121.95405,11.9245027777778
+2009,"VI (Western Visayas)","Iloilo",2648296,122.545277777778,10.7130555555556
+2009,"VI (Western Visayas)","Kalibo",1264821,122.376294444444,11.6794305555556
+2009,"VI (Western Visayas)","Roxas",346264,122.751669444444,11.5976694444444
+2009,"VII (Central Visayas)","Dumaguete",721030,123.300472222222,9.33371388888889
+2009,"VII (Central Visayas)","Mactan-Cebu",8789646,123.978888888889,10.3072222222222
+2009,"VII (Central Visayas)","Siquijor",0,NA,NA
+2009,"VII (Central Visayas)","Tagbilaran",1125574,123.853247222222,9.66408055555556
+2009,"VII (Central Visayas)","Ubay",0,NA,NA
+2009,"VIII (Eastern Visayas)","Biliran",2,NA,NA
+2009,"VIII (Eastern Visayas)","Borongan",0,125.478794444444,11.6743277777778
+2009,"VIII (Eastern Visayas)","Calbayog",125554,124.545091666667,12.0727055555556
+2009,"VIII (Eastern Visayas)","Catarman",254177,NA,NA
+2009,"VIII (Eastern Visayas)","Catbalogan",0,NA,NA
+2009,"VIII (Eastern Visayas)","Guiuan",2,125.741594444444,11.0355444444444
+2009,"VIII (Eastern Visayas)","Hilongos",0,NA,NA
+2009,"VIII (Eastern Visayas)","Maasin",0,124.782341666667,10.1873333333333
+2009,"VIII (Eastern Visayas)","Ormoc",35600,124.565322222222,11.0579972222222
+2009,"VIII (Eastern Visayas)","Tacloban",1725577,NA,NA
+2009,"X (Northern Mindanao)","Cagayan de Oro",2220936,124.611111111111,8.41555555555556
+2009,"X (Northern Mindanao)","Camiguin",0,NA,NA
+2009,"X (Northern Mindanao)","Iligan",0,NA,NA
+2009,"X (Northern Mindanao)","Ozamis",322096,NA,NA
+2009,"XI (Davao Region)","Davao",3935900,125.645833333333,7.12527777777778
+2009,"XI (Davao Region)","Mati",0,NA,NA
+2009,"XII (SOCCSKSARGEN)","Allah Valley",176,124.751294444444,6.36681666666667
+2009,"XII (SOCCSKSARGEN)","General Santos",942600,125.165655555556,6.08219583333333
+2009,"XIII (Caraga)","Barobo",0,NA,NA
+2009,"XIII (Caraga)","Bislig",338418,126.321597222222,8.19595
+2009,"XIII (Caraga)","Butuan",770662,125.477972222222,8.95132222222222
+2009,"XIII (Caraga)","Siargao",20340,126.014016666667,9.85909722222222
+2009,"XIII (Caraga)","Surigao",129856,125.479327777778,9.75756666666667
+2009,"XIII (Caraga)","Tandag",0,126.171444444444,9.07211111111111
+2010,"ARMM","Cagayan de Tawi-Tawi",0,NA,NA
+2010,"ARMM","Cotabato",438208,NA,NA
+2010,"ARMM","Dipolog",432,123.334480555556,8.60126111111111
+2010,"ARMM","Jolo",19862,121.011044444444,6.05367222222222
+2010,"ARMM","Malabang",0,124.066666666667,7.63333333333333
+2010,"ARMM","Sanga-Sanga",28460,119.743033333333,5.04699444444444
+2010,"CAR","Baguio",3568,NA,NA
+2010,"I (Ilocos Norte)","Laoag",354678,120.533333333333,18.1833333333333
+2010,"I (Ilocos Norte)","Lingayen",23310,120.241105555556,16.0347861111111
+2010,"I (Ilocos Norte)","Rosales",0,NA,NA
+2010,"I (Ilocos Norte)","Vigan",12314,120.355797222222,17.5553305555556
+2010,"II (Cagayan Valley)","Bagabag",2194,NA,NA
+2010,"II (Cagayan Valley)","Basco",52178,121.979883333333,20.4513222222222
+2010,"II (Cagayan Valley)","Cauayan",77812,121.753036111111,16.9298611111111
+2010,"II (Cagayan Valley)","Itbayat",0,NA,NA
+2010,"II (Cagayan Valley)","Palanan",21500,NA,NA
+2010,"II (Cagayan Valley)","Tuguegarao",233050,121.730613888889,17.6383111111111
+2010,"III (Central Luzon)","Baler",752,121.500133333333,15.7298361111111
+2010,"III (Central Luzon)","Clark",0,120.025833333333,13.1175
+2010,"III (Central Luzon)","Iba",13652,NA,NA
+2010,"III (Central Luzon)","Plaridel",10652,NA,NA
+2010,"III (Central Luzon)","Subic",0,120.271363888889,14.79445
+2010,"IV-A (CALABARZON))","Alabat",0,NA,NA
+2010,"IV-A (CALABARZON))","Jomalig",0,NA,NA
+2010,"IV-B (MIMAROPA)","Busuanga",281320,NA,NA
+2010,"IV-B (MIMAROPA)","Calapan",0,NA,NA
+2010,"IV-B (MIMAROPA)","Cuyo",0,121,10.85
+2010,"IV-B (MIMAROPA)","Lubang",27922,120.105341666667,13.8554277777778
+2010,"IV-B (MIMAROPA)","Mamburao",3104,120.60535,13.2080916666667
+2010,"IV-B (MIMAROPA)","Marinduque",20552,121.825583333333,13.3609666666667
+2010,"IV-B (MIMAROPA)","Pinamalayan",0,121.426011111111,12.9858277777778
+2010,"IV-B (MIMAROPA)","Puerto Princesa",3254064,119.429365277778,10.9317541666667
+2010,"IV-B (MIMAROPA)","Romblon",34100,NA,NA
+2010,"IV-B (MIMAROPA)","San Jose",206350,NA,NA
+2010,"IV-B (MIMAROPA)","Wasig",0,NA,NA
+2010,"IX (Zamboanga Peninsula)","Dipolog",362340,123.334480555556,8.60126111111111
+2010,"IX (Zamboanga Peninsula)","Ipil",0,122.583333333333,7.78333333333333
+2010,"IX (Zamboanga Peninsula)","Liloy",0,NA,NA
+2010,"IX (Zamboanga Peninsula)","Pagadian",52164,123.458294444444,7.82719722222222
+2010,"IX (Zamboanga Peninsula)","Siocon",0,122.133333333333,7.7
+2010,"IX (Zamboanga Peninsula)","Zamboanga",1247278,122.066666666667,6.93333333333333
+2010,"NCR","Ninoy Aquino International Airport",54642240,121.019580555556,14.5086472222222
+2010,"V (Bicol Region)","Bulan",0,NA,NA
+2010,"V (Bicol Region)","Daet",0,122.980180555556,14.1291666666667
+2010,"V (Bicol Region)","Legaspi",870302,123.746247222222,13.1570638888889
+2010,"V (Bicol Region)","Masbate",88136,123.629236111111,12.3693666666667
+2010,"V (Bicol Region)","Naga",324888,123.133333333333,13.6833333333333
+2010,"V (Bicol Region)","Sorsogon",0,NA,NA
+2010,"V (Bicol Region)","Virac",85146,124.205672222222,13.5764388888889
+2010,"VI (Western Visayas)","Antique",0,121.933438888889,10.7660444444444
+2010,"VI (Western Visayas)","Bacolod",2446982,122.929616666667,10.6425111111111
+2010,"VI (Western Visayas)","Caticlan",1247090,121.95405,11.9245027777778
+2010,"VI (Western Visayas)","Iloilo",3162608,122.545277777778,10.7130555555556
+2010,"VI (Western Visayas)","Kalibo",2096576,122.376294444444,11.6794305555556
+2010,"VI (Western Visayas)","Roxas",407680,122.751669444444,11.5976694444444
+2010,"VII (Central Visayas)","Dumaguete",726042,123.300472222222,9.33371388888889
+2010,"VII (Central Visayas)","Mactan-Cebu",11582774,123.978888888889,10.3072222222222
+2010,"VII (Central Visayas)","Siquijor",172,NA,NA
+2010,"VII (Central Visayas)","Tagbilaran",1146598,123.853247222222,9.66408055555556
+2010,"VII (Central Visayas)","Ubay",0,NA,NA
+2010,"VIII (Eastern Visayas)","Biliran",0,NA,NA
+2010,"VIII (Eastern Visayas)","Borongan",0,125.478794444444,11.6743277777778
+2010,"VIII (Eastern Visayas)","Calbayog",105020,124.545091666667,12.0727055555556
+2010,"VIII (Eastern Visayas)","Catarman",176102,NA,NA
+2010,"VIII (Eastern Visayas)","Catbalogan",0,NA,NA
+2010,"VIII (Eastern Visayas)","Guiuan",6,125.741594444444,11.0355444444444
+2010,"VIII (Eastern Visayas)","Hilongos",0,NA,NA
+2010,"VIII (Eastern Visayas)","Maasin",0,124.782341666667,10.1873333333333
+2010,"VIII (Eastern Visayas)","Ormoc",64516,124.565322222222,11.0579972222222
+2010,"VIII (Eastern Visayas)","Tacloban",2297952,NA,NA
+2010,"X (Northern Mindanao)","Cagayan de Oro",2603004,124.611111111111,8.41555555555556
+2010,"X (Northern Mindanao)","Camiguin",0,NA,NA
+2010,"X (Northern Mindanao)","Iligan",0,NA,NA
+2010,"X (Northern Mindanao)","Ozamis",412856,NA,NA
+2010,"XI (Davao Region)","Davao",4458354,125.645833333333,7.12527777777778
+2010,"XI (Davao Region)","Mati",0,NA,NA
+2010,"XII (SOCCSKSARGEN)","Allah Valley",0,124.751294444444,6.36681666666667
+2010,"XII (SOCCSKSARGEN)","General Santos",1826104,125.165655555556,6.08219583333333
+2010,"XIII (Caraga)","Bislig",0,126.321597222222,8.19595
+2010,"XIII (Caraga)","Butuan",765686,125.477972222222,8.95132222222222
+2010,"XIII (Caraga)","Siargao",17700,126.014016666667,9.85909722222222
+2010,"XIII (Caraga)","Surigao",181864,125.479327777778,9.75756666666667
+2010,"XIII (Caraga)","Tandag",0,126.171444444444,9.07211111111111
+2011,"ARMM","Cagayan de Tawi-Tawi",0,NA,NA
+2011,"ARMM","Cotabato",243458,NA,NA
+2011,"ARMM","Jolo",145592,121.011044444444,6.05367222222222
+2011,"ARMM","Malabang",0,124.066666666667,7.63333333333333
+2011,"ARMM","Sanga-Sanga",43054,119.743033333333,5.04699444444444
+2011,"CAR","Baguio",2974,NA,NA
+2011,"I (Ilocos Norte)","Laoag",339310,120.533333333333,18.1833333333333
+2011,"I (Ilocos Norte)","Lingayen",32540,120.241105555556,16.0347861111111
+2011,"I (Ilocos Norte)","Rosales",0,NA,NA
+2011,"I (Ilocos Norte)","Vigan",11574,120.355797222222,17.5553305555556
+2011,"II (Cagayan Valley)","Bagabag",1328,NA,NA
+2011,"II (Cagayan Valley)","Basco",56856,121.979883333333,20.4513222222222
+2011,"II (Cagayan Valley)","Cauayan",65856,121.753036111111,16.9298611111111
+2011,"II (Cagayan Valley)","Itbayat",2800,NA,NA
+2011,"II (Cagayan Valley)","Palanan",7206,NA,NA
+2011,"II (Cagayan Valley)","Tuguegarao",210938,121.730613888889,17.6383111111111
+2011,"III (Central Luzon)","Baler",1020,121.500133333333,15.7298361111111
+2011,"III (Central Luzon)","Clark",3068436,120.025833333333,13.1175
+2011,"III (Central Luzon)","Iba",12006,NA,NA
+2011,"III (Central Luzon)","Plaridel",0,NA,NA
+2011,"III (Central Luzon)","Subic",0,120.271363888889,14.79445
+2011,"IV-A (CALABARZON))","Alabat",0,NA,NA
+2011,"IV-A (CALABARZON))","Jomalig",0,NA,NA
+2011,"IV-B (MIMAROPA)","Busuanga",200360,NA,NA
+2011,"IV-B (MIMAROPA)","Calapan",0,NA,NA
+2011,"IV-B (MIMAROPA)","Cuyo",40,121,10.85
+2011,"IV-B (MIMAROPA)","Lubang",36844,120.105341666667,13.8554277777778
+2011,"IV-B (MIMAROPA)","Mamburao",3540,120.60535,13.2080916666667
+2011,"IV-B (MIMAROPA)","Marinduque",45204,121.825583333333,13.3609666666667
+2011,"IV-B (MIMAROPA)","Pinamalayan",0,121.426011111111,12.9858277777778
+2011,"IV-B (MIMAROPA)","Puerto Princesa",3955888,119.429365277778,10.9317541666667
+2011,"IV-B (MIMAROPA)","Romblon",37014,NA,NA
+2011,"IV-B (MIMAROPA)","San Jose",212930,NA,NA
+2011,"IV-B (MIMAROPA)","Wasig",0,NA,NA
+2011,"IX (Zamboanga Peninsula)","Dipolog",331226,123.334480555556,8.60126111111111
+2011,"IX (Zamboanga Peninsula)","Ipil",0,122.583333333333,7.78333333333333
+2011,"IX (Zamboanga Peninsula)","Liloy",0,NA,NA
+2011,"IX (Zamboanga Peninsula)","Pagadian",202738,123.458294444444,7.82719722222222
+2011,"IX (Zamboanga Peninsula)","Siocon",0,122.133333333333,7.7
+2011,"IX (Zamboanga Peninsula)","Zamboanga",1608104,122.066666666667,6.93333333333333
+2011,"NCR","Ninoy Aquino International Airport",59558252,121.019580555556,14.5086472222222
+2011,"V (Bicol Region)","Bulan",0,NA,NA
+2011,"V (Bicol Region)","Daet",0,122.980180555556,14.1291666666667
+2011,"V (Bicol Region)","Legaspi",1029260,123.746247222222,13.1570638888889
+2011,"V (Bicol Region)","Masbate",89610,123.629236111111,12.3693666666667
+2011,"V (Bicol Region)","Naga",337280,123.133333333333,13.6833333333333
+2011,"V (Bicol Region)","Sorsogon",0,NA,NA
+2011,"V (Bicol Region)","Virac",86558,124.205672222222,13.5764388888889
+2011,"VI (Western Visayas)","Antique",0,121.933438888889,10.7660444444444
+2011,"VI (Western Visayas)","Bacolod",2698884,122.929616666667,10.6425111111111
+2011,"VI (Western Visayas)","Caticlan",1464344,121.95405,11.9245027777778
+2011,"VI (Western Visayas)","Iloilo",3415938,122.545277777778,10.7130555555556
+2011,"VI (Western Visayas)","Kalibo",2497380,122.376294444444,11.6794305555556
+2011,"VI (Western Visayas)","Roxas",242146,122.751669444444,11.5976694444444
+2011,"VII (Central Visayas)","Bantayan",1486,NA,NA
+2011,"VII (Central Visayas)","Dumaguete",4455708,123.300472222222,9.33371388888889
+2011,"VII (Central Visayas)","Mactan-Cebu",39153327,123.978888888889,10.3072222222222
+2011,"VII (Central Visayas)","Siquijor",344,NA,NA
+2011,"VII (Central Visayas)","Tagbilaran",5238385,123.853247222222,9.66408055555556
+2011,"VII (Central Visayas)","Ubay",0,NA,NA
+2011,"VIII (Eastern Visayas)","Biliran",0,NA,NA
+2011,"VIII (Eastern Visayas)","Borongan",0,125.478794444444,11.6743277777778
+2011,"VIII (Eastern Visayas)","Calbayog",77436,124.545091666667,12.0727055555556
+2011,"VIII (Eastern Visayas)","Catarman",134320,NA,NA
+2011,"VIII (Eastern Visayas)","Catbalogan",0,NA,NA
+2011,"VIII (Eastern Visayas)","Guiuan",26,125.741594444444,11.0355444444444
+2011,"VIII (Eastern Visayas)","Hilongos",0,NA,NA
+2011,"VIII (Eastern Visayas)","Maasin",0,124.782341666667,10.1873333333333
+2011,"VIII (Eastern Visayas)","Ormoc",104,124.565322222222,11.0579972222222
+2011,"VIII (Eastern Visayas)","Tacloban",2019150,NA,NA
+2011,"X (Northern Mindanao)","Cagayan de Oro",2885918,124.611111111111,8.41555555555556
+2011,"X (Northern Mindanao)","Camiguin",0,NA,NA
+2011,"X (Northern Mindanao)","Iligan",0,NA,NA
+2011,"X (Northern Mindanao)","Ozamis",457912,NA,NA
+2011,"XI (Davao Region)","Davao",5218930,125.645833333333,7.12527777777778
+2011,"XI (Davao Region)","Mati",0,NA,NA
+2011,"XII (SOCCSKSARGEN)","Allah Valley",0,124.751294444444,6.36681666666667
+2011,"XII (SOCCSKSARGEN)","General Santos",1470768,125.165655555556,6.08219583333333
+2011,"XIII (Caraga)","Barobo",0,NA,NA
+2011,"XIII (Caraga)","Bislig",304554,126.321597222222,8.19595
+2011,"XIII (Caraga)","Butuan",770840,125.477972222222,8.95132222222222
+2011,"XIII (Caraga)","Cotabato",1592,NA,NA
+2011,"XIII (Caraga)","Siargao",14502,126.014016666667,9.85909722222222
+2011,"XIII (Caraga)","Surigao",180052,125.479327777778,9.75756666666667
+2011,"XIII (Caraga)","Tandag",0,126.171444444444,9.07211111111111
+2012,"ARMM","Cagayan de Tawi-Tawi",0,NA,NA
+2012,"ARMM","Cotabato",492418,NA,NA
+2012,"ARMM","Jolo",33958,121.011044444444,6.05367222222222
+2012,"ARMM","Malabang",0,124.066666666667,7.63333333333333
+2012,"ARMM","Sanga-Sanga",0,119.743033333333,5.04699444444444
+2012,"CAR","Baguio",4542,NA,NA
+2012,"I (Ilocos Norte)","Laoag",376096,120.533333333333,18.1833333333333
+2012,"I (Ilocos Norte)","Lingayen",49636,120.241105555556,16.0347861111111
+2012,"I (Ilocos Norte)","Rosales",0,NA,NA
+2012,"I (Ilocos Norte)","Vigan",13342,120.355797222222,17.5553305555556
+2012,"II (Cagayan Valley)","Bagabag",246,NA,NA
+2012,"II (Cagayan Valley)","Basco",51176,121.979883333333,20.4513222222222
+2012,"II (Cagayan Valley)","Cauayan",89816,121.753036111111,16.9298611111111
+2012,"II (Cagayan Valley)","Itbayat",7968,NA,NA
+2012,"II (Cagayan Valley)","Palanan",0,NA,NA
+2012,"II (Cagayan Valley)","Tuguegarao",447814,121.730613888889,17.6383111111111
+2012,"III (Central Luzon)","Baler",1996,121.500133333333,15.7298361111111
+2012,"III (Central Luzon)","Clark",5263028,120.025833333333,13.1175
+2012,"III (Central Luzon)","Iba",15370,NA,NA
+2012,"III (Central Luzon)","Plaridel",0,NA,NA
+2012,"III (Central Luzon)","Subic",0,120.271363888889,14.79445
+2012,"IV-A (CALABARZON))","Alabat",0,NA,NA
+2012,"IV-A (CALABARZON))","Jomalig",0,NA,NA
+2012,"IV-B (MIMAROPA)","Busuanga",214524,NA,NA
+2012,"IV-B (MIMAROPA)","Calapan",0,NA,NA
+2012,"IV-B (MIMAROPA)","Cuyo",140,121,10.85
+2012,"IV-B (MIMAROPA)","Lubang",16760,120.105341666667,13.8554277777778
+2012,"IV-B (MIMAROPA)","Mamburao",4410,120.60535,13.2080916666667
+2012,"IV-B (MIMAROPA)","Marinduque",32744,121.825583333333,13.3609666666667
+2012,"IV-B (MIMAROPA)","Pinamalayan",0,121.426011111111,12.9858277777778
+2012,"IV-B (MIMAROPA)","Puerto Princesa",5291700,119.429365277778,10.9317541666667
+2012,"IV-B (MIMAROPA)","Romblon",25640,NA,NA
+2012,"IV-B (MIMAROPA)","San Jose",217314,NA,NA
+2012,"IV-B (MIMAROPA)","Wasig",0,NA,NA
+2012,"IX (Zamboanga Peninsula)","Dipolog",378400,123.334480555556,8.60126111111111
+2012,"IX (Zamboanga Peninsula)","Ipil",0,122.583333333333,7.78333333333333
+2012,"IX (Zamboanga Peninsula)","Liloy",0,NA,NA
+2012,"IX (Zamboanga Peninsula)","Pagadian",304940,123.458294444444,7.82719722222222
+2012,"IX (Zamboanga Peninsula)","Siocon",0,122.133333333333,7.7
+2012,"IX (Zamboanga Peninsula)","Zamboanga",1809336,122.066666666667,6.93333333333333
+2012,"NCR","Ninoy Aquino International Airport",59558252,121.019580555556,14.5086472222222
+2012,"V (Bicol Region)","Bulan",0,NA,NA
+2012,"V (Bicol Region)","Daet",0,122.980180555556,14.1291666666667
+2012,"V (Bicol Region)","Legaspi",1157534,123.746247222222,13.1570638888889
+2012,"V (Bicol Region)","Masbate",125196,123.629236111111,12.3693666666667
+2012,"V (Bicol Region)","Naga",408916,123.133333333333,13.6833333333333
+2012,"V (Bicol Region)","Sorsogon",0,NA,NA
+2012,"V (Bicol Region)","Virac",75802,124.205672222222,13.5764388888889
+2012,"VI (Western Visayas)","Antique",0,121.933438888889,10.7660444444444
+2012,"VI (Western Visayas)","Bacolod",2036834,122.929616666667,10.6425111111111
+2012,"VI (Western Visayas)","Caticlan",1191128,121.95405,11.9245027777778
+2012,"VI (Western Visayas)","Iloilo",3708854,122.545277777778,10.7130555555556
+2012,"VI (Western Visayas)","Kalibo",3664336,122.376294444444,11.6794305555556
+2012,"VI (Western Visayas)","Roxas",435104,122.751669444444,11.5976694444444
+2012,"VII (Central Visayas)","Bantayan",3024,NA,NA
+2012,"VII (Central Visayas)","Dumaguete",902224,123.300472222222,9.33371388888889
+2012,"VII (Central Visayas)","Mactan-Cebu",13424586,123.978888888889,10.3072222222222
+2012,"VII (Central Visayas)","Siquijor",758,NA,NA
+2012,"VII (Central Visayas)","Tagbilaran",1468414,123.853247222222,9.66408055555556
+2012,"VII (Central Visayas)","Ubay",0,NA,NA
+2012,"VIII (Eastern Visayas)","Biliran",0,NA,NA
+2012,"VIII (Eastern Visayas)","Borongan",0,125.478794444444,11.6743277777778
+2012,"VIII (Eastern Visayas)","Calbayog",90372,124.545091666667,12.0727055555556
+2012,"VIII (Eastern Visayas)","Catarman",142176,NA,NA
+2012,"VIII (Eastern Visayas)","Catbalogan",0,NA,NA
+2012,"VIII (Eastern Visayas)","Guiuan",0,125.741594444444,11.0355444444444
+2012,"VIII (Eastern Visayas)","Hilongos",0,NA,NA
+2012,"VIII (Eastern Visayas)","Maasin",0,124.782341666667,10.1873333333333
+2012,"VIII (Eastern Visayas)","Ormoc",730,124.565322222222,11.0579972222222
+2012,"VIII (Eastern Visayas)","Tacloban",2299184,NA,NA
+2012,"X (Northern Mindanao)","Butuan",20,125.477972222222,8.95132222222222
+2012,"X (Northern Mindanao)","Cagayan de Oro",3734314,124.611111111111,8.41555555555556
+2012,"X (Northern Mindanao)","Camiguin",0,NA,NA
+2012,"X (Northern Mindanao)","Iligan",0,NA,NA
+2012,"X (Northern Mindanao)","Ozamis",545700,NA,NA
+2012,"XI (Davao Region)","Davao",5926486,125.645833333333,7.12527777777778
+2012,"XI (Davao Region)","Mati",0,NA,NA
+2012,"XII (SOCCSKSARGEN)","Allah Valley",16,124.751294444444,6.36681666666667
+2012,"XII (SOCCSKSARGEN)","General Santos",2651704,125.165655555556,6.08219583333333
+2012,"XIII (Caraga)","Bislig",0,126.321597222222,8.19595
+2012,"XIII (Caraga)","Butuan",1048368,125.477972222222,8.95132222222222
+2012,"XIII (Caraga)","Siargao",29098,126.014016666667,9.85909722222222
+2012,"XIII (Caraga)","Surigao",239758,125.479327777778,9.75756666666667
+2012,"XIII (Caraga)","Tandag",0,126.171444444444,9.07211111111111
+2013,"-","Bacolod",471642,122.929616666667,10.6425111111111
+2013,"-","Total",56550952,NA,NA
+2013,"ARMM","Cagayan de Tawi-Tawi",0,NA,NA
+2013,"ARMM","Cotabato",217316,NA,NA
+2013,"ARMM","Dipolog",150886,123.334480555556,8.60126111111111
+2013,"ARMM","Jolo",21960,121.011044444444,6.05367222222222
+2013,"ARMM","Malabang",0,124.066666666667,7.63333333333333
+2013,"ARMM","Sanga-Sanga",0,119.743033333333,5.04699444444444
+2013,"CAR","Baguio",3056,NA,NA
+2013,"I (Ilocos Norte)","Laoag",252870,120.533333333333,18.1833333333333
+2013,"I (Ilocos Norte)","Lingayen",24840,120.241105555556,16.0347861111111
+2013,"I (Ilocos Norte)","Rosales",0,NA,NA
+2013,"I (Ilocos Norte)","Vigan",11402,120.355797222222,17.5553305555556
+2013,"II (Cagayan Valley)","Bagabag",0,NA,NA
+2013,"II (Cagayan Valley)","Basco",46514,121.979883333333,20.4513222222222
+2013,"II (Cagayan Valley)","Cauayan",63970,121.753036111111,16.9298611111111
+2013,"II (Cagayan Valley)","Itbayat",1242,NA,NA
+2013,"II (Cagayan Valley)","Palanan",0,NA,NA
+2013,"II (Cagayan Valley)","Tuguegarao",168412,121.730613888889,17.6383111111111
+2013,"III (Central Luzon)","Baler",4738,121.500133333333,15.7298361111111
+2013,"III (Central Luzon)","Clark",0,120.025833333333,13.1175
+2013,"III (Central Luzon)","Iba",2316,NA,NA
+2013,"III (Central Luzon)","Plaridel",0,NA,NA
+2013,"III (Central Luzon)","Subic",0,120.271363888889,14.79445
+2013,"IV-A (CALABARZON))","Alabat",0,NA,NA
+2013,"IV-A (CALABARZON))","Jomalig",0,NA,NA
+2013,"IV-B (MIMAROPA)","Busuanga",269772,NA,NA
+2013,"IV-B (MIMAROPA)","Calapan",0,NA,NA
+2013,"IV-B (MIMAROPA)","Cuyo",0,121,10.85
+2013,"IV-B (MIMAROPA)","Lubang",26856,120.105341666667,13.8554277777778
+2013,"IV-B (MIMAROPA)","Mamburao",1452,120.60535,13.2080916666667
+2013,"IV-B (MIMAROPA)","Marinduque",10750,121.825583333333,13.3609666666667
+2013,"IV-B (MIMAROPA)","Pinamalayan",0,121.426011111111,12.9858277777778
+2013,"IV-B (MIMAROPA)","Puerto Princesa",3426664,119.429365277778,10.9317541666667
+2013,"IV-B (MIMAROPA)","Romblon",9106,NA,NA
+2013,"IV-B (MIMAROPA)","San Jose",71528,NA,NA
+2013,"IV-B (MIMAROPA)","Wasig",0,NA,NA
+2013,"IX (Zamboanga Peninsula)","Dipolog",118048,123.334480555556,8.60126111111111
+2013,"IX (Zamboanga Peninsula)","Ipil",0,122.583333333333,7.78333333333333
+2013,"IX (Zamboanga Peninsula)","Liloy",0,NA,NA
+2013,"IX (Zamboanga Peninsula)","Pagadian",143110,123.458294444444,7.82719722222222
+2013,"IX (Zamboanga Peninsula)","Siocon",0,122.133333333333,7.7
+2013,"IX (Zamboanga Peninsula)","Zamboanga",983448,122.066666666667,6.93333333333333
+2013,"NCR","Ninoy Aquino International Airport",28793740,121.019580555556,14.5086472222222
+2013,"Region VI","Antique",0,121.933438888889,10.7660444444444
+2013,"V (Bicol Region)","Bulan",0,NA,NA
+2013,"V (Bicol Region)","Daet",0,122.980180555556,14.1291666666667
+2013,"V (Bicol Region)","Legaspi",601682,123.746247222222,13.1570638888889
+2013,"V (Bicol Region)","Masbate",52681,123.629236111111,12.3693666666667
+2013,"V (Bicol Region)","Naga",154664,123.133333333333,13.6833333333333
+2013,"V (Bicol Region)","Sorsogon",0,NA,NA
+2013,"V (Bicol Region)","Virac",50326,124.205672222222,13.5764388888889
+2013,"VI (Western Visayas)","Bacolod",1907050,122.929616666667,10.6425111111111
+2013,"VI (Western Visayas)","Caticlan",421696,121.95405,11.9245027777778
+2013,"VI (Western Visayas)","Iloilo",1803688,122.545277777778,10.7130555555556
+2013,"VI (Western Visayas)","Kalibo",2829078,122.376294444444,11.6794305555556
+2013,"VI (Western Visayas)","Roxas",253272,122.751669444444,11.5976694444444
+2013,"VII (Central Visayas)","Bantayan",0,NA,NA
+2013,"VII (Central Visayas)","Dumaguete",637628,123.300472222222,9.33371388888889
+2013,"VII (Central Visayas)","Mactan-Cebu",4863664,123.978888888889,10.3072222222222
+2013,"VII (Central Visayas)","Siquijor",244,NA,NA
+2013,"VII (Central Visayas)","Tagbilaran",829638,123.853247222222,9.66408055555556
+2013,"VII (Central Visayas)","Ubay",0,NA,NA
+2013,"VIII (Eastern Visayas)","Biliran",0,NA,NA
+2013,"VIII (Eastern Visayas)","Borongan",0,125.478794444444,11.6743277777778
+2013,"VIII (Eastern Visayas)","Calbayog",33952,124.545091666667,12.0727055555556
+2013,"VIII (Eastern Visayas)","Catarman",43214,NA,NA
+2013,"VIII (Eastern Visayas)","Catbalogan",0,NA,NA
+2013,"VIII (Eastern Visayas)","Guiuan",0,125.741594444444,11.0355444444444
+2013,"VIII (Eastern Visayas)","Hilongos",0,NA,NA
+2013,"VIII (Eastern Visayas)","Maasin",0,124.782341666667,10.1873333333333
+2013,"VIII (Eastern Visayas)","Ormoc",760,124.565322222222,11.0579972222222
+2013,"VIII (Eastern Visayas)","Tacloban",1077454,NA,NA
+2013,"X (Northern Mindanao)","Cagayan de Oro",1432110,124.611111111111,8.41555555555556
+2013,"X (Northern Mindanao)","Camiguin",0,NA,NA
+2013,"X (Northern Mindanao)","Iligan",0,NA,NA
+2013,"X (Northern Mindanao)","Laguindingan",710616,NA,NA
+2013,"X (Northern Mindanao)","Ozamis",605732,NA,NA
+2013,"XI (Davao Region)","Davao",3352428,125.645833333333,7.12527777777778
+2013,"XI (Davao Region)","Mati",0,NA,NA
+2013,"XII (SOCCSKSARGEN)","Allah Valley",0,124.751294444444,6.36681666666667
+2013,"XII (SOCCSKSARGEN)","Bislig",0,126.321597222222,8.19595
+2013,"XII (SOCCSKSARGEN)","General Santos",806848,125.165655555556,6.08219583333333
+2013,"XII (SOCCSKSARGEN)","Surigao",31324,125.479327777778,9.75756666666667
+2013,"XIII (Caraga)","Butuan",563212,125.477972222222,8.95132222222222
+2013,"XIII (Caraga)","General Santos",366380,125.165655555556,6.08219583333333
+2013,"XIII (Caraga)","Siargao",25490,126.014016666667,9.85909722222222
+2013,"XIII (Caraga)","Surigao",98806,125.479327777778,9.75756666666667
+2013,"XIII (Caraga)","Tandag",0,126.171444444444,9.07211111111111
+2014,"ARMM","Cagayan de Tawi-Tawi",0,NA,NA
+2014,"ARMM","Cotabato",465484,NA,NA
+2014,"ARMM","Jolo",30258,121.011044444444,6.05367222222222
+2014,"ARMM","Malabang",0,124.066666666667,7.63333333333333
+2014,"ARMM","Sanga-Sanga",53844,119.743033333333,5.04699444444444
+2014,"CAR","Baguio",4070,NA,NA
+2014,"I (Ilocos Norte)","Laoag  (Domestic)",386474,NA,NA
+2014,"I (Ilocos Norte)","Laoag  (International)",6400,NA,NA
+2014,"I (Ilocos Norte)","Lingayen",41718,120.241105555556,16.0347861111111
+2014,"I (Ilocos Norte)","Rosales",0,NA,NA
+2014,"I (Ilocos Norte)","Vigan",15178,120.355797222222,17.5553305555556
+2014,"II (Cagayan Valley)","Bagabag",364,NA,NA
+2014,"II (Cagayan Valley)","Basco",121366,121.979883333333,20.4513222222222
+2014,"II (Cagayan Valley)","Cauayan",113818,121.753036111111,16.9298611111111
+2014,"II (Cagayan Valley)","Itbayat",1764,NA,NA
+2014,"II (Cagayan Valley)","Palanan",0,NA,NA
+2014,"II (Cagayan Valley)","Tuguegarao",303216,121.730613888889,17.6383111111111
+2014,"III (Central Luzon)","Clark",0,120.025833333333,13.1175
+2014,"III (Central Luzon)","Iba",20802,NA,NA
+2014,"III (Central Luzon)","Plaridel",0,NA,NA
+2014,"III (Central Luzon)","Subic",0,120.271363888889,14.79445
+2014,"IV-A (CALABARZON))","Alabat",0,NA,NA
+2014,"IV-A (CALABARZON))","Baler",0,121.500133333333,15.7298361111111
+2014,"IV-A (CALABARZON))","Jomalig",0,NA,NA
+2014,"IV-B (MIMAROPA)","Busuanga",410502,NA,NA
+2014,"IV-B (MIMAROPA)","Calapan",1538,NA,NA
+2014,"IV-B (MIMAROPA)","Cuyo",3206,121,10.85
+2014,"IV-B (MIMAROPA)","Lubang",58310,120.105341666667,13.8554277777778
+2014,"IV-B (MIMAROPA)","Mamburao",0,120.60535,13.2080916666667
+2014,"IV-B (MIMAROPA)","Marinduque",0,121.825583333333,13.3609666666667
+2014,"IV-B (MIMAROPA)","Pinamalayan",0,121.426011111111,12.9858277777778
+2014,"IV-B (MIMAROPA)","Puerto Princesa",5514320,119.429365277778,10.9317541666667
+2014,"IV-B (MIMAROPA)","Romblon",224,NA,NA
+2014,"IV-B (MIMAROPA)","San Jose",124216,NA,NA
+2014,"IV-B (MIMAROPA)","Wasig",0,NA,NA
+2014,"IX (Zamboanga Peninsula)","Dipolog",452060,123.334480555556,8.60126111111111
+2014,"IX (Zamboanga Peninsula)","Ipil",0,122.583333333333,7.78333333333333
+2014,"IX (Zamboanga Peninsula)","Liloy",0,NA,NA
+2014,"IX (Zamboanga Peninsula)","Pagadian",301204,123.458294444444,7.82719722222222
+2014,"IX (Zamboanga Peninsula)","Siocon",0,122.133333333333,7.7
+2014,"IX (Zamboanga Peninsula)","Zamboanga",1802082,122.066666666667,6.93333333333333
+2014,"NCR","Ninoy Aquino International Airport",68397964,121.019580555556,14.5086472222222
+2014,"V (Bicol Region)","Bulan",0,NA,NA
+2014,"V (Bicol Region)","Daet",0,122.980180555556,14.1291666666667
+2014,"V (Bicol Region)","Legaspi",967486,123.746247222222,13.1570638888889
+2014,"V (Bicol Region)","Masbate",62896,123.629236111111,12.3693666666667
+2014,"V (Bicol Region)","Naga",296570,123.133333333333,13.6833333333333
+2014,"V (Bicol Region)","Sorsogon",0,NA,NA
+2014,"V (Bicol Region)","Virac",96608,124.205672222222,13.5764388888889
+2014,"VI (Western Visayas)","Antique",0,121.933438888889,10.7660444444444
+2014,"VI (Western Visayas)","Bacolod",2635682,122.929616666667,10.6425111111111
+2014,"VI (Western Visayas)","Caticlan",1015242,121.95405,11.9245027777778
+2014,"VI (Western Visayas)","Iloilo",3565064,122.545277777778,10.7130555555556
+2014,"VI (Western Visayas)","Kalibo",4642324,122.376294444444,11.6794305555556
+2014,"VI (Western Visayas)","Roxas",455126,122.751669444444,11.5976694444444
+2014,"VII (Central Visayas)","Bantayan",0,NA,NA
+2014,"VII (Central Visayas)","Dumaguete",903590,123.300472222222,9.33371388888889
+2014,"VII (Central Visayas)","Mactan-Cebu",0,123.978888888889,10.3072222222222
+2014,"VII (Central Visayas)","Siquijor",0,NA,NA
+2014,"VII (Central Visayas)","Tagbilaran",1303674,123.853247222222,9.66408055555556
+2014,"VII (Central Visayas)","Ubay",0,NA,NA
+2014,"VIII (Eastern Visayas)","Biliran",0,NA,NA
+2014,"VIII (Eastern Visayas)","Borongan",0,125.478794444444,11.6743277777778
+2014,"VIII (Eastern Visayas)","Calbayog",81556,124.545091666667,12.0727055555556
+2014,"VIII (Eastern Visayas)","Catarman",66830,NA,NA
+2014,"VIII (Eastern Visayas)","Catbalogan",0,NA,NA
+2014,"VIII (Eastern Visayas)","Guiuan",0,125.741594444444,11.0355444444444
+2014,"VIII (Eastern Visayas)","Hilongos",0,NA,NA
+2014,"VIII (Eastern Visayas)","Maasin",0,124.782341666667,10.1873333333333
+2014,"VIII (Eastern Visayas)","Ormoc",880,124.565322222222,11.0579972222222
+2014,"VIII (Eastern Visayas)","Tacloban",1727268,NA,NA
+2014,"X (Northern Mindanao)","Camiguin",17308,NA,NA
+2014,"X (Northern Mindanao)","Iligan",0,NA,NA
+2014,"X (Northern Mindanao)","Laguindingan",3106692,NA,NA
+2014,"X (Northern Mindanao)","Ozamis",448506,NA,NA
+2014,"XI (Davao Region)","Bislig",0,126.321597222222,8.19595
+2014,"XI (Davao Region)","Davao",6904958,125.645833333333,7.12527777777778
+2014,"XI (Davao Region)","General Santos",2858092,125.165655555556,6.08219583333333
+2014,"XI (Davao Region)","Mati",0,NA,NA
+2014,"XII (SOCCSKSARGEN)","Allah Valley",0,124.751294444444,6.36681666666667
+2014,"XIII (Caraga)","Butuan",1028426,125.477972222222,8.95132222222222
+2014,"XIII (Caraga)","Siargao",65054,126.014016666667,9.85909722222222
+2014,"XIII (Caraga)","Surigao",220778,125.479327777778,9.75756666666667
+2014,"XIII (Caraga)","Tandag",10296,126.171444444444,9.07211111111111
+2015,"ARMM","Cagayan de Tawi-Tawi",0,NA,NA
+2015,"ARMM","Cotabato",483284,NA,NA
+2015,"ARMM","Jolo",9908,121.011044444444,6.05367222222222
+2015,"ARMM","Malabang",0,124.066666666667,7.63333333333333
+2015,"ARMM","Sanga-Sanga",144288,119.743033333333,5.04699444444444
+2015,"CAR","Baguio",4448,NA,NA
+2015,"I (Ilocos Norte)","Laoag  (Domestic)",351058,NA,NA
+2015,"I (Ilocos Norte)","Laoag  (International)",58042,NA,NA
+2015,"I (Ilocos Norte)","Lingayen",42236,120.241105555556,16.0347861111111
+2015,"I (Ilocos Norte)","Rosales",0,NA,NA
+2015,"I (Ilocos Norte)","Vigan",27322,120.355797222222,17.5553305555556
+2015,"II (Cagayan Valley)","Bagabag",532,NA,NA
+2015,"II (Cagayan Valley)","Basco",146766,121.979883333333,20.4513222222222
+2015,"II (Cagayan Valley)","Cauayan",121934,121.753036111111,16.9298611111111
+2015,"II (Cagayan Valley)","Itbayat",34,NA,NA
+2015,"II (Cagayan Valley)","Palanan",19398,NA,NA
+2015,"II (Cagayan Valley)","Tuguegarao",348644,121.730613888889,17.6383111111111
+2015,"III (Central Luzon)","Clark",0,120.025833333333,13.1175
+2015,"III (Central Luzon)","Iba",23684,NA,NA
+2015,"III (Central Luzon)","Plaridel",5046,NA,NA
+2015,"III (Central Luzon)","Subic",0,120.271363888889,14.79445
+2015,"IV-A (CALABARZON))","Alabat",0,NA,NA
+2015,"IV-A (CALABARZON))","Baler",4682,121.500133333333,15.7298361111111
+2015,"IV-A (CALABARZON))","Jomalig",0,NA,NA
+2015,"IV-B (MIMAROPA)","Busuanga",571836,NA,NA
+2015,"IV-B (MIMAROPA)","Calapan",7146,NA,NA
+2015,"IV-B (MIMAROPA)","Cuyo",2992,121,10.85
+2015,"IV-B (MIMAROPA)","Lubang",63126,120.105341666667,13.8554277777778
+2015,"IV-B (MIMAROPA)","Mamburao",4016,120.60535,13.2080916666667
+2015,"IV-B (MIMAROPA)","Marinduque",0,121.825583333333,13.3609666666667
+2015,"IV-B (MIMAROPA)","Pinamalayan",200,121.426011111111,12.9858277777778
+2015,"IV-B (MIMAROPA)","Puerto Princesa",6366872,119.429365277778,10.9317541666667
+2015,"IV-B (MIMAROPA)","Romblon",14608,NA,NA
+2015,"IV-B (MIMAROPA)","San Jose",81208,NA,NA
+2015,"IV-B (MIMAROPA)","Wasig",0,NA,NA
+2015,"IX (Zamboanga Peninsula)","Dipolog",454918,123.334480555556,8.60126111111111
+2015,"IX (Zamboanga Peninsula)","Ipil",0,122.583333333333,7.78333333333333
+2015,"IX (Zamboanga Peninsula)","Liloy",0,NA,NA
+2015,"IX (Zamboanga Peninsula)","Pagadian",359200,123.458294444444,7.82719722222222
+2015,"IX (Zamboanga Peninsula)","Siocon",0,122.133333333333,7.7
+2015,"IX (Zamboanga Peninsula)","Zamboanga",1822658,122.066666666667,6.93333333333333
+2015,"NCR","Ninoy Aquino International Airport",72164734,121.019580555556,14.5086472222222
+2015,"V (Bicol Region)","Bulan",0,NA,NA
+2015,"V (Bicol Region)","Daet",0,122.980180555556,14.1291666666667
+2015,"V (Bicol Region)","Legaspi",1101562,123.746247222222,13.1570638888889
+2015,"V (Bicol Region)","Masbate",62084,123.629236111111,12.3693666666667
+2015,"V (Bicol Region)","Naga",280500,123.133333333333,13.6833333333333
+2015,"V (Bicol Region)","Sorsogon",0,NA,NA
+2015,"V (Bicol Region)","Virac",104058,124.205672222222,13.5764388888889
+2015,"VI (Western Visayas)","Antique",0,121.933438888889,10.7660444444444
+2015,"VI (Western Visayas)","Bacolod",2931492,122.929616666667,10.6425111111111
+2015,"VI (Western Visayas)","Caticlan",1089644,121.95405,11.9245027777778
+2015,"VI (Western Visayas)","Iloilo",3831644,122.545277777778,10.7130555555556
+2015,"VI (Western Visayas)","Kalibo",4756294,122.376294444444,11.6794305555556
+2015,"VI (Western Visayas)","Roxas",455224,122.751669444444,11.5976694444444
+2015,"VII (Central Visayas)","Bantayan",0,NA,NA
+2015,"VII (Central Visayas)","Dumaguete",1020632,123.300472222222,9.33371388888889
+2015,"VII (Central Visayas)","Mactan-Cebu",0,123.978888888889,10.3072222222222
+2015,"VII (Central Visayas)","Siquijor",0,NA,NA
+2015,"VII (Central Visayas)","Tagbilaran",1552868,123.853247222222,9.66408055555556
+2015,"VII (Central Visayas)","Ubay",0,NA,NA
+2015,"VIII (Eastern Visayas)","Biliran",24,NA,NA
+2015,"VIII (Eastern Visayas)","Borongan",0,125.478794444444,11.6743277777778
+2015,"VIII (Eastern Visayas)","Calbayog",71484,124.545091666667,12.0727055555556
+2015,"VIII (Eastern Visayas)","Catarman",88326,NA,NA
+2015,"VIII (Eastern Visayas)","Catbalogan",14,NA,NA
+2015,"VIII (Eastern Visayas)","Guiuan",218,125.741594444444,11.0355444444444
+2015,"VIII (Eastern Visayas)","Hilongos",0,NA,NA
+2015,"VIII (Eastern Visayas)","Maasin",0,124.782341666667,10.1873333333333
+2015,"VIII (Eastern Visayas)","Ormoc",0,124.565322222222,11.0579972222222
+2015,"VIII (Eastern Visayas)","Tacloban",2221578,NA,NA
+2015,"X (Northern Mindanao)","Camiguin",0,NA,NA
+2015,"X (Northern Mindanao)","Iligan",0,NA,NA
+2015,"X (Northern Mindanao)","Laguindingan",3512890,NA,NA
+2015,"X (Northern Mindanao)","Ozamis",437970,NA,NA
+2015,"XI (Davao Region)","Bislig",0,126.321597222222,8.19595
+2015,"XI (Davao Region)","Davao",6473822,125.645833333333,7.12527777777778
+2015,"XI (Davao Region)","General Santos",3179384,125.165655555556,6.08219583333333
+2015,"XI (Davao Region)","Mati",0,NA,NA
+2015,"XII (SOCCSKSARGEN)","Allah Valley",0,124.751294444444,6.36681666666667
+2015,"XIII (Caraga)","Butuan",1237168,125.477972222222,8.95132222222222
+2015,"XIII (Caraga)","Siargao",84358,126.014016666667,9.85909722222222
+2015,"XIII (Caraga)","Surigao",201994,125.479327777778,9.75756666666667
+2015,"XIII (Caraga)","Tandag",0,126.171444444444,9.07211111111111
+2016,"ARMM","Cagayan de Sulu",0,118.5,7.01666666666667
+2016,"ARMM","Cotabato",517058,NA,NA
+2016,"ARMM","Jolo",32926,121.011044444444,6.05367222222222
+2016,"ARMM","Malabang",0,124.066666666667,7.63333333333333
+2016,"ARMM","Sanga-Sanga",216060,119.743033333333,5.04699444444444
+2016,"CAR","Baguio",3718,NA,NA
+2016,"I (Ilocos Norte)","Laoag  (Domestic)",377328,NA,NA
+2016,"I (Ilocos Norte)","Laoag  (International)",30984,NA,NA
+2016,"I (Ilocos Norte)","Lingayen",44908,120.241105555556,16.0347861111111
+2016,"I (Ilocos Norte)","Rosales",0,NA,NA
+2016,"I (Ilocos Norte)","Vigan",31748,120.355797222222,17.5553305555556
+2016,"II (Cagayan Valley)","Bagabag",1018,NA,NA
+2016,"II (Cagayan Valley)","Basco",165706,121.979883333333,20.4513222222222
+2016,"II (Cagayan Valley)","Cauayan",171382,121.753036111111,16.9298611111111
+2016,"II (Cagayan Valley)","Itbayat",1338,NA,NA
+2016,"II (Cagayan Valley)","Palanan",22924,NA,NA
+2016,"II (Cagayan Valley)","Tuguegarao",372386,121.730613888889,17.6383111111111
+2016,"III (Central Luzon)","Clark",0,120.025833333333,13.1175
+2016,"III (Central Luzon)","Iba",26280,NA,NA
+2016,"III (Central Luzon)","Plaridel",0,NA,NA
+2016,"III (Central Luzon)","Subic",0,120.271363888889,14.79445
+2016,"IV-A (CALABARZON))","Alabat",0,NA,NA
+2016,"IV-A (CALABARZON))","Baler",4726,121.500133333333,15.7298361111111
+2016,"IV-A (CALABARZON))","Jomalig",0,NA,NA
+2016,"IV-B (MIMAROPA)","Busuanga",643190,NA,NA
+2016,"IV-B (MIMAROPA)","Calapan",7864,NA,NA
+2016,"IV-B (MIMAROPA)","Cuyo",5012,121,10.85
+2016,"IV-B (MIMAROPA)","Lubang",61026,120.105341666667,13.8554277777778
+2016,"IV-B (MIMAROPA)","Mamburao",2122,120.60535,13.2080916666667
+2016,"IV-B (MIMAROPA)","Marinduque",0,121.825583333333,13.3609666666667
+2016,"IV-B (MIMAROPA)","Pinamalayan",0,121.426011111111,12.9858277777778
+2016,"IV-B (MIMAROPA)","Puerto Princesa",6576012,119.429365277778,10.9317541666667
+2016,"IV-B (MIMAROPA)","Romblon",16530,NA,NA
+2016,"IV-B (MIMAROPA)","San Jose",98020,NA,NA
+2016,"IV-B (MIMAROPA)","Wasig",20,NA,NA
+2016,"IX (Zamboanga Peninsula)","Dipolog",486836,123.334480555556,8.60126111111111
+2016,"IX (Zamboanga Peninsula)","Ipil",0,122.583333333333,7.78333333333333
+2016,"IX (Zamboanga Peninsula)","Liloy",0,NA,NA
+2016,"IX (Zamboanga Peninsula)","Pagadian",377840,123.458294444444,7.82719722222222
+2016,"IX (Zamboanga Peninsula)","Siocon",0,122.133333333333,7.7
+2016,"IX (Zamboanga Peninsula)","Zamboanga",1960952,122.066666666667,6.93333333333333
+2016,"NCR","Ninoy Aquino International Airport",79389390,121.019580555556,14.5086472222222
+2016,"V (Bicol Region)","Bulan",0,NA,NA
+2016,"V (Bicol Region)","Daet",0,122.980180555556,14.1291666666667
+2016,"V (Bicol Region)","Legaspi",1128744,123.746247222222,13.1570638888889
+2016,"V (Bicol Region)","Masbate",60156,123.629236111111,12.3693666666667
+2016,"V (Bicol Region)","Naga",274658,123.133333333333,13.6833333333333
+2016,"V (Bicol Region)","Sorsogon",0,NA,NA
+2016,"V (Bicol Region)","Virac",108082,124.205672222222,13.5764388888889
+2016,"VI (Western Visayas)","Antique",0,121.933438888889,10.7660444444444
+2016,"VI (Western Visayas)","Bacolod",2997482,122.929616666667,10.6425111111111
+2016,"VI (Western Visayas)","Caticlan",1473118,121.95405,11.9245027777778
+2016,"VI (Western Visayas)","Iloilo",3887438,122.545277777778,10.7130555555556
+2016,"VI (Western Visayas)","Kalibo",5422072,122.376294444444,11.6794305555556
+2016,"VI (Western Visayas)","Roxas",534776,122.751669444444,11.5976694444444
+2016,"VII (Central Visayas)","Bantayan",0,NA,NA
+2016,"VII (Central Visayas)","Dumaguete",1092552,123.300472222222,9.33371388888889
+2016,"VII (Central Visayas)","Mactan-Cebu",0,123.978888888889,10.3072222222222
+2016,"VII (Central Visayas)","Siquijor",0,NA,NA
+2016,"VII (Central Visayas)","Tagbilaran",1742766,123.853247222222,9.66408055555556
+2016,"VII (Central Visayas)","Ubay",0,NA,NA
+2016,"VIII (Eastern Visayas)","Biliran",36,NA,NA
+2016,"VIII (Eastern Visayas)","Borongan",0,125.478794444444,11.6743277777778
+2016,"VIII (Eastern Visayas)","Calbayog",67922,124.545091666667,12.0727055555556
+2016,"VIII (Eastern Visayas)","Catarman",80474,NA,NA
+2016,"VIII (Eastern Visayas)","Catbalogan",110,NA,NA
+2016,"VIII (Eastern Visayas)","Guiuan",10,125.741594444444,11.0355444444444
+2016,"VIII (Eastern Visayas)","Hilongos",0,NA,NA
+2016,"VIII (Eastern Visayas)","Maasin",0,124.782341666667,10.1873333333333
+2016,"VIII (Eastern Visayas)","Ormoc",4588,124.565322222222,11.0579972222222
+2016,"VIII (Eastern Visayas)","Tacloban",2365902,NA,NA
+2016,"X (Northern Mindanao)","Camiguin",0,NA,NA
+2016,"X (Northern Mindanao)","Iligan",0,NA,NA
+2016,"X (Northern Mindanao)","Laguindingan",3552706,NA,NA
+2016,"X (Northern Mindanao)","Ozamis",581932,NA,NA
+2016,"XI (Davao Region)","Bislig",0,126.321597222222,8.19595
+2016,"XI (Davao Region)","Davao",7106402,125.645833333333,7.12527777777778
+2016,"XI (Davao Region)","General Santos",3355764,125.165655555556,6.08219583333333
+2016,"XI (Davao Region)","Mati",0,NA,NA
+2016,"XII (SOCCSKSARGEN)","Allah Valley",0,124.751294444444,6.36681666666667
+2016,"XIII (Caraga)","Butuan",1362526,125.477972222222,8.95132222222222
+2016,"XIII (Caraga)","Siargao",106300,126.014016666667,9.85909722222222
+2016,"XIII (Caraga)","Surigao",208626,125.479327777778,9.75756666666667
+2016,"XIII (Caraga)","Tandag",35550,126.171444444444,9.07211111111111
