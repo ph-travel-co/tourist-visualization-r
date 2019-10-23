@@ -47,7 +47,7 @@
 	.st39{clip-path:url(#SVGID_8_);}
 	.st40{clip-path:url(#SVGID_72_);}
 	.st41{clip-path:url(#SVGID_74_);}
-	.st42{font-family:'Source Sans Pro', font-weight: 400;}
+	.st42{font-family:'Source Sans Pro'; font-weight: 400;}
 	.st43{font-size:7.4626px;}
 	.st44{clip-path:url(#SVGID_76_);}
 	.st45{clip-path:url(#SVGID_78_);}
@@ -227,7 +227,7 @@
 	.st219{clip-path:url(#SVGID_330_);fill:#FF9800;}
 	.st220{clip-path:url(#SVGID_408_);fill:#333333;}
 	.st221{fill:#FFFFFF;}
-	.st222{font-family:'Source Sans Pro', font-weight: 700;}
+	.st222{font-family:'Source Sans Pro'; font-weight: 700;}
 	.st223{font-size:12px;}
 	.st224{clip-path:url(#SVGID_410_);fill:#333333;}
 	.st225{clip-path:url(#SVGID_412_);fill:#333333;}
@@ -917,7 +917,7 @@
 	.st909{clip-path:url(#SVGID_1764_);}
 	.st910{clip-path:url(#SVGID_428_);fill:#333333;}
 	.st911{font-size:8px;}
-	.st912{font-family:'Source Sans Pro', font-weight: 400italic;}
+	.st912{font-family:'Source Sans Pro'; font-weight: 400italic;}
 	.st913{clip-path:url(#SVGID_2_);fill:#333333;}
 </style>
 <g>
