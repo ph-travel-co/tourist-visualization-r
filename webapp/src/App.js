@@ -7,10 +7,12 @@ import Cover from "./container/Cover";
 import Content from "./container/Content";
 import Dataviz from "./container/Dataviz";
 
-import MapWorldWide from "./media/png/tourist_arrival_ph_map_worldwide_wide.png";
+// import MapWorldWide from "./media/png/tourist_arrival_ph_map_worldwide_wide.png";
 import BumpWorldWide from "./media/png/tourist_arrival_ph_bumpchart_worldwide_wide.png";
 import MapRegional from "./media/png/tourist_arrival_ph_map_regional_wide.png";
 import TrendRegional from "./media/png/tourist_arrival_ph_trend_regional_wide.png";
+
+import { ReactComponent as MapWorldWide } from "./media/svg/tourist_arrival_ph_map_worldwide_wide.svg";
 
 function App() {
   return (
@@ -24,8 +26,6 @@ function App() {
           </h1>
         </center>
       </Content>
-      {/* Author */}
-      {/* Content */}
       <Content>
         <h2>How Popular is The Philippines Among Tourists?</h2>
         <p>
@@ -52,7 +52,8 @@ function App() {
         <h2>Country of Origin of Tourists to the Philippines 2016</h2>
       </Content>
       <Dataviz>
-        <img src={MapWorldWide} alt="MapWorldWide" class="Dataviz-wide"></img>
+        <MapWorldWide></MapWorldWide>
+        {/* <img src={MapWorldWide} alt="MapWorldWide" class="Dataviz-wide"></img> */}
       </Dataviz>
       <Content>
         <h2>
