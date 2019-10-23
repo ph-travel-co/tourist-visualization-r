@@ -16,14 +16,14 @@ function App() {
   return (
     <Box>
       {/* Cover Image and Title */}
-      <Cover>
+      <Content>
         <center>
           <h1>
             Visualizing Philippine Tourism: Trends on Tourists and Travel
             Destinations
           </h1>
         </center>
-      </Cover>
+      </Content>
       {/* Author */}
       {/* Content */}
       <Content>
@@ -54,35 +54,26 @@ function App() {
       </Content>
       {/* Dataviz */}
       <Dataviz>
-        <img src={MapWorldWide} alt="MapWorldWide" class="App-responsive"></img>
+        <img src={MapWorldWide} alt="MapWorldWide" class="Dataviz-wide"></img>
       </Dataviz>
       {/* Dataviz */}
-      <Dataviz source={BumpWorldWide} alt="BumpWorldWide">
+      <Dataviz>
         <img
           src={BumpWorldWide}
           alt="BumpWorldWide"
-          class="App-responsive"
-          style={{
-            display: "block",
-            maxWidth: "1366px",
-            marginLeft: "auto",
-            marginRight: "auto"
-          }}
+          class="Dataviz-medium"
         ></img>
       </Dataviz>
       <Dataviz>
-        <img src={MapRegional} alt="MapRegional" class="App-responsive"></img>
+        <img src={MapRegional} alt="MapRegional" class="Dataviz-medium"></img>
       </Dataviz>
       <Dataviz>
         <img
           src={TrendRegional}
           alt="TrendRegional"
-          class="App-responsive"
+          class="Dataviz-medium"
           style={{
-            display: "block",
-            maxWidth: "960px",
-            marginLeft: "auto",
-            marginRight: "auto"
+            maxWidth: "960px"
           }}
         ></img>
       </Dataviz>

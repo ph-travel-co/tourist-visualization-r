@@ -21,7 +21,16 @@
   color: #09d3ac;
 }
 
-.App-responsive {
+.Dataviz-wide {
   width: 100%;
   height: auto;
+}
+
+.Dataviz-medium {
+  display: block;
+  max-width: 1366px;
+  width: 100%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
