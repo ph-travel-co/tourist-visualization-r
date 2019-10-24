@@ -27,10 +27,38 @@
 }
 
 .Dataviz-medium {
-  display: block;
   max-width: 1366px;
   width: 100%;
   height: auto;
   margin-left: auto;
   margin-right: auto;
+}
+
+.Dataviz-small {
+  max-width: 960px;
+  width: 100%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Dataviz-narrow {
+  max-width: 640px;
+  width: 100%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.MapRegional {
+  max-width: 860px;
+  width: 100%;
+  height: auto;
 }

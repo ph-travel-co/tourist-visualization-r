@@ -3,20 +3,26 @@ import logo from "./logo.svg";
 import "./App.css";
 
 import Box from "@material-ui/core/Box";
-import Cover from "./container/Cover";
+import Container from "@material-ui/core/Container";
 import Content from "./container/Content";
 import Dataviz from "./container/Dataviz";
 
-// import MapWorldWide from "./media/png/tourist_arrival_ph_map_worldwide_wide.png";
+import MapWorldWide from "./media/png/tourist_arrival_ph_map_worldwide_wide.png";
 import BumpWorldWide from "./media/png/tourist_arrival_ph_bumpchart_worldwide_wide.png";
-import MapRegional from "./media/png/tourist_arrival_ph_map_regional_wide.png";
+import MapRegionalTotal from "./media/png/tourist_arrival_ph_map_regional_wide_total.png";
+import MapRegionalDomFor from "./media/png/tourist_arrival_ph_map_regional_wide_domfor.png";
 import TrendRegional from "./media/png/tourist_arrival_ph_trend_regional_wide.png";
+import { flexbox } from "@material-ui/system";
 
-import { ReactComponent as MapWorldWide } from "./media/svg/tourist_arrival_ph_map_worldwide_wide.svg";
+// import { ReactComponent as MapWorldWide } from "./media/svg/tourist_arrival_ph_map_worldwide_wide.svg";
+// import { ReactComponent as BumpWorldWide } from "./media/svg/tourist_arrival_ph_bumpchart_worldwide_wide.svg";
+// import { ReactComponent as MapRegionalTotal } from "./media/svg/tourist_arrival_ph_map_regional_wide_total.svg";
+// import { ReactComponent as MapRegionalDomesticForeign } from "./media/svg/tourist_arrival_ph_map_regional_wide_domfor.svg";
+// import { ReactComponent as TrendRegional } from "./media/svg/tourist_arrival_ph_trend_regional_wide.svg";
 
 function App() {
   return (
-    <Box>
+    <div>
       {/* Cover Image and Title */}
       <Content>
         <center>
@@ -51,48 +57,58 @@ function App() {
       <Content>
         <h2>Country of Origin of Tourists to the Philippines 2016</h2>
       </Content>
-      <Dataviz>
-        <MapWorldWide></MapWorldWide>
-        {/* <img src={MapWorldWide} alt="MapWorldWide" class="Dataviz-wide"></img> */}
-      </Dataviz>
+
+      <img src={MapWorldWide} alt="MapWorldWide" class="Dataviz-wide"></img>
+
       <Content>
         <h2>
           Timeline of Country of Origin of Tourists to the Philippines from
           January 2014 to December 2016
         </h2>
       </Content>
-      <Dataviz>
+
+      <Dataviz wideness="med">
         <img
           src={BumpWorldWide}
           alt="BumpWorldWide"
-          class="Dataviz-medium"
+          class="Container Dataviz-medium"
         ></img>
       </Dataviz>
+
       <Content>
         <h2>
           Comparison of the Volume between Domestic and Foreign Tourists in 2018
         </h2>
       </Content>
-      <Dataviz>
-        <img src={MapRegional} alt="MapRegional" class="Dataviz-medium"></img>
-      </Dataviz>
+
+      <div className="Container">
+        <img
+          src={MapRegionalTotal}
+          alt="MapRegionalTotal"
+          className="MapRegional"
+        ></img>
+        <img
+          src={MapRegionalDomFor}
+          alt="MapRegionalDomFor"
+          className="MapRegional"
+        ></img>
+      </div>
+
       <Content>
         <h2>
           Top 15 Most Popular Tourist Destinations to the Philippines (Foreign
           and Domestic Tourists)
         </h2>
       </Content>
+
       <Dataviz>
         <img
           src={TrendRegional}
           alt="TrendRegional"
-          class="Dataviz-medium"
-          style={{
-            maxWidth: "960px"
-          }}
+          className="Container Dataviz-small"
         ></img>
       </Dataviz>
-    </Box>
+    </div>
   );
 }
 

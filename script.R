@@ -395,7 +395,8 @@ world <- ggplot(data_world %>%
       xend = 120.984222 + shift - 360,
       yend = 14.599512
       ), 
-    alpha = 0.15
+    alpha = 0.15,
+    curvature = -0.5
   ) +
   geom_text(
     mapping = aes(x = ctry_cntr_long,
