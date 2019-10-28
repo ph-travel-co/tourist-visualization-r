@@ -15,34 +15,34 @@
 				<g id="XMLID_4977_">
 					<rect id="XMLID_4989_" x="15.1" y="15.3" style="fill:none;" width="13.1" height="9.4"/>
 					
-						<text id="XMLID_4988_" transform="matrix(1 0 0 1 16.0129 22.4093)" style="opacity:0.5;fill:#333333; font-family:'SourceSansPro-Regular'; font-size:10px;">6M</text>
+						<text id="XMLID_4988_" transform="matrix(1 0 0 1 16.0129 22.4093)" style="opacity:0.5;fill:#333333; font-family:'Source Sans Pro'; font-weight: 400; font-size:10px;">6M</text>
 					<rect id="XMLID_4986_" x="15.1" y="55.1" style="fill:none;" width="13.1" height="9.4"/>
 					
-						<text id="XMLID_4985_" transform="matrix(1 0 0 1 16.0129 62.1904)" style="opacity:0.5;fill:#333333; font-family:'SourceSansPro-Regular'; font-size:10px;">4M</text>
+						<text id="XMLID_4985_" transform="matrix(1 0 0 1 16.0129 62.1904)" style="opacity:0.5;fill:#333333; font-family:'Source Sans Pro'; font-weight: 400; font-size:10px;">4M</text>
 					<rect id="XMLID_4983_" x="15.1" y="94.7" style="fill:none;" width="13.1" height="9.4"/>
 					
-						<text id="XMLID_4982_" transform="matrix(1 0 0 1 16.0129 101.8473)" style="opacity:0.5;fill:#333333; font-family:'SourceSansPro-Regular'; font-size:10px;">2M</text>
+						<text id="XMLID_4982_" transform="matrix(1 0 0 1 16.0129 101.8473)" style="opacity:0.5;fill:#333333; font-family:'Source Sans Pro'; font-weight: 400; font-size:10px;">2M</text>
 					<rect id="XMLID_4980_" x="15.1" y="134.4" style="fill:none;" width="13.1" height="9.4"/>
 					
-						<text id="XMLID_4979_" transform="matrix(1 0 0 1 23.2834 141.5651)" style="opacity:0.5;fill:#333333; font-family:'SourceSansPro-Regular'; font-size:10px;">0</text>
+						<text id="XMLID_4979_" transform="matrix(1 0 0 1 23.2834 141.5651)" style="opacity:0.5;fill:#333333; font-family:'Source Sans Pro'; font-weight: 400; font-size:10px;">0</text>
 				</g>
 				
-					<text id="XMLID_4976_" transform="matrix(0 -1 1 0 8.3003 91.9379)" style="fill:#333333; font-family:'SourceSansPro-Italic'; font-size:10px;">Tourist Count</text>
+					<text id="XMLID_4976_" transform="matrix(0 -1 1 0 8.3003 91.9379)" style="fill:#333333; font-family:'Source Sans Pro'; font-style: 400i; font-size:10px;">Tourist Count</text>
 			</g>
 			<g id="XMLID_4946_">
 				<rect id="XMLID_4973_" x="82.4" y="162.8" style="fill:none;" width="20.5" height="9.4"/>
 				
-					<text id="XMLID_4971_" transform="matrix(1 0 0 1 83.5107 169.9049)" style="fill:#333333; font-family:'SourceSansPro-Italic'; font-size:10px;">Year</text>
+					<text id="XMLID_4971_" transform="matrix(1 0 0 1 83.5107 169.9049)" style="fill:#333333; font-family:'Source Sans Pro'; font-style: 400i; font-size:10px;">Year</text>
 				<g id="XMLID_4949_">
 					<rect id="XMLID_4970_" x="82.4" y="145.1" style="fill:none;" width="20.5" height="9.4"/>
 					
-						<text id="XMLID_4968_" transform="matrix(1 0 0 1 82.6758 152.2318)" style="opacity:0.5;fill:#333333; font-family:'SourceSansPro-Regular'; font-size:10px;">2014</text>
+						<text id="XMLID_4968_" transform="matrix(1 0 0 1 82.6758 152.2318)" style="opacity:0.5;fill:#333333; font-family:'Source Sans Pro'; font-weight: 400; font-size:10px;">2014</text>
 					<rect id="XMLID_4967_" x="131.4" y="145.1" style="fill:none;" width="20.5" height="9.4"/>
 					
-						<text id="XMLID_4965_" transform="matrix(1 0 0 1 131.7271 152.2318)" style="opacity:0.5;fill:#333333; font-family:'SourceSansPro-Regular'; font-size:10px;">2016</text>
+						<text id="XMLID_4965_" transform="matrix(1 0 0 1 131.7271 152.2318)" style="opacity:0.5;fill:#333333; font-family:'Source Sans Pro'; font-weight: 400; font-size:10px;">2016</text>
 					<rect id="XMLID_4959_" x="33.8" y="145.1" style="fill:none;" width="20.5" height="9.4"/>
 					
-						<text id="XMLID_4950_" transform="matrix(1 0 0 1 34.1057 152.2318)" style="opacity:0.5;fill:#333333; font-family:'SourceSansPro-Regular'; font-size:10px;">2012</text>
+						<text id="XMLID_4950_" transform="matrix(1 0 0 1 34.1057 152.2318)" style="opacity:0.5;fill:#333333; font-family:'Source Sans Pro'; font-weight: 400; font-size:10px;">2012</text>
 				</g>
 			</g>
 			<g id="XMLID_4920_">
@@ -70,18 +70,18 @@
 			<g id="XMLID_4899_">
 				<rect id="XMLID_4919_" x="92.6" y="75.8" style="fill:none;" width="46.9" height="9.4"/>
 				
-					<text id="XMLID_4917_" transform="matrix(1 0 0 1 109.2307 81.5138)" style="fill:#FFFFFF; font-family:'SourceSansPro-Regular'; font-size:8px;">Asia</text>
+					<text id="XMLID_4917_" transform="matrix(1 0 0 1 109.2307 81.5138)" style="fill:#FFFFFF; font-family:'Source Sans Pro'; font-weight: 400; font-size:8px;">Asia</text>
 				<rect id="XMLID_4916_" x="167.4" y="114.5" style="fill:none;" width="52.3" height="17.7"/>
-				<text id="XMLID_4914_" transform="matrix(1 0 0 1 167.3882 120.2317)"><tspan x="0" y="0" style="fill:#333333; font-family:'SourceSansPro-Regular'; font-size:8px;">Australia &amp; The </tspan><tspan x="0" y="9.6" style="fill:#333333; font-family:'SourceSansPro-Regular'; font-size:8px;">Pacific</tspan></text>
+				<text id="XMLID_4914_" transform="matrix(1 0 0 1 167.3882 120.2317)"><tspan x="0" y="0" style="fill:#333333; font-family:'Source Sans Pro'; font-weight: 400; font-size:8px;">Australia &amp; The </tspan><tspan x="0" y="9.6" style="fill:#333333; font-family:'Source Sans Pro'; font-weight: 400; font-size:8px;">Pacific</tspan></text>
 				<rect id="XMLID_4913_" x="63.7" y="5.3" style="fill:none;" width="20.8" height="8.1"/>
 				
-					<text id="XMLID_4911_" transform="matrix(1 0 0 1 63.6721 11.0019)" style="fill:#333333; font-family:'SourceSansPro-Regular'; font-size:8px;">Africa</text>
+					<text id="XMLID_4911_" transform="matrix(1 0 0 1 63.6721 11.0019)" style="fill:#333333; font-family:'Source Sans Pro'; font-weight: 400; font-size:8px;">Africa</text>
 				<rect id="XMLID_4910_" x="92.6" y="129.3" style="fill:none;" width="46.9" height="9.4"/>
 				
-					<text id="XMLID_4908_" transform="matrix(1 0 0 1 104.0393 135.0226)" style="fill:#FFFFFF; font-family:'SourceSansPro-Regular'; font-size:8px;">Europe</text>
+					<text id="XMLID_4908_" transform="matrix(1 0 0 1 104.0393 135.0226)" style="fill:#FFFFFF; font-family:'Source Sans Pro'; font-weight: 400; font-size:8px;">Europe</text>
 				<rect id="XMLID_4905_" x="92.6" y="30.8" style="fill:none;" width="46.9" height="9.4"/>
 				
-					<text id="XMLID_4904_" transform="matrix(1 0 0 1 100.719 36.522)" style="fill:#FFFFFF; font-family:'SourceSansPro-Regular'; font-size:8px;">Americas</text>
+					<text id="XMLID_4904_" transform="matrix(1 0 0 1 100.719 36.522)" style="fill:#FFFFFF; font-family:'Source Sans Pro'; font-weight: 400; font-size:8px;">Americas</text>
 				<line id="XMLID_4902_" style="fill:none;stroke:#808080;stroke-miterlimit:10;" x1="145.8" y1="121.9" x2="163.8" y2="121.9"/>
 				<polyline id="XMLID_4901_" style="fill:none;stroke:#808080;stroke-miterlimit:10;" points="85.8,8.9 103.8,8.9 118.5,23.6 				
 					"/>

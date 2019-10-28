@@ -1253,84 +1253,52 @@ BXSugnaoazJPI+sLbLMzsXGXCzE30U2rLPINXc5nhDtkY+Erexw2bis00ZZ9tkbJfxkZWFdWihI7
 	<g id="wide">
 		<g id="trend-regional">
 			<g id="XMLID_1933_">
-				<rect id="XMLID_4832_" x="555.4" y="128.9" style="fill:#F2F2F2;" width="163.9" height="1760"/>
-				<g id="XMLID_13_">
-					<g id="XMLID_4631_">
-						<rect id="XMLID_1941_" x="267.2" y="223.1" style="fill:#FAFAFA;" width="81.3" height="88.8"/>
-						<rect id="XMLID_4632_" x="416.1" y="223.1" style="fill:#FAFAFA;" width="81.3" height="88.8"/>
-						<rect id="XMLID_4634_" x="585" y="223.1" style="fill:#FAFAFA;" width="81.3" height="88.8"/>
-					</g>
-					<g id="XMLID_4637_">
-						<rect id="XMLID_4641_" x="267.2" y="330.1" style="fill:#FAFAFA;" width="81.3" height="88.1"/>
-						<rect id="XMLID_4640_" x="416.1" y="330.1" style="fill:#FAFAFA;" width="81.3" height="88.1"/>
-						<rect id="XMLID_4638_" x="585" y="330.1" style="fill:#FAFAFA;" width="81.3" height="88.1"/>
-					</g>
-					<g id="XMLID_4643_">
-						<rect id="XMLID_4647_" x="267.2" y="435.8" style="fill:#FAFAFA;" width="81.3" height="88.5"/>
-						<rect id="XMLID_4646_" x="416.1" y="435.8" style="fill:#FAFAFA;" width="81.3" height="88.5"/>
-						<rect id="XMLID_4644_" x="585" y="435.8" style="fill:#FAFAFA;" width="81.3" height="88.5"/>
-					</g>
-					<g id="XMLID_4649_">
-						<rect id="XMLID_4653_" x="267.2" y="542.3" style="fill:#FAFAFA;" width="81.3" height="87.5"/>
-						<rect id="XMLID_4652_" x="416.1" y="542.3" style="fill:#FAFAFA;" width="81.3" height="87.5"/>
-						<rect id="XMLID_4650_" x="585" y="542.3" style="fill:#FAFAFA;" width="81.3" height="87.5"/>
-					</g>
-					<g id="XMLID_4655_">
-						<rect id="XMLID_4659_" x="267.2" y="647" style="fill:#FAFAFA;" width="81.3" height="89.2"/>
-						<rect id="XMLID_4658_" x="416.1" y="647" style="fill:#FAFAFA;" width="81.3" height="89.2"/>
-						<rect id="XMLID_4656_" x="585" y="647" style="fill:#FAFAFA;" width="81.3" height="89.2"/>
-					</g>
-					<g id="XMLID_4661_">
-						<rect id="XMLID_4665_" x="267.2" y="753.8" style="fill:#FAFAFA;" width="81.3" height="88.1"/>
-						<rect id="XMLID_4664_" x="416.1" y="753.8" style="fill:#FAFAFA;" width="81.3" height="88.1"/>
-						<rect id="XMLID_4662_" x="585" y="753.8" style="fill:#FAFAFA;" width="81.3" height="88.1"/>
-					</g>
-					<g id="XMLID_4667_">
-						<rect id="XMLID_4671_" x="267.2" y="860" style="fill:#FAFAFA;" width="81.3" height="88.2"/>
-						<rect id="XMLID_4670_" x="416.1" y="860" style="fill:#FAFAFA;" width="81.3" height="88.2"/>
-						<rect id="XMLID_4668_" x="585" y="860" style="fill:#FAFAFA;" width="81.3" height="88.2"/>
-					</g>
-					<g id="XMLID_4673_">
-						<rect id="XMLID_4677_" x="267.2" y="965.7" style="fill:#FAFAFA;" width="81.3" height="88.5"/>
-						<rect id="XMLID_4676_" x="416.1" y="965.7" style="fill:#FAFAFA;" width="81.3" height="88.5"/>
-						<rect id="XMLID_4674_" x="585" y="965.7" style="fill:#FAFAFA;" width="81.3" height="88.5"/>
-					</g>
-					<g id="XMLID_4679_">
-						<rect id="XMLID_4683_" x="267.2" y="1074" style="fill:#FAFAFA;" width="81.3" height="87.5"/>
-						<rect id="XMLID_4682_" x="416.1" y="1074" style="fill:#FAFAFA;" width="81.3" height="87.5"/>
-						<rect id="XMLID_4680_" x="585" y="1074" style="fill:#FAFAFA;" width="81.3" height="87.5"/>
-					</g>
-					<g id="XMLID_4685_">
-						<rect id="XMLID_4689_" x="267.2" y="1179.3" style="fill:#FAFAFA;" width="81.3" height="88.3"/>
-						<rect id="XMLID_4688_" x="416.1" y="1179.3" style="fill:#FAFAFA;" width="81.3" height="88.3"/>
-						<rect id="XMLID_4686_" x="585" y="1179.3" style="fill:#FAFAFA;" width="81.3" height="88.3"/>
-					</g>
-					<g id="XMLID_4691_">
-						<rect id="XMLID_4695_" x="267.2" y="1285.8" style="fill:#FAFAFA;" width="81.3" height="88"/>
-						<rect id="XMLID_4694_" x="416.1" y="1285.8" style="fill:#FAFAFA;" width="81.3" height="88"/>
-						<rect id="XMLID_4692_" x="585" y="1285.8" style="fill:#FAFAFA;" width="81.3" height="88"/>
-					</g>
-					<g id="XMLID_4697_">
-						<rect id="XMLID_4701_" x="267.2" y="1391.9" style="fill:#FAFAFA;" width="81.3" height="88.6"/>
-						<rect id="XMLID_4700_" x="416.1" y="1391.9" style="fill:#FAFAFA;" width="81.3" height="88.6"/>
-						<rect id="XMLID_4698_" x="585" y="1391.9" style="fill:#FAFAFA;" width="81.3" height="88.6"/>
-					</g>
-					<g id="XMLID_4703_">
-						<rect id="XMLID_4707_" x="267.5" y="1497.7" style="fill:#FAFAFA;" width="81.3" height="88.1"/>
-						<rect id="XMLID_4706_" x="416.4" y="1497.7" style="fill:#FAFAFA;" width="81.3" height="88.1"/>
-						<rect id="XMLID_4704_" x="585.3" y="1497.7" style="fill:#FAFAFA;" width="81.3" height="88.1"/>
-					</g>
-					<g id="XMLID_4709_">
-						<rect id="XMLID_4713_" x="267.2" y="1603.3" style="fill:#FAFAFA;" width="81.3" height="87.9"/>
-						<rect id="XMLID_4712_" x="416.1" y="1603.3" style="fill:#FAFAFA;" width="81.3" height="87.9"/>
-						<rect id="XMLID_4710_" x="585" y="1603.3" style="fill:#FAFAFA;" width="81.3" height="87.9"/>
-					</g>
-					<g id="XMLID_17_">
-						<rect id="XMLID_144_" x="267.2" y="1709.7" style="fill:#FAFAFA;" width="81.3" height="87.5"/>
-						<rect id="XMLID_82_" x="416.1" y="1709.7" style="fill:#FAFAFA;" width="81.3" height="87.5"/>
-						<rect id="XMLID_36_" x="585" y="1709.7" style="fill:#FAFAFA;" width="81.3" height="87.5"/>
-					</g>
-				</g>
+				<rect id="XMLID_4832_" x="555.4" y="128.9" style="fill:#FAFAFA;" width="163.9" height="1760"/>
+				<rect id="XMLID_1941_" x="267.2" y="223.1" style="fill:#FAFAFA;" width="81.3" height="88.8"/>
+				<rect id="XMLID_4632_" x="416.1" y="223.1" style="fill:#FAFAFA;" width="81.3" height="88.8"/>
+				<rect id="XMLID_4634_" x="585" y="223.1" style="fill:#FFFFFF;" width="81.3" height="88.8"/>
+				<rect id="XMLID_4641_" x="267.2" y="330.1" style="fill:#FAFAFA;" width="81.3" height="88.1"/>
+				<rect id="XMLID_4640_" x="416.1" y="330.1" style="fill:#FAFAFA;" width="81.3" height="88.1"/>
+				<rect id="XMLID_4638_" x="585" y="330.1" style="fill:#FFFFFF;" width="81.3" height="88.1"/>
+				<rect id="XMLID_4647_" x="267.2" y="435.8" style="fill:#FAFAFA;" width="81.3" height="88.5"/>
+				<rect id="XMLID_4646_" x="416.1" y="435.8" style="fill:#FAFAFA;" width="81.3" height="88.5"/>
+				<rect id="XMLID_4644_" x="585" y="435.8" style="fill:#FFFFFF;" width="81.3" height="88.5"/>
+				<rect id="XMLID_4653_" x="267.2" y="542.3" style="fill:#FAFAFA;" width="81.3" height="87.5"/>
+				<rect id="XMLID_4652_" x="416.1" y="542.3" style="fill:#FAFAFA;" width="81.3" height="87.5"/>
+				<rect id="XMLID_4650_" x="585" y="542.3" style="fill:#FFFFFF;" width="81.3" height="87.5"/>
+				<rect id="XMLID_4659_" x="267.2" y="647" style="fill:#FAFAFA;" width="81.3" height="89.2"/>
+				<rect id="XMLID_4658_" x="416.1" y="647" style="fill:#FAFAFA;" width="81.3" height="89.2"/>
+				<rect id="XMLID_4656_" x="585" y="647" style="fill:#FFFFFF;" width="81.3" height="89.2"/>
+				<rect id="XMLID_4665_" x="267.2" y="753.8" style="fill:#FAFAFA;" width="81.3" height="88.1"/>
+				<rect id="XMLID_4664_" x="416.1" y="753.8" style="fill:#FAFAFA;" width="81.3" height="88.1"/>
+				<rect id="XMLID_4662_" x="585" y="753.8" style="fill:#FFFFFF;" width="81.3" height="88.1"/>
+				<rect id="XMLID_4671_" x="267.2" y="860" style="fill:#FAFAFA;" width="81.3" height="88.2"/>
+				<rect id="XMLID_4670_" x="416.1" y="860" style="fill:#FAFAFA;" width="81.3" height="88.2"/>
+				<rect id="XMLID_4668_" x="585" y="860" style="fill:#FFFFFF;" width="81.3" height="88.2"/>
+				<rect id="XMLID_4677_" x="267.2" y="965.7" style="fill:#FAFAFA;" width="81.3" height="88.5"/>
+				<rect id="XMLID_4676_" x="416.1" y="965.7" style="fill:#FAFAFA;" width="81.3" height="88.5"/>
+				<rect id="XMLID_4674_" x="585" y="965.7" style="fill:#FFFFFF;" width="81.3" height="88.5"/>
+				<rect id="XMLID_4683_" x="267.2" y="1074" style="fill:#FAFAFA;" width="81.3" height="87.5"/>
+				<rect id="XMLID_4682_" x="416.1" y="1074" style="fill:#FAFAFA;" width="81.3" height="87.5"/>
+				<rect id="XMLID_4680_" x="585" y="1074" style="fill:#FFFFFF;" width="81.3" height="87.5"/>
+				<rect id="XMLID_4689_" x="267.2" y="1179.3" style="fill:#FAFAFA;" width="81.3" height="88.3"/>
+				<rect id="XMLID_4688_" x="416.1" y="1179.3" style="fill:#FAFAFA;" width="81.3" height="88.3"/>
+				<rect id="XMLID_4686_" x="585" y="1179.3" style="fill:#FFFFFF;" width="81.3" height="88.3"/>
+				<rect id="XMLID_4695_" x="267.2" y="1285.8" style="fill:#FAFAFA;" width="81.3" height="88"/>
+				<rect id="XMLID_4694_" x="416.1" y="1285.8" style="fill:#FAFAFA;" width="81.3" height="88"/>
+				<rect id="XMLID_4692_" x="585" y="1285.8" style="fill:#FFFFFF;" width="81.3" height="88"/>
+				<rect id="XMLID_4701_" x="267.2" y="1391.9" style="fill:#FAFAFA;" width="81.3" height="88.6"/>
+				<rect id="XMLID_4700_" x="416.1" y="1391.9" style="fill:#FAFAFA;" width="81.3" height="88.6"/>
+				<rect id="XMLID_4698_" x="585" y="1391.9" style="fill:#FFFFFF;" width="81.3" height="88.6"/>
+				<rect id="XMLID_4707_" x="267.5" y="1497.7" style="fill:#FAFAFA;" width="81.3" height="88.1"/>
+				<rect id="XMLID_4706_" x="416.4" y="1497.7" style="fill:#FAFAFA;" width="81.3" height="88.1"/>
+				<rect id="XMLID_4704_" x="585.3" y="1497.7" style="fill:#FFFFFF;" width="81.3" height="88.1"/>
+				<rect id="XMLID_4713_" x="267.2" y="1603.3" style="fill:#FAFAFA;" width="81.3" height="87.9"/>
+				<rect id="XMLID_4712_" x="416.1" y="1603.3" style="fill:#FAFAFA;" width="81.3" height="87.9"/>
+				<rect id="XMLID_4710_" x="585" y="1603.3" style="fill:#FFFFFF;" width="81.3" height="87.9"/>
+				<rect id="XMLID_144_" x="267.2" y="1709.7" style="fill:#FAFAFA;" width="81.3" height="87.5"/>
+				<rect id="XMLID_82_" x="416.1" y="1709.7" style="fill:#FAFAFA;" width="81.3" height="87.5"/>
+				<rect id="XMLID_36_" x="585" y="1709.7" style="fill:#FFFFFF;" width="81.3" height="87.5"/>
 				<g id="XMLID_11594_">
 					<line id="XMLID_11630_" style="fill:none;stroke:#CCCCCC;stroke-miterlimit:10;" x1="369.4" y1="298" x2="369.4" y2="1684"/>
 					<line id="XMLID_11633_" style="fill:none;stroke:#CCCCCC;stroke-miterlimit:10;" x1="517.4" y1="298" x2="517.4" y2="1789"/>
@@ -1622,177 +1590,177 @@ BXSugnaoazJPI+sLbLMzsXGXCzE30U2rLPINXc5nhDtkY+Erexw2bis00ZZ9tkbJfxkZWFdWihI7
 					<circle id="XMLID_974_" style="fill:#333333;" cx="369.5" cy="298.5" r="14.6"/>
 					<g id="XMLID_964_">
 						
-							<text id="XMLID_91_" transform="matrix(1 0 0 1 364.6993 304.1406)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:18px;">3</text>
+							<text id="XMLID_89_" transform="matrix(1 0 0 1 364.6993 304.1406)" style="fill:#FFFFFF; font-family:'Source Sans Pro'; font-weight: 700; font-size:18px;">3</text>
 					</g>
 					<circle id="XMLID_998_" style="fill:#333333;" cx="369.5" cy="403.5" r="14.6"/>
 					<g id="XMLID_992_">
 						
-							<text id="XMLID_89_" transform="matrix(1 0 0 1 364.6993 409.1406)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:18px;">1</text>
+							<text id="XMLID_86_" transform="matrix(1 0 0 1 364.6993 409.1406)" style="fill:#FFFFFF; font-family:'Source Sans Pro'; font-weight: 700; font-size:18px;">1</text>
 					</g>
 					<circle id="XMLID_1004_" style="fill:#333333;" cx="369.5" cy="509.5" r="14.6"/>
 					<g id="XMLID_996_">
 						
-							<text id="XMLID_86_" transform="matrix(1 0 0 1 364.6993 515.1406)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:18px;">2</text>
+							<text id="XMLID_84_" transform="matrix(1 0 0 1 364.6993 515.1406)" style="fill:#FFFFFF; font-family:'Source Sans Pro'; font-weight: 700; font-size:18px;">2</text>
 					</g>
 					<circle id="XMLID_1012_" style="fill:#333333;" cx="369.5" cy="620.5" r="9.7"/>
 					<g id="XMLID_1002_">
 						
-							<text id="XMLID_84_" transform="matrix(1 0 0 1 366.2828 624.6956)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:12px;">8</text>
+							<text id="XMLID_81_" transform="matrix(1 0 0 1 366.2828 624.6956)" style="fill:#FFFFFF; font-family:'Source Sans Pro'; font-weight: 700; font-size:12px;">8</text>
 					</g>
 					<circle id="XMLID_1022_" style="fill:#333333;" cx="369.5" cy="726.5" r="9.7"/>
 					<g id="XMLID_1008_">
 						
-							<text id="XMLID_81_" transform="matrix(1 0 0 1 366.2828 730.6956)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:12px;">4</text>
+							<text id="XMLID_79_" transform="matrix(1 0 0 1 366.2828 730.6956)" style="fill:#FFFFFF; font-family:'Source Sans Pro'; font-weight: 700; font-size:12px;">4</text>
 					</g>
 					<circle id="XMLID_1689_" style="fill:#333333;" cx="369.5" cy="938.5" r="9.7"/>
 					<g id="XMLID_1030_">
 						
-							<text id="XMLID_79_" transform="matrix(1 0 0 1 366.2828 942.6956)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:12px;">5</text>
+							<text id="XMLID_77_" transform="matrix(1 0 0 1 366.2828 942.6956)" style="fill:#FFFFFF; font-family:'Source Sans Pro'; font-weight: 700; font-size:12px;">5</text>
 					</g>
 					<circle id="XMLID_1753_" style="fill:#333333;" cx="369.5" cy="1043.5" r="9.7"/>
 					<g id="XMLID_1735_">
 						
-							<text id="XMLID_77_" transform="matrix(1 0 0 1 363.1148 1047.6956)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:12px;">10</text>
+							<text id="XMLID_75_" transform="matrix(1 0 0 1 363.1148 1047.6956)" style="fill:#FFFFFF; font-family:'Source Sans Pro'; font-weight: 700; font-size:12px;">10</text>
 					</g>
 					<circle id="XMLID_1759_" style="fill:#333333;" cx="369.5" cy="1256.5" r="9.7"/>
 					<g id="XMLID_1750_">
 						
-							<text id="XMLID_75_" transform="matrix(1 0 0 1 366.2828 1260.6956)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:12px;">6</text>
+							<text id="XMLID_73_" transform="matrix(1 0 0 1 366.2828 1260.6956)" style="fill:#FFFFFF; font-family:'Source Sans Pro'; font-weight: 700; font-size:12px;">6</text>
 					</g>
 					<circle id="XMLID_3266_" style="fill:#333333;" cx="369.5" cy="1470.5" r="9.7"/>
 					<g id="XMLID_3206_">
 						
-							<text id="XMLID_73_" transform="matrix(1 0 0 1 366.2828 1474.6956)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:12px;">7</text>
+							<text id="XMLID_71_" transform="matrix(1 0 0 1 366.2828 1474.6956)" style="fill:#FFFFFF; font-family:'Source Sans Pro'; font-weight: 700; font-size:12px;">7</text>
 					</g>
 					<circle id="XMLID_3336_" style="fill:#333333;" cx="369.5" cy="1682.5" r="9.7"/>
 					<g id="XMLID_3318_">
 						
-							<text id="XMLID_71_" transform="matrix(1 0 0 1 366.2828 1686.6956)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:12px;">9</text>
+							<text id="XMLID_69_" transform="matrix(1 0 0 1 366.2828 1686.6956)" style="fill:#FFFFFF; font-family:'Source Sans Pro'; font-weight: 700; font-size:12px;">9</text>
 					</g>
 					<circle id="XMLID_10842_" style="fill:#333333;" cx="517.5" cy="298.5" r="14.6"/>
 					<g id="XMLID_10830_">
 						
-							<text id="XMLID_69_" transform="matrix(1 0 0 1 512.6995 304.1406)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:18px;">3</text>
+							<text id="XMLID_67_" transform="matrix(1 0 0 1 512.6995 304.1406)" style="fill:#FFFFFF; font-family:'Source Sans Pro'; font-weight: 700; font-size:18px;">3</text>
 					</g>
 					<circle id="XMLID_10824_" style="fill:#333333;" cx="517.5" cy="409.5" r="9.7"/>
 					<g id="XMLID_10809_">
 						
-							<text id="XMLID_67_" transform="matrix(1 0 0 1 511.1148 413.6956)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:12px;">10</text>
+							<text id="XMLID_65_" transform="matrix(1 0 0 1 511.1148 413.6956)" style="fill:#FFFFFF; font-family:'Source Sans Pro'; font-weight: 700; font-size:12px;">10</text>
 					</g>
 					<circle id="XMLID_10758_" style="fill:#333333;" cx="517.5" cy="620.5" r="14.6"/>
 					<g id="XMLID_10749_">
 						
-							<text id="XMLID_65_" transform="matrix(1 0 0 1 512.6995 626.1406)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:18px;">2</text>
+							<text id="XMLID_63_" transform="matrix(1 0 0 1 512.6995 626.1406)" style="fill:#FFFFFF; font-family:'Source Sans Pro'; font-weight: 700; font-size:18px;">2</text>
 					</g>
 					<circle id="XMLID_10722_" style="fill:#333333;" cx="517.5" cy="827.5" r="14.6"/>
 					<g id="XMLID_10713_">
 						
-							<text id="XMLID_63_" transform="matrix(1 0 0 1 512.6995 833.1399)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:18px;">1</text>
+							<text id="XMLID_61_" transform="matrix(1 0 0 1 512.6995 833.1399)" style="fill:#FFFFFF; font-family:'Source Sans Pro'; font-weight: 700; font-size:18px;">1</text>
 					</g>
 					<circle id="XMLID_8871_" style="fill:#333333;" cx="517.5" cy="938.5" r="9.7"/>
 					<g id="XMLID_8785_">
 						
-							<text id="XMLID_61_" transform="matrix(1 0 0 1 514.2828 942.6956)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:12px;">9</text>
+							<text id="XMLID_59_" transform="matrix(1 0 0 1 514.2828 942.6956)" style="fill:#FFFFFF; font-family:'Source Sans Pro'; font-weight: 700; font-size:12px;">9</text>
 					</g>
 					<circle id="XMLID_8321_" style="fill:#333333;" cx="517.5" cy="1043.5" r="9.7"/>
 					<g id="XMLID_8059_">
 						
-							<text id="XMLID_59_" transform="matrix(1 0 0 1 514.2828 1047.6956)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:12px;">6</text>
+							<text id="XMLID_57_" transform="matrix(1 0 0 1 514.2828 1047.6956)" style="fill:#FFFFFF; font-family:'Source Sans Pro'; font-weight: 700; font-size:12px;">6</text>
 					</g>
 					<circle id="XMLID_7728_" style="fill:#333333;" cx="517.5" cy="1151.5" r="9.7"/>
 					<g id="XMLID_7555_">
 						
-							<text id="XMLID_57_" transform="matrix(1 0 0 1 514.2828 1155.6956)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:12px;">4</text>
+							<text id="XMLID_55_" transform="matrix(1 0 0 1 514.2828 1155.6956)" style="fill:#FFFFFF; font-family:'Source Sans Pro'; font-weight: 700; font-size:12px;">4</text>
 					</g>
 					<circle id="XMLID_7543_" style="fill:#333333;" cx="517.5" cy="1364.5" r="9.7"/>
 					<g id="XMLID_7386_">
 						
-							<text id="XMLID_55_" transform="matrix(1 0 0 1 514.2828 1368.6956)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:12px;">7</text>
+							<text id="XMLID_53_" transform="matrix(1 0 0 1 514.2828 1368.6956)" style="fill:#FFFFFF; font-family:'Source Sans Pro'; font-weight: 700; font-size:12px;">7</text>
 					</g>
 					<circle id="XMLID_7354_" style="fill:#333333;" cx="517.5" cy="1576.5" r="9.7"/>
 					<g id="XMLID_3448_">
 						
-							<text id="XMLID_53_" transform="matrix(1 0 0 1 514.2828 1580.6956)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:12px;">5</text>
+							<text id="XMLID_51_" transform="matrix(1 0 0 1 514.2828 1580.6956)" style="fill:#FFFFFF; font-family:'Source Sans Pro'; font-weight: 700; font-size:12px;">5</text>
 					</g>
 					<circle id="XMLID_3374_" style="fill:#333333;" cx="517.5" cy="1787.5" r="9.7"/>
 					<g id="XMLID_3341_">
 						
-							<text id="XMLID_51_" transform="matrix(1 0 0 1 514.2828 1791.6956)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:12px;">8</text>
+							<text id="XMLID_48_" transform="matrix(1 0 0 1 514.2828 1791.6956)" style="fill:#FFFFFF; font-family:'Source Sans Pro'; font-weight: 700; font-size:12px;">8</text>
 					</g>
 					<circle id="XMLID_11482_" style="fill:#333333;" cx="688.5" cy="298.5" r="14.6"/>
 					<g id="XMLID_11479_">
 						
-							<text id="XMLID_48_" transform="matrix(1 0 0 1 683.6993 304.1406)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:18px;">1</text>
+							<text id="XMLID_46_" transform="matrix(1 0 0 1 683.6993 304.1406)" style="fill:#FFFFFF; font-family:'Source Sans Pro'; font-weight: 700; font-size:18px;">1</text>
 					</g>
 					<circle id="XMLID_11477_" style="fill:#333333;" cx="688.5" cy="403.5" r="14.6"/>
 					<g id="XMLID_11464_">
 						
-							<text id="XMLID_46_" transform="matrix(1 0 0 1 683.6993 409.1406)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:18px;">2</text>
+							<text id="XMLID_44_" transform="matrix(1 0 0 1 683.6993 409.1406)" style="fill:#FFFFFF; font-family:'Source Sans Pro'; font-weight: 700; font-size:18px;">2</text>
 					</g>
 					<circle id="XMLID_11462_" style="fill:#333333;" cx="688.5" cy="509.5" r="14.6"/>
 					<g id="XMLID_11459_">
 						
-							<text id="XMLID_44_" transform="matrix(1 0 0 1 683.6993 515.1406)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:18px;">3</text>
+							<text id="XMLID_42_" transform="matrix(1 0 0 1 683.6993 515.1406)" style="fill:#FFFFFF; font-family:'Source Sans Pro'; font-weight: 700; font-size:18px;">3</text>
 					</g>
 					<circle id="XMLID_11457_" style="fill:#333333;" cx="688.5" cy="620.5" r="9.7"/>
 					<g id="XMLID_11454_">
 						
-							<text id="XMLID_42_" transform="matrix(1 0 0 1 685.2827 624.6956)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:12px;">4</text>
+							<text id="XMLID_40_" transform="matrix(1 0 0 1 685.2827 624.6956)" style="fill:#FFFFFF; font-family:'Source Sans Pro'; font-weight: 700; font-size:12px;">4</text>
 					</g>
 					<circle id="XMLID_11452_" style="fill:#333333;" cx="688.5" cy="726.5" r="9.7"/>
 					<g id="XMLID_11449_">
 						
-							<text id="XMLID_40_" transform="matrix(1 0 0 1 685.2827 730.6956)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:12px;">5</text>
+							<text id="XMLID_38_" transform="matrix(1 0 0 1 685.2827 730.6956)" style="fill:#FFFFFF; font-family:'Source Sans Pro'; font-weight: 700; font-size:12px;">5</text>
 					</g>
 					<circle id="XMLID_11447_" style="fill:#333333;" cx="688.5" cy="831.5" r="9.7"/>
 					<g id="XMLID_11444_">
 						
-							<text id="XMLID_38_" transform="matrix(1 0 0 1 685.2827 835.6956)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:12px;">6</text>
+							<text id="XMLID_35_" transform="matrix(1 0 0 1 685.2827 835.6956)" style="fill:#FFFFFF; font-family:'Source Sans Pro'; font-weight: 700; font-size:12px;">6</text>
 					</g>
 					<circle id="XMLID_11442_" style="fill:#333333;" cx="688.5" cy="938.5" r="9.7"/>
 					<g id="XMLID_11439_">
 						
-							<text id="XMLID_35_" transform="matrix(1 0 0 1 685.2827 942.6956)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:12px;">7</text>
+							<text id="XMLID_33_" transform="matrix(1 0 0 1 685.2827 942.6956)" style="fill:#FFFFFF; font-family:'Source Sans Pro'; font-weight: 700; font-size:12px;">7</text>
 					</g>
 					<circle id="XMLID_11437_" style="fill:#333333;" cx="688.5" cy="1043.5" r="9.7"/>
 					<g id="XMLID_11434_">
 						
-							<text id="XMLID_33_" transform="matrix(1 0 0 1 685.2827 1047.6956)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:12px;">8</text>
+							<text id="XMLID_31_" transform="matrix(1 0 0 1 685.2827 1047.6956)" style="fill:#FFFFFF; font-family:'Source Sans Pro'; font-weight: 700; font-size:12px;">8</text>
 					</g>
 					<circle id="XMLID_11432_" style="fill:#333333;" cx="688.5" cy="1151.5" r="9.7"/>
 					<g id="XMLID_11429_">
 						
-							<text id="XMLID_31_" transform="matrix(1 0 0 1 685.2827 1155.6956)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:12px;">9</text>
+							<text id="XMLID_29_" transform="matrix(1 0 0 1 685.2827 1155.6956)" style="fill:#FFFFFF; font-family:'Source Sans Pro'; font-weight: 700; font-size:12px;">9</text>
 					</g>
 					<circle id="XMLID_11427_" style="fill:#333333;" cx="688.5" cy="1256.5" r="9.7"/>
 					<g id="XMLID_11424_">
 						
-							<text id="XMLID_29_" transform="matrix(1 0 0 1 682.1147 1260.6956)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:12px;">10</text>
+							<text id="XMLID_27_" transform="matrix(1 0 0 1 682.1147 1260.6956)" style="fill:#FFFFFF; font-family:'Source Sans Pro'; font-weight: 700; font-size:12px;">10</text>
 					</g>
 					<circle id="XMLID_11422_" style="fill:#333333;" cx="688.5" cy="1364.5" r="9.7"/>
 					<g id="XMLID_11419_">
 						
-							<text id="XMLID_27_" transform="matrix(1 0 0 1 682.1147 1368.6956)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:12px;">11</text>
+							<text id="XMLID_25_" transform="matrix(1 0 0 1 682.1147 1368.6956)" style="fill:#FFFFFF; font-family:'Source Sans Pro'; font-weight: 700; font-size:12px;">11</text>
 					</g>
 					<circle id="XMLID_11417_" style="fill:#333333;" cx="688.5" cy="1470.5" r="9.7"/>
 					<g id="XMLID_11414_">
 						
-							<text id="XMLID_25_" transform="matrix(1 0 0 1 682.1147 1474.6956)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:12px;">12</text>
+							<text id="XMLID_23_" transform="matrix(1 0 0 1 682.1147 1474.6956)" style="fill:#FFFFFF; font-family:'Source Sans Pro'; font-weight: 700; font-size:12px;">12</text>
 					</g>
 					<circle id="XMLID_11411_" style="fill:#333333;" cx="688.5" cy="1576.5" r="9.7"/>
 					<g id="XMLID_11399_">
 						
-							<text id="XMLID_23_" transform="matrix(1 0 0 1 682.1147 1580.6956)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:12px;">13</text>
+							<text id="XMLID_21_" transform="matrix(1 0 0 1 682.1147 1580.6956)" style="fill:#FFFFFF; font-family:'Source Sans Pro'; font-weight: 700; font-size:12px;">13</text>
 					</g>
 					<circle id="XMLID_7542_" style="fill:#333333;" cx="688.5" cy="1682.5" r="9.7"/>
 					<g id="XMLID_7365_">
 						
-							<text id="XMLID_21_" transform="matrix(1 0 0 1 682.1147 1686.6956)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:12px;">14</text>
+							<text id="XMLID_19_" transform="matrix(1 0 0 1 682.1147 1686.6956)" style="fill:#FFFFFF; font-family:'Source Sans Pro'; font-weight: 700; font-size:12px;">14</text>
 					</g>
 					<circle id="XMLID_3452_" style="fill:#333333;" cx="688.5" cy="1787.5" r="9.7"/>
 					<g id="XMLID_3368_">
 						
-							<text id="XMLID_87_" transform="matrix(1 0 0 1 682.1147 1791.6956)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:12px;">15</text>
+							<text id="XMLID_85_" transform="matrix(1 0 0 1 682.1147 1791.6956)" style="fill:#FFFFFF; font-family:'Source Sans Pro'; font-weight: 700; font-size:12px;">15</text>
 					</g>
 				</g>
 				<g id="XMLID_776_">
@@ -2026,90 +1994,90 @@ BXSugnaoazJPI+sLbLMzsXGXCzE30U2rLPINXc5nhDtkY+Erexw2bis00ZZ9tkbJfxkZWFdWihI7
 						<line id="XMLID_13775_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="477.1" y1="1054.2" x2="477.1" y2="965.7"/>
 					
 						<line id="XMLID_13774_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="497.5" y1="1054.2" x2="497.5" y2="965.7"/>
-					<line id="XMLID_12230_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585" y1="290" x2="666.4" y2="290"/>
-					<line id="XMLID_12229_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585" y1="268.1" x2="666.4" y2="268.1"/>
-					<line id="XMLID_12228_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585" y1="246.3" x2="666.4" y2="246.3"/>
-					<line id="XMLID_12226_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585" y1="311.9" x2="585" y2="224.4"/>
+					<line id="XMLID_12230_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585" y1="290" x2="666.4" y2="290"/>
+					<line id="XMLID_12229_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585" y1="268.1" x2="666.4" y2="268.1"/>
+					<line id="XMLID_12228_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585" y1="246.3" x2="666.4" y2="246.3"/>
+					<line id="XMLID_12226_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585" y1="311.9" x2="585" y2="224.4"/>
 					
-						<line id="XMLID_12225_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="605.3" y1="311.9" x2="605.3" y2="224.4"/>
+						<line id="XMLID_12225_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="605.3" y1="311.9" x2="605.3" y2="224.4"/>
 					
-						<line id="XMLID_12224_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="625.7" y1="311.9" x2="625.7" y2="224.4"/>
-					<line id="XMLID_12222_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="646" y1="311.9" x2="646" y2="224.4"/>
+						<line id="XMLID_12224_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="625.7" y1="311.9" x2="625.7" y2="224.4"/>
+					<line id="XMLID_12222_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="646" y1="311.9" x2="646" y2="224.4"/>
 					
-						<line id="XMLID_12221_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="666.4" y1="311.9" x2="666.4" y2="224.4"/>
-					<line id="XMLID_12477_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585" y1="396.2" x2="666.4" y2="396.2"/>
-					<line id="XMLID_12476_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585" y1="374.4" x2="666.4" y2="374.4"/>
-					<line id="XMLID_12475_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585" y1="352.5" x2="666.4" y2="352.5"/>
-					<line id="XMLID_12473_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585" y1="417.9" x2="585" y2="330.1"/>
+						<line id="XMLID_12221_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="666.4" y1="311.9" x2="666.4" y2="224.4"/>
+					<line id="XMLID_12477_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585" y1="396.2" x2="666.4" y2="396.2"/>
+					<line id="XMLID_12476_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585" y1="374.4" x2="666.4" y2="374.4"/>
+					<line id="XMLID_12475_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585" y1="352.5" x2="666.4" y2="352.5"/>
+					<line id="XMLID_12473_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585" y1="417.9" x2="585" y2="330.1"/>
 					
-						<line id="XMLID_12472_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="605.3" y1="417.9" x2="605.3" y2="330.1"/>
+						<line id="XMLID_12472_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="605.3" y1="417.9" x2="605.3" y2="330.1"/>
 					
-						<line id="XMLID_12471_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="625.7" y1="417.9" x2="625.7" y2="330.1"/>
-					<line id="XMLID_12470_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="646" y1="417.9" x2="646" y2="330.1"/>
+						<line id="XMLID_12471_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="625.7" y1="417.9" x2="625.7" y2="330.1"/>
+					<line id="XMLID_12470_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="646" y1="417.9" x2="646" y2="330.1"/>
 					
-						<line id="XMLID_12469_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="666.4" y1="417.9" x2="666.4" y2="330.1"/>
-					<line id="XMLID_12511_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585" y1="501.4" x2="666.4" y2="501.4"/>
-					<line id="XMLID_12510_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585" y1="479.5" x2="666.4" y2="479.5"/>
-					<line id="XMLID_12509_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585" y1="457.7" x2="666.4" y2="457.7"/>
-					<line id="XMLID_12507_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585" y1="524.3" x2="585" y2="435.8"/>
+						<line id="XMLID_12469_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="666.4" y1="417.9" x2="666.4" y2="330.1"/>
+					<line id="XMLID_12511_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585" y1="501.4" x2="666.4" y2="501.4"/>
+					<line id="XMLID_12510_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585" y1="479.5" x2="666.4" y2="479.5"/>
+					<line id="XMLID_12509_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585" y1="457.7" x2="666.4" y2="457.7"/>
+					<line id="XMLID_12507_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585" y1="524.3" x2="585" y2="435.8"/>
 					
-						<line id="XMLID_12506_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="605.3" y1="524.3" x2="605.3" y2="435.8"/>
+						<line id="XMLID_12506_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="605.3" y1="524.3" x2="605.3" y2="435.8"/>
 					
-						<line id="XMLID_12505_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="625.7" y1="524.3" x2="625.7" y2="435.8"/>
-					<line id="XMLID_12504_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="646" y1="524.3" x2="646" y2="435.8"/>
+						<line id="XMLID_12505_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="625.7" y1="524.3" x2="625.7" y2="435.8"/>
+					<line id="XMLID_12504_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="646" y1="524.3" x2="646" y2="435.8"/>
 					
-						<line id="XMLID_12503_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="666.4" y1="524.3" x2="666.4" y2="435.8"/>
-					<line id="XMLID_12544_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585" y1="607.9" x2="666.4" y2="607.9"/>
-					<line id="XMLID_12543_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585" y1="586" x2="666.4" y2="586"/>
-					<line id="XMLID_12542_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585" y1="564.1" x2="666.4" y2="564.1"/>
-					<line id="XMLID_12540_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585" y1="629.8" x2="585" y2="542.3"/>
+						<line id="XMLID_12503_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="666.4" y1="524.3" x2="666.4" y2="435.8"/>
+					<line id="XMLID_12544_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585" y1="607.9" x2="666.4" y2="607.9"/>
+					<line id="XMLID_12543_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585" y1="586" x2="666.4" y2="586"/>
+					<line id="XMLID_12542_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585" y1="564.1" x2="666.4" y2="564.1"/>
+					<line id="XMLID_12540_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585" y1="629.8" x2="585" y2="542.3"/>
 					
-						<line id="XMLID_12539_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="605.3" y1="629.8" x2="605.3" y2="542.3"/>
+						<line id="XMLID_12539_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="605.3" y1="629.8" x2="605.3" y2="542.3"/>
 					
-						<line id="XMLID_12538_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="625.7" y1="629.8" x2="625.7" y2="542.3"/>
-					<line id="XMLID_12537_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="646" y1="629.8" x2="646" y2="542.3"/>
+						<line id="XMLID_12538_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="625.7" y1="629.8" x2="625.7" y2="542.3"/>
+					<line id="XMLID_12537_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="646" y1="629.8" x2="646" y2="542.3"/>
 					
-						<line id="XMLID_12536_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="666.4" y1="629.8" x2="666.4" y2="542.3"/>
-					<line id="XMLID_12591_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585" y1="713.5" x2="666.4" y2="713.5"/>
-					<line id="XMLID_12590_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585" y1="691.6" x2="666.4" y2="691.6"/>
-					<line id="XMLID_12589_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585" y1="669.7" x2="666.4" y2="669.7"/>
-					<line id="XMLID_12587_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585" y1="736.2" x2="585" y2="647"/>
-					<line id="XMLID_12586_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="605.3" y1="736.2" x2="605.3" y2="647"/>
-					<line id="XMLID_12585_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="625.7" y1="736.2" x2="625.7" y2="647"/>
-					<line id="XMLID_12584_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="646" y1="736.2" x2="646" y2="647"/>
-					<line id="XMLID_12583_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="666.4" y1="736.2" x2="666.4" y2="647"/>
-					<line id="XMLID_12628_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585" y1="819.8" x2="666.4" y2="819.8"/>
-					<line id="XMLID_12627_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585" y1="797.9" x2="666.4" y2="797.9"/>
-					<line id="XMLID_12626_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585" y1="776" x2="666.4" y2="776"/>
-					<line id="XMLID_12624_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585" y1="841.7" x2="585" y2="753.3"/>
+						<line id="XMLID_12536_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="666.4" y1="629.8" x2="666.4" y2="542.3"/>
+					<line id="XMLID_12591_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585" y1="713.5" x2="666.4" y2="713.5"/>
+					<line id="XMLID_12590_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585" y1="691.6" x2="666.4" y2="691.6"/>
+					<line id="XMLID_12589_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585" y1="669.7" x2="666.4" y2="669.7"/>
+					<line id="XMLID_12587_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585" y1="736.2" x2="585" y2="647"/>
+					<line id="XMLID_12586_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="605.3" y1="736.2" x2="605.3" y2="647"/>
+					<line id="XMLID_12585_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="625.7" y1="736.2" x2="625.7" y2="647"/>
+					<line id="XMLID_12584_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="646" y1="736.2" x2="646" y2="647"/>
+					<line id="XMLID_12583_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="666.4" y1="736.2" x2="666.4" y2="647"/>
+					<line id="XMLID_12628_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585" y1="819.8" x2="666.4" y2="819.8"/>
+					<line id="XMLID_12627_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585" y1="797.9" x2="666.4" y2="797.9"/>
+					<line id="XMLID_12626_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585" y1="776" x2="666.4" y2="776"/>
+					<line id="XMLID_12624_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585" y1="841.7" x2="585" y2="753.3"/>
 					
-						<line id="XMLID_12623_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="605.3" y1="841.7" x2="605.3" y2="753.3"/>
+						<line id="XMLID_12623_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="605.3" y1="841.7" x2="605.3" y2="753.3"/>
 					
-						<line id="XMLID_12622_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="625.7" y1="841.7" x2="625.7" y2="753.3"/>
-					<line id="XMLID_12621_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="646" y1="841.7" x2="646" y2="753.3"/>
+						<line id="XMLID_12622_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="625.7" y1="841.7" x2="625.7" y2="753.3"/>
+					<line id="XMLID_12621_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="646" y1="841.7" x2="646" y2="753.3"/>
 					
-						<line id="XMLID_12620_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="666.4" y1="841.7" x2="666.4" y2="753.3"/>
-					<line id="XMLID_12679_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585" y1="925.6" x2="666.4" y2="925.6"/>
-					<line id="XMLID_12678_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585" y1="903.8" x2="666.4" y2="903.8"/>
-					<line id="XMLID_12676_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585" y1="881.9" x2="666.4" y2="881.9"/>
-					<line id="XMLID_12674_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585" y1="948.2" x2="585" y2="860"/>
-					<line id="XMLID_12673_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="605.3" y1="948.2" x2="605.3" y2="860"/>
-					<line id="XMLID_12672_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="625.7" y1="948.2" x2="625.7" y2="860"/>
-					<line id="XMLID_12671_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="646" y1="948.2" x2="646" y2="860"/>
-					<line id="XMLID_12670_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="666.4" y1="948.2" x2="666.4" y2="860"/>
+						<line id="XMLID_12620_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="666.4" y1="841.7" x2="666.4" y2="753.3"/>
+					<line id="XMLID_12679_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585" y1="925.6" x2="666.4" y2="925.6"/>
+					<line id="XMLID_12678_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585" y1="903.8" x2="666.4" y2="903.8"/>
+					<line id="XMLID_12676_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585" y1="881.9" x2="666.4" y2="881.9"/>
+					<line id="XMLID_12674_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585" y1="948.2" x2="585" y2="860"/>
+					<line id="XMLID_12673_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="605.3" y1="948.2" x2="605.3" y2="860"/>
+					<line id="XMLID_12672_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="625.7" y1="948.2" x2="625.7" y2="860"/>
+					<line id="XMLID_12671_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="646" y1="948.2" x2="646" y2="860"/>
+					<line id="XMLID_12670_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="666.4" y1="948.2" x2="666.4" y2="860"/>
 					
-						<line id="XMLID_13771_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585" y1="1031.8" x2="666.4" y2="1031.8"/>
+						<line id="XMLID_13771_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585" y1="1031.8" x2="666.4" y2="1031.8"/>
 					
-						<line id="XMLID_13770_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585" y1="1009.9" x2="666.4" y2="1009.9"/>
-					<line id="XMLID_13769_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585" y1="988.1" x2="666.4" y2="988.1"/>
-					<line id="XMLID_13767_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585" y1="1054.2" x2="585" y2="965.7"/>
+						<line id="XMLID_13770_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585" y1="1009.9" x2="666.4" y2="1009.9"/>
+					<line id="XMLID_13769_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585" y1="988.1" x2="666.4" y2="988.1"/>
+					<line id="XMLID_13767_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585" y1="1054.2" x2="585" y2="965.7"/>
 					
-						<line id="XMLID_13766_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="605.3" y1="1054.2" x2="605.3" y2="965.7"/>
+						<line id="XMLID_13766_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="605.3" y1="1054.2" x2="605.3" y2="965.7"/>
 					
-						<line id="XMLID_13765_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="625.7" y1="1054.2" x2="625.7" y2="965.7"/>
-					<line id="XMLID_13764_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="646" y1="1054.2" x2="646" y2="965.7"/>
+						<line id="XMLID_13765_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="625.7" y1="1054.2" x2="625.7" y2="965.7"/>
+					<line id="XMLID_13764_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="646" y1="1054.2" x2="646" y2="965.7"/>
 					
-						<line id="XMLID_13763_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="666.4" y1="1054.2" x2="666.4" y2="965.7"/>
+						<line id="XMLID_13763_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="666.4" y1="1054.2" x2="666.4" y2="965.7"/>
 					
 						<line id="XMLID_15209_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="268" y1="1139.6" x2="349.4" y2="1139.6"/>
 					
@@ -2321,117 +2289,117 @@ BXSugnaoazJPI+sLbLMzsXGXCzE30U2rLPINXc5nhDtkY+Erexw2bis00ZZ9tkbJfxkZWFdWihI7
 					
 						<line id="XMLID_15157_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="498.2" y1="1797.2" x2="498.2" y2="1709.7"/>
 					
-						<line id="XMLID_15181_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585.8" y1="1139.6" x2="667.1" y2="1139.6"/>
+						<line id="XMLID_15181_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585.8" y1="1139.6" x2="667.1" y2="1139.6"/>
 					
-						<line id="XMLID_15180_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585.8" y1="1117.7" x2="667.1" y2="1117.7"/>
+						<line id="XMLID_15180_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585.8" y1="1117.7" x2="667.1" y2="1117.7"/>
 					
-						<line id="XMLID_15179_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585.8" y1="1095.8" x2="667.1" y2="1095.8"/>
+						<line id="XMLID_15179_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585.8" y1="1095.8" x2="667.1" y2="1095.8"/>
 					
-						<line id="XMLID_13811_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585.8" y1="1161.9" x2="585.8" y2="1074"/>
+						<line id="XMLID_13811_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585.8" y1="1161.9" x2="585.8" y2="1074"/>
 					
-						<line id="XMLID_13810_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="606.1" y1="1161.9" x2="606.1" y2="1074"/>
+						<line id="XMLID_13810_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="606.1" y1="1161.9" x2="606.1" y2="1074"/>
 					
-						<line id="XMLID_13809_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="626.4" y1="1161.9" x2="626.4" y2="1074"/>
+						<line id="XMLID_13809_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="626.4" y1="1161.9" x2="626.4" y2="1074"/>
 					
-						<line id="XMLID_13808_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="646.8" y1="1161.9" x2="646.8" y2="1074"/>
+						<line id="XMLID_13808_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="646.8" y1="1161.9" x2="646.8" y2="1074"/>
 					
-						<line id="XMLID_13807_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="667.1" y1="1161.9" x2="667.1" y2="1074"/>
+						<line id="XMLID_13807_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="667.1" y1="1161.9" x2="667.1" y2="1074"/>
 					
-						<line id="XMLID_14989_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585.8" y1="1245.5" x2="667.1" y2="1245.5"/>
+						<line id="XMLID_14989_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585.8" y1="1245.5" x2="667.1" y2="1245.5"/>
 					
-						<line id="XMLID_14988_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585.8" y1="1223.6" x2="667.1" y2="1223.6"/>
+						<line id="XMLID_14988_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585.8" y1="1223.6" x2="667.1" y2="1223.6"/>
 					
-						<line id="XMLID_14987_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585.8" y1="1201.8" x2="667.1" y2="1201.8"/>
+						<line id="XMLID_14987_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585.8" y1="1201.8" x2="667.1" y2="1201.8"/>
 					
-						<line id="XMLID_14985_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585.8" y1="1267.6" x2="585.8" y2="1179.3"/>
+						<line id="XMLID_14985_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585.8" y1="1267.6" x2="585.8" y2="1179.3"/>
 					
-						<line id="XMLID_14984_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="606.1" y1="1267.6" x2="606.1" y2="1179.3"/>
+						<line id="XMLID_14984_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="606.1" y1="1267.6" x2="606.1" y2="1179.3"/>
 					
-						<line id="XMLID_14983_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="626.4" y1="1267.6" x2="626.4" y2="1179.3"/>
+						<line id="XMLID_14983_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="626.4" y1="1267.6" x2="626.4" y2="1179.3"/>
 					
-						<line id="XMLID_14982_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="646.8" y1="1267.6" x2="646.8" y2="1179.3"/>
+						<line id="XMLID_14982_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="646.8" y1="1267.6" x2="646.8" y2="1179.3"/>
 					
-						<line id="XMLID_14981_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="667.1" y1="1267.6" x2="667.1" y2="1179.3"/>
+						<line id="XMLID_14981_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="667.1" y1="1267.6" x2="667.1" y2="1179.3"/>
 					
-						<line id="XMLID_15022_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585.8" y1="1351.4" x2="667.1" y2="1351.4"/>
+						<line id="XMLID_15022_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585.8" y1="1351.4" x2="667.1" y2="1351.4"/>
 					
-						<line id="XMLID_15021_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585.8" y1="1329.5" x2="667.1" y2="1329.5"/>
+						<line id="XMLID_15021_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585.8" y1="1329.5" x2="667.1" y2="1329.5"/>
 					
-						<line id="XMLID_15020_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585.8" y1="1307.6" x2="667.1" y2="1307.6"/>
+						<line id="XMLID_15020_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585.8" y1="1307.6" x2="667.1" y2="1307.6"/>
 					
-						<line id="XMLID_15018_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585.8" y1="1373.8" x2="585.8" y2="1285.8"/>
+						<line id="XMLID_15018_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585.8" y1="1373.8" x2="585.8" y2="1285.8"/>
 					
-						<line id="XMLID_15017_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="606.1" y1="1373.8" x2="606.1" y2="1285.8"/>
+						<line id="XMLID_15017_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="606.1" y1="1373.8" x2="606.1" y2="1285.8"/>
 					
-						<line id="XMLID_15016_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="626.4" y1="1373.8" x2="626.4" y2="1285.8"/>
+						<line id="XMLID_15016_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="626.4" y1="1373.8" x2="626.4" y2="1285.8"/>
 					
-						<line id="XMLID_15015_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="646.8" y1="1373.8" x2="646.8" y2="1285.8"/>
+						<line id="XMLID_15015_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="646.8" y1="1373.8" x2="646.8" y2="1285.8"/>
 					
-						<line id="XMLID_15014_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="667.1" y1="1373.8" x2="667.1" y2="1285.8"/>
+						<line id="XMLID_15014_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="667.1" y1="1373.8" x2="667.1" y2="1285.8"/>
 					
-						<line id="XMLID_15055_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585.8" y1="1457.6" x2="667.1" y2="1457.6"/>
+						<line id="XMLID_15055_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585.8" y1="1457.6" x2="667.1" y2="1457.6"/>
 					
-						<line id="XMLID_15054_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585.8" y1="1435.7" x2="667.1" y2="1435.7"/>
+						<line id="XMLID_15054_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585.8" y1="1435.7" x2="667.1" y2="1435.7"/>
 					
-						<line id="XMLID_15053_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585.8" y1="1413.8" x2="667.1" y2="1413.8"/>
+						<line id="XMLID_15053_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585.8" y1="1413.8" x2="667.1" y2="1413.8"/>
 					
-						<line id="XMLID_15051_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585.8" y1="1480" x2="585.8" y2="1391.9"/>
+						<line id="XMLID_15051_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585.8" y1="1480" x2="585.8" y2="1391.9"/>
 					
-						<line id="XMLID_15050_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="606.1" y1="1480" x2="606.1" y2="1391.9"/>
+						<line id="XMLID_15050_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="606.1" y1="1480" x2="606.1" y2="1391.9"/>
 					
-						<line id="XMLID_15049_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="626.4" y1="1480" x2="626.4" y2="1391.9"/>
+						<line id="XMLID_15049_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="626.4" y1="1480" x2="626.4" y2="1391.9"/>
 					
-						<line id="XMLID_15048_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="646.8" y1="1480" x2="646.8" y2="1391.9"/>
+						<line id="XMLID_15048_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="646.8" y1="1480" x2="646.8" y2="1391.9"/>
 					
-						<line id="XMLID_15047_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="667.1" y1="1480" x2="667.1" y2="1391.9"/>
+						<line id="XMLID_15047_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="667.1" y1="1480" x2="667.1" y2="1391.9"/>
 					
-						<line id="XMLID_15088_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585.8" y1="1563.3" x2="667.1" y2="1563.3"/>
+						<line id="XMLID_15088_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585.8" y1="1563.3" x2="667.1" y2="1563.3"/>
 					
-						<line id="XMLID_15087_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585.8" y1="1541.5" x2="667.1" y2="1541.5"/>
+						<line id="XMLID_15087_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585.8" y1="1541.5" x2="667.1" y2="1541.5"/>
 					
-						<line id="XMLID_15086_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585.8" y1="1519.6" x2="667.1" y2="1519.6"/>
+						<line id="XMLID_15086_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585.8" y1="1519.6" x2="667.1" y2="1519.6"/>
 					
-						<line id="XMLID_15084_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585.8" y1="1585.8" x2="585.8" y2="1497.7"/>
+						<line id="XMLID_15084_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585.8" y1="1585.8" x2="585.8" y2="1497.7"/>
 					
-						<line id="XMLID_15083_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="606.1" y1="1585.8" x2="606.1" y2="1497.7"/>
+						<line id="XMLID_15083_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="606.1" y1="1585.8" x2="606.1" y2="1497.7"/>
 					
-						<line id="XMLID_15082_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="626.4" y1="1585.8" x2="626.4" y2="1497.7"/>
+						<line id="XMLID_15082_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="626.4" y1="1585.8" x2="626.4" y2="1497.7"/>
 					
-						<line id="XMLID_15081_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="646.8" y1="1585.8" x2="646.8" y2="1497.7"/>
+						<line id="XMLID_15081_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="646.8" y1="1585.8" x2="646.8" y2="1497.7"/>
 					
-						<line id="XMLID_15080_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="667.1" y1="1585.8" x2="667.1" y2="1497.7"/>
+						<line id="XMLID_15080_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="667.1" y1="1585.8" x2="667.1" y2="1497.7"/>
 					
-						<line id="XMLID_15121_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585.8" y1="1669.3" x2="667.1" y2="1669.3"/>
+						<line id="XMLID_15121_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585.8" y1="1669.3" x2="667.1" y2="1669.3"/>
 					
-						<line id="XMLID_15120_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585.8" y1="1647.5" x2="667.1" y2="1647.5"/>
+						<line id="XMLID_15120_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585.8" y1="1647.5" x2="667.1" y2="1647.5"/>
 					
-						<line id="XMLID_15119_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585.8" y1="1625.6" x2="667.1" y2="1625.6"/>
+						<line id="XMLID_15119_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585.8" y1="1625.6" x2="667.1" y2="1625.6"/>
 					
-						<line id="XMLID_15117_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585.8" y1="1691.2" x2="585.8" y2="1603.3"/>
+						<line id="XMLID_15117_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585.8" y1="1691.2" x2="585.8" y2="1603.3"/>
 					
-						<line id="XMLID_15116_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="606.1" y1="1691.2" x2="606.1" y2="1603.3"/>
+						<line id="XMLID_15116_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="606.1" y1="1691.2" x2="606.1" y2="1603.3"/>
 					
-						<line id="XMLID_15115_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="626.4" y1="1691.2" x2="626.4" y2="1603.3"/>
+						<line id="XMLID_15115_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="626.4" y1="1691.2" x2="626.4" y2="1603.3"/>
 					
-						<line id="XMLID_15114_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="646.8" y1="1691.2" x2="646.8" y2="1603.3"/>
+						<line id="XMLID_15114_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="646.8" y1="1691.2" x2="646.8" y2="1603.3"/>
 					
-						<line id="XMLID_15113_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="667.1" y1="1691.2" x2="667.1" y2="1603.3"/>
+						<line id="XMLID_15113_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="667.1" y1="1691.2" x2="667.1" y2="1603.3"/>
 					
-						<line id="XMLID_15154_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585.8" y1="1775.3" x2="667.1" y2="1775.3"/>
+						<line id="XMLID_15154_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585.8" y1="1775.3" x2="667.1" y2="1775.3"/>
 					
-						<line id="XMLID_15153_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585.8" y1="1753.5" x2="667.1" y2="1753.5"/>
+						<line id="XMLID_15153_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585.8" y1="1753.5" x2="667.1" y2="1753.5"/>
 					
-						<line id="XMLID_15152_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585.8" y1="1731.6" x2="667.1" y2="1731.6"/>
+						<line id="XMLID_15152_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585.8" y1="1731.6" x2="667.1" y2="1731.6"/>
 					
-						<line id="XMLID_15150_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="585.8" y1="1797.2" x2="585.8" y2="1709.7"/>
+						<line id="XMLID_15150_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="585.8" y1="1797.2" x2="585.8" y2="1709.7"/>
 					
-						<line id="XMLID_15149_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="606.1" y1="1797.2" x2="606.1" y2="1709.7"/>
+						<line id="XMLID_15149_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="606.1" y1="1797.2" x2="606.1" y2="1709.7"/>
 					
-						<line id="XMLID_15148_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="626.4" y1="1797.2" x2="626.4" y2="1709.7"/>
+						<line id="XMLID_15148_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="626.4" y1="1797.2" x2="626.4" y2="1709.7"/>
 					
-						<line id="XMLID_15147_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="646.8" y1="1797.2" x2="646.8" y2="1709.7"/>
+						<line id="XMLID_15147_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="646.8" y1="1797.2" x2="646.8" y2="1709.7"/>
 					
-						<line id="XMLID_15146_" style="fill:none;stroke:#FAFAFA;stroke-miterlimit:10;" x1="667.1" y1="1797.2" x2="667.1" y2="1709.7"/>
+						<line id="XMLID_15146_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="667.1" y1="1797.2" x2="667.1" y2="1709.7"/>
 				</g>
 				<g id="XMLID_1938_" style="display:none;">
 					<g id="XMLID_1935_" style="display:inline;">
@@ -2532,67 +2500,65 @@ BXSugnaoazJPI+sLbLMzsXGXCzE30U2rLPINXc5nhDtkY+Erexw2bis00ZZ9tkbJfxkZWFdWihI7
 				</g>
 			</g>
 			<rect id="XMLID_12208_" x="28" y="293.8" style="fill:none;" width="78.7" height="21.3"/>
-			<text id="XMLID_15872_" transform="matrix(1 0 0 1 28.0394 308.7534)"><tspan x="0" y="0" style="fill:#1A1A1A; font-family:'SourceSansPro-Regular'; font-size:18px;">Ce</tspan><tspan x="19.2" y="0" style="fill:#1A1A1A; font-family:'SourceSansPro-Regular'; font-size:18px;">b</tspan><tspan x="28.8" y="0" style="fill:#1A1A1A; font-family:'SourceSansPro-Regular'; font-size:18px;">u City</tspan></text>
+			<text id="XMLID_15872_" transform="matrix(1 0 0 1 28.0394 308.7534)"><tspan x="0" y="0" style="fill:#1A1A1A; font-family:'Source Sans Pro'; font-weight: 400; font-size:18px;">Ce</tspan><tspan x="19.2" y="0" style="fill:#1A1A1A; font-family:'Source Sans Pro'; font-weight: 400; font-size:18px;">b</tspan><tspan x="28.8" y="0" style="fill:#1A1A1A; font-family:'Source Sans Pro'; font-weight: 400; font-size:18px;">u City</tspan></text>
 			<rect id="XMLID_12207_" x="28" y="399.9" style="fill:none;" width="87.2" height="21.3"/>
-			<text id="XMLID_15871_" transform="matrix(1 0 0 1 28.0393 414.8433)"><tspan x="0" y="0" style="fill:#1A1A1A; font-family:'SourceSansPro-Regular'; font-size:18px;">D</tspan><tspan x="11.1" y="0" style="fill:#1A1A1A; font-family:'SourceSansPro-Regular'; font-size:18px;">a</tspan><tspan x="19.8" y="0" style="fill:#1A1A1A; font-family:'SourceSansPro-Regular'; font-size:18px;">v</tspan><tspan x="27.7" y="0" style="fill:#1A1A1A; font-family:'SourceSansPro-Regular'; font-size:18px;">ao City</tspan></text>
+			<text id="XMLID_15871_" transform="matrix(1 0 0 1 28.0393 414.8433)"><tspan x="0" y="0" style="fill:#1A1A1A; font-family:'Source Sans Pro'; font-weight: 400; font-size:18px;">D</tspan><tspan x="11.1" y="0" style="fill:#1A1A1A; font-family:'Source Sans Pro'; font-weight: 400; font-size:18px;">a</tspan><tspan x="19.8" y="0" style="fill:#1A1A1A; font-family:'Source Sans Pro'; font-weight: 400; font-size:18px;">v</tspan><tspan x="27.7" y="0" style="fill:#1A1A1A; font-family:'Source Sans Pro'; font-weight: 400; font-size:18px;">ao City</tspan></text>
 			<rect id="XMLID_12206_" x="28" y="505.3" style="fill:none;" width="45" height="21.3"/>
 			
-				<text id="XMLID_15870_" transform="matrix(1 0 0 1 28.0392 520.1938)" style="fill:#1A1A1A; font-family:'SourceSansPro-Regular'; font-size:18px;">Subic</text>
+				<text id="XMLID_15870_" transform="matrix(1 0 0 1 28.0392 520.1938)" style="fill:#1A1A1A; font-family:'Source Sans Pro'; font-weight: 400; font-size:18px;">Subic</text>
 			<rect id="XMLID_12205_" x="28" y="611.5" style="fill:none;" width="65.3" height="21.3"/>
-			<text id="XMLID_15869_" transform="matrix(1 0 0 1 28.0391 626.4468)"><tspan x="0" y="0" style="fill:#1A1A1A; font-family:'SourceSansPro-Regular'; font-size:18px;">Bo</tspan><tspan x="20.3" y="0" style="fill:#1A1A1A; font-family:'SourceSansPro-Regular'; font-size:18px;">r</tspan><tspan x="26.4" y="0" style="fill:#1A1A1A; font-family:'SourceSansPro-Regular'; font-size:18px;">ac</tspan><tspan x="43.7" y="0" style="fill:#1A1A1A; font-family:'SourceSansPro-Regular'; font-size:18px;">a</tspan><tspan x="52.2" y="0" style="fill:#1A1A1A; font-family:'SourceSansPro-Regular'; font-size:18px;">y</tspan></text>
+			<text id="XMLID_15869_" transform="matrix(1 0 0 1 28.0391 626.4468)"><tspan x="0" y="0" style="fill:#1A1A1A; font-family:'Source Sans Pro'; font-weight: 400; font-size:18px;">Bo</tspan><tspan x="20.3" y="0" style="fill:#1A1A1A; font-family:'Source Sans Pro'; font-weight: 400; font-size:18px;">r</tspan><tspan x="26.4" y="0" style="fill:#1A1A1A; font-family:'Source Sans Pro'; font-weight: 400; font-size:18px;">ac</tspan><tspan x="43.7" y="0" style="fill:#1A1A1A; font-family:'Source Sans Pro'; font-weight: 400; font-size:18px;">a</tspan><tspan x="52.2" y="0" style="fill:#1A1A1A; font-family:'Source Sans Pro'; font-weight: 400; font-size:18px;">y</tspan></text>
 			<rect id="XMLID_12204_" x="28" y="717.9" style="fill:none;" width="92" height="21.3"/>
 			
-				<text id="XMLID_15868_" transform="matrix(1 0 0 1 28.0391 732.7954)" style="fill:#1A1A1A; font-family:'SourceSansPro-Regular'; font-size:18px;">Baguio City</text>
+				<text id="XMLID_15868_" transform="matrix(1 0 0 1 28.0391 732.7954)" style="fill:#1A1A1A; font-family:'Source Sans Pro'; font-weight: 400; font-size:18px;">Baguio City</text>
 			<rect id="XMLID_12203_" x="28" y="824.3" style="fill:none;" width="126.6" height="21.3"/>
 			
-				<text id="XMLID_15867_" transform="matrix(1 0 0 1 28.0391 839.2593)" style="fill:#1A1A1A; font-family:'SourceSansPro-Regular'; font-size:18px;">Lapulapu City</text>
+				<text id="XMLID_15867_" transform="matrix(1 0 0 1 28.0391 839.2593)" style="fill:#1A1A1A; font-family:'Source Sans Pro'; font-weight: 400; font-size:18px;">Lapulapu City</text>
 			<rect id="XMLID_12202_" x="28" y="929.6" style="fill:none;" width="79" height="21.3"/>
 			
-				<text id="XMLID_15866_" transform="matrix(1 0 0 1 28.0391 944.5298)" style="fill:#1A1A1A; font-family:'SourceSansPro-Regular'; font-size:18px;">Naga City</text>
+				<text id="XMLID_15866_" transform="matrix(1 0 0 1 28.0391 944.5298)" style="fill:#1A1A1A; font-family:'Source Sans Pro'; font-weight: 400; font-size:18px;">Naga City</text>
 			<rect id="XMLID_12201_" x="28" y="1035.8" style="fill:none;" width="99.1" height="21.3"/>
 			
-				<text id="XMLID_15865_" transform="matrix(1 0 0 1 28.0391 1050.77)" style="fill:#1A1A1A; font-family:'SourceSansPro-Regular'; font-size:18px;">Legazpi City</text>
+				<text id="XMLID_15865_" transform="matrix(1 0 0 1 28.0391 1050.77)" style="fill:#1A1A1A; font-family:'Source Sans Pro'; font-weight: 400; font-size:18px;">Legazpi City</text>
 			<rect id="XMLID_12200_" x="26" y="1143.7" style="fill:none;" width="104" height="21.3"/>
 			
-				<text id="XMLID_15864_" transform="matrix(1 0 0 1 26.0384 1158.6782)" style="fill:#1A1A1A; font-family:'SourceSansPro-Regular'; font-size:18px;">Metro Manila</text>
+				<text id="XMLID_15864_" transform="matrix(1 0 0 1 26.0384 1158.6782)" style="fill:#1A1A1A; font-family:'Source Sans Pro'; font-weight: 400; font-size:18px;">Metro Manila</text>
 			<rect id="XMLID_12199_" x="26" y="1249.3" style="fill:none;" width="73" height="21.3"/>
 			
-				<text id="XMLID_15863_" transform="matrix(1 0 0 1 26.0388 1264.1958)" style="fill:#1A1A1A; font-family:'SourceSansPro-Regular'; font-size:18px;">Iloilo City</text>
-			<g id="XMLID_15859_">
-				<rect id="XMLID_50_" x="26" y="1334.7" style="fill:none;" width="137.6" height="41"/>
-				<text id="XMLID_15860_" transform="matrix(1 0 0 1 26.0387 1349.6851)"><tspan x="0" y="0" style="fill:#1A1A1A; font-family:'SourceSansPro-Regular'; font-size:18px;">Pue</tspan><tspan x="28.9" y="0" style="fill:#1A1A1A; font-family:'SourceSansPro-Regular'; font-size:18px;">r</tspan><tspan x="35.9" y="0" style="fill:#1A1A1A; font-family:'SourceSansPro-Regular'; font-size:18px;">to P</tspan><tspan x="65.5" y="0" style="fill:#1A1A1A; font-family:'SourceSansPro-Regular'; font-size:18px;">r</tspan><tspan x="72" y="0" style="fill:#1A1A1A; font-family:'SourceSansPro-Regular'; font-size:18px;">incesa</tspan><tspan x="0" y="21.6" style="fill:#1A1A1A; font-family:'SourceSansPro-Regular'; font-size:18px;">City</tspan></text>
-			</g>
+				<text id="XMLID_15863_" transform="matrix(1 0 0 1 26.0388 1264.1958)" style="fill:#1A1A1A; font-family:'Source Sans Pro'; font-weight: 400; font-size:18px;">Iloilo City</text>
+			<rect id="XMLID_50_" x="26" y="1334.7" style="fill:none;" width="137.6" height="41"/>
+			<text id="XMLID_15860_" transform="matrix(1 0 0 1 26.0387 1349.6851)"><tspan x="0" y="0" style="fill:#1A1A1A; font-family:'Source Sans Pro'; font-weight: 400; font-size:18px;">Pue</tspan><tspan x="28.9" y="0" style="fill:#1A1A1A; font-family:'Source Sans Pro'; font-weight: 400; font-size:18px;">r</tspan><tspan x="35.9" y="0" style="fill:#1A1A1A; font-family:'Source Sans Pro'; font-weight: 400; font-size:18px;">to P</tspan><tspan x="65.5" y="0" style="fill:#1A1A1A; font-family:'Source Sans Pro'; font-weight: 400; font-size:18px;">r</tspan><tspan x="72" y="0" style="fill:#1A1A1A; font-family:'Source Sans Pro'; font-weight: 400; font-size:18px;">incesa</tspan><tspan x="0" y="21.6" style="fill:#1A1A1A; font-family:'Source Sans Pro'; font-weight: 400; font-size:18px;">City</tspan></text>
 			<rect id="XMLID_12198_" x="26" y="1461.7" style="fill:none;" width="108" height="21.3"/>
 			
-				<text id="XMLID_15854_" transform="matrix(1 0 0 1 26.0386 1476.6216)" style="fill:#1A1A1A; font-family:'SourceSansPro-Regular'; font-size:18px;">Calamba City</text>
+				<text id="XMLID_15854_" transform="matrix(1 0 0 1 26.0386 1476.6216)" style="fill:#1A1A1A; font-family:'Source Sans Pro'; font-weight: 400; font-size:18px;">Calamba City</text>
 			<rect id="XMLID_12197_" x="26" y="1566.7" style="fill:none;" width="42.3" height="21.3"/>
-			<text id="XMLID_15853_" transform="matrix(1 0 0 1 26.0386 1581.6245)"><tspan x="0" y="0" style="fill:#1A1A1A; font-family:'SourceSansPro-Regular'; font-size:18px;">Cla</tspan><tspan x="23.9" y="0" style="fill:#1A1A1A; font-family:'SourceSansPro-Regular'; font-size:18px;">r</tspan><tspan x="30.4" y="0" style="fill:#1A1A1A; font-family:'SourceSansPro-Regular'; font-size:18px;">k</tspan></text>
+			<text id="XMLID_15853_" transform="matrix(1 0 0 1 26.0386 1581.6245)"><tspan x="0" y="0" style="fill:#1A1A1A; font-family:'Source Sans Pro'; font-weight: 400; font-size:18px;">Cla</tspan><tspan x="23.9" y="0" style="fill:#1A1A1A; font-family:'Source Sans Pro'; font-weight: 400; font-size:18px;">r</tspan><tspan x="30.4" y="0" style="fill:#1A1A1A; font-family:'Source Sans Pro'; font-weight: 400; font-size:18px;">k</tspan></text>
 			<rect id="XMLID_12196_" x="26" y="1673.5" style="fill:none;" width="101" height="21.3"/>
 			
-				<text id="XMLID_15852_" transform="matrix(1 0 0 1 26.0386 1688.439)" style="fill:#1A1A1A; font-family:'SourceSansPro-Regular'; font-size:18px;">Bacolod City</text>
+				<text id="XMLID_15852_" transform="matrix(1 0 0 1 26.0386 1688.439)" style="fill:#1A1A1A; font-family:'Source Sans Pro'; font-weight: 400; font-size:18px;">Bacolod City</text>
 			<rect id="XMLID_12195_" x="26" y="1778.9" style="fill:none;" width="65.3" height="21.3"/>
-			<text id="XMLID_15851_" transform="matrix(1 0 0 1 26.0386 1793.8853)"><tspan x="0" y="0" style="fill:#1A1A1A; font-family:'SourceSansPro-Regular'; font-size:18px;">P</tspan><tspan x="9.5" y="0" style="fill:#1A1A1A; font-family:'SourceSansPro-Regular'; font-size:18px;">anglao</tspan></text>
+			<text id="XMLID_15851_" transform="matrix(1 0 0 1 26.0386 1793.8853)"><tspan x="0" y="0" style="fill:#1A1A1A; font-family:'Source Sans Pro'; font-weight: 400; font-size:18px;">P</tspan><tspan x="9.5" y="0" style="fill:#1A1A1A; font-family:'Source Sans Pro'; font-weight: 400; font-size:18px;">anglao</tspan></text>
 			<g id="XMLID_11415_">
 				
-					<text id="XMLID_11421_" transform="matrix(1 0 0 1 244.8337 272.2589)" style="fill:#4D4D4D; font-family:'SourceSansPro-Regular'; font-size:10.2054px;">4M</text>
+					<text id="XMLID_11421_" transform="matrix(1 0 0 1 244.8337 272.2589)" style="fill:#4D4D4D; font-family:'Source Sans Pro'; font-weight: 400; font-size:10.2054px;">4M</text>
 				
-					<text id="XMLID_11420_" transform="matrix(1 0 0 1 244.8337 315.0949)" style="fill:#4D4D4D; font-family:'SourceSansPro-Regular'; font-size:10.2054px;">0</text>
+					<text id="XMLID_11420_" transform="matrix(1 0 0 1 244.8337 315.0949)" style="fill:#4D4D4D; font-family:'Source Sans Pro'; font-weight: 400; font-size:10.2054px;">0</text>
 				
-					<text id="XMLID_11416_" transform="matrix(1 0 0 1 244.8337 228.5153)" style="fill:#4D4D4D; font-family:'SourceSansPro-Regular'; font-size:10.2054px;">8M</text>
+					<text id="XMLID_11416_" transform="matrix(1 0 0 1 244.8337 228.5153)" style="fill:#4D4D4D; font-family:'Source Sans Pro'; font-weight: 400; font-size:10.2054px;">8M</text>
 			</g>
 			
-				<text id="XMLID_11403_" transform="matrix(0 -1 1 0 237.0142 315.6531)" style="fill:#333333; font-family:'SourceSansPro-Regular'; font-size:12px;">Number of Tourists</text>
+				<text id="XMLID_11403_" transform="matrix(0 -1 1 0 237.0142 315.6531)" style="fill:#333333; font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">Number of Tourists</text>
 			<g id="XMLID_780_">
 				<g id="XMLID_3438_">
 					
-						<text id="XMLID_11402_" transform="matrix(1 0 0 1 244.6675 1757.949)" style="fill:#4D4D4D; font-family:'SourceSansPro-Regular'; font-size:10.2054px;">4M</text>
+						<text id="XMLID_11402_" transform="matrix(1 0 0 1 244.6675 1757.949)" style="fill:#4D4D4D; font-family:'Source Sans Pro'; font-weight: 400; font-size:10.2054px;">4M</text>
 					
-						<text id="XMLID_7387_" transform="matrix(1 0 0 1 244.6675 1800.7849)" style="fill:#4D4D4D; font-family:'SourceSansPro-Regular'; font-size:10.2054px;">0</text>
+						<text id="XMLID_7387_" transform="matrix(1 0 0 1 244.6675 1800.7849)" style="fill:#4D4D4D; font-family:'Source Sans Pro'; font-weight: 400; font-size:10.2054px;">0</text>
 					
-						<text id="XMLID_7379_" transform="matrix(1 0 0 1 244.6675 1714.2053)" style="fill:#4D4D4D; font-family:'SourceSansPro-Regular'; font-size:10.2054px;">8M</text>
+						<text id="XMLID_7379_" transform="matrix(1 0 0 1 244.6675 1714.2053)" style="fill:#4D4D4D; font-family:'Source Sans Pro'; font-weight: 400; font-size:10.2054px;">8M</text>
 				</g>
 				
-					<text id="XMLID_3436_" transform="matrix(0 -1 1 0 232.3474 1802.6489)" style="font-family:'SourceSansPro-Regular'; font-size:12px;">Number of Tourists</text>
+					<text id="XMLID_3436_" transform="matrix(0 -1 1 0 232.3474 1802.6489)" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">Number of Tourists</text>
 			</g>
 			<g id="XMLID_12183_">
 				<g id="XMLID_7000_">
@@ -2605,32 +2571,32 @@ BXSugnaoazJPI+sLbLMzsXGXCzE30U2rLPINXc5nhDtkY+Erexw2bis00ZZ9tkbJfxkZWFdWihI7
 				</g>
 			</g>
 			
-				<text id="XMLID_15878_" transform="matrix(1 0 0 1 272.2673 171.3462)" style="fill:#1A1A1A; font-family:'SourceSansPro-Italic'; font-size:15.3081px;">Domestic</text>
+				<text id="XMLID_15878_" transform="matrix(1 0 0 1 272.2673 171.3462)" style="fill:#1A1A1A; font-family:'Source Sans Pro'; font-style: 400i; font-size:15.3081px;">Domestic</text>
 			
-				<text id="XMLID_10857_" transform="matrix(1 0 0 1 28.312 171.3462)" style="fill:#1A1A1A; font-family:'SourceSansPro-Italic'; font-size:15.3081px;">Destination</text>
+				<text id="XMLID_10857_" transform="matrix(1 0 0 1 28.312 171.3462)" style="fill:#1A1A1A; font-family:'Source Sans Pro'; font-style: 400i; font-size:15.3081px;">Destination</text>
 			
-				<text id="XMLID_11418_" transform="matrix(1 0 0 1 26.0374 1862.5294)" style="fill:#1A1A1A; font-family:'SourceSansPro-Italic'; font-size:15.3081px;">Destination</text>
-			<text id="XMLID_15877_" transform="matrix(1 0 0 1 432.1758 171.3462)"><tspan x="0" y="0" style="fill:#1A1A1A; font-family:'SourceSansPro-Italic'; font-size:15.3081px;">F</tspan><tspan x="6.8" y="0" style="fill:#1A1A1A; font-family:'SourceSansPro-Italic'; font-size:15.3081px;">oreign</tspan></text>
+				<text id="XMLID_11418_" transform="matrix(1 0 0 1 26.0374 1862.5294)" style="fill:#1A1A1A; font-family:'Source Sans Pro'; font-style: 400i; font-size:15.3081px;">Destination</text>
+			<text id="XMLID_15877_" transform="matrix(1 0 0 1 432.1758 171.3462)"><tspan x="0" y="0" style="fill:#1A1A1A; font-family:'Source Sans Pro'; font-style: 400i; font-size:15.3081px;">F</tspan><tspan x="6.8" y="0" style="fill:#1A1A1A; font-family:'Source Sans Pro'; font-style: 400i; font-size:15.3081px;">oreign</tspan></text>
 			
-				<text id="XMLID_15876_" transform="matrix(1 0 0 1 609.1624 171.3462)" style="fill:#1A1A1A; font-family:'SourceSansPro-BoldItalic'; font-size:15.3081px;">Total</text>
+				<text id="XMLID_15876_" transform="matrix(1 0 0 1 625.6245 171.3462)" style="fill:#1A1A1A; font-family:'Source Sans Pro'; font-weight: 700i; font-size:15.3081px;">Total</text>
 			
-				<text id="XMLID_15849_" transform="matrix(1 0 0 1 254.468 210.8409)" style="fill:#4D4D4D; font-family:'SourceSansPro-Regular'; font-size:11.4811px;">2014</text>
+				<text id="XMLID_15849_" transform="matrix(1 0 0 1 254.468 210.8409)" style="fill:#4D4D4D; font-family:'Source Sans Pro'; font-weight: 400; font-size:11.4811px;">2014</text>
 			
-				<text id="XMLID_15848_" transform="matrix(1 0 0 1 295.1497 210.8409)" style="fill:#4D4D4D; font-family:'SourceSansPro-Regular'; font-size:11.4811px;">2016</text>
+				<text id="XMLID_15848_" transform="matrix(1 0 0 1 295.1497 210.8409)" style="fill:#4D4D4D; font-family:'Source Sans Pro'; font-weight: 400; font-size:11.4811px;">2016</text>
 			
-				<text id="XMLID_15847_" transform="matrix(1 0 0 1 335.8176 210.8409)" style="fill:#4D4D4D; font-family:'SourceSansPro-Regular'; font-size:11.4811px;">2018</text>
+				<text id="XMLID_15847_" transform="matrix(1 0 0 1 335.8176 210.8409)" style="fill:#4D4D4D; font-family:'Source Sans Pro'; font-weight: 400; font-size:11.4811px;">2018</text>
 			
-				<text id="XMLID_15875_" transform="matrix(1 0 0 1 279.7007 1862.5291)" style="fill:#1A1A1A; font-family:'SourceSansPro-Italic'; font-size:15.3081px;">Domestic</text>
-			<text id="XMLID_15874_" transform="matrix(1 0 0 1 434.0276 1862.5291)"><tspan x="0" y="0" style="fill:#1A1A1A; font-family:'SourceSansPro-Italic'; font-size:15.3081px;">F</tspan><tspan x="6.8" y="0" style="fill:#1A1A1A; font-family:'SourceSansPro-Italic'; font-size:15.3081px;">oreign</tspan></text>
+				<text id="XMLID_15875_" transform="matrix(1 0 0 1 279.7007 1862.5291)" style="fill:#1A1A1A; font-family:'Source Sans Pro'; font-style: 400i; font-size:15.3081px;">Domestic</text>
+			<text id="XMLID_15874_" transform="matrix(1 0 0 1 434.0276 1862.5291)"><tspan x="0" y="0" style="fill:#1A1A1A; font-family:'Source Sans Pro'; font-style: 400i; font-size:15.3081px;">F</tspan><tspan x="6.8" y="0" style="fill:#1A1A1A; font-family:'Source Sans Pro'; font-style: 400i; font-size:15.3081px;">oreign</tspan></text>
 			
-				<text id="XMLID_15873_" transform="matrix(1 0 0 1 609.1624 1861.7371)" style="fill:#1A1A1A; font-family:'SourceSansPro-BoldItalic'; font-size:15.3081px;">Total</text>
+				<text id="XMLID_15873_" transform="matrix(1 0 0 1 625.6245 1861.7371)" style="fill:#1A1A1A; font-family:'Source Sans Pro'; font-weight: 700i; font-size:15.3081px;">Total</text>
 			<g id="XMLID_778_">
 				
-					<text id="XMLID_12716_" transform="matrix(1 0 0 1 255.2406 1818.7458)" style="fill:#4D4D4D; font-family:'SourceSansPro-Regular'; font-size:11.4811px;">2014</text>
+					<text id="XMLID_12716_" transform="matrix(1 0 0 1 255.2406 1818.7458)" style="fill:#4D4D4D; font-family:'Source Sans Pro'; font-weight: 400; font-size:11.4811px;">2014</text>
 				
-					<text id="XMLID_12712_" transform="matrix(1 0 0 1 295.9222 1818.7458)" style="fill:#4D4D4D; font-family:'SourceSansPro-Regular'; font-size:11.4811px;">2016</text>
+					<text id="XMLID_12712_" transform="matrix(1 0 0 1 295.9222 1818.7458)" style="fill:#4D4D4D; font-family:'Source Sans Pro'; font-weight: 400; font-size:11.4811px;">2016</text>
 				
-					<text id="XMLID_12706_" transform="matrix(1 0 0 1 336.5902 1818.7458)" style="fill:#4D4D4D; font-family:'SourceSansPro-Regular'; font-size:11.4811px;">2018</text>
+					<text id="XMLID_12706_" transform="matrix(1 0 0 1 336.5902 1818.7458)" style="fill:#4D4D4D; font-family:'Source Sans Pro'; font-weight: 400; font-size:11.4811px;">2018</text>
 			</g>
 			<g id="XMLID_12184_">
 				<g id="XMLID_5651_">
@@ -2642,39 +2608,39 @@ BXSugnaoazJPI+sLbLMzsXGXCzE30U2rLPINXc5nhDtkY+Erexw2bis00ZZ9tkbJfxkZWFdWihI7
 			</g>
 			<g id="XMLID_838_">
 				
-					<text id="XMLID_854_" transform="matrix(1 0 0 1 28.3781 56.4129)" style="font-family:'SourceSansPro-Regular'; font-size:11px;">Island Group</text>
+					<text id="XMLID_854_" transform="matrix(1 0 0 1 28.3781 56.4129)" style="fill:#4D4D4D; font-family:'Source Sans Pro'; font-weight: 700; font-size:12px;">Island Group</text>
 				<g id="XMLID_850_" style="opacity:0.75;">
 					
 						<rect id="XMLID_852_" x="29.1" y="67.3" style="fill:#D81B60;stroke:#D81B60;stroke-miterlimit:10;" width="15.9" height="15.9"/>
 				</g>
 				<rect id="XMLID_848_" x="173.6" y="67.3" style="opacity:0.75;fill:#FFB300;" width="15.9" height="15.9"/>
 				<rect id="XMLID_846_" x="100.5" y="67.3" style="opacity:0.75;fill:#1E88E5;" width="15.9" height="15.9"/>
-				<text id="XMLID_844_" transform="matrix(1 0 0 1 51.1379 78.4456)"><tspan x="0" y="0" style="font-family:'SourceSansPro-Regular'; font-size:9px;">Lu</tspan><tspan x="9.3" y="0" style="font-family:'SourceSansPro-Regular'; font-size:9px;">z</tspan><tspan x="13" y="0" style="font-family:'SourceSansPro-Regular'; font-size:9px;">on</tspan></text>
+				<text id="XMLID_844_" transform="matrix(1 0 0 1 51.1379 78.4456)"><tspan x="0" y="0" style="fill:#4D4D4D; font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">Lu</tspan><tspan x="12.4" y="0" style="fill:#4D4D4D; font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">z</tspan><tspan x="17.3" y="0" style="fill:#4D4D4D; font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">on</tspan></text>
 				
-					<text id="XMLID_842_" transform="matrix(1 0 0 1 195.6379 78.4458)" style="font-family:'SourceSansPro-Regular'; font-size:9px;">Mindanao</text>
+					<text id="XMLID_842_" transform="matrix(1 0 0 1 195.6379 78.4458)" style="fill:#4D4D4D; font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">Mindanao</text>
 				
-					<text id="XMLID_10863_" transform="matrix(1 0 0 1 319.3045 78.4458)" style="font-family:'SourceSansPro-Regular'; font-size:9px;">nth Rank</text>
-				<text id="XMLID_840_" transform="matrix(1 0 0 1 122.518 78.4451)"><tspan x="0" y="0" style="font-family:'SourceSansPro-Regular'; font-size:9px;">Vis</tspan><tspan x="10.6" y="0" style="font-family:'SourceSansPro-Regular'; font-size:9px;">a</tspan><tspan x="14.9" y="0" style="font-family:'SourceSansPro-Regular'; font-size:9px;">y</tspan><tspan x="18.9" y="0" style="font-family:'SourceSansPro-Regular'; font-size:9px;">as</tspan></text>
+					<text id="XMLID_10863_" transform="matrix(1 0 0 1 319.3045 78.4458)" style="fill:#4D4D4D; font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">nth Rank</text>
+				<text id="XMLID_840_" transform="matrix(1 0 0 1 122.518 78.4451)"><tspan x="0" y="0" style="fill:#4D4D4D; font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">Vis</tspan><tspan x="14.2" y="0" style="fill:#4D4D4D; font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">a</tspan><tspan x="19.8" y="0" style="fill:#4D4D4D; font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">y</tspan><tspan x="25.2" y="0" style="fill:#4D4D4D; font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">as</tspan></text>
 				<g id="XMLID_10854_">
 					<circle id="XMLID_10860_" style="fill:#333333;" cx="302.4" cy="75.4" r="10.5"/>
 					<g id="XMLID_10851_">
 						
-							<text id="XMLID_90_" transform="matrix(1 0 0 1 298.6583 78.9837)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:12.9563px;">n</text>
+							<text id="XMLID_87_" transform="matrix(1 0 0 1 298.6583 78.9837)" style="fill:#FFFFFF; font-family:'Source Sans Pro'; font-weight: 700; font-size:12.9563px;">n</text>
 					</g>
 				</g>
 			</g>
 			<rect id="XMLID_12259_" x="797.4" y="222.7" style="fill:none;" width="181.5" height="86.6"/>
-			<text id="XMLID_12260_" transform="matrix(1 0 0 1 797.4358 231.2646)"><tspan x="0" y="0" style="font-family:'SourceSansPro-Regular'; font-size:12px;">Cebu City is the most visited tourist </tspan><tspan x="0" y="14.4" style="font-family:'SourceSansPro-Regular'; font-size:12px;">destination in the Philippines</tspan></text>
+			<text id="XMLID_12260_" transform="matrix(1 0 0 1 797.4358 232.6895)"><tspan x="0" y="0" style="fill:#333333; font-family:'Source Sans Pro'; font-weight: 400; font-size:14px;">Cebu City is the most visited </tspan><tspan x="0" y="16.8" style="fill:#333333; font-family:'Source Sans Pro'; font-weight: 400; font-size:14px;">tourist destination in the </tspan><tspan x="0" y="33.6" style="fill:#333333; font-family:'Source Sans Pro'; font-weight: 400; font-size:14px;">Philippines</tspan></text>
 			<rect id="XMLID_12369_" x="797.4" y="335.3" style="fill:none;" width="181.5" height="86.6"/>
-			<text id="XMLID_12368_" transform="matrix(1 0 0 1 797.4358 343.8364)"><tspan x="0" y="0" style="font-family:'SourceSansPro-Regular'; font-size:12px;">Davao City is the only city in </tspan><tspan x="0" y="14.4" style="font-family:'SourceSansPro-Regular'; font-size:12px;">Mindanao region included in this </tspan><tspan x="0" y="28.8" style="font-family:'SourceSansPro-Regular'; font-size:12px;">most visited tourist list.</tspan></text>
-			<rect id="XMLID_12371_" x="797.4" y="697.6" style="fill:none;" width="181.5" height="99.2"/>
-			<text id="XMLID_12370_" transform="matrix(1 0 0 1 797.4358 706.1159)"><tspan x="0" y="0" style="font-family:'SourceSansPro-Regular'; font-size:12px;">There are places like Baguio, which </tspan><tspan x="0" y="14.4" style="font-family:'SourceSansPro-Regular'; font-size:12px;">is popular among local tourists but </tspan><tspan x="0" y="28.8" style="font-family:'SourceSansPro-Regular'; font-size:12px;">not among foreign tourists. Other </tspan><tspan x="0" y="43.2" style="font-family:'SourceSansPro-Regular'; font-size:12px;">cities like Davao City, Subic, Iloilo </tspan><tspan x="0" y="57.6" style="font-family:'SourceSansPro-Regular'; font-size:12px;">City and Calamba City follow the </tspan><tspan x="0" y="72" style="font-family:'SourceSansPro-Regular'; font-size:12px;">same pattern.</tspan></text>
-			<rect id="XMLID_12467_" x="797.4" y="542.7" style="fill:none;" width="181.5" height="86.6"/>
-			<text id="XMLID_12466_" transform="matrix(1 0 0 1 797.4358 551.2679)"><tspan x="0" y="0" style="font-family:'SourceSansPro-Regular'; font-size:12px;">Boracay was closed for 6 months </tspan><tspan x="0" y="14.4" style="font-family:'SourceSansPro-Regular'; font-size:12px;">and underwent cleanup and </tspan><tspan x="0" y="28.8" style="font-family:'SourceSansPro-Regular'; font-size:12px;">renovation which may have caused </tspan><tspan x="0" y="43.2" style="font-family:'SourceSansPro-Regular'; font-size:12px;">by a sudden drop on the number of </tspan><tspan x="0" y="57.6" style="font-family:'SourceSansPro-Regular'; font-size:12px;">tourists between 2017 and 2018.</tspan></text>
-			<rect id="XMLID_12263_" x="797.4" y="1121.4" style="fill:none;" width="181.5" height="124.9"/>
-			<text id="XMLID_12262_" transform="matrix(1 0 0 1 797.4358 1129.9075)"><tspan x="0" y="0" style="font-family:'SourceSansPro-Regular'; font-size:12px;">Metro Manila ranks as the 9th most </tspan><tspan x="0" y="14.4" style="font-family:'SourceSansPro-Regular'; font-size:12px;">visited destination despite being </tspan><tspan x="0" y="28.8" style="font-family:'SourceSansPro-Regular'; font-size:12px;">the capital of the Philippines</tspan><tspan x="0" y="57.6" style="font-family:'SourceSansPro-Regular'; font-size:12px;">The destination in the Philippines </tspan><tspan x="0" y="72" style="font-family:'SourceSansPro-Regular'; font-size:12px;">having a significant decline in </tspan><tspan x="0" y="86.4" style="font-family:'SourceSansPro-Regular'; font-size:12px;">tourists in the past 4 years.</tspan></text>
-			<rect id="XMLID_1010_" x="773.1" y="1830.7" style="fill:none;" width="205.8" height="45.7"/>
-			<text id="XMLID_1006_" transform="matrix(1 0 0 1 773.1307 1836.2748)"><tspan x="0" y="0" style="font-family:'SourceSansPro-Bold'; font-size:8px;">Data source:</tspan><tspan x="0" y="9.6" style="font-family:'SourceSansPro-Regular'; font-size:8px;">Tourism Demand Statistics - Department of Tourism, </tspan><tspan x="0" y="19.2" style="font-family:'SourceSansPro-Regular'; font-size:8px;">Retrieved from </tspan><tspan x="51.4" y="19.2" style="font-family:'SourceSansPro-Italic'; font-size:8px;">www.tourism.gov.ph/</tspan><tspan x="0" y="28.8" style="font-family:'SourceSansPro-Italic'; font-size:8px;">tourism_dem_sup_pub.aspx</tspan><tspan x="93" y="28.8" style="font-family:'SourceSansPro-Regular'; font-size:8px;">, Accessed on October 7, 2019</tspan></text>
+			<text id="XMLID_12368_" transform="matrix(1 0 0 1 797.4358 345.2612)"><tspan x="0" y="0" style="fill:#333333; font-family:'Source Sans Pro'; font-weight: 400; font-size:14px;">Davao City is the only city in </tspan><tspan x="0" y="16.8" style="fill:#333333; font-family:'Source Sans Pro'; font-weight: 400; font-size:14px;">Mindanao region included in </tspan><tspan x="0" y="33.6" style="fill:#333333; font-family:'Source Sans Pro'; font-weight: 400; font-size:14px;">this most visited tourist list.</tspan></text>
+			<rect id="XMLID_12371_" x="797.4" y="697.6" style="fill:none;" width="181.5" height="141.4"/>
+			<text id="XMLID_12370_" transform="matrix(1 0 0 1 797.4358 707.5407)"><tspan x="0" y="0" style="fill:#333333; font-family:'Source Sans Pro'; font-weight: 400; font-size:14px;">There are places like Baguio, </tspan><tspan x="0" y="16.8" style="fill:#333333; font-family:'Source Sans Pro'; font-weight: 400; font-size:14px;">which is popular among local </tspan><tspan x="0" y="33.6" style="fill:#333333; font-family:'Source Sans Pro'; font-weight: 400; font-size:14px;">tourists but not among foreign </tspan><tspan x="0" y="50.4" style="fill:#333333; font-family:'Source Sans Pro'; font-weight: 400; font-size:14px;">tourists. Other cities like Davao </tspan><tspan x="0" y="67.2" style="fill:#333333; font-family:'Source Sans Pro'; font-weight: 400; font-size:14px;">City, Subic, Iloilo City and </tspan><tspan x="0" y="84" style="fill:#333333; font-family:'Source Sans Pro'; font-weight: 400; font-size:14px;">Calamba City follow the same </tspan><tspan x="0" y="100.8" style="fill:#333333; font-family:'Source Sans Pro'; font-weight: 400; font-size:14px;">pattern.</tspan></text>
+			<rect id="XMLID_12467_" x="797.4" y="542.7" style="fill:none;" width="181.5" height="118.1"/>
+			<text id="XMLID_12466_" transform="matrix(1 0 0 1 797.4358 552.6927)"><tspan x="0" y="0" style="fill:#333333; font-family:'Source Sans Pro'; font-weight: 400; font-size:14px;">Boracay was closed for 6 </tspan><tspan x="0" y="16.8" style="fill:#333333; font-family:'Source Sans Pro'; font-weight: 400; font-size:14px;">months and underwent </tspan><tspan x="0" y="33.6" style="fill:#333333; font-family:'Source Sans Pro'; font-weight: 400; font-size:14px;">cleanup and renovation which </tspan><tspan x="0" y="50.4" style="fill:#333333; font-family:'Source Sans Pro'; font-weight: 400; font-size:14px;">may have caused by a sudden </tspan><tspan x="0" y="67.2" style="fill:#333333; font-family:'Source Sans Pro'; font-weight: 400; font-size:14px;">drop on the number of tourists </tspan><tspan x="0" y="84" style="fill:#333333; font-family:'Source Sans Pro'; font-weight: 400; font-size:14px;">between 2017 and 2018.</tspan></text>
+			<rect id="XMLID_12263_" x="797.4" y="1121.4" style="fill:none;" width="181.5" height="160.8"/>
+			<text id="XMLID_12262_" transform="matrix(1 0 0 1 797.4358 1131.3323)"><tspan x="0" y="0" style="fill:#333333; font-family:'Source Sans Pro'; font-weight: 400; font-size:14px;">Metro Manila ranks as the 9th </tspan><tspan x="0" y="16.8" style="fill:#333333; font-family:'Source Sans Pro'; font-weight: 400; font-size:14px;">most visited destination </tspan><tspan x="0" y="33.6" style="fill:#333333; font-family:'Source Sans Pro'; font-weight: 400; font-size:14px;">despite being the capital of the </tspan><tspan x="0" y="50.4" style="fill:#333333; font-family:'Source Sans Pro'; font-weight: 400; font-size:14px;">Philippines</tspan><tspan x="0" y="84" style="fill:#333333; font-family:'Source Sans Pro'; font-weight: 400; font-size:14px;">The destination in the </tspan><tspan x="0" y="100.8" style="fill:#333333; font-family:'Source Sans Pro'; font-weight: 400; font-size:14px;">Philippines having a significant </tspan><tspan x="0" y="117.6" style="fill:#333333; font-family:'Source Sans Pro'; font-weight: 400; font-size:14px;">decline in tourists in the past 4 </tspan><tspan x="0" y="134.4" style="fill:#333333; font-family:'Source Sans Pro'; font-weight: 400; font-size:14px;">years.</tspan></text>
+			<rect id="XMLID_1010_" x="773.1" y="1776.5" style="fill:none;" width="205.8" height="99.9"/>
+			<text id="XMLID_1006_" transform="matrix(1 0 0 1 773.1307 1786.265)"><tspan x="0" y="0" style="fill:#4D4D4D; font-family:'Source Sans Pro'; font-weight: 700; font-size:14px;">Data source:</tspan><tspan x="0" y="16.8" style="fill:#4D4D4D; font-family:'Source Sans Pro'; font-weight: 400; font-size:14px;">Tourism Demand Statistics - </tspan><tspan x="0" y="33.6" style="fill:#4D4D4D; font-family:'Source Sans Pro'; font-weight: 400; font-size:14px;">Department of Tourism, Retrieved </tspan><tspan x="0" y="50.4" style="fill:#4D4D4D; font-family:'Source Sans Pro'; font-weight: 400; font-size:14px;">from </tspan><tspan x="30.9" y="50.4" style="fill:#4D4D4D; font-family:'Source Sans Pro'; font-style: 400i; font-size:14px;">www.tourism.gov.ph/</tspan><tspan x="0" y="67.2" style="fill:#4D4D4D; font-family:'Source Sans Pro'; font-style: 400i; font-size:14px;">tourism_dem_sup_pub.aspx</tspan><tspan x="162.7" y="67.2" style="fill:#4D4D4D; font-family:'Source Sans Pro'; font-weight: 400; font-size:14px;">, </tspan><tspan x="0" y="84" style="fill:#4D4D4D; font-family:'Source Sans Pro'; font-weight: 400; font-size:14px;">Accessed on October 7, 2019</tspan></text>
 		</g>
 	</g>
 </g>

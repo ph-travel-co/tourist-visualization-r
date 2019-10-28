@@ -1977,11 +1977,11 @@
 				</g>
 			</g>
 			
-				<text id="XMLID_11890_" transform="matrix(1 0 0 1 400.9952 84.5813)" style="fill:#1A1A1A; font-family:'SourceSansPro-BoldItalic'; font-size:14px;">Total (Domestic + Foreign)</text>
+				<text id="XMLID_11890_" transform="matrix(1 0 0 1 389.7228 84.5813)" style="fill:#1A1A1A; font-family:'Source Sans Pro'; font-weight: 700i; font-size:16px;">Total (Domestic + Foreign)</text>
 			<g id="XMLID_4608_">
 				<g id="XMLID_11880_">
 					
-						<text id="XMLID_11889_" transform="matrix(1 0 0 1 147.6348 733.5518)" style="font-family:'SourceSansPro-Regular'; font-size:11px;">Number of Tourists</text>
+						<text id="XMLID_11889_" transform="matrix(1 0 0 1 147.6348 733.5518)" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:14px;">Number of Tourists</text>
 					<path id="XMLID_11888_" style="opacity:0.349;fill:#333333;" d="M146.9,772.9c0-3.1,2.5-5.7,5.7-5.7c3.1,0,5.7,2.5,5.7,5.7
 						c0,3.1-2.5,5.7-5.7,5.7C149.5,778.6,146.9,776,146.9,772.9"/>
 					<path id="XMLID_11887_" style="opacity:0.349;fill:#333333;" d="M165.7,772.9c0-4.1,3.4-7.4,7.4-7.4c4.1,0,7.4,3.3,7.4,7.4
@@ -1993,33 +1993,33 @@
 					<path id="XMLID_11884_" style="opacity:0.349;fill:#333333;" d="M243.2,772.9c0-6,4.9-10.9,10.9-10.9c6,0,10.9,4.9,10.9,10.9
 						s-4.9,10.9-10.9,10.9C248.1,783.8,243.2,778.9,243.2,772.9"/>
 					
-						<text id="XMLID_11883_" transform="matrix(1 0 0 1 146.9332 752.7656)" style="font-family:'SourceSansPro-Regular'; font-size:9px;">0.5M</text>
+						<text id="XMLID_11883_" transform="matrix(1 0 0 1 146.9332 752.7656)" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">0.5M</text>
 					
-						<text id="XMLID_11882_" transform="matrix(1 0 0 1 186.1042 752.7654)" style="font-family:'SourceSansPro-Regular'; font-size:9px;">1.5M</text>
+						<text id="XMLID_11882_" transform="matrix(1 0 0 1 186.1042 752.7654)" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">1.5M</text>
 					
-						<text id="XMLID_11881_" transform="matrix(1 0 0 1 247.5377 752.7661)" style="font-family:'SourceSansPro-Regular'; font-size:9px;">2.5M</text>
+						<text id="XMLID_11881_" transform="matrix(1 0 0 1 241.6275 752.7661)" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">2.5M</text>
 				</g>
 				<g id="XMLID_11596_">
 					
-						<text id="XMLID_11879_" transform="matrix(1 0 0 1 34.0841 733.1614)" style="font-family:'SourceSansPro-Regular'; font-size:11px;">Island Group</text>
-					<text id="XMLID_11878_" transform="matrix(1 0 0 1 56.8439 752.1819)"><tspan x="0" y="0" style="font-family:'SourceSansPro-Regular'; font-size:9px;">Lu</tspan><tspan x="9.3" y="0" style="font-family:'SourceSansPro-Regular'; font-size:9px;">z</tspan><tspan x="13" y="0" style="font-family:'SourceSansPro-Regular'; font-size:9px;">on</tspan></text>
+						<text id="XMLID_11879_" transform="matrix(1 0 0 1 34.0841 733.1614)" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:14px;">Island Group</text>
+					<text id="XMLID_11878_" transform="matrix(1 0 0 1 56.8439 752.1819)"><tspan x="0" y="0" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">Lu</tspan><tspan x="12.4" y="0" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">z</tspan><tspan x="17.3" y="0" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">on</tspan></text>
 					
-						<text id="XMLID_11877_" transform="matrix(1 0 0 1 56.8439 787.3926)" style="font-family:'SourceSansPro-Regular'; font-size:9px;">Mindanao</text>
+						<text id="XMLID_11877_" transform="matrix(1 0 0 1 56.8439 787.3926)" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">Mindanao</text>
 					<path id="XMLID_11876_" style="opacity:0.75;fill:#F8766D;" d="M38.3,748.9c0-2.4,2-4.4,4.4-4.4c2.4,0,4.4,2,4.4,4.4
 						c0,2.4-2,4.4-4.4,4.4C40.3,753.4,38.3,751.4,38.3,748.9"/>
 					<path id="XMLID_11764_" style="opacity:0.75;fill:#FF9800;" d="M38.3,784.2c0-2.4,2-4.4,4.4-4.4c2.4,0,4.4,2,4.4,4.4
 						c0,2.4-2,4.4-4.4,4.4C40.3,788.6,38.3,786.6,38.3,784.2"/>
 					<path id="XMLID_11761_" style="opacity:0.75;fill:#619CFF;" d="M38.3,765.9c0-2.4,2-4.4,4.4-4.4c2.4,0,4.4,2,4.4,4.4
 						c0,2.4-2,4.4-4.4,4.4C40.3,770.3,38.3,768.4,38.3,765.9"/>
-					<text id="XMLID_11597_" transform="matrix(1 0 0 1 56.8439 769.1719)"><tspan x="0" y="0" style="font-family:'SourceSansPro-Regular'; font-size:9px;">Vis</tspan><tspan x="10.6" y="0" style="font-family:'SourceSansPro-Regular'; font-size:9px;">a</tspan><tspan x="14.9" y="0" style="font-family:'SourceSansPro-Regular'; font-size:9px;">y</tspan><tspan x="18.9" y="0" style="font-family:'SourceSansPro-Regular'; font-size:9px;">as</tspan></text>
+					<text id="XMLID_11597_" transform="matrix(1 0 0 1 56.8439 769.1719)"><tspan x="0" y="0" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">Vis</tspan><tspan x="14.2" y="0" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">a</tspan><tspan x="19.8" y="0" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">y</tspan><tspan x="25.2" y="0" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">as</tspan></text>
 				</g>
 				
-					<text id="XMLID_11593_" transform="matrix(1 0 0 1 329.4088 736.3777)" style="font-family:'SourceSansPro-Regular'; font-size:9px;">nth Rank</text>
+					<text id="XMLID_11593_" transform="matrix(1 0 0 1 329.4088 736.3777)" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">nth Rank</text>
 				<g id="XMLID_4610_">
 					<circle id="XMLID_11592_" style="fill:#333333;" cx="312.5" cy="733.3" r="10.5"/>
 					<g id="XMLID_4611_">
 						
-							<text id="XMLID_44_" transform="matrix(1 0 0 1 308.7625 736.9155)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:12.9563px;">n</text>
+							<text id="XMLID_42_" transform="matrix(1 0 0 1 308.7625 736.9155)" style="fill:#FFFFFF; font-family:'Source Sans Pro'; font-weight: 700; font-size:12.9563px;">n</text>
 					</g>
 				</g>
 			</g>
@@ -2038,55 +2038,59 @@
 				<circle id="XMLID_11574_" style="fill:#333333;" cx="559.4" cy="499.2" r="2.5"/>
 				<circle id="XMLID_11566_" style="fill:#333333;" cx="627.4" cy="580.2" r="2.5"/>
 				<g id="XMLID_10818_">
-					<text id="XMLID_11565_" transform="matrix(1 0 0 1 360.9043 500.2796)"><tspan x="0" y="0" style="font-family:'SourceSansPro-Regular'; font-size:10px;">Puerto </tspan><tspan x="0" y="12" style="font-family:'SourceSansPro-Regular'; font-size:10px;">Princesa City</tspan></text>
-					
-						<text id="XMLID_11564_" transform="matrix(1 0 0 1 435.6135 250.9679)" style="font-family:'SourceSansPro-Regular'; font-size:10px;">Baguio City</text>
-					
-						<text id="XMLID_11556_" transform="matrix(1 0 0 1 437.2855 295.9384)" style="font-family:'SourceSansPro-Regular'; font-size:10px;">Clark</text>
-					
-						<text id="XMLID_11551_" transform="matrix(1 0 0 1 397.2921 346.6058)" style="font-family:'SourceSansPro-Regular'; font-size:10px;">Calamba City</text>
-					
-						<text id="XMLID_11550_" transform="matrix(1 0 0 1 540.9645 346.7245)" style="font-family:'SourceSansPro-Regular'; font-size:10px;">Naga City</text>
-					
-						<text id="XMLID_11547_" transform="matrix(1 0 0 1 563.8566 368.6609)" style="font-family:'SourceSansPro-Regular'; font-size:10px;">Legazpi City</text>
-					
-						<text id="XMLID_11539_" transform="matrix(1 0 0 1 487.9533 407.9193)" style="font-family:'SourceSansPro-Regular'; font-size:10px;">Boracay</text>
-					
-						<text id="XMLID_11529_" transform="matrix(1 0 0 1 468.8335 472.6982)" style="font-family:'SourceSansPro-Regular'; font-size:10px;">Iloilo City</text>
-					
-						<text id="XMLID_11522_" transform="matrix(1 0 0 1 527.4648 450.8967)" style="font-family:'SourceSansPro-Regular'; font-size:10px;">Bacolod City</text>
-					
-						<text id="XMLID_11514_" transform="matrix(1 0 0 1 574.6235 486.1974)" style="font-family:'SourceSansPro-Regular'; font-size:10px;">Lapulapu City</text>
-					
-						<text id="XMLID_11509_" transform="matrix(1 0 0 1 562.8855 513.6295)" style="font-family:'SourceSansPro-Regular'; font-size:10px;">Panglao</text>
-					<g id="XMLID_11423_">
-						<circle id="XMLID_11489_" style="fill:#333333;" cx="399.3" cy="315.2" r="11.7"/>
+					<g id="XMLID_6044_">
+						<text id="XMLID_11565_" transform="matrix(1 0 0 1 360.9043 500.2796)"><tspan x="0" y="0" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">Puerto </tspan><tspan x="0" y="14.4" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">Princesa City</tspan></text>
 						
-							<text id="XMLID_11466_" transform="matrix(1 0 0 1 337.8021 321.5436)" style="font-family:'SourceSansPro-Regular'; font-size:18px;">Subic</text>
-						<g id="XMLID_11425_">
-							
-								<text id="XMLID_41_" transform="matrix(1 0 0 1 394.0848 321.3997)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:18px;">3</text>
-						</g>
+							<text id="XMLID_11564_" transform="matrix(1 0 0 1 435.6135 250.9679)" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">Baguio City</text>
+						
+							<text id="XMLID_11556_" transform="matrix(1 0 0 1 437.2855 295.9384)" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">Clark</text>
+						
+							<text id="XMLID_11551_" transform="matrix(1 0 0 1 386.209 346.6058)" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">Calamba City</text>
+						
+							<text id="XMLID_11550_" transform="matrix(1 0 0 1 540.9645 346.7245)" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">Naga City</text>
+						
+							<text id="XMLID_11547_" transform="matrix(1 0 0 1 563.8566 368.6609)" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">Legazpi City</text>
+						
+							<text id="XMLID_11539_" transform="matrix(1 0 0 1 487.9533 407.9193)" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">Boracay</text>
+						
+							<text id="XMLID_11529_" transform="matrix(1 0 0 1 460.9839 472.6982)" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">Iloilo City</text>
+						
+							<text id="XMLID_11522_" transform="matrix(1 0 0 1 527.4648 450.8967)" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">Bacolod City</text>
+						
+							<text id="XMLID_11514_" transform="matrix(1 0 0 1 574.6235 486.1974)" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">Lapulapu City</text>
+						
+							<text id="XMLID_11509_" transform="matrix(1 0 0 1 562.8855 513.6295)" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">Panglao</text>
 					</g>
-					<g id="XMLID_10872_">
-						<circle id="XMLID_11413_" style="fill:#333333;" cx="620.3" cy="598.2" r="11.7"/>
-						
-							<text id="XMLID_11400_" transform="matrix(1 0 0 1 516.8013 604.5436)" style="font-family:'SourceSansPro-Regular'; font-size:18px;">Davao City</text>
-						<g id="XMLID_11396_">
+					<g id="XMLID_6043_">
+						<g id="XMLID_11423_">
+							<circle id="XMLID_11489_" style="fill:#333333;" cx="399.3" cy="315.2" r="11.7"/>
 							
-								<text id="XMLID_39_" transform="matrix(1 0 0 1 615.0848 604.3997)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:18px;">2</text>
-						</g>
-					</g>
-					<polyline id="XMLID_10869_" style="fill:none;stroke:#333333;stroke-miterlimit:10;" points="447,319.5 468,319.5 497.1,290.2 
-											"/>
-					<g id="XMLID_10821_">
-						
-							<text id="XMLID_10866_" transform="matrix(1 0 0 1 511.0439 292.6271)" style="font-family:'SourceSansPro-Regular'; font-size:12px;">Metro Manila</text>
-						<g id="XMLID_10827_">
-							<circle id="XMLID_10848_" style="fill:#333333;" cx="497.6" cy="288.4" r="9.7"/>
-							<g id="XMLID_10833_">
+								<text id="XMLID_11466_" transform="matrix(1 0 0 1 337.8021 321.5436)" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:18px;">Subic</text>
+							<g id="XMLID_11425_">
 								
-									<text id="XMLID_37_" transform="matrix(1 0 0 1 494.0995 292.6274)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:12px;">9</text>
+									<text id="XMLID_40_" transform="matrix(1 0 0 1 394.0848 321.3997)" style="fill:#FFFFFF; font-family:'Source Sans Pro'; font-weight: 700; font-size:18px;">3</text>
+							</g>
+						</g>
+						<g id="XMLID_10872_">
+							<circle id="XMLID_11413_" style="fill:#333333;" cx="620.3" cy="598.2" r="11.7"/>
+							
+								<text id="XMLID_11400_" transform="matrix(1 0 0 1 516.8013 604.5436)" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:18px;">Davao City</text>
+							<g id="XMLID_11396_">
+								
+									<text id="XMLID_39_" transform="matrix(1 0 0 1 615.0848 604.3997)" style="fill:#FFFFFF; font-family:'Source Sans Pro'; font-weight: 700; font-size:18px;">2</text>
+							</g>
+						</g>
+						<polyline id="XMLID_10869_" style="fill:none;stroke:#333333;stroke-miterlimit:10;" points="447,319.5 468,319.5 
+							497.1,290.2 						"/>
+						<g id="XMLID_10821_">
+							
+								<text id="XMLID_10866_" transform="matrix(1 0 0 1 511.0439 292.6271)" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">Metro Manila</text>
+							<g id="XMLID_10827_">
+								<circle id="XMLID_10848_" style="fill:#333333;" cx="497.6" cy="288.4" r="9.7"/>
+								<g id="XMLID_10833_">
+									
+										<text id="XMLID_37_" transform="matrix(1 0 0 1 494.0995 292.6274)" style="fill:#FFFFFF; font-family:'Source Sans Pro'; font-weight: 700; font-size:12px;">9</text>
+								</g>
 							</g>
 						</g>
 					</g>
@@ -2096,18 +2100,20 @@
 				<g id="XMLID_10761_">
 					<circle id="XMLID_10800_" style="fill:#333333;" cx="526.3" cy="538.2" r="11.7"/>
 					
-						<text id="XMLID_10797_" transform="matrix(1 0 0 1 429.8021 544.5436)" style="font-family:'SourceSansPro-Regular'; font-size:18px;">Cebu City</text>
+						<text id="XMLID_10797_" transform="matrix(1 0 0 1 429.8021 544.5436)" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:18px;">Cebu City</text>
 					<g id="XMLID_10764_">
 						
-							<text id="XMLID_35_" transform="matrix(1 0 0 1 521.0848 544.3997)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:18px;">1</text>
+							<text id="XMLID_35_" transform="matrix(1 0 0 1 521.0848 544.3997)" style="fill:#FFFFFF; font-family:'Source Sans Pro'; font-weight: 700; font-size:18px;">1</text>
 					</g>
 				</g>
 				<polygon id="XMLID_10755_" style="fill:#333333;" points="447.4,321.6 444.9,322.9 445.3,320.2 443.3,318.2 446.1,317.8 
 					447.4,315.2 448.6,317.8 451.4,318.2 449.4,320.2 449.9,322.9 				"/>
 				<circle id="XMLID_10752_" style="fill:#333333;" cx="564.4" cy="469.2" r="2.5"/>
 			</g>
-			<rect id="XMLID_10737_" x="752.2" y="718.6" style="fill:none;" width="224.3" height="70"/>
-			<text id="XMLID_10734_" transform="matrix(1 0 0 1 752.2291 724.1985)"><tspan x="0" y="0" style="font-family:'SourceSansPro-Bold'; font-size:8px;">Data source:</tspan><tspan x="0" y="9.6" style="font-family:'SourceSansPro-Regular'; font-size:8px;">Tourism Demand Statistics - Department of Tourism, Retrieved </tspan><tspan x="0" y="19.2" style="font-family:'SourceSansPro-Regular'; font-size:8px;">from </tspan><tspan x="17.7" y="19.2" style="font-family:'SourceSansPro-Italic'; font-size:8px;">www.tourism.gov.ph/</tspan><tspan x="0" y="28.8" style="font-family:'SourceSansPro-Italic'; font-size:8px;">tourism_dem_sup_pub.aspx</tspan><tspan x="93" y="28.8" style="font-family:'SourceSansPro-Regular'; font-size:8px;">, Accessed on October 7, 2019</tspan></text>
+			<g id="XMLID_10734_">
+				<rect id="XMLID_56_" x="752.2" y="698" style="fill:none;" width="224.3" height="99.6"/>
+				<text id="XMLID_55_" transform="matrix(1 0 0 1 752.2291 707.7847)"><tspan x="0" y="0" style="fill:#4D4D4D; font-family:'Source Sans Pro'; font-weight: 700; font-size:14px;">Data source:</tspan><tspan x="0" y="16.8" style="fill:#4D4D4D; font-family:'Source Sans Pro'; font-weight: 400; font-size:14px;">Tourism Demand Statistics - </tspan><tspan x="0" y="33.6" style="fill:#4D4D4D; font-family:'Source Sans Pro'; font-weight: 400; font-size:14px;">Department of Tourism, Retrieved </tspan><tspan x="0" y="50.4" style="fill:#4D4D4D; font-family:'Source Sans Pro'; font-weight: 400; font-size:14px;">from www.tourism.gov.ph/</tspan><tspan x="0" y="67.2" style="fill:#4D4D4D; font-family:'Source Sans Pro'; font-weight: 400; font-size:14px;">tourism_dem_sup_pub.aspx, </tspan><tspan x="0" y="84" style="fill:#4D4D4D; font-family:'Source Sans Pro'; font-weight: 400; font-size:14px;">Accessed on October 7, 2019</tspan></text>
+			</g>
 		</g>
 		<g id="map-regional-domfor">
 			<rect id="XMLID_790_" x="-155" y="840" style="opacity:0.25;fill:#2196F3;" width="1270" height="840"/>
@@ -5682,8 +5688,8 @@
 				</g>
 			</g>
 			
-				<text id="XMLID_1990_" transform="matrix(1 0 0 1 208.457 917.6494)" style="fill:#1A1A1A; font-family:'SourceSansPro-Italic'; font-size:14px;">Domestic</text>
-			<text id="XMLID_1989_" transform="matrix(1 0 0 1 740.4678 917.6494)"><tspan x="0" y="0" style="fill:#1A1A1A; font-family:'SourceSansPro-Italic'; font-size:14px;">F</tspan><tspan x="6.2" y="0" style="fill:#1A1A1A; font-family:'SourceSansPro-Italic'; font-size:14px;">oreign</tspan></text>
+				<text id="XMLID_1990_" transform="matrix(1 0 0 1 204.6714 917.6494)" style="fill:#1A1A1A; font-family:'Source Sans Pro'; font-style: 400i; font-size:16px;">Domestic</text>
+			<text id="XMLID_1989_" transform="matrix(1 0 0 1 737.3931 917.6494)"><tspan x="0" y="0" style="fill:#1A1A1A; font-family:'Source Sans Pro'; font-style: 400i; font-size:16px;">F</tspan><tspan x="7.1" y="0" style="fill:#1A1A1A; font-family:'Source Sans Pro'; font-style: 400i; font-size:16px;">oreign</tspan></text>
 			<g id="XMLID_1891_">
 				<polyline id="XMLID_1987_" style="fill:none;stroke:#333333;stroke-miterlimit:10;" points="865.5,1438 865.5,1517.5 
 					338.5,1517.5 338.5,1438 				"/>
@@ -5706,60 +5712,64 @@
 				<circle id="XMLID_4761_" style="fill:#333333;" cx="313.5" cy="1333.2" r="2.5"/>
 				<circle id="XMLID_4760_" style="fill:#333333;" cx="381.5" cy="1414.2" r="2.5"/>
 				<g id="XMLID_4529_">
-					<text id="XMLID_4758_" transform="matrix(1 0 0 1 115.0188 1334.3478)"><tspan x="0" y="0" style="font-family:'SourceSansPro-Regular'; font-size:10px;">Puerto </tspan><tspan x="0" y="12" style="font-family:'SourceSansPro-Regular'; font-size:10px;">Princesa City</tspan></text>
-					
-						<text id="XMLID_4757_" transform="matrix(1 0 0 1 189.728 1085.036)" style="font-family:'SourceSansPro-Regular'; font-size:10px;">Baguio City</text>
-					
-						<text id="XMLID_4755_" transform="matrix(1 0 0 1 191.4 1130.0065)" style="font-family:'SourceSansPro-Regular'; font-size:10px;">Clark</text>
-					
-						<text id="XMLID_4754_" transform="matrix(1 0 0 1 151.4065 1180.674)" style="font-family:'SourceSansPro-Regular'; font-size:10px;">Calamba City</text>
-					
-						<text id="XMLID_4752_" transform="matrix(1 0 0 1 295.079 1180.7926)" style="font-family:'SourceSansPro-Regular'; font-size:10px;">Naga City</text>
-					
-						<text id="XMLID_4751_" transform="matrix(1 0 0 1 317.9711 1202.729)" style="font-family:'SourceSansPro-Regular'; font-size:10px;">Legazpi City</text>
-					
-						<text id="XMLID_4749_" transform="matrix(1 0 0 1 242.0679 1241.9874)" style="font-family:'SourceSansPro-Regular'; font-size:10px;">Boracay</text>
-					
-						<text id="XMLID_4748_" transform="matrix(1 0 0 1 222.948 1306.7664)" style="font-family:'SourceSansPro-Regular'; font-size:10px;">Iloilo City</text>
-					
-						<text id="XMLID_4746_" transform="matrix(1 0 0 1 281.5793 1284.9648)" style="font-family:'SourceSansPro-Regular'; font-size:10px;">Bacolod City</text>
-					
-						<text id="XMLID_4745_" transform="matrix(1 0 0 1 327.6029 1321.5951)" style="font-family:'SourceSansPro-Regular'; font-size:10px;">Lapulapu City</text>
-					
-						<text id="XMLID_4743_" transform="matrix(1 0 0 1 317 1347.6975)" style="font-family:'SourceSansPro-Regular'; font-size:10px;">Panglao</text>
-					<circle id="XMLID_4742_" style="fill:#333333;" cx="152.5" cy="1146.3" r="11.7"/>
-					
-						<text id="XMLID_4740_" transform="matrix(1 0 0 1 90.9165 1152.6117)" style="font-family:'SourceSansPro-Regular'; font-size:18px;">Subic</text>
-					<g id="XMLID_4736_">
+					<g id="XMLID_6067_">
+						<text id="XMLID_4758_" transform="matrix(1 0 0 1 115.0188 1334.3478)"><tspan x="0" y="0" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">Puerto </tspan><tspan x="0" y="14.4" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">Princesa City</tspan></text>
 						
-							<text id="XMLID_33_" transform="matrix(1 0 0 1 147.1993 1152.4678)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:18px;">2</text>
-					</g>
-					<circle id="XMLID_4734_" style="fill:#333333;" cx="394.5" cy="1428.3" r="11.7"/>
-					
-						<text id="XMLID_4733_" transform="matrix(1 0 0 1 410.9158 1434.6117)" style="font-family:'SourceSansPro-Regular'; font-size:18px;">Davao City</text>
-					<g id="XMLID_4728_">
+							<text id="XMLID_4757_" transform="matrix(1 0 0 1 189.728 1085.036)" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">Baguio City</text>
 						
-							<text id="XMLID_31_" transform="matrix(1 0 0 1 389.1993 1434.4678)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:18px;">1</text>
+							<text id="XMLID_4755_" transform="matrix(1 0 0 1 191.4 1130.0065)" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">Clark</text>
+						
+							<text id="XMLID_4754_" transform="matrix(1 0 0 1 140.3235 1180.674)" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">Calamba City</text>
+						
+							<text id="XMLID_4752_" transform="matrix(1 0 0 1 295.079 1180.7926)" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">Naga City</text>
+						
+							<text id="XMLID_4751_" transform="matrix(1 0 0 1 317.9711 1202.729)" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">Legazpi City</text>
+						
+							<text id="XMLID_4749_" transform="matrix(1 0 0 1 242.0679 1241.9874)" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">Boracay</text>
+						
+							<text id="XMLID_4748_" transform="matrix(1 0 0 1 215.0984 1306.7664)" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">Iloilo City</text>
+						
+							<text id="XMLID_4746_" transform="matrix(1 0 0 1 281.5793 1284.9648)" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">Bacolod City</text>
+						
+							<text id="XMLID_4745_" transform="matrix(1 0 0 1 327.6029 1321.5951)" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">Lapulapu City</text>
+						
+							<text id="XMLID_4743_" transform="matrix(1 0 0 1 317 1347.6975)" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">Panglao</text>
 					</g>
-					<polyline id="XMLID_4727_" style="fill:none;stroke:#333333;stroke-miterlimit:10;" points="202,1153.5 223.1,1153.5 
-						252.1,1124.2 					"/>
-					
-						<text id="XMLID_4725_" transform="matrix(1 0 0 1 266.1584 1127.6952)" style="font-family:'SourceSansPro-Regular'; font-size:10px;">Metro Manila</text>
-					<g id="XMLID_4718_">
-						<circle id="XMLID_4724_" style="fill:#333333;" cx="252.7" cy="1123.5" r="9.7"/>
-						<g id="XMLID_4719_">
+					<g id="XMLID_6065_">
+						<circle id="XMLID_4742_" style="fill:#333333;" cx="152.5" cy="1146.3" r="11.7"/>
+						
+							<text id="XMLID_4740_" transform="matrix(1 0 0 1 90.9165 1152.6117)" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:18px;">Subic</text>
+						<g id="XMLID_4736_">
 							
-								<text id="XMLID_29_" transform="matrix(1 0 0 1 246.046 1127.6956)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:12px;">17</text>
+								<text id="XMLID_33_" transform="matrix(1 0 0 1 147.1993 1152.4678)" style="fill:#FFFFFF; font-family:'Source Sans Pro'; font-weight: 700; font-size:18px;">2</text>
 						</g>
-					</g>
-					<polyline id="XMLID_4716_" style="fill:none;stroke:#333333;stroke-miterlimit:10;" points="318,1303.5 354.1,1303.5 
-						380.1,1277.5 					"/>
-					<circle id="XMLID_4715_" style="fill:#333333;" cx="379.5" cy="1275.3" r="11.7"/>
-					
-						<text id="XMLID_4635_" transform="matrix(1 0 0 1 395.9158 1281.6117)" style="font-family:'SourceSansPro-Regular'; font-size:18px;">Cebu City</text>
-					<g id="XMLID_4530_">
+						<circle id="XMLID_4734_" style="fill:#333333;" cx="394.5" cy="1428.3" r="11.7"/>
 						
-							<text id="XMLID_27_" transform="matrix(1 0 0 1 374.1993 1281.4678)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:18px;">3</text>
+							<text id="XMLID_4733_" transform="matrix(1 0 0 1 410.9158 1434.6117)" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:18px;">Davao City</text>
+						<g id="XMLID_4728_">
+							
+								<text id="XMLID_31_" transform="matrix(1 0 0 1 389.1993 1434.4678)" style="fill:#FFFFFF; font-family:'Source Sans Pro'; font-weight: 700; font-size:18px;">1</text>
+						</g>
+						<polyline id="XMLID_4727_" style="fill:none;stroke:#333333;stroke-miterlimit:10;" points="202,1153.5 223.1,1153.5 
+							252.1,1124.2 						"/>
+						
+							<text id="XMLID_4725_" transform="matrix(1 0 0 1 266.1584 1127.6952)" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:10px;">Metro Manila</text>
+						<g id="XMLID_4718_">
+							<circle id="XMLID_4724_" style="fill:#333333;" cx="252.7" cy="1123.5" r="9.7"/>
+							<g id="XMLID_4719_">
+								
+									<text id="XMLID_29_" transform="matrix(1 0 0 1 246.046 1127.6956)" style="fill:#FFFFFF; font-family:'Source Sans Pro'; font-weight: 700; font-size:12px;">17</text>
+							</g>
+						</g>
+						<polyline id="XMLID_4716_" style="fill:none;stroke:#333333;stroke-miterlimit:10;" points="318,1303.5 354.1,1303.5 
+							380.1,1277.5 						"/>
+						<circle id="XMLID_4715_" style="fill:#333333;" cx="379.5" cy="1275.3" r="11.7"/>
+						
+							<text id="XMLID_4635_" transform="matrix(1 0 0 1 395.9158 1281.6117)" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:18px;">Cebu City</text>
+						<g id="XMLID_4530_">
+							
+								<text id="XMLID_27_" transform="matrix(1 0 0 1 374.1993 1281.4678)" style="fill:#FFFFFF; font-family:'Source Sans Pro'; font-weight: 700; font-size:18px;">3</text>
+						</g>
 					</g>
 				</g>
 				<polygon id="XMLID_4527_" style="fill:#333333;" points="202.5,1155.7 200,1157 200.4,1154.2 198.4,1152.2 201.2,1151.8 
@@ -5781,55 +5791,59 @@
 				<circle id="XMLID_3326_" style="fill:#333333;" cx="840.5" cy="1332.2" r="2.5"/>
 				<circle id="XMLID_1869_" style="fill:#333333;" cx="910.5" cy="1414.2" r="2.5"/>
 				<g id="XMLID_1819_">
-					<text id="XMLID_1867_" transform="matrix(1 0 0 1 642.0188 1333.3478)"><tspan x="0" y="0" style="font-family:'SourceSansPro-Regular'; font-size:10px;">Puerto </tspan><tspan x="0" y="12" style="font-family:'SourceSansPro-Regular'; font-size:10px;">Princesa City</tspan></text>
-					
-						<text id="XMLID_1864_" transform="matrix(1 0 0 1 716.7279 1084.036)" style="font-family:'SourceSansPro-Regular'; font-size:10px;">Baguio City</text>
-					
-						<text id="XMLID_1863_" transform="matrix(1 0 0 1 718.4 1129.0065)" style="font-family:'SourceSansPro-Regular'; font-size:10px;">Clark</text>
-					
-						<text id="XMLID_1861_" transform="matrix(1 0 0 1 678.4065 1179.674)" style="font-family:'SourceSansPro-Regular'; font-size:10px;">Calamba City</text>
-					
-						<text id="XMLID_1860_" transform="matrix(1 0 0 1 822.079 1179.7926)" style="font-family:'SourceSansPro-Regular'; font-size:10px;">Naga City</text>
-					
-						<text id="XMLID_1858_" transform="matrix(1 0 0 1 844.9711 1201.729)" style="font-family:'SourceSansPro-Regular'; font-size:10px;">Legazpi City</text>
-					
-						<text id="XMLID_1857_" transform="matrix(1 0 0 1 749.948 1305.7664)" style="font-family:'SourceSansPro-Regular'; font-size:10px;">Iloilo City</text>
-					
-						<text id="XMLID_1855_" transform="matrix(1 0 0 1 808.5792 1283.9648)" style="font-family:'SourceSansPro-Regular'; font-size:10px;">Bacolod City</text>
-					
-						<text id="XMLID_1854_" transform="matrix(1 0 0 1 844 1346.6975)" style="font-family:'SourceSansPro-Regular'; font-size:10px;">Panglao</text>
-					
-						<text id="XMLID_1852_" transform="matrix(1 0 0 1 911.3704 1427.4246)" style="font-family:'SourceSansPro-Regular'; font-size:10px;">Davao City</text>
-					
-						<text id="XMLID_1851_" transform="matrix(1 0 0 1 670.1764 1153.3175)" style="font-family:'SourceSansPro-Regular'; font-size:10px;">Subic</text>
-					<g id="XMLID_1842_">
-						<circle id="XMLID_1849_" style="fill:#333333;" cx="821.5" cy="1397.3" r="11.7"/>
+					<g id="XMLID_6070_">
+						<text id="XMLID_1867_" transform="matrix(1 0 0 1 642.0188 1333.3478)"><tspan x="0" y="0" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">Puerto </tspan><tspan x="0" y="14.4" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">Princesa City</tspan></text>
 						
-							<text id="XMLID_1848_" transform="matrix(1 0 0 1 692.9158 1403.6117)" style="font-family:'SourceSansPro-Regular'; font-size:18px;">Lapulapu City</text>
-						<g id="XMLID_1843_">
-							
-								<text id="XMLID_22_" transform="matrix(1 0 0 1 816.1993 1403.4678)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:18px;">1</text>
-						</g>
+							<text id="XMLID_1864_" transform="matrix(1 0 0 1 716.7279 1084.036)" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">Baguio City</text>
+						
+							<text id="XMLID_1863_" transform="matrix(1 0 0 1 718.4 1129.0065)" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">Clark</text>
+						
+							<text id="XMLID_1861_" transform="matrix(1 0 0 1 667.3235 1179.674)" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">Calamba City</text>
+						
+							<text id="XMLID_1860_" transform="matrix(1 0 0 1 822.079 1179.7926)" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">Naga City</text>
+						
+							<text id="XMLID_1858_" transform="matrix(1 0 0 1 844.9711 1201.729)" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">Legazpi City</text>
+						
+							<text id="XMLID_1857_" transform="matrix(1 0 0 1 742.0984 1305.7664)" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">Iloilo City</text>
+						
+							<text id="XMLID_1855_" transform="matrix(1 0 0 1 808.5792 1283.9648)" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">Bacolod City</text>
+						
+							<text id="XMLID_1854_" transform="matrix(1 0 0 1 844 1346.6975)" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">Panglao</text>
+						
+							<text id="XMLID_1852_" transform="matrix(1 0 0 1 911.3704 1427.4246)" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">Davao City</text>
+						
+							<text id="XMLID_1851_" transform="matrix(1 0 0 1 665.5114 1153.3175)" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">Subic</text>
 					</g>
-					<g id="XMLID_1833_">
-						<circle id="XMLID_1840_" style="fill:#333333;" cx="780.5" cy="1233.3" r="11.7"/>
-						
-							<text id="XMLID_1839_" transform="matrix(1 0 0 1 796.9158 1239.6117)" style="font-family:'SourceSansPro-Regular'; font-size:18px;">Boracay</text>
-						<g id="XMLID_1834_">
+					<g id="XMLID_6068_">
+						<g id="XMLID_1842_">
+							<circle id="XMLID_1849_" style="fill:#333333;" cx="821.5" cy="1397.3" r="11.7"/>
 							
-								<text id="XMLID_19_" transform="matrix(1 0 0 1 775.1993 1239.4678)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:18px;">2</text>
-						</g>
-					</g>
-					<polyline id="XMLID_1831_" style="fill:none;stroke:#333333;stroke-miterlimit:10;" points="729,1153.5 750.1,1153.5 
-						779.1,1124.2 					"/>
-					<g id="XMLID_1821_">
-						
-							<text id="XMLID_1830_" transform="matrix(1 0 0 1 793.1583 1126.6952)" style="font-family:'SourceSansPro-Regular'; font-size:12px;">Metro Manila</text>
-						<g id="XMLID_1822_">
-							<circle id="XMLID_1828_" style="fill:#333333;" cx="779.7" cy="1122.5" r="9.7"/>
-							<g id="XMLID_1824_">
+								<text id="XMLID_1848_" transform="matrix(1 0 0 1 692.9158 1403.6117)" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:18px;">Lapulapu City</text>
+							<g id="XMLID_1843_">
 								
-									<text id="XMLID_40_" transform="matrix(1 0 0 1 776.214 1126.6956)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:12px;">4</text>
+									<text id="XMLID_22_" transform="matrix(1 0 0 1 816.1993 1403.4678)" style="fill:#FFFFFF; font-family:'Source Sans Pro'; font-weight: 700; font-size:18px;">1</text>
+							</g>
+						</g>
+						<g id="XMLID_1833_">
+							<circle id="XMLID_1840_" style="fill:#333333;" cx="780.5" cy="1233.3" r="11.7"/>
+							
+								<text id="XMLID_1839_" transform="matrix(1 0 0 1 796.9158 1239.6117)" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:18px;">Boracay</text>
+							<g id="XMLID_1834_">
+								
+									<text id="XMLID_19_" transform="matrix(1 0 0 1 775.1993 1239.4678)" style="fill:#FFFFFF; font-family:'Source Sans Pro'; font-weight: 700; font-size:18px;">2</text>
+							</g>
+						</g>
+						<polyline id="XMLID_1831_" style="fill:none;stroke:#333333;stroke-miterlimit:10;" points="729,1153.5 750.1,1153.5 
+							779.1,1124.2 						"/>
+						<g id="XMLID_1821_">
+							
+								<text id="XMLID_1830_" transform="matrix(1 0 0 1 793.1583 1126.6952)" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">Metro Manila</text>
+							<g id="XMLID_1822_">
+								<circle id="XMLID_1828_" style="fill:#333333;" cx="779.7" cy="1122.5" r="9.7"/>
+								<g id="XMLID_1824_">
+									
+										<text id="XMLID_41_" transform="matrix(1 0 0 1 776.214 1126.6956)" style="fill:#FFFFFF; font-family:'Source Sans Pro'; font-weight: 700; font-size:12px;">4</text>
+								</g>
 							</g>
 						</g>
 					</g>
@@ -5841,16 +5855,16 @@
 				<g id="XMLID_45_">
 					<circle id="XMLID_148_" style="fill:#333333;" cx="807.5" cy="1370.3" r="11.7"/>
 					
-						<text id="XMLID_146_" transform="matrix(1 0 0 1 710.9165 1376.6117)" style="font-family:'SourceSansPro-Regular'; font-size:18px;">Cebu City</text>
+						<text id="XMLID_146_" transform="matrix(1 0 0 1 710.9165 1376.6117)" style="font-family:'Source Sans Pro'; font-weight: 400; font-size:18px;">Cebu City</text>
 					<g id="XMLID_57_">
 						
-							<text id="XMLID_42_" transform="matrix(1 0 0 1 802.1993 1376.4678)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:18px;">3</text>
+							<text id="XMLID_47_" transform="matrix(1 0 0 1 802.1993 1376.4678)" style="fill:#FFFFFF; font-family:'Source Sans Pro'; font-weight: 700; font-size:18px;">3</text>
 					</g>
 				</g>
 				<circle id="XMLID_43_" style="fill:#333333;" cx="845.5" cy="1302.2" r="2.5"/>
 			</g>
 			<rect id="XMLID_23_" x="509.2" y="1549.2" style="fill:none;" width="181.5" height="46.8"/>
-			<text id="XMLID_20_" transform="matrix(1 0 0 1 513.9825 1557.7598)"><tspan x="0" y="0" style="font-family:'SourceSansPro-Regular'; font-size:12px;">Mindanao region is least visited by </tspan><tspan x="6.6" y="14.4" style="font-family:'SourceSansPro-Regular'; font-size:12px;">foreign tourists but still popular </tspan><tspan x="12.5" y="28.8" style="font-family:'SourceSansPro-Regular'; font-size:12px;">among the domestic tourists.</tspan></text>
+			<text id="XMLID_20_" transform="matrix(1 0 0 1 513.9825 1557.7598)"><tspan x="0" y="0" style="fill:#333333; font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">Mindanao region is least visited by </tspan><tspan x="6.6" y="14.4" style="fill:#333333; font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">foreign tourists but still popular </tspan><tspan x="12.5" y="28.8" style="fill:#333333; font-family:'Source Sans Pro'; font-weight: 400; font-size:12px;">among the domestic tourists.</tspan></text>
 		</g>
 	</g>
 </g>
