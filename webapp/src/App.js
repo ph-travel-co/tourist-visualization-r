@@ -14,11 +14,11 @@ import MapRegionalDomFor from "./media/png/tourist_arrival_ph_map_regional_wide_
 import TrendRegional from "./media/png/tourist_arrival_ph_trend_regional_wide.png";
 import { flexbox } from "@material-ui/system";
 
-// import { ReactComponent as MapWorldWide } from "./media/svg/tourist_arrival_ph_map_worldwide_wide.svg";
-// import { ReactComponent as BumpWorldWide } from "./media/svg/tourist_arrival_ph_bumpchart_worldwide_wide.svg";
-// import { ReactComponent as MapRegionalTotal } from "./media/svg/tourist_arrival_ph_map_regional_wide_total.svg";
-// import { ReactComponent as MapRegionalDomesticForeign } from "./media/svg/tourist_arrival_ph_map_regional_wide_domfor.svg";
-// import { ReactComponent as TrendRegional } from "./media/svg/tourist_arrival_ph_trend_regional_wide.svg";
+import { ReactComponent as MapWorldWideSVG } from "./media/svg/tourist_arrival_ph_map_worldwide_wide.svg";
+import { ReactComponent as BumpWorldWideSVG } from "./media/svg/tourist_arrival_ph_bumpchart_worldwide_wide.svg";
+import { ReactComponent as MapRegionalTotalSVG } from "./media/svg/tourist_arrival_ph_map_regional_wide_total.svg";
+import { ReactComponent as MapRegionalDomesticForeignSVG } from "./media/svg/tourist_arrival_ph_map_regional_wide_domfor.svg";
+import { ReactComponent as TrendRegionalSVG } from "./media/svg/tourist_arrival_ph_trend_regional_wide.svg";
 
 function App() {
   return (
@@ -58,7 +58,9 @@ function App() {
         <h2>Country of Origin of Tourists to the Philippines 2016</h2>
       </Content>
 
-      <img src={MapWorldWide} alt="MapWorldWide" class="Dataviz-wide"></img>
+      <div class="Dataviz-wide">
+        <MapWorldWideSVG></MapWorldWideSVG>
+      </div>
 
       <Content>
         <h2>
@@ -67,13 +69,9 @@ function App() {
         </h2>
       </Content>
 
-      <Dataviz wideness="med">
-        <img
-          src={BumpWorldWide}
-          alt="BumpWorldWide"
-          class="Container Dataviz-medium"
-        ></img>
-      </Dataviz>
+      <div class="Dataviz-wide">
+        <BumpWorldWideSVG></BumpWorldWideSVG>
+      </div>
 
       <Content>
         <h2>
@@ -82,16 +80,12 @@ function App() {
       </Content>
 
       <div className="Container">
-        <img
-          src={MapRegionalTotal}
-          alt="MapRegionalTotal"
-          className="MapRegional"
-        ></img>
-        <img
-          src={MapRegionalDomFor}
-          alt="MapRegionalDomFor"
-          className="MapRegional"
-        ></img>
+        <div className="MapRegional">
+          <MapRegionalTotalSVG></MapRegionalTotalSVG>
+        </div>
+        <div className="MapRegional">
+          <MapRegionalDomesticForeignSVG></MapRegionalDomesticForeignSVG>
+        </div>
       </div>
 
       <Content>
@@ -101,13 +95,9 @@ function App() {
         </h2>
       </Content>
 
-      <Dataviz>
-        <img
-          src={TrendRegional}
-          alt="TrendRegional"
-          className="Container Dataviz-small"
-        ></img>
-      </Dataviz>
+      <div className="Dataviz-small">
+        <TrendRegionalSVG></TrendRegionalSVG>
+      </div>
     </div>
   );
 }
