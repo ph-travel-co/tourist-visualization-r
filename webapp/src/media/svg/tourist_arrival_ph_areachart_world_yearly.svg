@@ -4,18 +4,89 @@
 	 viewBox="0 0 219.7 172.7" style="enable-background:new 0 0 219.7 172.7;" xml:space="preserve">
 <g id="main" style="display:none;">
 </g>
-<g id="references" style="display:none;">
-</g>
 <g id="guides" style="display:none;">
 </g>
 <g id="backdrops">
 </g>
 <g id="elements">
-	<g id="others">
-	</g>
-	<g id="mobile">
-	</g>
 	<g id="wide">
+		<g id="areachart-world">
+			<g id="XMLID_4974_">
+				<g id="XMLID_4977_">
+					<rect id="XMLID_4989_" x="15.1" y="15.3" style="fill:none;" width="13.1" height="9.4"/>
+					
+						<text id="XMLID_4988_" transform="matrix(1 0 0 1 16.0129 22.4093)" style="opacity:0.5;fill:#333333; font-family:'SourceSansPro-Regular'; font-size:10px;">6M</text>
+					<rect id="XMLID_4986_" x="15.1" y="55.1" style="fill:none;" width="13.1" height="9.4"/>
+					
+						<text id="XMLID_4985_" transform="matrix(1 0 0 1 16.0129 62.1904)" style="opacity:0.5;fill:#333333; font-family:'SourceSansPro-Regular'; font-size:10px;">4M</text>
+					<rect id="XMLID_4983_" x="15.1" y="94.7" style="fill:none;" width="13.1" height="9.4"/>
+					
+						<text id="XMLID_4982_" transform="matrix(1 0 0 1 16.0129 101.8473)" style="opacity:0.5;fill:#333333; font-family:'SourceSansPro-Regular'; font-size:10px;">2M</text>
+					<rect id="XMLID_4980_" x="15.1" y="134.4" style="fill:none;" width="13.1" height="9.4"/>
+					
+						<text id="XMLID_4979_" transform="matrix(1 0 0 1 23.2834 141.5651)" style="opacity:0.5;fill:#333333; font-family:'SourceSansPro-Regular'; font-size:10px;">0</text>
+				</g>
+				
+					<text id="XMLID_4976_" transform="matrix(0 -1 1 0 8.3003 91.9379)" style="fill:#333333; font-family:'SourceSansPro-Italic'; font-size:10px;">Tourist Count</text>
+			</g>
+			<g id="XMLID_4946_">
+				<rect id="XMLID_4973_" x="82.4" y="162.8" style="fill:none;" width="20.5" height="9.4"/>
+				
+					<text id="XMLID_4971_" transform="matrix(1 0 0 1 83.5107 169.9049)" style="fill:#333333; font-family:'SourceSansPro-Italic'; font-size:10px;">Year</text>
+				<g id="XMLID_4949_">
+					<rect id="XMLID_4970_" x="82.4" y="145.1" style="fill:none;" width="20.5" height="9.4"/>
+					
+						<text id="XMLID_4968_" transform="matrix(1 0 0 1 82.6758 152.2318)" style="opacity:0.5;fill:#333333; font-family:'SourceSansPro-Regular'; font-size:10px;">2014</text>
+					<rect id="XMLID_4967_" x="131.4" y="145.1" style="fill:none;" width="20.5" height="9.4"/>
+					
+						<text id="XMLID_4965_" transform="matrix(1 0 0 1 131.7271 152.2318)" style="opacity:0.5;fill:#333333; font-family:'SourceSansPro-Regular'; font-size:10px;">2016</text>
+					<rect id="XMLID_4959_" x="33.8" y="145.1" style="fill:none;" width="20.5" height="9.4"/>
+					
+						<text id="XMLID_4950_" transform="matrix(1 0 0 1 34.1057 152.2318)" style="opacity:0.5;fill:#333333; font-family:'SourceSansPro-Regular'; font-size:10px;">2012</text>
+				</g>
+			</g>
+			<g id="XMLID_4920_">
+				<polygon id="XMLID_4937_" style="opacity:0.75;fill:#F8D902;" points="33.7,55.5 63.3,48 93,26.1 122.7,22.9 152.4,7.4 
+					152.4,7.6 122.7,23 93,26.2 63.3,48.1 33.7,55.6 				"/>
+				<polygon id="XMLID_4935_" style="opacity:0.75;fill:#E53935;" points="33.7,55.6 63.3,48.2 93,26.2 122.7,23 152.4,7.6 
+					152.4,33 122.7,43.9 93,47.2 63.3,64.7 33.7,71.1 				"/>
+				<polygon id="XMLID_4934_" style="opacity:0.75;fill:#2A92C5;" points="33.7,71.1 63.3,64.7 93,47.2 122.7,43.9 152.4,33 
+					152.4,119.1 122.7,120.9 93,120.8 63.3,124.3 33.7,124.6 				"/>
+				<polygon id="XMLID_4932_" style="opacity:0.75;fill:#FF9800;" points="33.7,124.6 63.3,124.3 93,120.8 122.7,120.9 152.4,119.1 
+					152.4,125.3 122.7,126.7 93,126.4 63.3,129.6 33.7,129.6 				"/>
+				<polygon id="XMLID_4931_" style="opacity:0.75;fill:#9C27B0;" points="33.7,129.6 63.3,129.6 93,126.4 122.7,126.7 152.4,125.3 
+					152.4,138.8 122.7,138.8 93,138.9 63.3,139.1 33.7,139.1 				"/>
+				<g id="XMLID_4922_">
+					<line id="XMLID_4929_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="33.7" y1="139.1" x2="152.4" y2="139.1"/>
+					
+						<line id="XMLID_4928_" style="fill:none;stroke:#FFFFFF;stroke-width:0.5;stroke-miterlimit:10;" x1="33.7" y1="99.4" x2="152.4" y2="99.4"/>
+					
+						<line id="XMLID_4926_" style="fill:none;stroke:#FFFFFF;stroke-width:0.5;stroke-miterlimit:10;" x1="33.7" y1="59.7" x2="152.4" y2="59.7"/>
+					
+						<line id="XMLID_4925_" style="fill:none;stroke:#FFFFFF;stroke-width:0.5;stroke-miterlimit:10;" x1="33.7" y1="20" x2="152.4" y2="20"/>
+					<line id="XMLID_4923_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="33.7" y1="139.1" x2="33.7" y2="0"/>
+				</g>
+			</g>
+			<g id="XMLID_4899_">
+				<rect id="XMLID_4919_" x="92.6" y="75.8" style="fill:none;" width="46.9" height="9.4"/>
+				
+					<text id="XMLID_4917_" transform="matrix(1 0 0 1 109.2307 81.5138)" style="fill:#FFFFFF; font-family:'SourceSansPro-Regular'; font-size:8px;">Asia</text>
+				<rect id="XMLID_4916_" x="167.4" y="114.5" style="fill:none;" width="52.3" height="17.7"/>
+				<text id="XMLID_4914_" transform="matrix(1 0 0 1 167.3882 120.2317)"><tspan x="0" y="0" style="fill:#333333; font-family:'SourceSansPro-Regular'; font-size:8px;">Australia &amp; The </tspan><tspan x="0" y="9.6" style="fill:#333333; font-family:'SourceSansPro-Regular'; font-size:8px;">Pacific</tspan></text>
+				<rect id="XMLID_4913_" x="63.7" y="5.3" style="fill:none;" width="20.8" height="8.1"/>
+				
+					<text id="XMLID_4911_" transform="matrix(1 0 0 1 63.6721 11.0019)" style="fill:#333333; font-family:'SourceSansPro-Regular'; font-size:8px;">Africa</text>
+				<rect id="XMLID_4910_" x="92.6" y="129.3" style="fill:none;" width="46.9" height="9.4"/>
+				
+					<text id="XMLID_4908_" transform="matrix(1 0 0 1 104.0393 135.0226)" style="fill:#FFFFFF; font-family:'SourceSansPro-Regular'; font-size:8px;">Europe</text>
+				<rect id="XMLID_4905_" x="92.6" y="30.8" style="fill:none;" width="46.9" height="9.4"/>
+				
+					<text id="XMLID_4904_" transform="matrix(1 0 0 1 100.719 36.522)" style="fill:#FFFFFF; font-family:'SourceSansPro-Regular'; font-size:8px;">Americas</text>
+				<line id="XMLID_4902_" style="fill:none;stroke:#808080;stroke-miterlimit:10;" x1="145.8" y1="121.9" x2="163.8" y2="121.9"/>
+				<polyline id="XMLID_4901_" style="fill:none;stroke:#808080;stroke-miterlimit:10;" points="85.8,8.9 103.8,8.9 118.5,23.6 				
+					"/>
+			</g>
+		</g>
 	</g>
 </g>
 </svg>

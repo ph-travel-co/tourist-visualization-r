@@ -19,6 +19,7 @@ import { ReactComponent as BumpWorldWideSVG } from "./media/svg/tourist_arrival_
 import { ReactComponent as MapRegionalTotalSVG } from "./media/svg/tourist_arrival_ph_map_regional_wide_total.svg";
 import { ReactComponent as MapRegionalDomesticForeignSVG } from "./media/svg/tourist_arrival_ph_map_regional_wide_domfor.svg";
 import { ReactComponent as TrendRegionalSVG } from "./media/svg/tourist_arrival_ph_trend_regional_wide.svg";
+import { ReactComponent as AreaChartWorldSVG } from "./media/svg/tourist_arrival_ph_areachart_world_yearly.svg";
 
 function App() {
   return (
@@ -60,6 +61,9 @@ function App() {
 
       <div class="Dataviz-wide">
         <MapWorldWideSVG></MapWorldWideSVG>
+      </div>
+      <div className="Dataviz-small">
+        <AreaChartWorldSVG></AreaChartWorldSVG>
       </div>
 
       <Content>
