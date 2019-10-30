@@ -45,91 +45,108 @@ function App() {
       </section>
       <section>
         <Content>
-          <h2>How Popular is The Philippines Among Tourists?</h2>
-          <p>
-            Is Philippines still a worthy travel destination? We visualized the
-            current state of tourism in the Philippines using public available
-            data from 2014 to 2018.
-          </p>
-          <p>
-            We analyzed which countries often visit the Philippines. Asia
-            supplies the highest proportion of visitors, led by South Korea and
-            Japan which together with the USA accounted for almost half of the
-            total in 2008. The importance of Philippine passport holders
-            permanently residing abroad, excluding overseas workers, should not
-            be overlooked (DOT, 2009a).
-          </p>
+          <h3>Seeing the Philippine Tourism Industry Using Data</h3>
           <p>
             There were around 5.5M tourists visiting the Philippines annually
             since 2014. Using the data from Department of Tourism, we were able
             to identify and visualize origin of tourist. We also learned which
             countries where most tourists were coming from.
           </p>
+          <p>
+            Would the Philippines still be a worthy travel destination or a
+            worthy to invest into? We visualized the current state of tourism in
+            the Philippines using public available data from 2014 to 2018.
+          </p>
+          <h3>What To Expect?</h3>
+          <p>
+            If you have some plans visiting the Philippines as a tourists, you
+            would be able to learn more about destinations you might have not
+            known yet or hesitant to travel into.
+          </p>
+          <p>
+            If you plan to invest into the tourism market in the Philippines,
+            you might be able to discover opportunities of the market in terms
+            of tourist origins and potential travel destinations not everyone
+            knows about.
+          </p>
+          <p>
+            There could be other discoveries you could uncover using the data
+            visualizations we've designed and developed for you to explore
+            further.
+          </p>
         </Content>
       </section>
       <section>
         <Content>
-          <h2>Country of Origin of Tourists</h2>
+          <h2>Which Countries Were The Tourists From?</h2>
           <h3>World Map of Volume of Tourists' Country of Origin (2016)</h3>
         </Content>
         <div class="Dataviz-wide">
           <MapWorldWideSVG></MapWorldWideSVG>
         </div>
-        <div className="Content-container">
-          <div className="Dataviz-tiny figure">
-            <AreaChartWorldSVG></AreaChartWorldSVG>
-            <p>Trend of tourists per region 2014 - 2016</p>
+        <Content>
+          <div className="Content-container">
+            <div className="Dataviz-tiny figure">
+              <AreaChartWorldSVG></AreaChartWorldSVG>
+              <p>Trend of tourists per region 2014 - 2016</p>
+            </div>
+            <div>
+              <p>
+                Almost 50% of the tourists to the Philippines, come from
+                neighboring Asian coutries. Tourists from Africa are almost
+                non-existent.
+              </p>
+              <p>
+                Philippines being an archipelago are mainly reached via air
+                traffic. International ferry and cruise ship arrival numbers are
+                presently insignificant compared to over 40 million
+                international arrivals.
+              </p>
+              <p>
+                As self-reported by the airline passengers on the immigrations
+                slips (country of origin, purpose of the visit) are the most
+                reliable data regarding inbound tourism.
+              </p>
+            </div>
           </div>
+        </Content>
+        <Content>
           <div>
+            <h3>
+              Timeline of Country of Origin of Tourists to the Philippines from
+              January 2014 to December 2016
+            </h3>
             <p>
-              Almost 50% of the tourists to the Philippines, come from
-              neighboring Asian coutries. Tourists from Africa are almost
-              non-existent. Philippines being an archipelago are mainly reached
-              via air traffic. International ferry and cruise ship arrival
-              numbers are presently insignificant compared to over 40 million
-              international arrivals. As self-reported by the airline passengers
-              on the immigrations slips (country of origin, purpose of the
-              visit) are the most reliable data regarding inbound tourism.
-            </p>
-            <p>
-              Based on 2016 data, following points are evident:
-              <ul>
-                <li>Chinese traffic overtook Japan</li>
-                <li> Notable traffic from Taiwan</li>
-                <li> Australia comparable with UK</li>
-              </ul>
+              We tried to visualize the flow of tourists' and their country of
+              origin. Using a bumpchart, we could see how the countries rank in
+              terms of the volume of tourists coming from every country.
             </p>
           </div>
-        </div>
-        <div className="Content-container">
-          <h3>
-            Timeline of Country of Origin of Tourists to the Philippines from
-            January 2014 to December 2016
-          </h3>
-        </div>
+        </Content>
         <div class="Dataviz-medium">
           <BumpWorldWideSVG></BumpWorldWideSVG>
         </div>
-        <div className="Content-container">
-          <div>
-            <p>
-              Top 10 tourists’ countries of origin as of 2018:
-              <ol>
-                <li>Korea</li>
-                <li>USA</li>
-                <li>China</li>
-                <li>Japan</li>
-                <li>Canada</li>
-                <li>Australia</li>
-                <li>United Kingdom</li>
-                <li>Taiwan</li>
-                <li>Singapore</li>
-                <li>Malaysia</li>
-              </ol>
-            </p>
-          </div>
-          <div>
-            <p>
+        <Content>
+          <div className="Content-container">
+            <div className="half-column">
+              <p>
+                Top 10 tourists’ countries of origin as of December 2018:
+                <ol>
+                  <li>Korea</li>
+                  <li>USA</li>
+                  <li>China</li>
+                  <li>Japan</li>
+                  <li>Canada</li>
+                  <li>Australia</li>
+                  <li>United Kingdom</li>
+                  <li>Taiwan</li>
+                  <li>Singapore</li>
+                  <li>Malaysia</li>
+                </ol>
+              </p>
+            </div>
+            <div className="half-column">
+              <p>Below are some of the notable observations on the data:</p>
               <ul>
                 <li>
                   *UK seems to have the most number of tourists coming from
@@ -148,14 +165,14 @@ function App() {
                 </li>
                 <li>Very little traffic from Africa and South America</li>
               </ul>
-            </p>
+            </div>
           </div>
-        </div>
+        </Content>
       </section>
 
       <section>
         <Content>
-          <h2>Travel Destinations</h2>
+          <h2>Which Are The Most Popular Travel Destinations?</h2>
           <h3>
             Comparison of the Volume between Domestic and Foreign Tourists in
             2018
@@ -169,7 +186,7 @@ function App() {
             <MapRegionalDomesticForeignSVG></MapRegionalDomesticForeignSVG>
           </div>
         </div>
-        <div className="Content-container">
+        <Content>
           <div>
             <p>
               Map of the most popular destinations with the volumes of traffic
@@ -184,48 +201,107 @@ function App() {
               domestic tourists preferred tourist destinations.
             </p>
             <p>
-              Davao City is the most visited destination for local tourists
-              while Lapulapu City is the most popular among foreign tourists.
-              Both destinations are not popular.
+              The Mindanao region has by far the biggest disparity in popularity
+              between foreign and local tourists. It is not as popular with the
+              foreign tourists as compared to the domestic tourists. Davao City
+              is the most visited destination for local tourists while Lapulapu
+              City is the most popular among foreign tourists.
             </p>
           </div>
-        </div>
+        </Content>
         <Content>
           <h3>
-            Top 15 Most Popular Tourist Destinations to the Philippines (Foreign
+            Top 15 Most Popular Tourist Destinations in the Philippines (Foreign
             and Domestic Tourists)
           </h3>
+          <p>
+            We compared foreign and domestic tourist arrivals in travel
+            destinations in the Philippines and visualized the trend. Then, we
+            ranked accordingly in every group, by domestic, by foreign or by
+            overall total. The rating was based on the accumulated number of
+            tourists since 2014 up to 2018. See the disparity between the volume
+            of tourists between tourist origins and their respective volume.
+          </p>
         </Content>
-        <div className="Dataviz-small">
+        <Content>
           <TrendRegionalSVG></TrendRegionalSVG>
           <p>
-            Metro Manila Ranks 9th in most visited destinations, despite being
-            capital city and biggest international flight recipient in the
-            country.
+            Most of the destinations have an upward trend both for international
+            arrivals and domestic tourists except for Metro Manila, Boracay and
+            others.
           </p>
           <p>
-            Based on personal experience and qualitative reviews of _________
+            Metro Manila ranks 9th among the most visited destinations despite
+            being capital city and biggest international flight recipient in the
+            country. It might only have served as a transit hub where
+            international tourists enter the country and proceed for more remote
+            and inaccessible locations via international flights.
           </p>
           <p>
-            We have concluded that it might be used as a transit hub where
-            international tourists enter country and proceed for more remote and
-            inaccessible locations via international flights.
+            The significant drop in tourists in Boracay, might have been caused
+            by the 6 months rehabilitation closure. This shows that the decrease
+            in tourist arrivals was self-imposed.
           </p>
-        </div>
+          <p>
+            Cebu City is at the top spot as a tourist destination but it started
+            to decrease in tourist arrivals as well, both in domestic and
+            foreign origins.
+          </p>
+          <p>
+            Despite the decrease in tourist arrivals of the previously mentioned
+            travel destinations, most cities still enjoy the upward trend of
+            tourist arrivals. These cities are Davao City, Baguio City, Naga
+            City and Iloilo City.
+          </p>
+        </Content>
       </section>
 
-      <section></section>
+      <section>
+        <Content>
+          <h2>What We've Learned So Far</h2>
+          To summarize, here are the highlight insights and discoveries we have
+          learned so far:
+          <ul>
+            <li>
+              Overseas visitors account for almost half of the international
+              passenger traffic.
+            </li>
+            <li>
+              Manila's tourists have been continuously decreasing. Although, it
+              still serves as an important transit hub in the Philippines.
+            </li>
+            <li>
+              Regional airports facilitate growth of international and domestic
+              tourist traffic.
+            </li>
+            <li>
+              The 2017 conflict in Marawi seems to not have any major effect on
+              tourism.
+            </li>
+            <li>
+              From 2014 to 2018 period, there have been no major natural
+              disasters
+            </li>
+            <li>
+              There had been no occurrence of rendering airports or destinations
+              unusable, as in the case of November 2013 Super Typhoon Yolanda.
+            </li>
+          </ul>
+        </Content>
+      </section>
 
       <section>
         <Content>
           <h2>Data Sources</h2>
-          <ul>
-            {Sources.map(src => (
-              <li>
-                <Source data={src} />
-              </li>
-            ))}
-          </ul>
+          <div>
+            <ul>
+              {Sources.map(src => (
+                <li>
+                  <Source data={src} />
+                </li>
+              ))}
+            </ul>
+          </div>
         </Content>
       </section>
     </div>
