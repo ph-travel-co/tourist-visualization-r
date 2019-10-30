@@ -14,6 +14,7 @@ import MapRegionalTotal from "./media/png/tourist_arrival_ph_map_regional_wide_t
 import MapRegionalDomFor from "./media/png/tourist_arrival_ph_map_regional_wide_domfor.png";
 import TrendRegional from "./media/png/tourist_arrival_ph_trend_regional_wide.png";
 import { flexbox } from "@material-ui/system";
+import Cover from "./media/png/cover-03.png";
 
 import { ReactComponent as MapWorldWideSVG } from "./media/svg/tourist_arrival_ph_map_worldwide_wide.svg";
 import { ReactComponent as BumpWorldWideSVG } from "./media/svg/tourist_arrival_ph_bumpchart_worldwide_wide.svg";
@@ -28,6 +29,7 @@ function App() {
   return (
     <div>
       {/* Cover Image and Title */}
+      <img src={Cover} className="cover"></img>
       <section>
         <Content>
           <center>
