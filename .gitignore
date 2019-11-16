@@ -1,9 +1,15 @@
-.Rproj.user
+
+# R project files 
 .Rhistory
 .RData
 .Ruserdata
-/screenshots
-/data/raw_pdf
-/raw_jpg_png
+/.Rproj.user
+
+# archives 
 *.zip
 *.pdf
+*.7z
+
+# folders 
+/node_modules
+.Rproj.user
